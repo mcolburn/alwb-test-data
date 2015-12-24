@@ -1,0 +1,3349 @@
+{ 
+	"index-title": "AGES Digital Chant Stand<br>Calendar Index",
+	"index-descriptors":
+		[
+		],
+	"years":
+		[
+			{
+				"2015": 
+					[
+						{
+						"March":
+							[
+								{
+								"25-Wednesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2015/03/25/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2015/03/25/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						},
+						{
+						"December":
+							[
+								{
+								"31-Thursday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2015/12/31/ve/gr-en/se.m01.d01.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2015/12/31/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2015/12/31/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						}
+					]
+			},
+			{
+				"2016": 
+					[
+						{
+						"January":
+							[
+								{
+								"01-Friday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/01/ma/gr-en/se.m01.d01.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/01/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/01/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/01/li/gr-en/se.m01.d01.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/01/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/01/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"02-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/02/ve/gr-en/se.m01.d03.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/02/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/02/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"03-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/03/ma/gr-en/se.m01.d03.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/03/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/03/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/03/li/gr-en/se.m01.d03.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/03/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/03/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"06-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/06/ma/gr-en/se.m01.d06.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/06/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/06/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/06/li/gr-en/se.m01.d06.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/06/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/06/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/06/ve/gr-en/se.m01.d07.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/06/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/06/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"07-Thursday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/07/ma/gr-en/se.m01.d07.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/07/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/07/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/07/li/gr-en/se.m01.d07.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/07/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/07/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"09-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/09/ve/gr-en/se.m01.d10.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/09/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/09/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"10-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/10/ma/gr-en/se.m01.d10.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/10/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/10/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/10/li/gr-en/se.m01.d10.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/10/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/10/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/10/ve/gr-en/se.m01.d11.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/10/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/10/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"11-Monday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/11/ma/gr-en/se.m01.d11.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/11/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/11/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/11/li/gr-en/se.m01.d11.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/11/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/11/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"16-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/16/ve/gr-en/se.m01.d17.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/16/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/16/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"17-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/17/ma/gr-en/se.m01.d17.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/17/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/17/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/17/li/gr-en/se.m01.d17.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/17/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/17/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/17/ve/gr-en/se.m01.d18.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/17/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/17/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"18-Monday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/18/ma/gr-en/se.m01.d18.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/18/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/18/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/18/li/gr-en/se.m01.d18.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/18/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/18/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"19-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/19/ve/gr-en/se.m01.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/19/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/19/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"20-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/20/ma/gr-en/se.m01.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/20/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/20/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/20/li/gr-en/se.m01.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/20/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/20/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"23-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/23/ve/gr-en/se.m01.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/23/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/23/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"24-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/24/ma/gr-en/se.m01.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/24/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/24/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/24/li/gr-en/se.m01.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/24/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/24/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/24/ve/gr-en/se.m01.d25.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/24/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/24/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"25-Monday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/25/ma/gr-en/se.m01.d25.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/25/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/25/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/25/li/gr-en/se.m01.d25.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/25/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/25/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"26-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/26/ve/gr-en/se.m01.d27.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/26/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/26/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"27-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/27/ma/gr-en/se.m01.d27.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/27/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/27/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/27/li/gr-en/se.m01.d27.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/27/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/27/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"29-Friday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/29/ve/gr-en/se.m01.d30.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/29/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/29/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"30-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/30/ma/gr-en/se.m01.d30.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/30/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/30/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/30/li/gr-en/se.m01.d30.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/30/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/30/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/30/ve/gr-en/se.m01.d31.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/30/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/30/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"31-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/31/ma/gr-en/se.m01.d31.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/31/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/31/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/01/31/li/gr-en/se.m01.d31.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/01/31/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/01/31/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						},
+						{
+						"February":
+							[
+								{
+								"01-Monday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/01/ve/gr-en/se.m02.d02.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/01/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/01/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"02-Tuesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/02/ma/gr-en/se.m02.d02.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/02/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/02/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/02/li/gr-en/se.m02.d02.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/02/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/02/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"05-Friday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/05/ve/gr-en/se.m02.d06.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/05/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/05/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"06-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/06/ma/gr-en/se.m02.d06.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/06/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/06/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/06/li/gr-en/se.m02.d06.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/06/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/06/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/06/ve/gr-en/se.m02.d07.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/06/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/06/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"07-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/07/ma/gr-en/se.m02.d07.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/07/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/07/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/07/li/gr-en/se.m02.d07.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/07/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/07/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"09-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/09/ve/gr-en/se.m02.d10.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/09/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/09/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"10-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/10/ma/gr-en/se.m02.d10.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/10/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/10/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/10/li/gr-en/se.m02.d10.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/10/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/10/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"13-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/13/ve/gr-en/se.m02.d14.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/13/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/13/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"14-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/14/ma/gr-en/se.m02.d14.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/14/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/14/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/14/li/gr-en/se.m02.d14.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/14/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/14/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"20-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/20/ve/gr-en/se.m02.d21.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/20/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/20/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"21-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/21/ma/gr-en/se.m02.d21.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/21/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/21/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/21/li/gr-en/se.m02.d21.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/21/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/21/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"23-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/23/ve/gr-en/se.m02.d24.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/23/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/23/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"24-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/24/ma/gr-en/se.m02.d24.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/24/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/24/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/24/li/gr-en/se.m02.d24.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/24/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/24/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"27-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/27/ve/gr-en/se.m02.d28.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/27/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/27/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"28-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/28/ma/gr-en/se.m02.d28.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/28/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/28/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/02/28/li/gr-en/se.m02.d28.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/02/28/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/02/28/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						},
+						{
+						"March":
+							[
+								{
+								"04-Friday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/04/ve/gr-en/se.m03.d05.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/04/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/04/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"05-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/05/ma/gr-en/se.m03.d05.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/05/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/05/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/05/li/gr-en/se.m03.d05.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/05/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/05/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/05/ve/gr-en/se.m03.d06.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/05/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/05/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"06-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/06/ma/gr-en/se.m03.d06.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/06/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/06/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/06/li/gr-en/se.m03.d06.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/06/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/06/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"08-Tuesday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/08/ve/gr-en/se.m03.d09.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/08/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/08/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"09-Wednesday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/09/ma/gr-en/se.m03.d09.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/09/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/09/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/09/li/gr-en/se.m03.d09.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/09/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/09/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"11-Friday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/11/ve/gr-en/se.m03.d12.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/11/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/11/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"12-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/12/ma/gr-en/se.m03.d12.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/12/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/12/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/12/li/gr-en/se.m03.d12.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/12/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/12/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/12/ve/gr-en/se.m03.d13.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/12/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/12/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"13-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/13/ma/gr-en/se.m03.d13.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/13/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/13/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/13/li/gr-en/se.m03.d13.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/13/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/13/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/13/ve/gr-en/se.m03.d14.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/13/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/13/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"19-Saturday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/19/ma/gr-en/se.m03.d19.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/19/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/19/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/19/li/gr-en/se.m03.d19.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/19/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/19/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/19/ve/gr-en/se.m03.d20.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/19/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/19/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"20-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/20/ma/gr-en/se.m03.d20.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/20/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/20/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/20/li/gr-en/se.m03.d20.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/20/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/20/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/20/ve/gr-en/se.m03.d21.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/20/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/20/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"24-Thursday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/24/ve/gr-en/se.m03.d25.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/24/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/24/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"25-Friday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/25/ma/gr-en/se.m03.d25.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/25/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/25/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/25/li/gr-en/se.m03.d25.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/25/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/25/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/25/ve/gr-en/se.m03.d26.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"26-Saturday":
+									[
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/26/ve/gr-en/se.m03.d27.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/26/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/26/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								},
+								{
+								"27-Sunday":
+									[
+											{
+											"Matins":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/27/ma/gr-en/se.m03.d27.ma.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/27/ma/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/27/ma/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Divine Liturgy":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/27/li/gr-en/se.m03.d27.li.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/27/li/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/27/li/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											},
+											{
+											"Vespers":
+												[
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "p/s/2016/03/27/ve/gr-en/se.m03.d28.ve.pdf", 
+															"type": "PDF/Print"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "h/s/2016/03/27/ve/gr-en/index.html", 
+															"type": "Text/Music"
+															}
+														]
+													},
+													{
+													"GR-EN":
+														[ 
+															{
+															"href": "e/s/2016/03/27/ve/gr-en/index.html", 
+															"type": "ePub"
+															}
+														]
+													}
+												]
+											}
+									]
+								}
+							] 
+						}
+					]
+			}
+		]
+}

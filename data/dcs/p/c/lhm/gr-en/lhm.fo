@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" font-family="'Palatino Linotype', 'Palatino Linotype Italic', 'Palatino Linotype Bold', 'Palatino Linotype Bold Italic'" font-size="10pt" text-align="justify" line-height="normal" font-selection-strategy="character-by-character" line-height-shift-adjustment="disregard-shifts" writing-mode="lr-tb" language="en">
+   <fo:layout-master-set>
+    <fo:simple-page-master master-name="preface-master"
+      page-height="11in" page-width="8.5in"
+      margin-top=".5in" margin-bottom=".5in"
+      margin-left=".75in" margin-right=".75in">
+      <fo:region-body margin-top=".3in" margin-bottom=".1in"/>
+    </fo:simple-page-master>
+    <fo:simple-page-master master-name="even"
+      page-height="11in" page-width="8.5in"
+      margin-top=".5in" margin-bottom=".5in"
+      margin-left=".75in" margin-right=".75in">
+      <fo:region-body margin-top=".3in" margin-bottom=".1in" />
+      <fo:region-before region-name="header-even" extent="0in"/>
+      <fo:region-after region-name="footer-even" extent="0in"/>
+    </fo:simple-page-master>
+    <fo:simple-page-master master-name="odd"
+      page-height="11in" page-width="8.5in"
+      margin-top=".5in" margin-bottom=".5in"
+      margin-left=".75in" margin-right=".75in">
+      <fo:region-body margin-top=".3in" margin-bottom=".1in" />
+      <fo:region-before region-name="header-odd" extent="0in"/>
+      <fo:region-after region-name="footer-odd" extent="0in"/>
+    </fo:simple-page-master>
+    <fo:page-sequence-master master-name="document">
+      <fo:repeatable-page-master-alternatives>
+        <fo:conditional-page-master-reference odd-or-even="even"
+          master-reference="even"/>
+        <fo:conditional-page-master-reference odd-or-even="odd"
+          master-reference="odd"/>
+      </fo:repeatable-page-master-alternatives>
+    </fo:page-sequence-master>
+  </fo:layout-master-set> 
+<fo:page-sequence master-reference='document' initial-page-number='1'>
+    <fo:flow flow-name='xsl-region-body' text-align='left'>	
+<fo:table 
+border-collapse='collapse' 
+margin='0 0 pt' 
+padding='0'>		
+<fo:table-body>
+		<fo:table-row>
+		<fo:table-cell 
+		border-right='thin solid silver' 
+		padding-left='0px' 
+		padding-right='5px' 
+		vertical-align='top'>
+		<fo:block keep-with-next.within-page='always' 
+		color='red' 
+		font-family='Palatino Linotype Bold' 
+		font-size='12pt' 
+		font-style='normal' 
+		font-weight='bold' 
+		padding-after='3px' 
+		text-align='center'>Συναξάριον.<span class='key' data-key='titles_gr_GR_cog|Synaxarion' hidden='hidden'></span> 
+		</fo:block>
+		</fo:table-cell>
+		<fo:table-cell 
+		padding-left='5px' 
+		padding-right='0px' 
+		vertical-align='top'>
+		<fo:block keep-with-next.within-page='always' 
+		color='red' 
+		font-family='Palatino Linotype Bold' 
+		font-size='12pt' 
+		font-style='normal' 
+		font-weight='bold' 
+		padding-after='3px' 
+		text-align='center'>Synaxarion.<span class='key' data-key='titles_en_US_dedes|Synaxarion' hidden='hidden'></span> </fo:block>
+		</fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+		<fo:table-cell 
+		border-right='thin solid silver' 
+		padding-left='0px' 
+		padding-right='5px' 
+		vertical-align='top'>
+		<fo:block keep-with-next.within-page='always' 
+		color='red' 
+		font-size='10pt' 
+		font-style='italic' 
+		font-weight='normal' 
+		padding-after='0px' 
+		text-align='center'>Τοῦ Μηναίου.<span class='key' data-key='titles_gr_GR_cog|TouMinaiou' hidden='hidden'></span> 
+		</fo:block>
+		</fo:table-cell>
+		<fo:table-cell 
+		padding-left='5px' 
+		padding-right='0px' 
+		vertical-align='top'>
+		<fo:block keep-with-next.within-page='always' 
+		color='red' 
+		font-size='10pt' 
+		font-style='italic' 
+		font-weight='normal' 
+		padding-after='0px' 
+		text-align='center'>From the Menaion.<span class='key' data-key='titles_en_US_dedes|TouMinaiou' hidden='hidden'></span> </fo:block>
+		</fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+		<fo:table-cell 
+		border-right='thin solid silver' 
+		padding-left='0px' 
+		padding-right='5px' 
+		vertical-align='top'><fo:block 
+		font-size='12pt' 
+		line-height='150%' 
+		padding-after='6px' 
+		text-align='left' 
+		text-indent='.3in'>Τῇ ΚΕʹ τοῦ αὐτοῦ μηνὸς ἡ κατὰ σάρκα Γέννησις τοῦ Κυρίου καὶ Θεοῦ καὶ Σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ.<span class='key' data-key='sy.m12.d25_gr_GR_cog|S01.commemoration.text' hidden='hidden'></span> 
+		</fo:block></fo:table-cell>
+		<fo:table-cell 
+		padding-left='5px' 
+		padding-right='0px' 
+		vertical-align='top'><fo:block 
+		font-size='12pt' 
+		line-height='150%' 
+		padding-after='6px' 
+		text-align='left' 
+		text-indent='.3in'>On December 25 is the Nativity according to the flesh of our Lord, God and Savior Jesus Christ.<span class='key' data-key='sy.m12.d25_en_US_dedes|S01.commemoration.text' hidden='hidden'></span> </fo:block></fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+		<fo:table-cell 
+		border-right='thin solid silver' 
+		padding-left='0px' 
+		padding-right='5px' 
+		vertical-align='top'><fo:block 
+		font-size='12pt' 
+		line-height='150%' 
+		padding-after='6px' 
+		text-align='left' 
+		text-indent='.3in'>Τῇ αὐτῇ ἡμέρᾳ ἡ Προσκύνησις τῶν Μάγων.<span class='key' data-key='sy.m12.d25_gr_GR_cog|S02.commemoration.text' hidden='hidden'></span> 
+		</fo:block></fo:table-cell>
+		<fo:table-cell 
+		padding-left='5px' 
+		padding-right='0px' 
+		vertical-align='top'><fo:block 
+		font-size='12pt' 
+		line-height='150%' 
+		padding-after='6px' 
+		text-align='left' 
+		text-indent='.3in'>On this day we commemorate the Adoration of the Magi.<span class='key' data-key='sy.m12.d25_en_US_dedes|S02.commemoration.text' hidden='hidden'></span> </fo:block></fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+		<fo:table-cell 
+		border-right='thin solid silver' 
+		padding-left='0px' 
+		padding-right='5px' 
+		vertical-align='top'><fo:block 
+		font-size='12pt' 
+		line-height='150%' 
+		padding-after='6px' 
+		text-align='left' 
+		text-indent='.3in'>Τῇ αὐτῇ ἡμέρᾳ μνήμη τῶν θεασσαμένων Ποιμένων τὸν Κύριον.<span class='key' data-key='sy.m12.d25_gr_GR_cog|S03.commemoration.text' hidden='hidden'></span> 
+		</fo:block></fo:table-cell>
+		<fo:table-cell 
+		padding-left='5px' 
+		padding-right='0px' 
+		vertical-align='top'><fo:block 
+		font-size='12pt' 
+		line-height='150%' 
+		padding-after='6px' 
+		text-align='left' 
+		text-indent='.3in'>On this day we also commemorate the Shepherds who saw the Lord.<span class='key' data-key='sy.m12.d25_en_US_dedes|S03.commemoration.text' hidden='hidden'></span> </fo:block></fo:table-cell>
+		</fo:table-row>
+	</fo:table-body>
+</fo:table>
+		</fo:flow>
+	</fo:page-sequence>
+</fo:root>
