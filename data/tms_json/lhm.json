@@ -1,0 +1,30 @@
+{
+	"about": {
+		"template": "lhm",
+		"dateGenerated": "2015/12/24 12:20:14",
+		"logname": "mac002",
+		"templateKeyCount": "9",
+		"libraryKeyCount": "5",
+		"redundantKeyCount": "4",
+		"compression": "44%"
+	}, 
+	"templateKeys": [
+		{"_id": "T0001", "key": "titles__Synaxarion"},
+		{"_id": "T0002", "key": "titles__TouMinaiou"},
+		{"_id": "T0003", "key": "sy.m12.d25__S01.commemoration.text"},
+		{"_id": "T0004", "key": "sy.m12.d25__S01.commemoration.text"},
+		{"_id": "T0005", "key": "sy.m12.d25__S01.commemoration.text"},
+		{"_id": "T0006", "key": "sy.m12.d25__S02.commemoration.text"},
+		{"_id": "T0007", "key": "sy.m12.d25__S02.commemoration.text"},
+		{"_id": "T0008", "key": "sy.m12.d25__S03.commemoration.text"},
+		{"_id": "T0009", "key": "sy.m12.d25__S03.commemoration.text"}
+	], 
+	"libraryKeys": [
+		{ "_id": "sy.m12.d25__S01.commemoration.text", "ids": ["2", "3", "4"] },
+		{ "_id": "sy.m12.d25__S02.commemoration.text", "ids": ["5", "6"] },
+		{ "_id": "sy.m12.d25__S03.commemoration.text", "ids": ["7", "8"] },
+		{ "_id": "titles__Synaxarion", "ids": ["0"] },
+		{ "_id": "titles__TouMinaiou", "ids": ["1"] }
+	], 
+	"topics": ["sy.m12.d25", "titles"]
+}
