@@ -1,0 +1,416 @@
+A_Resource_Whose_Name = me.m10.d18_en_UK_lash
+
+meDate.text = ""
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode8
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meVE.Stichera01.text = "What may I name you, Apostle? Heaven, for you declared the glory of God. Lightning, for you irradiate the world by your illumination. Cloud, that rains down divine streams. Mixing-bowl overflowing with the inspired wine of wisdom, wine that makes hearts glad. Intercede that our souls may be saved."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode8
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meVE.Stichera02.text = "How may I now address you, O inspired by God? River, coming forth from Paradise for us. Ark of the covenant which Christ laid down. Beacon, blazing with spiritual light. Lamp, that irradiates the Church. Bread of life, divine table, cup of divine drink. Intercede that our souls may be saved."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode8
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meVE.Stichera03.text = "What may we now call you, who saw God? Most active minister of the mysteries of Christ. Wise architect of the spiritual tabernacle, who carve out the tables of grace, having written down the new law which comes forth from Sion and is proclaimed through you. Intercede that our souls may be saved."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode8
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meVE.Stichera04.text = "What may we now call you, glorious Saint? Safe treasury of the gifts of heaven’s grace. Skilled physician of both souls and bodies. Paul’s co-worker and companion of his journeys, who set down the Acts of the Apostles. Virtue, Luke, has made for you many names. Intercede that our souls may be saved."
+
+meVE.MM.Stichera78910.text = "" // for media
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode8
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meVE.Stichera05.text = "What titles may I address you by, Inspired of God? Disciple, for you to us you proclaimed the good tidings: Christ. Physician, for you heal the passions of our souls. Lamp, blazing with spiritual light. Base and foundation of the faith, for it was you who traced out for us the all-revered Gospel. Intercede that our souls may be saved."
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode8
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meVE.Stichera06.text = "How may I now address you, wondrous Saint? Unerring contemplator of wisdom’s teachings. Active writer of the teaching of the Apostles and unshakeable pillar of true religion, or indestructible tower of the Church. Many are you achievements and greater your graces. Intercede that our souls may be saved."
+
+meVE.SticGlory.poet = poets_en_UK_lash.Anatoliou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Apostle of Christ, Writer of the doctrines of God and foundation of the Church. It was you who with divine words truly drew out and saved as from the rolling swell hearts in the gloom of ignorance sunk in the deep of destruction. You became the companion of Paul, the vessel of election, but also his imitator. Therefore we entreat you, most noble Luke, adornment of the people of Antioch. Intercede with the Saviour and God, for those who with faith celebrate your ever-revered memory."
+
+meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+meVE.SticTheotokion.text = "O Trinity of infinite power, Unity of three Persons, at the prayers of your honoured Disciple and godly Apostle, and of the Ever-Virgin, save those who sing your praise."
+
+meVE.Lity1.mode = misc_en_UK_lash.Mode2
+meVE.Lity1.melody = misc_en_UK_lash.Idiomelon
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode4
+meVE.Lity2.melody = misc_en_UK_lash.Idiomelon
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_UK_lash.Mode8
+meVE.Lity3.melody = misc_en_UK_lash.Idiomelon
+meVE.Lity3.text = ""
+
+meVE.LityGlory.mode = misc_en_UK_lash.Mode8
+meVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode8
+meVE.LityBoth.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha1.text = "Grace was poured out on your lips in a fiery tongue, Apostle Luke, and you were revealed as a tongue of fire as you sent forth words of light by your preaching for those worthy of light, but bolts of shame for those who longed for the darkness, as you wrote and taught the honoured Gospel; and you appeared as a fragrance of life for those who truly wished for life, as Paul said, whom you had as teacher; but again as the odour of death for those who did not love life. But grant us peace and life and light and God’s great mercy."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha2.text = "From your words we have come to know, as you said, the sureness of the words which you set forth, inspired Initiate, since you undertook to write for us about the things of which you had been informed and as they had handed on to you, those who before had been the eye-witnesses. Whose equal you became and a servant of the incarnation of the Word, whom you saw after the resurrection at Emmaus, and ate with him with heart aflame along with Cleopas. Fill too with his divine fervour the souls of us who honour you."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha3.text = "Hail, who alone wrote down for us the ‘Hail’ as you hailed the good tidings of the Pure Virgin, and the Baptist who called her ‘Mother of the Lord’ from the womb, of whose conception too you wrote, and the incarnation of the Word, his temptations, marvels, words and sufferings, his cross and death and rising, which you saw, and his ascension and the descent of the Spirit, and the acts of the heralds and especially those of Paul, companion of whose journeys you were named, healer and Initiate and beacon of the Church. Watch over her always."
+
+meVE.Aposticha4.poet = poets_en_UK_lash.Vasileiou
+meVE.Aposticha4.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha4.melody = ""
+meVE.Aposticha4.text = "As you searched the depth of the spiritual sea with the fishing rod of Wisdom, all-blessed Luke, you caught from the death-bearing deep the souls of the faithful. Therefore, having become Paul’s disciple, you cleansed your whole heart by the radiance of the Spirit; and having enlightened the nations by your doctrines and healed by your wonders all the diseases of the passions, you ever implore Christ God for us that our souls may be saved."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "All-wise Fisherman, holy Disciple, workman of the Saviour and proclaimer of his sufferings, when you had sped through creation by faith, gathered all the nations from error and offered them as incense to God you took the fair way to heaven. And so as you stand before the Judge intercede that we may be delivered from our iniquities and rescued from eternal punishment on the day of judgement."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.text
+
+meVE.GeneralApolytikion1.mode = misc_en_UK_lash.Mode3
+meVE.GeneralApolytikion1.melody = misc_en_UK_lash.NotMetered //he.ga_en_UK_lash.ApostoleAgie.name
+meVE.GeneralApolytikion1.name = ""
+meVE.MM.GeneralApolytikion1.text = "" // for media
+
+meVE.Apolytikion2.poet = poets_en_UK_lash.Gerasimou
+meVE.Apolytikion2.mode = misc_en_UK_lash.Mode4
+meVE.Apolytikion2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meVE.Apolytikion2.text = ""
+
+meVE.Apolytikion3.poet = ""
+meVE.Apolytikion3.mode = ""
+meVE.Apolytikion3.melody = ""
+meVE.Apolytikion3.text = ""
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma11.text = misc_en_UK_lash.NotAvailable
+
+meMA.Kathisma12.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma12.text = misc_en_UK_lash.NotAvailable
+
+meMA.Kathisma1T.mode = //me.m06.d29_en_UK_lash.meMA.Kathisma2T.mode
+meMA.Kathisma1T.melody = //me.m06.d29_en_UK_lash.meMA.Kathisma2T.melody
+meMA.Kathisma1T.text = misc_en_UK_lash.NotAvailable //me.m06.d29_en_UK_lash.meMA.Kathisma2T.text
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+meMA.Kathisma21.text = misc_en_UK_lash.NotAvailable
+
+meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma2T.melody = misc_en_UK_lash.Automelon
+meMA.Kathisma2T.text = he.a.m4_en_UK_lash.KateplagiIosif.text
+
+meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma31.text = misc_en_UK_lash.NotAvailable
+
+meMA.Kathisma32.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma32.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma32.text = misc_en_UK_lash.NotAvailable
+
+meMA.Kathisma3T.mode = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.mode
+meMA.Kathisma3T.melody = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.melody
+meMA.Kathisma3T.text = misc_en_UK_lash.NotAvailable //me.m12.d12_en_UK_lash.meMA.Kathisma3T.text
+
+meMA.C1Poet = poets_en_UK_lash.Theofanous
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C11.text = "Knowing your mouth, O wise Apostle Luke, to be a divine mixing bowl of the wisdom from in high and enriched with the great and ineffable treasure of grace we draw from it eagerly, as we chant to the Lord; for he has been greatly glorified."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C12.text = "By leading you into the mysteries of heaven and opening to you at once the scriptures inspired by God, Apostle Luke, Christ shows you to be an initiate and wise herald of things beyond understanding, as you vigorously cry out, ‘Let us sing to the Lord; for he has been greatly glorified.’"
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C13.text = "Christ’s Church ordained you, all-blessed Luke, to be the companion of Paul’s journeys, as you shone out directly with his grace and followed in his footsteps, and cried with him, ‘‘Let us sing to the Lord; for he has been greatly glorified.’"
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C1T.text = "Apostle Luke, you made clear the manner of the ineffable and divine conception by the all-praised pure Virgin; for the all-holy Spirit came upon her, and the Word overshadowed her. To him we chant with one accord; for he has been greatly glorified."
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C11.text = "Your Gospel, inspired Luke, makes present the Dayspring from on high that has overshadowed mankind."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C12.text = "Devoutly performing acts with noble inspiration, you recounted in writing those of the Apostles."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C13.text = "The blessed Paul wove for you the first fruits of praise, and entrusted to writing your encomium."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C1T.text = "As you prophesied, O Immaculate, all the generations of mankind now call you blessed, for through you they are now saved."
+
+meMA.Ode3H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3H.mode = misc_en_UK_lash.Mode8
+meMA.Ode3H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = "Revealed as the companion of Paul’s journeys, you bravely endured dangers of many kinds, all-praised Apostle of the Lord; and having completed the course of the faith by contest, blessed Saint, you rejoice with him in the highest. Therefore, having proclaimed to the world the Gospel of Christ, you enlightened the whole earth under heaven. All-honoured Luke, intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = "Let us sing the praise of the heavenly gate and ark, the all-holy mountain, the cloud of light, the bush unburned, the spiritual Paradise, the restoration of Eve, the great foundation of the whole inhabited world, because salvation was wrought in her for the world and forgiveness of the ancient crimes. Because of this we cry to her: Intercede with your Son and God to grant forgiveness of faults to those who worship in faith your immaculate birth-giving."
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C11.text = "As you were seen to be enlightened by the radiance of the Spirit, you were counted worthy to depict by your hands his laws for those who love God, those who sing with faith, ‘Glory to your power, O Lord!’"
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C12.text = "The grace of the Paraclete, having found you as his dwelling, was poured out richly on your lips, and revealed you as a herald of his peace to all those who sing with faith, ‘Glory to your power, O Lord!’"
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C13.text = "You appeared as companion to Paul in struggles, glorious Saint, and rightly were found worthy of the crowns of the kingdom. There you now rejoice together and cry with one accord: Glory to your power, O Lord."
+
+meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C14.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C14.text = "The Lord, finding the beauty of your mind radiating in beauty with divine rays, appointed you as herald to those who sing with faith, ‘Glory to your power, O Lord!’"
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C1T.text = "The Lord has put down the mighty from their thrones, as the Virgin and Mother said; but he has filled with divine blessings the hungry who sing with faith, ‘Glory to your power, O Lord!’"
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.FotisonImas.name
+meMA.Ode5C11.text = "Purified by the law of love from former stains, you received in your heart, Luke, the spiritual light and shared it with all."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.FotisonImas.name
+meMA.Ode5C12.text = "You were clearly revealed as ablaze with the lightning rays of grace, All-blessed Luke, aflame with fiery tongue inspired."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.FotisonImas.name
+meMA.Ode5C13.text = "You had longed to journey with wise Paul, for you were addressed as beloved servant, O Evangelist of grace."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.FotisonImas.name
+meMA.Ode5C1T.text = "Hail, truly the treasure house of virginity, the restoration of the Foremother and the abolition of the curse of the Forefather."
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C11.text = "Having ascended to the mountain of the virtues, O Apostle, you conversed with the beloved, and like Moses you received the twin tables written by God inscribed by the finger of the Spirit, blessed Luke, teacher of the inhabited world."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C12.text = "You enlightened the world by your teachings, as preacher of the revered Church; for you were seen aflame with the beams of the uncreated Trinity, O God-inspired, and you became as a star, shining as a torch on the ends of the inhabited world."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C13.text = "Now, O inspired by God, you heal the diseases of souls as of old you did those of bodies, entrusted with the gift from heaven and enriched with grace of the Spirit. For Paul presents you as having becoming a physician among martyrs."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C1T.text = "The Lord, as he is mighty, renewing my nature, regarded you and did great things for you, as you said, O all-blameless who gave birth to God. And he saved me from corruption through you, as he is God and loves mankind."
+
+meMA.Ode6H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6H.mode = misc_en_UK_lash.Mode8
+meMA.Ode6H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6H.text = he.h.m8_en_UK_lash.TinDeisinEkcheo.text
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kontakion1.text = "You became a Disciple of God the Word, and with Paul you brought the whole earth to the light and dispelled the gloom by writing the divine Gospel of Christ."
+
+meMA.Oikos1.text = "As physician and beloved disciple, Luke, heal by mystical surgery the passions of my soul and body, and grant me to be in good health in every way, and to honour your all-revered festival with gladness; to drench with showers of tears instead of sweet spices your revered and all-honoured body; for as a for as a monument of life inscribed on the wondrous church of the Apostles it cries out to all, just as you did of old by writing the divine Gospel of Christ."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C11.text = "Ah, how the Master is made manifest from the tomb to Luke and Cleopas! For having risen he taught them to cry, ‘Blessed are you, Lord God to the ages!’"
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C12.text = "As you hastened on the path of life, blessed saint, you found the Word journeying with you, opening the gates of heavenly tabernacles to you, as you cry, ‘Blessed are you, O God, to the ages!’"
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C13.text = "You were revealed, Luke, as a harp, voicing sweet melodies from God, enlightening mortals as they cry, ‘Blessed are you, Lord God to the ages!’"
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C1T.text = "Hail Mary, Mother of God, the Bodiless Angel cried out you, O Virgin; while with him we faithful cry to your Offspring: Blessed All-pure One, the fruit of your womb."
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C11.text = "Having received your books as tables written by God, let us faithfully delight in the illumination of grace, O all-blessed, as we praise the Lord and highly exalt him to all the ages."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C12.text = "The Spirit having used your tongue as an instrument, enlightens mortals, initiating them into the doctrines of grace as they praise the Lord and highly exalt him to all the ages."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C13.text = "You were bound unshakeably with Paul, inspired Luke, and with the one inspired by God you were shown revealed as an all-honoured pair, as you both praise the Lord and highly exalt him to all the ages."
+
+meMA.Ode8C14.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C14.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C14.text = "With the net plaited by God of your words, herald of God, those held by error you caught for the light of faith, as they praise the Lord and highly exalt him to all the ages."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C1T.text = "Revealed as a Prophetess, Elizabeth, bearing the Baptist and Forerunner, proclaimed you Mother of the Lord, as she cried out: Praise the Lord and highly exalt him to the ages."
+
+meMA.Ode8H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8H.mode = misc_en_UK_lash.Mode8
+meMA.Ode8H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8H.text = he.h.m8_en_UK_lash.TonEnOreiAgio.text
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C11.text = "You took your stand, Luke, as having reached the final goal of the yearning for things desired, and you clearly met a blessed end, the mirrors having being removed at the manifestations of the truth."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C12.text = "Having shone on the world like a sun, you stand inspired, all-praised Luke, before the Trinity with Paul who saw God. With him, O revealer of God, we unceasingly magnify you."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C13.text = "With your light-bearing radiance, Luke, entreat that those who sing your praise may be made bright, and bestow peace on the world, all-blessed Apostle who speak of God, that we may unceasingly magnify you."
+
+meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C14.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C14.text = "Rejoicing you now stand, Luke, before the universal King, adorned with a crown of divine majesty and beauty, therefore, O inspired of God, we unceasingly magnify you."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C1T.text = "You received the Word who is without flesh as he wished to refashion my nature, and when he had taken flesh you gave him birth. And so, Mother of God, we unceasingly magnify you."
+
+meMA.Ode9H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9H.mode = misc_en_UK_lash.Mode8
+meMA.Ode9H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9H.text = he.h.m8_en_UK_lash.OrousParilthes.text
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = "Luke, Apostle of Christ, initiate of ineffable mysteries, Teacher of the nations, with godlike Paul and the pure Mother of God, whose godlike icon you depicted from love, intercede on behalf of those who call you blessed and who honour your sacred falling asleep, all-wise speaker of mysteries who saw God."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.text = "Sovereign Lady, Queen of all, go before in dangers, go before us in afflictions, be with us in the constraints of the last day, do not let Satan seize us, nor Hades, nor destruction; but may we stand without guilt before the dread tribunal of your Son; for as pure Mother of God you obtain whatever you will."
+
+meMA.Lauds1.note = ""
+meMA.Lauds1.mode = misc_en_UK_lash.Mode1
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.NefelinSeFotos.name
+meMA.Lauds1.text = "Believers, in hymns let us honour Christ’s Disciple, wise writer of the Gospel, fair living imprint of the vessel of election, whose praise is in all the Churches, Luke the Apostle. For he proclaimed the marvellous wonders of God, enlightening those on earth with beams of theology through grace."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode1
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.NefelinSeFotos.name
+meMA.Lauds2.text = "Wise Apostle, having learnt the skill of healing souls above that of bodies, infused with the wisdom of God you were revealed as outstanding in both. By it you heal both souls and bodies, all-blessed Luke. Each day you summon mortals to knowledge and give them wings towards the love of God; you lead them up to heaven and you intercede for those who sing your praise."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode1
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.NefelinSeFotos.name
+meMA.Lauds3.text = "With a rational hook you drew to divine knowledge those who like fish had sunk in the deep of ignorance, and you offered them to Christ as a fair dish, all-blessed one; and they received outstanding honour: the life that is unsullied and unending. So too you were named an Apostle of Christ, wise Evangelist and writer of the works of Grace realised in acts."
+
+meMA.Lauds4.poet = poets_en_UK_lash.LeontosMaistoros
+meMA.Lauds4.mode = misc_en_UK_lash.Mode8
+meMA.Lauds4.melody = misc_en_UK_lash.Idiomelon
+meMA.Lauds4.text = "Come all creation, let us praise in songs the true spiritual physician and Disciple of the Saviour, Luke the revered. For he healed the disease of godlessness with the ointment of the baptismal font of Christ; and from his mouth he has poured on living lands rivers of waters welling up from God, the Gospel. Therefore his sound has out prophetically into the inhabited world, and he intercedes that our souls may be saved."
+
+meMA.Lauds5.mode = misc_en_UK_lash.Mode1
+meMA.Lauds5.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds5.text = ""
+
+meMA.Lauds6.mode = misc_en_UK_lash.Mode1
+meMA.Lauds6.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds6.text = ""
+
+meMA.Lauds7.mode = misc_en_UK_lash.Mode1
+meMA.Lauds7.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds7.text = ""
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "Like David let us the faithful, gathered together, cry out in songs to Luke the mystical orator of the Word: Your tongue has been revealed as a pen of Christ the swiftly writing scribe, making fair the eyes of the nations for the knowledge of divine understanding, by which you proclaimed the Gospel and composed the Acts of your fellow Apostles. And so, as you stand before God, the Trinity, intercede for our souls."
+
+meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode8
+meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+meMegalynarion.text = ""
+

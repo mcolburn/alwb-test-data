@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = eo.e01_en_UK_lash
+
+eo.Exaposteilarion.mode = misc_en_UK_lash.Mode2
+eo.Exaposteilarion.melody = misc_en_UK_lash.AutomelonNotMetered
+eo.Exaposteilarion.text = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.text
+eo.Theotokion.mode = misc_en_UK_lash.Mode2
+eo.Theotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+eo.Theotokion.text = ""
+eo.title = ""
+eo.Doxasticon.mode = misc_en_UK_lash.Mode1
+eo.Doxasticon.text = ""

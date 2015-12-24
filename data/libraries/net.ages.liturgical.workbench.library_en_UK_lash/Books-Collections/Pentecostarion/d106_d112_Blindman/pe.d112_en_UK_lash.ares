@@ -1,0 +1,70 @@
+A_Resource_Whose_Name = pe.d112_en_UK_lash
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.day = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = dismissals_en_UK_lash.dis00.ascension
+
+peVE.Stichera01.mode = misc_en_UK_lash.Mode4
+peVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
+peVE.Stichera01.text = ""
+
+peVE.Stichera02.mode = misc_en_UK_lash.Mode4
+peVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
+peVE.Stichera02.text = ""
+
+peVE.Stichera03.mode = misc_en_UK_lash.Mode4
+peVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
+peVE.Stichera03.text = ""
+
+peVE.SticGlory.mode = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.mode
+peVE.SticGlory.melody = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.melody
+peVE.SticGlory.text = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.text
+
+peVE.Aposticha1.mode = misc_en_UK_lash.Mode2
+peVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peVE.Aposticha1.text = ""
+
+peVE.Aposticha2.mode = misc_en_UK_lash.Mode2
+peVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peVE.Aposticha2.text = ""
+
+peVE.Aposticha3.mode = misc_en_UK_lash.Mode2
+peVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peVE.Aposticha3.text = ""
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode7
+peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.AposGlory.text = ""
+
+peMA.Kathisma11.mode = pe.d110_en_UK_lash.peMA.Kathisma11.mode
+peMA.Kathisma11.melody = pe.d110_en_UK_lash.peMA.Kathisma11.melody
+peMA.Kathisma11.text = pe.d110_en_UK_lash.peMA.Kathisma11.text
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode1
+peMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
+peMA.Kathisma21.text = ""
+
+peMA.Aposticha1.mode = misc_en_UK_lash.Mode2
+peMA.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha1.text = ""
+
+peMA.Aposticha2.mode = misc_en_UK_lash.Mode2
+peMA.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha2.text = ""
+
+peMA.Aposticha3.mode = misc_en_UK_lash.Mode2
+peMA.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha3.text = ""
+
+peMA.AposGlory.mode = misc_en_UK_lash.Mode4
+peMA.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.AposGlory.text = ""

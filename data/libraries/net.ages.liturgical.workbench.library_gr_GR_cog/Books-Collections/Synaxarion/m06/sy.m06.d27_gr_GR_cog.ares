@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = sy.m06.d27_gr_GR_cog
+
+S01.commemoration.text = "Τῇ ΚΖʹ τοῦ αὐτοῦ μηνός, Μνήμη τοῦ Ὁσίου Πατρὸς ἡμῶν Σαμψὼν τοῦ Ξενοδόχου."
+S01.couplet1.title = 
+S01.couplet1.verse1 = "Ἐξῆγεν ὁ πρὶν ἐκ γνάθου Σαμψὼν πόμα."
+S01.couplet1.verse2 = "Ὁ νῦν δὲ Σαμψὼν μύρον ἐκ τάφου βρύει."
+S01.single1.title = 
+S01.single1.text ="Εἰκάδι ἑβδομάτῃ Σαμψὼν θάνε, βλῦσέ τε μύρα."
+S01.narration1.text = ""
+
+S02.commemoration.text = "Τῇ αὐτῇ ἡμέρᾳ, μνήμη τοῦ Ἁγίου Μάρτυρος Ἀνέκτου."
+S02.couplet1.title = 
+S02.couplet1.verse1 = "Οὐκ ἦν ἀνεκτὸν τῷ Ἀνέκτῳ μὴ στέργειν"
+S02.couplet1.verse2 = "Τὸν διὰ Χριστὸν θάνατον μέχρι τέλους."
+
+S99.lastline.text = "Ταῖς αὐτῶν ἁγίαις πρεσβείαις, Χριστὲ ὁ Θεός, ἐλέησον ἡμᾶς. Ἀμήν."

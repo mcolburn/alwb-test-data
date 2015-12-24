@@ -1,0 +1,223 @@
+A_Resource_Whose_Name = he.h.m6_en_UK_lash
+
+AfrastonThavma.name = "Wonder past speech"
+AfrastonThavma.mode = misc_en_UK_lash.Mode6
+AfrastonThavma.ode = misc_en_UK_lash.Ode7
+AfrastonThavma.text = "Wonder past speech! He who delivered the Holy Youths in the furnace from the flame, is laid as a corpse without breath in a tomb for the salvation of us who sing: Redeemer, our God, blessed are you!"
+
+AkikoaKyrieTinAkoin.name = ""
+AkikoaKyrieTinAkoin.mode = misc_en_UK_lash.Mode6
+AkikoaKyrieTinAkoin.ode = misc_en_UK_lash.Ode4
+AkikoaKyrieTinAkoin.text = ""
+AkikoenOProfitis.name = ""
+AkikoenOProfitis.mode = misc_en_UK_lash.Mode6
+AkikoenOProfitis.ode = misc_en_UK_lash.Ode4
+AkikoenOProfitis.text = ""
+AporeiPasaGlossa.name = ""
+AporeiPasaGlossa.mode = misc_en_UK_lash.Mode6
+AporeiPasaGlossa.ode = misc_en_UK_lash.Ode9
+AporeiPasaGlossa.text = ""
+AsporouSyllipseos.name = ""
+AsporouSyllipseos.mode = misc_en_UK_lash.Mode6
+AsporouSyllipseos.ode = misc_en_UK_lash.Ode9
+AsporouSyllipseos.text = ""
+AvyssosEschati.name = ""
+AvyssosEschati.mode = misc_en_UK_lash.Mode6
+AvyssosEschati.ode = misc_en_UK_lash.Ode6
+AvyssosEschati.text = ""
+ChristosMouDynamis.name = "Christ is my power."
+ChristosMouDynamis.mode = misc_en_UK_lash.Mode6
+ChristosMouDynamis.ode = misc_en_UK_lash.Ode4
+ChristosMouDynamis.text = "Christ is my power, my God and Lord, the holy Church cries out from a pure mind in song befitting God, as it keeps festival in the Lord."
+DrosovolonMenTinKaminon.name = "An Angel made the furnace moist with dew."
+DrosovolonMenTinKaminon.mode = misc_en_UK_lash.Mode6
+DrosovolonMenTinKaminon.ode = misc_en_UK_lash.Ode7
+DrosovolonMenTinKaminon.text = "An Angel made the furnace moist with dew for the godly Youths, while God’s command consuming the Chaldeans persuaded the tyrant to cry out, ‘Βlessed are you, God of our Fathers’."
+EkFlogosToisOsiois.name = "From flame you made a source of dew for the Saints."
+EkFlogosToisOsiois.mode = misc_en_UK_lash.Mode6
+EkFlogosToisOsiois.ode = misc_en_UK_lash.Ode8
+EkFlogosToisOsiois.text = "From flame you made a source of dew for the Saints and with water you consumed the sacrifice of a righteous man with flame. For you do all things, O Christ, simply by willing them. We highly exalt you to all the ages."
+EkNyktosOrthrizonta.name = ""
+EkNyktosOrthrizonta.mode = misc_en_UK_lash.Mode6
+EkNyktosOrthrizonta.ode = misc_en_UK_lash.Ode5
+EkNyktosOrthrizonta.text = ""
+EkalypsenOuranous.name = ""
+EkalypsenOuranous.mode = misc_en_UK_lash.Mode6
+EkalypsenOuranous.ode = misc_en_UK_lash.Ode4
+EkalypsenOuranous.text = ""
+
+EkstithiFrittonOurane.name = "Be astonished, O heaven."
+EkstithiFrittonOurane.mode = misc_en_UK_lash.Mode6
+EkstithiFrittonOurane.ode = misc_en_UK_lash.Ode8
+EkstithiFrittonOurane.text = "Be astonished, O heaven, tremble and let the earth’s foundations be shaken; for see, the God who dwells in the highest is numbered among the dead and is lodged in a little tomb. Youths bless, priests praise, people highly exalt him to all the ages!"
+
+EnTiSterraTisPisteos.name = ""
+EnTiSterraTisPisteos.mode = misc_en_UK_lash.Mode6
+EnTiSterraTisPisteos.ode = misc_en_UK_lash.Ode3
+EnTiSterraTisPisteos.text = ""
+EpiTinAsaleftonChriste.name = ""
+EpiTinAsaleftonChriste.mode = misc_en_UK_lash.Mode6
+EpiTinAsaleftonChriste.ode = misc_en_UK_lash.Ode3
+EpiTinAsaleftonChriste.text = ""
+EvoisaEnOliKardiaMou.name = ""
+EvoisaEnOliKardiaMou.mode = misc_en_UK_lash.Mode6
+EvoisaEnOliKardiaMou.ode = misc_en_UK_lash.Ode6
+EvoisaEnOliKardiaMou.text = ""
+IToChaireDiAngelou.name = ""
+IToChaireDiAngelou.mode = misc_en_UK_lash.Mode6
+IToChaireDiAngelou.ode = misc_en_UK_lash.Ode9
+IToChaireDiAngelou.text = ""
+IdeteIdete.name = ""
+IdeteIdete.mode = misc_en_UK_lash.Mode6
+IdeteIdete.ode = misc_en_UK_lash.Ode2
+IdeteIdete.text = ""
+ImartomenInomisamen.name = ""
+ImartomenInomisamen.mode = misc_en_UK_lash.Mode6
+ImartomenInomisamen.ode = misc_en_UK_lash.Ode7
+ImartomenInomisamen.text = ""
+
+KymatiThalassis.name = "The One, who of old hid."
+KymatiThalassis.mode = misc_en_UK_lash.Mode6
+KymatiThalassis.ode = misc_en_UK_lash.Ode1
+KymatiThalassis.text = "The One, who of old hid the pursuing tyrant with the waves of the sea, the Children of those he saved have hidden beneath the earth; but let us, like the young maidens, sing to the Lord, for he has been greatly glorified."
+
+KyriosOnPanton.name = ""
+KyriosOnPanton.mode = misc_en_UK_lash.Mode6
+KyriosOnPanton.ode = misc_en_UK_lash.Ode3
+KyriosOnPanton.text = ""
+
+MiEpodyrouMouMiter.name = "Do not weep for me."
+MiEpodyrouMouMiter.mode = misc_en_UK_lash.Mode6
+MiEpodyrouMouMiter.ode = misc_en_UK_lash.Ode9
+MiEpodyrouMouMiter.text = "Do not weep for me, Mother, as you behold in a tomb the Son whom you conceived in your womb without seed. For I will arise and be glorified and as God exalt in glory those who magnify you in faith and love."
+
+NomonPatroon.name = ""
+NomonPatroon.mode = misc_en_UK_lash.Mode6
+NomonPatroon.ode = misc_en_UK_lash.Ode8
+NomonPatroon.text = ""
+OAisthitosFarao.name = ""
+OAisthitosFarao.mode = misc_en_UK_lash.Mode6
+OAisthitosFarao.ode = misc_en_UK_lash.Ode1
+OAisthitosFarao.text = ""
+OToFosAnatellon.name = ""
+OToFosAnatellon.mode = misc_en_UK_lash.Mode6
+OToFosAnatellon.ode = misc_en_UK_lash.Ode5
+OToFosAnatellon.text = ""
+OTonOsionSouPaidon.name = ""
+OTonOsionSouPaidon.mode = misc_en_UK_lash.Mode6
+OTonOsionSouPaidon.ode = misc_en_UK_lash.Ode7
+OTonOsionSouPaidon.text = ""
+OiOsioiSouPaides.name = ""
+OiOsioiSouPaides.mode = misc_en_UK_lash.Mode6
+OiOsioiSouPaides.ode = misc_en_UK_lash.Ode8
+OiOsioiSouPaides.text = ""
+OiPaidesEnVavyloni.name = ""
+OiPaidesEnVavyloni.mode = misc_en_UK_lash.Mode6
+OiPaidesEnVavyloni.ode = misc_en_UK_lash.Ode7
+OiPaidesEnVavyloni.text = ""
+OnStratiaiOuranon.name = ""
+OnStratiaiOuranon.mode = misc_en_UK_lash.Mode6
+OnStratiaiOuranon.ode = misc_en_UK_lash.Ode8
+OnStratiaiOuranon.text = ""
+OsEnIpeiroPezefsas.name = "Crossing the sea as on dry land."
+OsEnIpeiroPezefsas.mode = misc_en_UK_lash.Mode6
+OsEnIpeiroPezefsas.ode = misc_en_UK_lash.Ode1
+OsEnIpeiroPezefsas.text = "Crossing the sea as on dry land Israel watched Pharao the pursuer drowning in the deep and they cried out, ‘Let us sing a song of victory’."
+OukEstinAgios.name = "None is holy as you."
+OukEstinAgios.mode = misc_en_UK_lash.Mode6
+OukEstinAgios.ode = misc_en_UK_lash.Ode3
+OukEstinAgios.text = "None is holy as you, O Lord my God, who have exalted the horn of your faithful people, O Good one, and established me on the rock of confession of you."
+ProkatidonOProfitis.name = ""
+ProkatidonOProfitis.mode = misc_en_UK_lash.Mode6
+ProkatidonOProfitis.ode = misc_en_UK_lash.Ode4
+ProkatidonOProfitis.text = ""
+
+ProsSeOrthrizo.name = "Early will I seek you."
+ProsSeOrthrizo.mode = misc_en_UK_lash.Mode6
+ProsSeOrthrizo.ode = misc_en_UK_lash.Ode5
+ProsSeOrthrizo.text = "Early will I seek you, who through compassion without change emptied yourself for the fallen, and willed to be baptised by the hand of a slave, O Word of God; grant me peace, O Lover of mankind."
+
+ProsecheOurane.name = ""
+ProsecheOurane.mode = misc_en_UK_lash.Mode6
+ProsecheOurane.ode = misc_en_UK_lash.Ode2
+ProsecheOurane.text = ""
+
+SeTonEpiYdaton.name = "When creation saw you."
+SeTonEpiYdaton.mode = misc_en_UK_lash.Mode6
+SeTonEpiYdaton.ode = misc_en_UK_lash.Ode3
+SeTonEpiYdaton.text = "When creation saw you hanging on Golgotha, who had hung the whole earth freely on the waters, it was seized with amazement and cried: None is Holy, but you, O Lord."
+
+StereosonKyrie.name = ""
+StereosonKyrie.mode = misc_en_UK_lash.Mode6
+StereosonKyrie.ode = misc_en_UK_lash.Ode3
+StereosonKyrie.text = ""
+
+StilinKakiasAntitheou.name = "Holding in contempt."
+StilinKakiasAntitheou.mode = misc_en_UK_lash.Mode6
+StilinKakiasAntitheou.ode = misc_en_UK_lash.Ode8
+StilinKakiasAntitheou.text = "Holding in contempt the monument to dread Herod's wickedness, come, let us believers go towards Jordan, that we may see Christ the Redeemer being baptised in the flesh by the Forerunner in its streams. All creation blesses him as it gives him glory to the ages."
+
+SyneschethiAllOuKateschethi.name = "You were confined but not held fast."
+SyneschethiAllOuKateschethi.mode = misc_en_UK_lash.Mode6
+SyneschethiAllOuKateschethi.ode = misc_en_UK_lash.Ode6
+SyneschethiAllOuKateschethi.text = ""
+
+TheofaneiasSouChriste.name = "Isaias, as he watched by night."
+TheofaneiasSouChriste.mode = misc_en_UK_lash.Mode6
+TheofaneiasSouChriste.ode = misc_en_UK_lash.Ode5
+TheofaneiasSouChriste.text = "Isaias, as he watched by night, saw the light that knows no evening, the light, O Christ, of your Theophany that came to pass through your compassion for us, and he cried aloud: The dead will arise, and those in the graves will be raised, and all those born of earth will rejoice."
+
+TheonAnthropois.name = "It is impossible for humans to see God."
+TheonAnthropois.mode = misc_en_UK_lash.Mode6
+TheonAnthropois.ode = misc_en_UK_lash.Ode9
+TheonAnthropois.text = "It is impossible for humans to see God, on whom the ranks of Angels dare not gaze. But through you, O All-pure, the incarnate Word has been seen by mortals. As we magnify him, with the heavenly armies we call you blessed."
+
+TheonPateraDimiourgon.name = ""
+TheonPateraDimiourgon.mode = misc_en_UK_lash.Mode6
+TheonPateraDimiourgon.ode = misc_en_UK_lash.Ode8
+TheonPateraDimiourgon.text = ""
+
+TinEnStavroSou.name = "Foreseeing your divine self-emptying."
+TinEnStavroSou.mode = misc_en_UK_lash.Mode6
+TinEnStavroSou.ode = misc_en_UK_lash.Ode4
+TinEnStavroSou.text = "Foreseeing your divine self-emptying on the Cross, Avvakum cried out marvelling: You have cut short the strength of the mighty, loving Lord, and preached to those in Hell, as all-powerful."
+
+TinTimioteran.name = ""
+TinTimioteran.mode = misc_en_UK_lash.Mode6
+TinTimioteran.ode = misc_en_UK_lash.Ode9
+TinTimioteran.text = "Greater in honour than the Cherubim * and beyond compare more glorious than the Seraphim, * without corruption * you gave birth to God the Word; * truly the Mother of God, * we magnify you."
+
+TmitheisiTmatai.name = ""
+TmitheisiTmatai.mode = misc_en_UK_lash.Mode6
+TmitheisiTmatai.ode = misc_en_UK_lash.Ode1
+TmitheisiTmatai.text = ""
+ToKiteiKatapotheis.name = ""
+ToKiteiKatapotheis.mode = misc_en_UK_lash.Mode6
+ToKiteiKatapotheis.ode = misc_en_UK_lash.Ode6
+ToKiteiKatapotheis.text = ""
+ToSyndesmoTisAgapis.name = ""
+ToSyndesmoTisAgapis.mode = misc_en_UK_lash.Mode6
+ToSyndesmoTisAgapis.ode = misc_en_UK_lash.Ode5
+ToSyndesmoTisAgapis.text = ""
+ToTheioFengeiSou.name = "With your divine radiance."
+ToTheioFengeiSou.mode = misc_en_UK_lash.Mode6
+ToTheioFengeiSou.ode = misc_en_UK_lash.Ode5
+ToTheioFengeiSou.text = "With your divine radiance, O Good One, illumine, I beg, the souls of those who rise to you at dawn with love to know you, Word of God, to be truly God, calling them back from the gloom of offences."
+TonPaidonTinOdin.name = ""
+TonPaidonTinOdin.mode = misc_en_UK_lash.Mode6
+TonPaidonTinOdin.ode = misc_en_UK_lash.Ode8
+TonPaidonTinOdin.text = ""
+
+TouViouTinThalassan.name = "Watching life's sea rising."
+TouViouTinThalassan.mode = misc_en_UK_lash.Mode6
+TouViouTinThalassan.ode = misc_en_UK_lash.Ode6
+TouViouTinThalassan.text = "Watching life's sea rising with a tempest of temptations, fleeing to your calm haven, I cry out to you, ‘Bring my life up from corruption, O Most merciful." //Watching the sea of life rising with the tempest of temptations, as I hasten to your fair haven, I cry to you: Bring my life up from corruption, O most merciful.
+
+VoithosKaiSkepastis.name = ""
+VoithosKaiSkepastis.mode = misc_en_UK_lash.Mode6
+VoithosKaiSkepastis.ode = misc_en_UK_lash.Ode1
+VoithosKaiSkepastis.text = ""
+XeniasDespotikis.name = ""
+XeniasDespotikis.mode = misc_en_UK_lash.Mode6
+XeniasDespotikis.ode = misc_en_UK_lash.Ode9
+XeniasDespotikis.text = ""

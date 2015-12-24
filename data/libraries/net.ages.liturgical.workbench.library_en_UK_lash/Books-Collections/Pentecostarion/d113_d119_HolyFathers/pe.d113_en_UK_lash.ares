@@ -1,0 +1,314 @@
+A_Resource_Whose_Name = pe.d113_en_UK_lash
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.day = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = dismissals_en_UK_lash.dis00.andascension
+
+peVE.Stichera07.mode = misc_en_UK_lash.Mode6
+peVE.Stichera07.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.IApegnosmeni.name
+peVE.Stichera07.text = "You were born from the womb before the morning star, without a mother from the Father before the ages, though Arius dares to call you a creature, and does not glorify you as God, insanely joining you, the Creator, with the creatures, and laying up for himself as treasure the fuel of the eternal fire. But the Council in Nicea loudly proclaimed you, Lord, to be Son of God, equal in rank with the Father and the Spirit."
+
+peVE.Stichera08.mode = misc_en_UK_lash.Mode6
+peVE.Stichera08.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.IApegnosmeni.name
+peVE.Stichera08.text = "Who divided your garment, O Saviour? ‘Arius,’ you said, who cuts into divisions the Authority equal in honour of the Trinity. He it was who denied that you were one of the Trinity. He it was who taught Nestorios not to say ‘Mother of God’. But the Council in Nicea loudly proclaimed you, Lord, to be Son of God, equal in rank with the Father and the Spirit."
+
+peVE.Stichera09.mode = misc_en_UK_lash.Mode6
+peVE.Stichera09.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.IApegnosmeni.name
+peVE.Stichera09.text = "Arius fell into the precipice of sin, having shut his eyes so as not to see the light, and he was ripped asunder by a divine hook so that with his entrails he forcibly emptied out all his essence and his soul, and was named another Judas, both for his ideas and the manner of his death. But the Council in Nicea loudly proclaimed you, Lord, to be Son of God, equal in rank with the Father and the Spirit."
+
+peVE.Stichera10.mode = misc_en_UK_lash.Mode6
+peVE.Stichera10.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.IApegnosmeni.name
+peVE.Stichera10.text = "Arius the insane cut the Monarchy of the All-holy Trinity into three dissimilar and unrelated Essences; therefore the Godbearing Fathers eagerly came together, burning with zeal, like Elias the Thesbite, and cut off with the sword of the Spirit the blasphemer with his teachings of shame, as the Spirit decreed."
+
+peVE.SticGlory.mode = misc_en_UK_lash.Mode6
+peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.SticGlory.text = me.m07.dHF_en_UK_lash.meVE.SticGlory.text
+
+peVE.LityGlory.mode = misc_en_UK_lash.Mode3
+peVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.LityGlory.text = me.m07.dHF_en_UK_lash.meVE.AposGlory.text
+
+peVE.LityBoth.mode = misc_en_UK_lash.Mode6
+peVE.LityBoth.melody = misc_en_UK_lash.Idiomelon
+peVE.LityBoth.text = pe.d110_en_UK_lash.peVE.Stichera05.text
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode4
+peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.AposGlory.text = me.m10.dHF_en_UK_lash.meVE.AposGlory.text
+
+peVE.AposBoth.mode = misc_en_UK_lash.Mode4
+peVE.AposBoth.melody = misc_en_UK_lash.Idiomelon
+peVE.AposBoth.text = pe.d110_en_UK_lash.peVE.LityGlory.text
+
+peVE.Apolytikion1.mode = misc_en_UK_lash.Mode6
+peVE.Apolytikion1.melody = ""
+peVE.Apolytikion1.text = oc.m6.d1_en_UK_lash.ocVE.Apolytikion.text
+
+peVE.Apolytikion2.mode = misc_en_UK_lash.Mode8
+peVE.Apolytikion2.melody = ""
+peVE.Apolytikion2.text = me.m07.dHF_en_UK_lash.meVE.Apolytikion1.text
+
+peVE.Apolytikion3.mode = misc_en_UK_lash.Mode4
+peVE.Apolytikion3.melody = ""
+peVE.Apolytikion3.text = pe.d110_en_UK_lash.peVE.Apolytikion1.text
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode6
+peMA.Kathisma11.melody = ""
+peMA.Kathisma11.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_UK_lash.Mode6
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma12.text
+
+peMA.Kathisma13.mode = misc_en_UK_lash.Mode6
+peMA.Kathisma13.melody = ""
+peMA.Kathisma13.text = oc.m6.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode6
+peMA.Kathisma21.melody = ""
+peMA.Kathisma21.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma21.text
+
+peMA.Kathisma22.mode = misc_en_UK_lash.Mode6
+peMA.Kathisma22.melody = ""
+peMA.Kathisma22.text = ""
+
+peMA.Kathisma23.mode = misc_en_UK_lash.Mode6
+peMA.Kathisma23.melody = ""
+peMA.Kathisma23.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma23.text
+
+peMA.C1Acrostic.text = ""
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+peMA.Ode1C11.text = "I praise the all-holy Council of the holy Fathers as I cry out: O Christ, I implore you, guard closely in me its all-holy revelation." 
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+peMA.Ode1C12.text = "Shining like lightning the godbearing Fathers, having come together today, confessed you clearly, O Christ, as alike without beginning and consubstantial with the Father." 
+
+peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+peMA.Ode1C13.text = "Illustrious are the groomsmen of your bride the Church, O Master, who wisely laid down the definition of the faith and adorned her as with fair adornment of gold." 
+
+peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+peMA.Ode1C1T.text = "Near her own Son and God the holy Queen stands clothed in many colours with divine glory, interceding for the salvation of our souls."
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+peMA.Ode3C11.text = "Grafting impiously flux and change and separation onto the divine begetting, the wicked and demented Arius is cut off by the separating sword of the Fathers." 
+
+peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+peMA.Ode3C12.text = "The holy heralds of God, all marching to battle like godly Abraham of old, mightily destroyed your raving foes, O Good one, by your sovereign power." 
+
+peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+peMA.Ode3C13.text = "Holily the first, applauded gathering of your Priests, O Saviour, proclaimed that you were begotten consubstantial with the Father who is without beginning and maker of all." 
+
+peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+peMA.Ode3C1T.text = "Equal no word, no tongue of mortals to praise you worthily, O Virgin; for from you, All-pure, Christ the giver of life was well pleased to become incarnate without seed."
+
+peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+peMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+peMA.Ode3Kathisma1.text = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.text
+
+peMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode4
+peMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+peMA.Ode3Kathisma2.text = "You were shown to the world to be truly brightly shining beacons of Christ’s truth upon earth, blessed Fathers, melting the heresies of evil-speaking chatterers, quenching the burning confusions of blasphemers; therefore as Hierarchs of Christ intercede that we may be saved."
+
+peMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode4
+peMA.Ode3Kathisma3.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+peMA.Ode3Kathisma3.text = "The shining city of the Nicaeans to-day summoned to herself from all the earth three hundred and eighteen High Priests against Arius who spoke blasphemy and diminished one of the Trinity, who is Son and Word of God; by overthrowing him they strengthened the faith."
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+peMA.Ode4C11.text = "From the Church the ill-famed Arius, who corrupted the orthodox Faith with his senseless mind, has been exiled as a rotten limb by the votes of the Fathers." 
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+peMA.Ode4C12.text = "In your behalf, O Master, the choir of Fathers struggled and grievously wounded your enemies; and they glorified you as sharing the same nature as the Father and the Spirit." 
+
+peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+peMA.Ode4C13.text = "Really God and man, you have become the Mediator between God and men; therefore, O Christ, the Inspired Fathers, acknowledging you the Son to be one, proclaimed you to exist in two natures." 
+
+peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+peMA.Ode4C1T.text = "Sampling a plant showed me to be a corpse; for the tree of life which appeared from you, All-pure one, raised me and established me as heir to the delight of Paradise."
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+peMA.Ode5C11.text = "Truly beautiful are the feet of those who preach you the peace which surpasses every mind, of all Angels and of mortals, O Christ, and by abundance of peace unites the world." 
+
+peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+peMA.Ode5C12.text = "As Wisdom and power of the Father, as hypostatic Word, they proclaimed you, O Christ, the godlike Teachers who had come together, sealed with the law of the all-holy priesthood." 
+
+peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+peMA.Ode5C13.text = "Streams of pure waters of Christ’s teaching you gave the Church to drink, and now you take delight by the waters of rest, rejoicing eternally." 
+
+peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+peMA.Ode5C1T.text = "Since we know you, O all pure, to be the shining lamp which has shed on all Christ the Sun of righteousness, we call upon your ever-present protection, only pure Mother of God."
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+peMA.Ode6C11.text = "Escape the mystery of providence he could not, the sower of tares, who was called by the surname Lunacy; for having rivalled Judas, like him the wholly evil one was split asunder." 
+
+peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+peMA.Ode6C12.text = "Master, the revered, godly assembly of the Fathers proclaimed you as the only-begotten brightness shining from the Father’s essence, and as the Son begotten before all things." 
+
+peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+peMA.Ode6C13.text = "Burst open was the belly, the source which poured out the foul and undrinkable water of impious heresies, by the ploughshare of the intercession of the inspired Priests." 
+
+peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+peMA.Ode6C1T.text = "Lampstand, ark, table and jar, so Moses, greatest of the prophets, wrote of you of old, in symbols signifying the incarnation from you of the Most High, O Virgin Mother."
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+peMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
+peMA.Kontakion1.text = me.m07.dHF_en_UK_lash.meMA.Kontakion1.text
+
+peMA.Oikos1.text = me.m07.dHF_en_UK_lash.meMA.Oikos1.text
+
+peMA.Synaxarion.commemoration.text = ""
+peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+peMA.Synaxarion.couplet1.verse1 = ""
+peMA.Synaxarion.couplet1.verse2 = ""
+peMA.Synaxarion.couplet2.title = ""
+peMA.Synaxarion.couplet2.verse1 = ""
+peMA.Synaxarion.couplet2.verse2 = ""
+peMA.Synaxarion.lastline.text = ""
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+peMA.Ode7C11.text = "You defeated Arius, whose surname is Frenzy, who raved and spoke the grossest impieties of God; for he refused to cry out to the Son: Blessed are you, the God of our fathers." 
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+peMA.Ode7C12.text = "O inspired ones, imitating the son of thunder, with your fiery mouths you teach all to cry to the Word without beginning like the Father and equal in majesty: Blessed are you, the God of our fathers." 
+
+peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+peMA.Ode7C13.text = "Flying as though on wings you came, blessed of God, to help the Word; for the Holy Spirit gathered you from the ends of the world to cry out: Blessed are you, the God of our fathers." 
+
+peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+peMA.Ode7C1T.text = "Prefiguring your giving birth, the furnace did not burn the three youths; for the divine fire without burning you dwelt in you, and enlightened all to cry: Blessed are you who bore God in the flesh."
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+peMA.Ode8C11.text = "Aflame with the rays of your Godhead your goodly Shepherds confessed you to be creator of all things and Lord, whom we highly exalt to all the ages." 
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+peMA.Ode8C12.text = "Assembled with godly mind, the all-honoured choir of Shepherds now acknowledging the uncreated Trinity as God, teaches all to cry out: We highly exalt you to all the ages." 
+
+peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+peMA.Ode8C13.text = "Shepherds most admirable, the Hierarchs enlighten Christ’s Church, each in his different place making her shine and highly exalting her to all the ages." 
+
+peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+peMA.Ode8C1T.text = "The Prophets in images all mystically foresaw you bearing the Word; for having taken flesh from you, he came forth dual in natures, whom we highly exalt to all the ages."
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode6
+peMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+peMA.Ode9C11.text = "The Word before the ages, like the Father without beginning and equal in majesty, having found you to be allies, assembled you, arming you with the mighty power of the Spirit; whom now, All-hallowed ones, with the heavenly hosts you ever glorify." 
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode6
+peMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+peMA.Ode9C12.text = "O sacred ministers, as physicians of souls and bodies you halted the spread of the foul heresy of Arius, sacredly promulgating for all the Symbol of the faith; as we now hold fast to it we ever glorify your memory." 
+
+peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C13.mode = misc_en_UK_lash.Mode6
+peMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+peMA.Ode9C13.text = "Rescue my soul, O Christ, as you are light immaculate, from the mist of the passions, at the prayers of your Ministers, O Master, who have now proclaimed you to be without beginning, uncreated, creator of all things and God without beginning together with the Father." 
+
+peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1T.mode = misc_en_UK_lash.Mode6
+peMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+peMA.Ode9C1T.text = "Since life, clad in flesh, has shone forth for all from you, O Sovereign Lady, Mother of God, and clearly abolished the gloom of death, resurrection has been granted to the dead through your ineffable and inexpressible child-bearing."
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.text = eo.e10_en_UK_lash.eo.Exaposteilarion.text
+
+peMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+peMA.Exaposteilarion2.text = me.m07.dHF_en_UK_lash.meMA.Exaposteilarion1.text
+
+peMA.Exaposteilarion3.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion3.melody = misc_en_UK_lash.AutomelonNotMetered
+peMA.Exaposteilarion3.text = pe.d110_en_UK_lash.peMA.Exaposteilarion1.text
+
+peMA.Lauds6.mode = misc_en_UK_lash.Mode6
+peMA.Lauds6.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peMA.Lauds6.text = me.m07.dHF_en_UK_lash.meMA.Lauds1.text
+
+peMA.Lauds7.mode = misc_en_UK_lash.Mode6
+peMA.Lauds7.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peMA.Lauds7.text = me.m07.dHF_en_UK_lash.meMA.Lauds2.text
+
+peMA.Lauds8.mode = misc_en_UK_lash.Mode6
+peMA.Lauds8.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peMA.Lauds8.text = me.m07.dHF_en_UK_lash.meMA.Lauds3.text
+
+peMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.LaudsGlory.text = me.m10.dHF_en_UK_lash.meMA.LaudsGlory.text
+
+peLI.Antiphon2.text = pe.d110_en_UK_lash.peLI.Antiphon2.text
+
+peLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode6
+peLI.SeasonalKontakion.melody = misc_en_UK_lash.AutomelonNotMetered
+peLI.SeasonalKontakion.text = pe.d110_en_UK_lash.peMA.Kontakion1.text
+
+peLI.AfterCommunion.mode = misc_en_UK_lash.Mode4
+peLI.AfterCommunion.text = pe.d110_en_UK_lash.peVE.Apolytikion1.text
+
+peMegalynarion.text = ""

@@ -1,0 +1,329 @@
+A_Resource_Whose_Name = pe.d127_en_UK_lash
+
+peCommemoration.text = "" // full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" // for use in petitions and dismissal
+peInsert2 = "" // for use in petitions and dismissal
+peNote.text = ""
+peHO.day = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+peVE.Stichera07.mode = misc_en_UK_lash.Mode6
+peVE.Stichera07.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera07.text = "The Spirit-inspired preachers, the Disciples of the Saviour, having become by faith instruments of the Spirit, distributed the holy proclamation, sowing it with right belief, to the ends of the earth, from which, by God’s husbandry and grace, have sprung up the armies of Martyrs, who form an image of the holy Passion through many kinds of tortures, scourgings and fire; and with boldness they intercede on behalf of our souls."
+
+peVE.Stichera08.mode = misc_en_UK_lash.Mode6
+peVE.Stichera08.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera08.text = "Burning with the fire of the love of the Lord, they despised fire, and as lighted godlike coals the holy Martyrs by Christ burned up the brushwood insolence of error; while they stopped the mouths of wild beasts by wise entreaties, and when their heads were cut off they cut down all the regiments of the foe; and valiantly pouring out the streams of their blood they watered the Church, which then blossomed with faith."
+
+peVE.Stichera09.mode = misc_en_UK_lash.Mode6
+peVE.Stichera09.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera09.text = "The valiant Martyrs wrestled with wild beasts, were struck with swords, raked with claws, their hands were cut off and they were racked; without yielding they were burned with material fire, they were pierced and their joints were severed. They bore all most valiantly, as they looked forward to their coming rest, the pure crowns and the glory of Christ; to whom with boldness they intercede on behalf of our souls."
+
+peVE.Stichera10.mode = misc_en_UK_lash.Mode6
+peVE.Stichera10.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera10.text = "Let us, as is fitting, praise with sacred songs those who have competed by faith in all the ends of the earth, Apostles, Martyrs, godly-minded Priests, holy Women, a sacred gathering; for earthly beings were united with the heavenly and by suffering received through Christ’s grace dispassion; and now like fixed stars their shed their light on us, as with boldness they intercede on behalf of our souls."
+
+peVE.SticGlory.mode = misc_en_UK_lash.Mode6
+peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.SticGlory.text = "Godly choir of Martyrs, foundation of the Church, perfection of the Gospel, you have by deeds fulfilled the Saviour’s words; for in you the gates of Hell, opened against the Church, have been shut; the flow of your blood has dried up the libations poured out to idols; your slaughter has given birth the plenitude of the faithful; you have amazed the bodiless powers; bearing crowns you stand before God, whom you ceaselessly implore on behalf of our souls."
+
+peVE.Lity1.mode = misc_en_UK_lash.Mode1
+peVE.Lity1.melody = misc_en_UK_lash.Idiomelon
+peVE.Lity1.text = ""
+
+peVE.Lity2.mode = misc_en_UK_lash.Mode1
+peVE.Lity2.melody = misc_en_UK_lash.Idiomelon
+peVE.Lity2.text = ""
+
+peVE.Lity3.mode = misc_en_UK_lash.Mode1
+peVE.Lity3.melody = misc_en_UK_lash.Idiomelon
+peVE.Lity3.text = ""
+
+peVE.LityGlory.mode = misc_en_UK_lash.Mode5
+peVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.LityGlory.text = ""
+
+peVE.LityBoth.mode = misc_en_UK_lash.Mode5
+peVE.LityBoth.melody = ""
+peVE.LityBoth.text = oc.m5.d1_en_UK_lash.ocVE.AposTheotokion.text
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode6
+peVE.AposGlory.melody = ""
+peVE.AposGlory.text = "Come you faithful, let us today strike up a dance and devoutly keep festival and gloriously honour the glorious and revered memory of all the Saints, as we say: Hail, glorious Apostles, Prophets and Martyrs and Hierarchs. Hail, company of Ascetics and of the just. Hail, choir of honoured Women; and intercede with Christ for the world, to grant victories to our sovereign and to our souls his great mercy."
+
+peVE.AposBoth.mode = misc_en_UK_lash.Mode6
+peVE.AposBoth.melody = ""
+peVE.AposBoth.text = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.text
+
+peVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
+peVE.Apolytikion1.melody = ""
+peVE.Apolytikion1.text = oc.m8.d1_en_UK_lash.ocVE.Apolytikion.text
+
+peVE.Apolytikion2.mode = misc_en_UK_lash.Mode4
+peVE.Apolytikion2.melody = ""
+peVE.Apolytikion2.text = "Clothed as in purple and fine linen with the blood of your Martyrs throughout the world, your Church cries out to you through them, Christ God: Send down your pity on your people; grant peace to your commonwealth and to our souls your great mercy."
+
+peVE.Apolytikion3.mode = misc_en_UK_lash.Mode4
+peVE.Apolytikion3.melody = ""
+peVE.Apolytikion3.text = oc.m4.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma11.melody = misc_en_UK_lash.Automelon
+peMA.Kathisma11.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma21.text
+
+peMA.Kathisma13.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma13.melody = ""
+peMA.Kathisma13.text = oc.m8.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.ToProstachthen.name
+peMA.Kathisma21.text = ""
+
+peMA.Kathisma22.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+peMA.Kathisma22.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma12.text
+
+peMA.Kathisma23.mode = misc_en_UK_lash.Mode8
+peMA.Kathisma23.melody = ""
+peMA.Kathisma23.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.text
+
+peMA.C1Acrostic.text = ""
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C11.text = "As I sing the praise of the ranks of your Saints, I beg you by your light to shed your rays on my soul at their prayers. For you are the unapproachable light, dispelling the gloom of ignorance by your torches, O Word of God, Christ giver of light."
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C12.text = "As you were lifted up on the Tree, Master, you drew to knowledge of you the whole inheritance of the nations, and made it radiant with the light of the holy Trinity through your holy Apostles, through whom you drove out deception."
+
+peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C13.text = "Obedient to your commandment, O Christ, your glorious Apostles devoutly renounced everything on earth; and by the light of grace they made bright the whole inhabited world as they preached you through the Gospel."
+
+peMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C14.mode = misc_en_UK_lash.Mode8
+peMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C14.text = "Rejoicing, the noble Martyrs took up the Cross and unflinchingly imitating your sacred passion, they did not tremble at the threats of tyrants, at fire, sword, scourges, not even starvation or death."
+
+peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C1T.text = "The virgins, having taken up a manly intent, unflinchingly endured the contests of martyrdom, and as in the Psalms, all-pure Virgin, following after you rejoicing together, inspired by God, they were offered to your Son, the king of all."
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C11.text = "The Priests and Shepherds, clothed with sacred priesthood, wisely guided it, O Christ, and worthily adorned it, truly enriched with the word of teaching from on high."
+
+peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C12.text = "Made fair by the beauties of that first created beauty, and revealed as unerring beacons, you made Christ’s Church a heaven, O Saints, each in his place adorning it in varied ways."
+
+peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C13.text = "Obedient to your law, the companies of the blessed, radiant with virtues of many kinds, have inherited with joy the heavenly mansions; for they all filled them worthily, each one their own."
+
+peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C1T.text = "Mother of God, from a virgin womb for us you gave birth to God the Word from God; whom pure maidens desired in a godlike manner, and in your train they all followed him."
+
+peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+peMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.text = "As we celebrate the holy memory, Christ God, Forebears, Parents, Patriarchs, Apostles, Martyrs, Hierarchs, Prophets and your Holy Ones, Ascetics and Just, and each one whose name is inscribed in the book of life, we urge them all to intercession, as we beg: Give peace to your world through them, as you love mankind, that we may all cry out to you: O God, glorified in the Council of your Saints, you are truly the one who fittingly glorifies their memory."
+
+peMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode8
+peMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+peMA.Ode3Kathisma2.text = "Let us praise the heavenly gate and ark, the all-holy mountain, the radiant cloud, the heavenly ladder, the spiritual Paradise, the ransom of Eve, the great treasure of the whole inhabited world; because salvation was accomplished in her for the world and forgiveness of ancient offences. Therefore we cry to her: Intercede with your Son and God, to grant forgiveness of faults to those who devoutly worship your all-holy Offspring."
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C11.text = "The company of your Saints, joined together through love and sincerely and purely delighting in you, dances in joy with the perpetual dance of the Angels around you, who see all, the God and Lord of all."
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C12.text = "Glorious and all-blessed Martyr Priests, once gleaming with the divine anointing of the priesthood, you bound on like youths the Martyrs’ wreath of victory; and so fittingly receiving double crowns, you rejoice with Christ eternally."
+
+peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C13.text = "Godbearing Fathers, you subjected every fleshly thought to the spirit, withering their unruly assaults by fasting and ascetic discipline; and now aflame with the light of dispassion, you have received the rewards of your labours."
+
+peMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C14.mode = misc_en_UK_lash.Mode8
+peMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C14.text = "As Martyrs of Christ, the Protomartyr, you endured great torments, bravely and outstandingly, struggling, glorious Saints, as in bodies not your own; and now, revealed as heirs of the kingdom, you are source of healings for the faithful."
+
+peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C1T.text = "Bride of God, you became Mother of God; for you gave birth for us in bodily form to the Word before time, by whom women also have led holy lives and adorned through you by contests of many kinds, they have restored the fall of our Foremother."
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C11.text = "As godly Prophets you were found worthy to foresee the things to come, longing for which with nobility of soul you purified your selves by holy living, O Godbearers, enlightened by the strength of the Spirit."
+
+peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C12.text = "The choir of the Saints is now made bright by divine gifts of grace, all those before the law, Patriarchs, Prophets, Apostles, companies of Martyrs, Ascetics, Teachers and Righteous with Priest Martyrs."
+
+peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C13.text = "As we see the throng of your Saints shining today, O Saviour, with your brightness, and with unquenchable lamps of grace, we unceasingly sing the praise of your divine riches and unstinted blessings."
+
+peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C1T.text = "All-holy women, filled with love of most wondrous Offspring, reckoned the delights of life as nothing, O all-pure, and desiring passionately his brightness alone and his divine radiance."
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C11.text = "The Saints, having found you, Master, in Sion placed as a precious, chosen cornerstone, an unshakeable foundation, built themselves on you as chosen stones."
+
+peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C12.text = "When your side was pierced streams of blood dropped from it along with deifying water and refashioned the world and summoned a godly throng of all the Saints, O Benefactor."
+
+peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C13.text = "With hymn most devoutly the inspired cloud of Martyrs, made radiant by grace and shining brilliantly with the purple of their blood and with the crimson of their valiant contest."
+
+peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C1T.text = "We all know you as most truly Mother of God, through whom women’s nature was given strength, O all-blameless, and so competed on behalf of Christ and became filled devoutly with every virtue."
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+peMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+peMA.Kontakion1.text = he.a.m8_en_UK_lash.OsAparchas.text
+
+peMA.Oikos1.text = "Those who bore witness in all the earth and made their home in heaven, those who imitated the sufferings of Christ and who take away our passions, are gathered here today, revealing the Church of the firstborn, who bears the type of the one above, and which cries out to Christ: You are my God; keep me through the Mother of God, O most merciful."
+
+peMA.Synaxarion.commemoration.text = ""
+peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+peMA.Synaxarion.couplet1.verse1 = ""
+peMA.Synaxarion.couplet1.verse2 = ""
+peMA.Synaxarion.lastline.text = ""
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C11.text = "The ranks of Saints, as they praise in never silent hymns the One who rests among the Saints, now enjoy divine delight, and joyfully they dance and sing: Blessed is the God of our Fathers."
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C12.text = "The companies of the Saints, suffused with divine rays of triple-sunned outpouring of light, devoutly proclaim a Unity in number three, the Father without beginning and the Son and the holy Spirit."
+
+peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C13.text = "When you appear, O God, in your ineffable glory in the midst of the gods, granting to each their desserts and apportioning crowns, then count all worthy to sing to you: Blessed is the God of our Fathers."
+
+peMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C14.mode = misc_en_UK_lash.Mode8
+peMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C14.text = "With gladness let us make melody to the throng of all the Saints, welded together from every race and rank and way of life, and let us sing with them: Blessed is the God of our Fathers."
+
+peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C1T.text = "All you maidens, having together formed a godly choir, cry out to Mary, the immaculate and all-holy Mother of God: Be glad, who made the source of our joy gush forth."
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C11.text = "Rejoice, Martyrs, Prophets, Apostles, honoured company of Martyr Priests, godly choir of the Just, of Ascetics and Teachers, who all make melody with the Myrrhbearing women: youths, bless; priests, praise; people, highly exalt him to all the ages."
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C12.text = "Saints, who bear in yourselves the radiance beyond understanding and are filled with divine joy and gladness, you are called gods by your nearness to God; familiar with the rays which sanctify and enlightened by the beams of the ineffable glory, you highly Christ to all the ages."
+
+peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C13.text = "Appearing as beacons with many lights, O Saints, you make the heaven of the Church radiant with gifts of grace of many kinds, and divers beauties; with justice, sobriety, courage and wisdom, as you cry: Priests, praise, people, highly exalt Christ to the ages."
+
+peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C1T.text = "With joy all women wise in God and made perfect in Christ by the Spirit, as you now stand round the all-pure Virgin and true Mother of God, who ransomed us from the curse of our foremother Eve, hymn her fruit to the ages."
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+peMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C11.text = "The company of the elect, armed with the breastplate of hope and love and fenced about by faith, rejoiced as they nobly endured all the threats of tyrants, the tortures and scourges, for as outstanding witnesses of truth their wealth was Christ who gives victory in contests."
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+peMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C12.text = "Let us now fittingly praise a haven of salvation, the Baptist, Apostles, Prophets and Martyrs, with Ascetics, godly Teachers and Priests, the company of Patriarchs and far-famed Martyr Priests, God-loving women, the holy and just."
+
+peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+peMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C13.text = "Tested by the fire of temptations and not allured by pleasures, you rejoice sincerely, glorious company of the Saints, as you stand around the light-formed throne of the Master in heaven, now that mirrors have been abolished and shadow has passed away with the manifestation of the truth."
+
+peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+peMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C1T.text = "You appeared as the one who unites things that were parted; for through you humans have truly become companions of the Angels in heaven, and now the ranks of all the Saints bear witness as they hymn your Offspring, Virgin Mother of God, in everlasting songs."
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.text = ""
+
+peMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+peMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+peMA.ExapTheotokion.text = ""
+
+peMA.Lauds6.mode = misc_en_UK_lash.Mode4
+peMA.Lauds6.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+peMA.Lauds6.text = ""
+
+peMA.LaudsVerse7.text = ""
+
+peMA.Lauds7.mode = misc_en_UK_lash.Mode4
+peMA.Lauds7.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+peMA.Lauds7.text = ""
+
+peMA.LaudsVerse8.text = ""
+
+peMA.Lauds8.mode = misc_en_UK_lash.Mode4
+peMA.Lauds8.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+peMA.Lauds8.text = ""
+
+peMA.Lauds345 = "" // for media
+
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
+peLI.SeasonalKontakion.melody = peMA.Kontakion1.melody
+peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+
+peLI.MM.CommunionHymn.text = da.d7_en_UK_lash.daLI.CommunionHymn.text
+
+peMegalynarion.text = ""

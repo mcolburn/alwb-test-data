@@ -1,0 +1,838 @@
+A_Resource_Whose_Name = oc.m4.d1_en_UK_lash
+
+ocGE.MM.GlorySticheraric.text = properties_en_UK_lash.media.key
+
+ocGE.MM.BothSticheraric.text = properties_en_UK_lash.media.key
+
+ocGE.MM.GloryHeirmologic.text = properties_en_UK_lash.media.key
+
+ocGE.MM.BothHeirmologic.text = properties_en_UK_lash.media.key
+
+ocSV.Dogmatic.mode = misc_en_UK_lash.Mode4
+ocSV.Dogmatic.melody = ""
+ocSV.Dogmatic.text = "You conceived without seed, and ineffably you bore the One who put down the mighty from their throne and exalts the humble and raises the horn of his faithful ones, who glorify the Cross and the Tomb and the glorious Resurrection of Christ. Therefore, Mother of God, with never silent hymns we call you blessed, the source of such great goods, as you ever intercede that our souls may be saved."
+
+ocSV.Aposticha1.mode = misc_en_UK_lash.Mode4
+ocSV.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+ocSV.Aposticha1.text = "God, the Son begotten without time from the Father who has no beginning, through condescension and for the salvation of mortals became man, that he might now grant Paradise to the First-formed and at the same time redeem all nature from the deception of the serpent and save the fallen image as he is easily placated. Therefore he made his Mother the Pure undefiled Mother of the Bridegroom, whom we have all gained as the anchor of our souls."
+
+ocSV.Aposticha2.mode = misc_en_UK_lash.Mode4
+ocSV.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+ocSV.Aposticha2.text = "You held in your womb, O blessed of God, the incarnate Creator of all things as he refashioned humankind, which through the serpent had once fallen by the transgression. For you gave birth ineffably in the flesh to our God, and through your bearing child you freed from corruption all nature that had grown old. Therefore we praise and glorify your grace, Virgin without bridegroom, as we implore that through you we may be delivered from every punishment."
+
+ocSV.Aposticha3.mode = misc_en_UK_lash.Mode4
+ocSV.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+ocSV.Aposticha3.text = "That you may reveal to us all the multitude of your mercy and the limitless ocean of your loving-kindness, wipe away the sins of your servants. For as you are Mother of God, O All-blameless, you have authority over creation and by your power you order all things as you will; for the grace of the holy Spirit clearly dwells in you and with you is at in all things everlastingly, O All-blessed."
+
+ocSV.AposDogmatic.mode = misc_en_UK_lash.Mode4
+ocSV.AposDogmatic.melody = ""
+ocSV.AposDogmatic.text = "The Son who with the Father and the Spirit is glorified in the highest by the Seraphim, wishing to refashion the First-formed, ineffably emptied his whole self in your womb, O all-praised Mother of God. Dawning from you he enlightened the whole world by his Godhead, delivering it from the folly of idols, and by this Christ God and the Saviour of our souls made humanity divine and brought it up to heaven."
+
+ocVE.MM.LIHC1.text = properties_en_UK_lash.media.key
+
+ocVE.MM.LIHC2.text = properties_en_UK_lash.media.key
+
+ocVE.MM.LIHC_Stichologia = properties_en_UK_lash.media.key
+
+ocVE.Stichera1.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera1.melody = ""
+ocVE.Stichera1.text = "As we worship without ceasing your life-giving Cross, Christ God, we glorify your Resurrection on the third day, for through it, O All-powerful, you renewed corrupted human nature and showed us the way up to heaven, as you alone are good and love mankind."
+
+ocVE.Stichera2.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera2.melody = ""
+ocVE.Stichera2.text = "By being willingly nailed to the tree of the Cross, O Saviour, you abolished the penalty of the tree of disobedience; and by descending into Hades, O Powerful one, you tore apart the bonds of death as God; therefore we worship your Resurrection from the dead, as we cry out with joy: all-powerful Lord, glory to you!"
+
+ocVE.Stichera3.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera3.melody = ""
+ocVE.Stichera3.text = "You smashed the gates of Hell, Lord, and by your death you destroyed the palace of death; while you freed humanity from corruption, granting the world life and incorruption, and your great mercy."
+
+ocVE.Stichera4.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera4.melody = ""
+ocVE.Stichera4.text = "Come you peoples, let us hymn the Saviour's Rising on the third day, through which we were redeemed from unbreakable bonds of Hell and all received incorruption and life, as we cry: You, who were crucified and buried and rose again, save us by your Resurrection, only lover of mankind."
+
+ocVE.Stichera5.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera5.melody = ""
+ocVE.Stichera5.text = "Angels and mortals hymn your Rising on the third day, O Saviour, through which the ends of the inhabited world were filled with light, and we were all redeemed from the slavery of the foe, as we cry: O life-giving, all-powerful Saviour, save us by your Resurrection, only lover of mankind."
+
+ocVE.Stichera6.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera6.melody = ""
+ocVE.Stichera6.text = "You shattered the gates of brass and smashed their bars, Christ God, and you raised the fallen human race; therefore with one voice we cry: Lord risen from the dead, glory to you!"
+
+ocVE.Stichera7.mode = misc_en_UK_lash.Mode4
+ocVE.Stichera7.melody = ""
+ocVE.Stichera7.text = "O Lord, your birth from your Father is without time and eternal; your incarnation from a Virgin is inexpressible for humans and beyond explanation; and your descent into Hell is fearful for the devil and his angels; for having trampled on death you rose on the third day, granting mankind incorruption and your great mercy."
+
+ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
+ocVE.SticTheotokion.melody = ""
+ocVE.SticTheotokion.text = "The Prophet David, through you the ancestor of God, spoke of you in song beforehand to him who has done great things for you: the Queen stood at your right hand. For he, the God who was well pleased without father to become man from you, declared you to be mother, source of life, that he might refashion his own image, corrupted by passions, and, having found the lost sheep wandering on the mountain and laid it on his shoulders, he might bring it to his Father; and by his own will unite it to the heavenly Powers and save the world, O Mother of God, Christ who has great and rich mercy."
+
+ocVE.Aposticha1.mode = misc_en_UK_lash.Mode4
+ocVE.Aposticha1.melody = misc_en_UK_lash.Automelon
+ocVE.Aposticha1.text = he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.text
+
+ocVE.Aposticha2.mode = misc_en_UK_lash.Mode4
+ocVE.Aposticha2.melody = ""
+ocVE.Aposticha2.text = "Hanged upon a tree, O only Mighty One, you shook creation; laid in a tomb you raised those who dwelt in tombs, granting the human race incorruption and life; therefore with hymns we glorify your Rising on the third day."
+
+ocVE.Aposticha3.mode = misc_en_UK_lash.Mode4
+ocVE.Aposticha3.melody = ""
+ocVE.Aposticha3.text = "A lawless people, O Christ, delivered you to Pilate, and condemned you to be crucified, showing themselves unfeeling to their benefactor, but of your own will you endured burial, rose on the third by your own power, as God granting us unending life and your great mercy."
+
+ocVE.Aposticha4.mode = misc_en_UK_lash.Mode4
+ocVE.Aposticha4.melody = ""
+ocVE.Aposticha4.text = "Reaching your grave in tears the women looked for you; and when they did not find you they cried aloud with grief and lamentation: Alas, our Saviour, King of all, how were you stolen? What sort of place holds your life-bearing body? But an Angel answered them and said: Do not weep, but go, proclaim that the Lord has risen, granting us joy, as he alone is compassionate."
+
+ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode4
+ocVE.AposTheotokion.melody = ""
+ocVE.AposTheotokion.text = "Look upon the supplication of your servants, O All-unblemished, bringing to an end the dread assaults that beset us and calming all our distress; for we have only you as safe and sure anchor, and we have obtained your protection. Sovereign Lady, may we who entreat you not be put to shame; make haste to hear the supplication of us who cry to you with faith: Hail, Sovereign Lady, help, joy and protection of all, and salvation of our souls."
+
+ocVE.Apolytikion.mode = misc_en_UK_lash.Mode4
+ocVE.Apolytikion.melody = ""
+ocVE.Apolytikion.text = "When the women Disciples of the Lord had learnt from the Angel the joyful message of the Resurrection, casting away the ancestral condemnation, triumphantly they said to the Apostles: Death has been despoiled, Christ God has been raised, granting the world his great mercy."
+
+ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode4
+ocVE.ApolTheotokionVM.melody = ""
+ocVE.ApolTheotokionVM.text = "The mystery hidden from all eternity and unknown to Angels has been revealed to those on earth through you, O Mother of God: God being made flesh in a union without confusion, and willingly accepting the Cross for us, through which he raised the first-formed man and saved our souls from death."
+
+ocMO.Poet = poets_en_UK_lash.MitrofanousSmirnis
+ocMO.Acrostic.text = "of which the Acrostic is: A fourth hymn to God, by Metrophanes."
+
+ocMO.Ode11.mode = misc_en_UK_lash.Mode4
+ocMO.Ode11.ode = misc_en_UK_lash.Ode1
+ocMO.Ode11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMO.Ode11.text = "Let us glorify the Godhead, Trinity by persons, but a single nature of the three, co-eternal, equal in majesty, whom we entreat, saying: Save those who glorify you with faith!"
+
+ocMO.Ode12.mode = misc_en_UK_lash.Mode4
+ocMO.Ode12.ode = misc_en_UK_lash.Ode1
+ocMO.Ode12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMO.Ode12.text = "The Son was anointed by the Father with the Spirit, the divine oil of gladness, and he became mortal, and taught the triple personhood of the one Godhead."
+
+ocMO.Ode13.mode = misc_en_UK_lash.Mode4
+ocMO.Ode13.ode = misc_en_UK_lash.Ode1
+ocMO.Ode13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMO.Ode13.text = "The beauty of your unapproachable glory, O Unity of triple sun, the Seraphim cannot bear to see and veil themselves with their wings and with thrice-holy songs unceasingly glorify you."
+
+ocMO.Ode1T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode1T.ode = misc_en_UK_lash.Ode1
+ocMO.Ode1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMO.Ode1T.text = "You gave birth ineffably, O All-pure, to the Maker of all things who delivers mortals from the ancient curse and the corruption of death; and through you we acknowledge one God in three persons."
+
+ocMO.Ode31.mode = misc_en_UK_lash.Mode4
+ocMO.Ode31.ode = misc_en_UK_lash.Ode3
+ocMO.Ode31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukEnSofia.name
+ocMO.Ode31.text = "When you sent power from on high of old to your holy Apostles, O Christ, the Paraclete from the Father, you revealed the one nature with triple sun."
+
+ocMO.Ode32.mode = misc_en_UK_lash.Mode4
+ocMO.Ode32.ode = misc_en_UK_lash.Ode3
+ocMO.Ode32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukEnSofia.name
+ocMO.Ode32.text = "When you appeared to the Patriarch Abraham in human form, O triple Unity, you revealed the unchangeable nature of your lovingkindness and dominion."
+
+ocMO.Ode33.mode = misc_en_UK_lash.Mode4
+ocMO.Ode33.ode = misc_en_UK_lash.Ode3
+ocMO.Ode33.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukEnSofia.name
+ocMO.Ode33.text = "O God, who are one, believed as in three persons, clearly uncircumscribed, incomprehensible to all, deliver our souls from every affliction."
+
+ocMO.Ode3T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode3T.ode = misc_en_UK_lash.Ode3
+ocMO.Ode3T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukEnSofia.name
+ocMO.Ode3T.text = "Instructed by the wise teaching of your Son, we glorify the single Godhead with triple lights, and we call you, the Ever-Virgin, blessed."
+
+ocMO.Kathisma11.mode = misc_en_UK_lash.Mode4
+ocMO.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+ocMO.Kathisma11.text = "Uncreated and consubstantial triple Sun, Unity in three persons and incomprehensible, take pity on your servants, save them from dangers, as God of mercy; for we have gained you, Lord, as our only Redeemer and Master as we cry: Be merciful to us!"
+
+ocMO.Kathisma12.mode = misc_en_UK_lash.Mode4
+ocMO.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+ocMO.Kathisma12.text = "Surrounded by many troubles and dread disasters, Virgin Mother of God, and ever falling into despair, we have you as sole salvation, hope and wall, and as is fitting you we now beseech in faith: Save your servants."
+
+ocMO.Ode41.mode = misc_en_UK_lash.Mode4
+ocMO.Ode41.ode = misc_en_UK_lash.Ode4
+ocMO.Ode41.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMO.Ode41.text = "With the Seraphim we glorify you, supreme Lordship, Trinity beyond being in unity of Godhead, as of undivided nature, as without confusion, as exactly equal in glory, O God beyond understanding."
+
+ocMO.Ode42.mode = misc_en_UK_lash.Mode4
+ocMO.Ode42.ode = misc_en_UK_lash.Ode4
+ocMO.Ode42.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMO.Ode42.text = "Godhead ineffably divided in persons and identical in your one lordship, alone without limit, uncircumscribed, the Maker of all creation, we sing your praise."
+
+ocMO.Ode43.mode = misc_en_UK_lash.Mode4
+ocMO.Ode43.ode = misc_en_UK_lash.Ode4
+ocMO.Ode43.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMO.Ode43.text = "The Mind who is without beginning begot the Word ineffably, and sent out the divine Spirit, equal in might; and therefore we proclaim a consubstantial Trinity, the Master of all things as God."
+
+ocMO.Ode4T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode4T.ode = misc_en_UK_lash.Ode4
+ocMO.Ode4T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMO.Ode4T.text = "Appearing to those of old in types, the Word proclaimed beforehand his incarnation from you, O Virgin; but later he appeared to humankind in reality and revealed one Principle in three persons."
+
+ocMO.Ode51.mode = misc_en_UK_lash.Mode4
+ocMO.Ode51.ode = misc_en_UK_lash.Ode5
+ocMO.Ode51.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMO.Ode51.text = "Understanding from faith one unapproachable essence, but three consubstantial life-giving persons of the omnipotent Godhead, we honour Father, Son and Spirit, the holy co-eternal existence."
+
+ocMO.Ode52.mode = misc_en_UK_lash.Mode4
+ocMO.Ode52.ode = misc_en_UK_lash.Ode5
+ocMO.Ode52.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMO.Ode52.text = "O single Godhead with triple sun, make the radiance of your essential splendour shine on me, O uncreated Nature, illuminating Source of every light-giving ray, that I may behold, as in a glass, your ineffable beauty."
+
+ocMO.Ode53.mode = misc_en_UK_lash.Mode4
+ocMO.Ode53.ode = misc_en_UK_lash.Ode5
+ocMO.Ode53.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMO.Ode53.text = "Knowing you as only creator and sustainer and truly all-wise governor of the universe and giver of life, we cry out to you in faith: Master of triple sun, guard those who sing your praise."
+
+ocMO.Ode5T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode5T.ode = misc_en_UK_lash.Ode5
+ocMO.Ode5T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMO.Ode5T.text = "Wishing to make divine humanity that had been corrupted of old, the One who fashioned it and revealed the divine form of the image became man from you, O Virgin, and proclaimed one threefold Deity."
+
+ocMO.Ode61.mode = misc_en_UK_lash.Mode4
+ocMO.Ode61.ode = misc_en_UK_lash.Ode6
+ocMO.Ode61.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EvoiseProtypon.name
+ocMO.Ode61.text = "The Father as he spoke revealed the sonship and the Spirit that appeared to Christ at his baptism; therefore we glorify a Deity one and threefold."
+
+ocMO.Ode62.mode = misc_en_UK_lash.Mode4
+ocMO.Ode62.ode = misc_en_UK_lash.Ode6
+ocMO.Ode62.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EvoiseProtypon.name
+ocMO.Ode62.text = "When Isaias saw you seated upon a lofty throne being praised with thrice-holy hymns, he came to know the triple substance of the one Deity."
+
+ocMO.Ode63.mode = misc_en_UK_lash.Mode4
+ocMO.Ode63.ode = misc_en_UK_lash.Ode6
+ocMO.Ode63.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EvoiseProtypon.name
+ocMO.Ode63.text = "Exalted King in three persons, show forth the hearts of your servants to be on high, that we may radiantly contemplate the splendour of your glory."
+
+ocMO.Ode6T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode6T.ode = misc_en_UK_lash.Ode6
+ocMO.Ode6T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EvoiseProtypon.name
+ocMO.Ode6T.text = "As he loves humankind the Son of God vouchsafed to be conformed to our nature from a Virgin, and he made humankind partaker in the divine glory."
+
+ocMO.Kathisma21.mode = misc_en_UK_lash.Mode4
+ocMO.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+ocMO.Kathisma21.text = "As we understand the Father to be unbegotten, the Son to be begotten and the Spirit to proceed from the Father, we proclaim a Kingship without beginning and one Godhead, which we glorify as we cry out with one accord: Consubstantial Trinity save us, O God."
+
+ocMO.Kathisma22.mode = misc_en_UK_lash.Mode4
+ocMO.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+ocMO.Kathisma22.text = "The God who is beyond times and before the ages, the God-man, you bore in time beyond nature in the flesh; therefore as we all confess you to be really and truly Mother of God, we cry out to you insistently: Count us all worthy of eternal glory."
+
+ocMO.Ode71.mode = misc_en_UK_lash.Mode4
+ocMO.Ode71.ode = misc_en_UK_lash.Ode7
+ocMO.Ode71.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnTiKamino.name
+ocMO.Ode71.text = "All we born of earth, imitating the ranks of heavenly natures and the spiritual orders, with right belief glorify one Godhead in three persons equal in operation."
+
+ocMO.Ode72.mode = misc_en_UK_lash.Mode4
+ocMO.Ode72.ode = misc_en_UK_lash.Ode7
+ocMO.Ode72.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnTiKamino.name
+ocMO.Ode72.text = "The sayings of the holy Prophets foreshowed you of old in symbols as one creator of all the ages, God inexpressible and Lord in three persons."
+
+ocMO.Ode7T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode7T.ode = misc_en_UK_lash.Ode7
+ocMO.Ode7T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnTiKamino.name
+ocMO.Ode7T.text = "Almighty Word, who cannot be seen in your own being, you appeared to humankind as a man from the pure Mother of God, restoring humankind to participation in your Godhead."
+
+ocMO.Ode81.mode = misc_en_UK_lash.Mode4
+ocMO.Ode81.ode = misc_en_UK_lash.Ode8
+ocMO.Ode81.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+ocMO.Ode81.text = "Light ruling as one and Essence shining with triple radiance, infinite beauty make your dwelling in my heart, and show me to be a pure and radiant temple of your Godhead, as I cry: Bless the Lord, all you works of the Lord!"
+
+ocMO.Ode82.mode = misc_en_UK_lash.Mode4
+ocMO.Ode82.ode = misc_en_UK_lash.Ode8
+ocMO.Ode82.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+ocMO.Ode82.text = "From the manifold passions and the gloom of offences rescue me, O undivided Trinity, unconfused Unity, and enlighten me with your divine rays, that I may contemplate your glory and hymn you, Lord of glory."
+
+ocMO.Ode8T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode8T.ode = misc_en_UK_lash.Ode8
+ocMO.Ode8T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+ocMO.Ode8T.text = "O Mind, unbegotten Father, and Word, one form with him, and Spirit identical in throne, Essence, Power, Existence beyond being, inexpressible, mighty in works, Trinity, Unity, guard your flock at the prayers of the Mother of God, as by nature you love humankind."
+
+ocMO.Ode91.mode = misc_en_UK_lash.Mode4
+ocMO.Ode91.ode = misc_en_UK_lash.Ode9
+ocMO.Ode91.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+ocMO.Ode91.text = "Now I direct my whole heart and mind, and all the inclinations of my soul and body to you, my fashioner and deliverer, sole Sovereign of triple light, and I cry out to you: Save me your servant from temptations and afflictions of every kind."
+
+ocMO.Ode92.mode = misc_en_UK_lash.Mode4
+ocMO.Ode92.ode = misc_en_UK_lash.Ode9
+ocMO.Ode92.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+ocMO.Ode92.text = "Raise our mind and thought to you, the Most High, who dwell in approachable light, and enlighten them with your most pure radiance, Father, Word and Paraclete, sun of glory, lord of light, that we may always glorify you, God, sole Sovereign and of three Persons."
+
+ocMO.Ode9T.mode = misc_en_UK_lash.Mode4
+ocMO.Ode9T.ode = misc_en_UK_lash.Ode9
+ocMO.Ode9T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+ocMO.Ode9T.text = "Save those who believe in you, Lord, and who proclaim one eternal Essence without beginning, three divine and consubstantial Persons, and count us worthy of your divine glory at the entreaties of the pure Mother of God."
+
+ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key
+
+ocMA.Kathisma11.mode = misc_en_UK_lash.Mode4
+ocMA.Kathisma11.melody = ""
+ocMA.Kathisma11.text = "As they looked at the entrance of the tomb and were unable to endure the bright flame of the Angel, the Myrrhbearing women trembled with amazement and said, ‘Can the One who opened Paradise to the Thief have been stolen? Can he who before his passion proclaimed his Rising have been raised? Truly Christ God has risen, granting those in Hell life and resurrection’."
+
+ocMA.Kathisma12.mode = misc_en_UK_lash.Mode4
+ocMA.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+ocMA.Kathisma12.text = "Of your own will, O Saviour, you endured the Cross, and mortals laid in a new tomb the One who established the ends of earth through a word; therefore the alien was bound, death terribly despoiled and all those in Hell cried aloud at your life-bearing Rising: Christ, the giver of life, has risen and abides to the ages."
+
+ocMA.Kathisma13.mode = misc_en_UK_lash.Mode4
+ocMA.Kathisma13.melody = misc_en_UK_lash.Automelon
+ocMA.Kathisma13.text = he.a.m4_en_UK_lash.KateplagiIosif.text
+
+ocMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+ocMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+ocMA.Kathisma21.text = "You rose from Hell as immortal, O Saviour, and raised your world with you by your Resurrection, Christ our God; with strength you broke the might of death, and revealed the Resurrection to all, O Merciful: therefore we also glorify you, only lover of mankind."
+
+ocMA.Kathisma22.mode = misc_en_UK_lash.Mode4
+ocMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+ocMA.Kathisma22.text = "Coming down from the heights above, Gabriel approached the rock where the Rock of life was lying, and clothed in white he cried aloud to the weeping women: Cease your cry of lamentation; now you have compassion for ever. Take courage, for the One you seek weeping has truly risen. Therefore cry out to the Apostles that the Lord has risen."
+
+ocMA.Kathisma23.mode = misc_en_UK_lash.Mode4
+ocMA.Kathisma23.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+ocMA.Kathisma23.text = "All the choirs of Angels were struck with wonder, Pure Virgin, at the dread mystery of your conceiving; how the One who holds all things fast with only a nod, is held fast in your arms as a mortal; how the Eternal accepts a beginning; how the One who nourishes everything that breathes by his ineffable goodness, is suckled at the breast: and with hymns they glorify you as truly Mother of God."
+
+ocMA.Hypakoe.mode = misc_en_UK_lash.Mode4
+ocMA.Hypakoe.melody = ""
+ocMA.Hypakoe.text = "The Myrrhbearers proclaimed to the Apostles the news of your wondrous Rising, O Christ: that as God you had risen, granting the world your great mercy."
+
+ocMA.Antiphon11.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon11.melody = ""
+ocMA.Antiphon11.text = "From my youth up many passions make war on me; but you, O Saviour, help me and save me."
+
+ocMA.Antiphon12.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon12.melody = ""
+ocMA.Antiphon12.text = "You who hate Sion, may you be put to shame by the Lord; for you will be dried up as grass by fire."
+
+ocMA.Antiphon13.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon13.melody = ""
+ocMA.Antiphon13.text = "By the Holy Spirit every soul is given life, and by cleansing it is exalted; it is made bright by the threefold Unity in a sacred mystery."
+
+ocMA.Antiphon21.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon21.melody = ""
+ocMA.Antiphon21.text = "From the depth of my soul I have cried to you fervently, O Lord; let your divine ears hearken even to me."
+
+ocMA.Antiphon22.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon22.melody = ""
+ocMA.Antiphon22.text = "Every one who has set their hope on the Lord, is higher than all those who mourn."
+
+ocMA.Antiphon23.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon23.melody = ""
+ocMA.Antiphon23.text = "By the Holy Spirit the streams of grace well up; watering all creation to engender life."
+
+ocMA.Antiphon31.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon31.melody = ""
+ocMA.Antiphon31.text = "Let my heart be raised to you, O Lord; and let none of the pleasures of the world lure me earthwards."
+
+ocMA.Antiphon32.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon32.melody = ""
+ocMA.Antiphon32.text = "As one has tender love for one's mother; so we should have even more fervent love for the Lord."
+
+ocMA.Antiphon33.mode = misc_en_UK_lash.Mode4
+ocMA.Antiphon33.melody = ""
+ocMA.Antiphon33.text = "By the Holy Spirit comes wealth of divine knowledge, contemplation and wisdom; for by him the Word unveils all the Father's teachings."
+
+ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
+
+ocMA.C1Poet = poets_en_UK_lash.IoannouTouDamaskinou
+
+ocMA.C2Acrostic.text = ""
+
+ocMA.C3Acrostic.text = "of which the acrostic, with the Irmi, is: A fourth hymn for the far-famed Maiden."
+
+ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text
+
+ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C11.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMA.OdeS1C11.text = "You were lifted up, setting aright our fall by the immaculate tree of the Cross and healing the total destruction wrought by a tree, O Master, as you are loving and all powerful."
+
+ocMA.OdeS1C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C12.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMA.OdeS1C12.text = "With your body, O Christ, you were in the tomb, with your soul in Hades as God, in Paradise with the Thief, on the throne with Father and the Spirit, filling all things, yet yourself uncircumscribed."
+
+ocMA.OdeS1C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C1T.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
+ocMA.OdeS1C1T.text = "Without seed you conceived the Son of God by the Father's will from the divine Spirit, and you bore in the flesh the One who from his Father is without mother and for our sake from you without father."
+
+ocMA.OdeS1C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C2H.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS1C2H.text = ""
+
+ocMA.OdeS1C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C21.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+ocMA.OdeS1C21.text = "You healed the fracture of humanity, Lord, which you restored by your precious Blood, and you shattered the one powerful in strength, who of old had shattered the creature you had fashioned."
+
+ocMA.OdeS1C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C22.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+ocMA.OdeS1C22.text = "Through dying you became the resurrection of the dead; for the strength of death was done away with when it encountered eternal Life, the Master of all things, God incarnate."
+
+ocMA.OdeS1C2T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C2T.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+ocMA.OdeS1C2T.text = "Your living, divine House has become far fairer than the heavenly Powers, the Virgin who bore you in her womb, the holy Mountain of you, our God."
+
+ocMA.OdeS1C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C31.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TristatasKrataious.name
+ocMA.OdeS1C31.text = "Peoples were shaken, nations were troubled, mighty kingdoms faltered, Pure Virgin, from fear of your Offspring; for my King came and destroyed the tyrant and redeemed the world from corruption."
+
+ocMA.OdeS1C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS1C32.ode = misc_en_UK_lash.Ode1
+ocMA.OdeS1C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TristatasKrataious.name
+ocMA.OdeS1C32.text = "Christ, whose home is in the highest, condescending to mortals sanctified his dwelling, and showed it to be unshaken; for alone after childbirth she who gave birth to the Creator remained a treasure of virginity."
+
+ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
+
+ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C11.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+ocMA.OdeS3C11.text = "The Tree of life, the true and spiritual Vine, is hanging on a Cross and pours out for all the elixir of immortality."
+
+ocMA.OdeS3C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C12.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+ocMA.OdeS3C12.text = "As great, as fearful, as he who destroyed the insolence of Hell and as God incorruptible he has now risen in the body."
+
+ocMA.OdeS3C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C1T.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+ocMA.OdeS3C1T.text = "You alone have become the cause of blessings beyond nature for those on earth, Mother of God; and so we bring to you our ‘Hail’."
+
+ocMA.OdeS3C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C2H.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C2H.text = ""
+
+ocMA.OdeS3C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C21.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TousSousYmnologous.name
+ocMA.OdeS3C21.text = "The serpent sunk its fangs filled with poison into me, O Saviour; but with the nails in your hands, Master, you crushed them; for none is holy of holies but you, O Lover of mankind."
+
+ocMA.OdeS3C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C22.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TousSousYmnologous.name
+ocMA.OdeS3C22.text = "Willingly you appeared as a life-giving corpse in a tomb, Lover of mankind, and you reopened the gates of Hell for the souls from every age; for none is holy of holies but you, O Lover of mankind."
+
+ocMA.OdeS3C2T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C2T.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TousSousYmnologous.name
+ocMA.OdeS3C2T.text = "You appeared as an unploughed field, which gave birth to the ear of life, the cause of immortality for all who share in it, the holy of holies, who rests in holiness."
+
+ocMA.OdeS3C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C31.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AfYpsousKatilthes.name
+ocMA.OdeS3C31.text = "The being of mortals was cleansed when through you it encountered the unendurable divine fire; like a hidden loaf it was baked in you, all-pure Virgin, by that fire who kept you unharmed."
+
+ocMA.OdeS3C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS3C32.ode = misc_en_UK_lash.Ode3
+ocMA.OdeS3C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AfYpsousKatilthes.name
+ocMA.OdeS3C32.text = "Who is this who is truly God’s neighbour, for she is higher than all the ranks of Angels? She who alone in the beauty of virginity shines as the Mother of the Almighty."
+
+ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text
+
+ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C11.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+ocMA.OdeS4C11.text = "You ascended the Cross to cure my passions by the Passion of your immaculate flesh, which you willingly assumed; and so we cry to you: Glory to your power, O Lord."
+
+ocMA.OdeS4C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C12.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+ocMA.OdeS4C12.text = "Death when it had tasted your sinless and life-giving body, Master, was rightly slain; but we cry out to you: Glory to your power, O Lord."
+
+ocMA.OdeS4C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C1T.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+ocMA.OdeS4C1T.text = "Without knowing wedlock you bore a child, O Virgin, and after childbirth you remained still a virgin; therefore with never silent voices, Sovereign Lady, we cry to you with unwavering faith, ‘Hail!’"
+
+ocMA.OdeS4C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C2H.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS4C2H.text = ""
+
+ocMA.OdeS4C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C21.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+ocMA.OdeS4C21.text = "Israel, which was subject to the law, did not recognise you, O Christ, as God, who had ordained the law, but unworthy of that lawgiving they transgressed the law and nailed you as lawless to the Cross."
+
+ocMA.OdeS4C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C22.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+ocMA.OdeS4C22.text = "Your soul made divine, O Saviour, plundered the treasuries of Hell and raised with it the souls from every age; while your life-bearing body became a source of incorruption for all."
+
+ocMA.OdeS4C2T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C2T.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+ocMA.OdeS4C2T.text = "As ever Virgin and true Mother of God we all glorify you, O All-pure, whom the bush that encountered the fire and was not burned prefigured for Moses, who saw God."
+
+ocMA.OdeS4C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C31.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMA.OdeS4C31.text = "The One who is in the form of the incomprehensible godhead lived among men, the invisible made visible, and from you, O Maiden, formed with a different form, he saves those who know you to be the pure Mother of God."
+
+ocMA.OdeS4C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C32.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMA.OdeS4C32.text = "The Virgin received the immaterial in matter, become a babe from her by participation in matter; and so he is know in two natures, God bearing flesh and mortal beyond being."
+
+ocMA.OdeS4C33.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS4C33.ode = misc_en_UK_lash.Ode4
+ocMA.OdeS4C33.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+ocMA.OdeS4C33.text = "The Word and God, who dwelt in you, a Virgin, and was born without seed, preserved you a Virgin after childbirth and kept you a Virgin in giving birth, as he is Master and Maker of all creation."
+
+ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
+
+ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C11.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.SyKyrieMouFos.name
+ocMA.OdeS5C11.text = "You came down to earth in your compassion, Lord; you raised up fallen human nature when you were hung upon a Tree."
+
+ocMA.OdeS5C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C12.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.SyKyrieMouFos.name
+ocMA.OdeS5C12.text = "You have took away the accusation of my faults, O Christ; you abolished the pains of death, O Merciful, by your Resurrection."
+
+ocMA.OdeS5C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C1T.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.SyKyrieMouFos.name
+ocMA.OdeS5C1T.text = "You we thrust forward as an unbreakable weapon against foes; we have gained you as anchor and hope of our salvation, O Bride of God."
+
+ocMA.OdeS5C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C2H.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS5C2H.text = ""
+
+ocMA.OdeS5C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C21.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMA.OdeS5C21.text = "Foolish Hell received you entire in its mouth, for as it had watched you nailed to a Tree, pierced by a lance it reckoned the lifeless living God to be a mere mortal; but when put to the test he knew the strength of your Divinity."
+
+ocMA.OdeS5C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C22.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMA.OdeS5C22.text = "The tomb, which took possession of the temple of your body, Lover of mankind, when it was destroyed, and Hell were both forced to pay the penalty; the latter by disgorging the souls of the Saints, the former their bodies. O Immortal."
+
+ocMA.OdeS5C2T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C2T.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+ocMA.OdeS5C2T.text = "See, what the Prophet foretold has now been fulfilled; for you, Virgin who knew not wedlock, carried in your womb the God over all, and gave birth to an eternal Son, who gives peace as the prize to all who sing your praise."
+
+ocMA.OdeS5C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C31.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NynAnastisomai.name
+ocMA.OdeS5C31.text = "The Son of God dwelt in you, Pure Virgin, made you for us a House of glory, holy Mountain of God, bride, bridal chamber, temple of sanctification, and Paradise of eternal delight."
+
+ocMA.OdeS5C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C32.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NynAnastisomai.name
+ocMA.OdeS5C32.text = "From virgin blood, O Christ, you took flesh, without seed, immaculate and empersonned, rational and intelligent, endowed with life, activity and will, its own master and self determined."
+
+ocMA.OdeS5C33.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS5C33.ode = misc_en_UK_lash.Ode5
+ocMA.OdeS5C33.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NynAnastisomai.name
+ocMA.OdeS5C33.text = "A virgin womb has shamed the tyrant’s plot; for a babe has searched out with his hand the soul-destroying hole of asps, overthrown the boastful rebel and subjected him under the feet of the faithful."
+
+ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
+
+ocMA.OdeS6C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C11.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+ocMA.OdeS6C11.text = "Girded with power you ascended the Cross and came to grips with the tyrant, and as God hurled him from on high; but Adam you raised up with your invincible hand."
+
+ocMA.OdeS6C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C12.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+ocMA.OdeS6C12.text = "You rose from the tomb, O Christ, in dazzling beauty, scattered every foe by your divine power, and as God filled all things with gladness."
+
+ocMA.OdeS6C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C1T.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+ocMA.OdeS6C1T.text = "O wonder, newer than every wonder; for a Virgin, without knowing man, conceived in her womb the One who encompasses all things but did not restrict him."
+
+ocMA.OdeS6C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C2H.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C2H.text = ""
+
+ocMA.OdeS6C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C21.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.IlthonEisTaVathi.name
+ocMA.OdeS6C21.text = "Hell opened its gullet and swallowed me down, and the fool puffed up his soul; but Christ came down and brought out my life, for he loves mankind."
+
+ocMA.OdeS6C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C22.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.IlthonEisTaVathi.name
+ocMA.OdeS6C22.text = "Death was caught by death; for the One who was dead arose having granted me incorruption; the immortal appeared and proclaimed joy to the women."
+
+ocMA.OdeS6C2T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C2T.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.IlthonEisTaVathi.name
+ocMA.OdeS6C2T.text = "Your pure womb, O Mother of God, has been declared the place of the unendurable godhead; on which the Hosts of heaven cannot gaze without fear."
+
+ocMA.OdeS6C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C31.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.IlthonEisTaVathi.name
+ocMA.OdeS6C31.text = "Of old the serpent deceived me and put me to death through my foremother Eve; but now, pure Virgin, through you the One who fashioned me has called me back from corruption."
+
+ocMA.OdeS6C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS6C32.ode = misc_en_UK_lash.Ode6
+ocMA.OdeS6C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.IlthonEisTaVathi.name
+ocMA.OdeS6C32.text = "The deep of compassion declared you, O Maiden, to be ineffably the chosen deep of wonders; for from you Christ the Pearl shone with the lightning flash of his godhead."
+
+ocMA.Kontakion.mode = misc_en_UK_lash.Mode4
+ocMA.Kontakion.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+ocMA.Kontakion.text = "My Saviour and Deliverer, from the tomb as God raised from their bonds those born of earth and smashed the gates of Hell, and as Master arose on the third day."
+
+ocMA.Oikos.mode = misc_en_UK_lash.Mode4
+ocMA.Oikos.text = "Let all of us who are born of earth sing the praise of Christ the giver of life, who rose from the dead on the third day from the tomb, and by his power to-day smashed the gates of death, put Hell to death and crushed the sting of death, set Adam free with Eve, as with thanksgiving we cry aloud our fervent praise: For he as alone the mighty God and Master rose on the third day."
+
+ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
+
+ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C11.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+ocMA.OdeS7C11.text = "Washed in the divine Blood of Christ, humanity has been called back to incorruption, as it sings with thanksgiving: Blessed are you, O Lord, in the temple of your glory."
+
+ocMA.OdeS7C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C12.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+ocMA.OdeS7C12.text = "Your tomb, the source of our resurrection, has been revealed, O Christ, as bearer of life, lovelier than Paradise, and brighter than any kingly bridal chamber."
+
+ocMA.OdeS7C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C1T.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+ocMA.OdeS7C1T.text = "Sanctified and divine dwelling of the Most High, hail! For through you, Mother of God, joy has been given to those who cry: Blessed are you among women, all-blameless Lady."
+
+ocMA.OdeS7C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C2H.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS7C2H.text = ""
+
+ocMA.OdeS7C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C21.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukElatrefsan.name
+ocMA.OdeS7C21.text = "Hanging upon a Tree you humbled the haughty look and cast to the earth the supercilious brow, and saved mankind. O highly exalted; Lord and God of our fathers, blessed are you."
+
+ocMA.OdeS7C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C22.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukElatrefsan.name
+ocMA.OdeS7C22.text = "By your power exalt the horn of us who worship you, O Master, who rose from the dead and emptied Hell, wealthy before with many people. Lord and God of our fathers, blessed are you."
+
+ocMA.OdeS7C2Tr.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C2Tr.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukElatrefsan.name
+ocMA.OdeS7C2Tr.text = "Following divine teachings we glorify one Godhead, as a radiance with three lamps, unconfounded and undivided that knows no evening and which enlightens all creation that sings: O God, blessed are you."
+
+ocMA.OdeS7C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C31.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NeoiTreisEnVavyloni.name
+ocMA.OdeS7C31.text = "The fire of love of the Virgin within my heart draws me to song, to cry to the Mother and Virgin: Blessed one, the Lord of Powers is with you."
+
+ocMA.OdeS7C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C32.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NeoiTreisEnVavyloni.name
+ocMA.OdeS7C32.text = "You were revealed as higher than all creatures, for you gave birth to the Maker and Lord; and so, Mother of God I cry to you: Blessed one, the Lord of Powers is with you."
+
+ocMA.OdeS7C3Tr.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS7C3Tr.ode = misc_en_UK_lash.Ode7
+ocMA.OdeS7C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NeoiTreisEnVavyloni.name
+ocMA.OdeS7C3Tr.text = "Reverencing you as one Lordship, undivided in three sources of holiness, O Nature with three Persons, I sing your praise as I cry: Blessed are you, who guide the universe."
+
+ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
+
+ocMA.OdeS8C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C11.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+ocMA.OdeS8C11.text = "Stretching out your hands on the Cross, you gathered in all the nations, and revealed one Church, Master, which sings your praise, for those on earth and those in heaven who sing in harmony: Bless the Lord, all you works of the Lord."
+
+ocMA.OdeS8C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C12.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+ocMA.OdeS8C12.text = "An Angel white as snow, blazing with the unapproachable light of the Resurrection, appeared to the women and cried out: Why do you seek the living as a mortal in the tomb: Christ has truly risen. To him let us cry: All you works, praise the Lord."
+
+ocMA.OdeS8C1T.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C1T.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+ocMA.OdeS8C1T.text = "You alone in all generations, immaculate Virgin, were revealed as Mother of God; you became the lodging of the Godhead, O all-blameless, and were not burned by the fire of the unapproachable light; therefore we all bless you, Mary, Bride of God."
+
+ocMA.OdeS8C2H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C2H.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C2H.text = ""
+
+ocMA.OdeS8C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C21.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+ocMA.OdeS8C21.text = "When it saw your unjust slaughter creation, mute with sorrow, grieved; for when the earth was troubled, the sun wrapped itself in a deep black cloud as a garment; but we without ceasing praise and highly exalt you, O Christ, to the ages."
+
+ocMA.OdeS8C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C22.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+ocMA.OdeS8C22.text = "You came down to my aid as far as Hell, and made the resurrection a road for all; you went up once more, taking me on your shoulders, and brought me to the Father; therefore I cry to you: Praise the Lord his works, and highly exalt him to all the ages."
+
+ocMA.OdeS8C2Tr.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C2Tr.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+ocMA.OdeS8C2Tr.text = "We glorify the first Mind and cause of all, the Father alone without cause, the Word without beginning, the Spirit, the Paraclete, one God and Lord and Maker of all, as we worship a Trinity one in nature and highly exalt it to all the ages."
+
+ocMA.OdeS8C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C31.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LytrotaTouPantos.name
+ocMA.OdeS8C31.text = "Having fashioned you from Adam’s side, he was incarnate from your virginity, the Lord of all, whom we praise as we cry out: All you his works, bless the Lord."
+
+ocMA.OdeS8C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C32.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LytrotaTouPantos.name
+ocMA.OdeS8C32.text = "In a tent Abraham beheld the mystery which is in you, Mother of God, for he received your Son, not in the flesh, and sang: All you his works, bless, praise the Lord."
+
+ocMA.OdeS8C33.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS8C33.ode = misc_en_UK_lash.Ode8
+ocMA.OdeS8C33.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LytrotaTouPantos.name
+ocMA.OdeS8C33.text = "The pattern of your virginity saved those equal in number to the Trinity; for in virgin bodies they trampled down the flame, O Maiden, as they cried: Bless, praise the Lord."
+
+ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+
+ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C11.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+ocMA.OdeS9C11.text = "The whole of you assumed the whole of me in a conjunction without confusion, giving the whole of salvation, O my God, through your suffering; which you underwent in the body on the Cross though your great compassion."
+
+ocMA.OdeS9C12.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C12.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+ocMA.OdeS9C12.text = "When your Disciples saw your opened tomb and the grave clothes, that had held God, lying emptied by your Resurrection, they said with the Angel: The Lord has risen indeed."
+
+ocMA.OdeS9C1Tr.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C1Tr.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+ocMA.OdeS9C1Tr.text = "All we believers worship a Unity of divine being, but a Trinity of persons, in persons without confusion it is equal in might and identical in honour, which we reverence and magnify."
+
+ocMA.OdeS9C21.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C21.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+ocMA.OdeS9C21.text = "The serpent in Eden crept with guile and took me prisoner; but the almighty Lord dashed him against the mighty rock of Calvary, like an infant, and though the Tree of the Cross opened up for me again the entrance of delight."
+
+ocMA.OdeS9C22.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C22.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+ocMA.OdeS9C22.text = "You laid waste the mighty strongholds of the foe and plundered his wealth with your all powerful hand, raising me with you from the vaults of Hell, and exposed the ancient vaunting boaster as a mere jest and laughing stock."
+
+ocMA.OdeS9C23.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C23.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C23.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+ocMA.OdeS9C23.text = "Come to visit the misery of your people in their penury; with your compassionate and mighty hand give power to the Sovereign who bears the Cross against blaspheming foes to rescue your own inheritance, O Christ, as you love mankind."
+
+ocMA.OdeS9C31.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C31.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C31.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.KryptonTheionAchranton.name
+ocMA.OdeS9C31.text = "We see you as a lily dyed with the purple of the divine Spirit, immaculate Virgin, shining out in the midst of thorns and filling with sweet fragrance those who truly magnify you."
+
+ocMA.OdeS9C32.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C32.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C32.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.KryptonTheionAchranton.name
+ocMA.OdeS9C32.text = "From your womb, O all-blameless, the Incorruptible took our unstable mortal nature and through his compassion revealed it as stable in himself; and so as Mother of God we magnify you."
+
+ocMA.OdeS9C33.mode = misc_en_UK_lash.Mode4
+ocMA.OdeS9C33.ode = misc_en_UK_lash.Ode9
+ocMA.OdeS9C33.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.KryptonTheionAchranton.name
+ocMA.OdeS9C33.text = "Sovereign Lady of all created things, grant trophies of victory to your people, placing the adversary under truce to the Church, so that as Mother of God we may magnify you."
+
+ocMA.Magnificat.mode = misc_en_UK_lash.Mode4
+ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
+
+ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
+ocMA.MM.Lauds02.text = properties_en_UK_lash.media.key
+
+ocMA.MM.LaudsHeirmologic01.text = properties_en_UK_lash.media.key
+ocMA.MM.LaudsHeirmologic02.text = properties_en_UK_lash.media.key
+
+ocMA.Lauds1.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds1.melody = ""
+ocMA.Lauds1.text = "All-powerful Lord, who endured Cross and death, and rose from the dead, we glorify your Resurrection."
+
+ocMA.Lauds2.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds2.melody = ""
+ocMA.Lauds2.text = "By your Cross, O Christ, you have freed us from the ancient curse, and by your death you have destroyed the devil who tyrannised over our nature, by your Rising you have filled all things with joy; therefore we cry to you: Lord risen from the dead, glory to you!"
+
+ocMA.Lauds3.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds3.melody = ""
+ocMA.Lauds3.text = "With your Cross, Christ Saviour, guide us to your truth, and deliver us from the snares of the foe; risen from the dead raise us who have fallen through sin by stretching out your hand, Lord, at the prayers of your Saints."
+
+ocMA.Lauds4.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds4.melody = ""
+ocMA.Lauds4.text = "Only-begotten Word of God, without being parted from the Father's bosom, you came on earth through love for mankind, becoming man without change, and though impassible in your Godhead, you endured Cross and death in the flesh; but risen from the dead you granted the human race immortality, as you alone are all-powerful."
+
+ocMA.Lauds5.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds5.melody = ""
+ocMA.Lauds5.text = "You accepted death in the flesh, so ensuring us immortality; and you dwelt in a tomb, that you might free us from Hell, raising us with yourself, having suffered as a man, but rising as God. Therefore we cry to you: Glory to you, life-giving Lord, only lover of mankind."
+
+ocMA.Lauds6.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds6.melody = ""
+ocMA.Lauds6.text = "The rocks were rent, O Saviour, when your Cross was fixed on Calvary; the gate-keepers of Hell trembled when you were placed as a mortal in the sepulchre; for you destroyed the strength of death and gave incorruption to the dead by your Resurrection, O Saviour. Giver of life, glory to you!"
+
+ocMA.Lauds7.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds7.melody = ""
+ocMA.Lauds7.text = "Women longed to see your Resurrection, Christ God; Mary Magdalen came in anticipation; she found the stone rolled away from the grave, and the Angel sitting and saying; Why do you seek the living with the dead? He has risen as God, that he may save the universe."
+
+ocMA.Lauds8.mode = misc_en_UK_lash.Mode4
+ocMA.Lauds8.melody = ""
+ocMA.Lauds8.text = "Where is Jesus, whom you thought to guard? say, O Jews. Where is he whom you placed in the grave, then sealed the stone? Give back the dead, you who denied life; give back the buried or believe in the Risen One. Though you keep silent about the Lord's Rising, the stones will cry out, above all the one that was rolled away from the grave. Great is your mercy! Great the mystery of your dispensation! Our Saviour, glory to you!"
+
+ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode4
+ocMA.ApolTheotokion.melody = ""
+ocMA.ApolTheotokion.text = ""
+
+ocLI.Beatitudes1.mode = misc_en_UK_lash.Mode4
+ocLI.Beatitudes1.melody = ""
+ocLI.Beatitudes1.text = "Through a tree Adam became an exile from Paradise; but through the tree of the Cross the Thief made his home in Paradise, for the former through tasting set aside his Maker's commandment, while the latter, crucified with him, confessed the hidden God, as he cried, ‘Remember me in your kingdom’."
+
+ocLI.Beatitudes2.mode = misc_en_UK_lash.Mode4
+ocLI.Beatitudes2.melody = ""
+ocLI.Beatitudes2.text = "You were lifted up on the Cross, O Lord, and you abolished the power of death, and as God you expunged the record against us. O only lover of mankind, grant the Thief’s repentance to us also, who serve you with faith, O Christ our God, and cry to you, ‘Remember us also in your kingdom’."
+
+ocLI.Beatitudes3.mode = misc_en_UK_lash.Mode4
+ocLI.Beatitudes3.melody = ""
+ocLI.Beatitudes3.text = "On the Cross you tore up our record with the lance, and numbered among the dead you bound the tyrant there, so delivering all from the bonds of Hell by your Resurrection; through which, O Lord who loves mankind, we have been enlightened and we cry to you, ‘Remember us also in your kingdom’."
+
+ocLI.Beatitudes4.mode = misc_en_UK_lash.Mode4
+ocLI.Beatitudes4.melody = ""
+ocLI.Beatitudes4.text = "You were crucified and rose from the tomb on the third day as conqueror, and you raised Adam again the first-formed, O only Immortal, grant me also, Lord, to turn again to repentance from my whole heart, and ever cry to you with fervent faith, ‘Remember me, O Saviour, in your kingdom’."
+
+ocLI.Beatitudes5.mode = misc_en_UK_lash.Mode4
+ocLI.Beatitudes5.melody = ""
+ocLI.Beatitudes5.text = "For our sakes the impassible became a human, subject to suffering, and willingly nailed on the Cross he raised us with himself; therefore with the Cross we also glorify the Passion and Resurrection, through which we have been refashioned, and through which we are saved, as we cry, ‘Remember us also in your kingdom’."
+
+ocLI.Beatitudes6.mode = misc_en_UK_lash.Mode4
+ocLI.Beatitudes6.melody = ""
+ocLI.Beatitudes6.text = "Let us the faithful implore him who rose from the dead, despoiled the might of Hell and appeared to the women as he cried: Rejoice, to free our souls from corruption, as we ever cry to him in the words of the good Thief, ‘Remember us also in your kingdom’."
+
+ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesGlory.melody = ""
+ocLI.BeatitudesGlory.text = "Let us the faithful all with one mind vow to glorify the Father and the Son and the All-holy Spirit, Unity of Godhead in three Persons, remaining unconfused, simple, undivided and unapproachable, through which we are delivered from the fire of eternal punishment."
+
+ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesBoth.melody = ""
+ocLI.BeatitudesBoth.text = "O Christ, most merciful Master, we bring you your Mother, who bore you in the flesh without seed and truly remained a Virgin incorrupt after child-birth, to intercede: ever grant pardon of offences to those who cry to you: Remember us also in your kingdom."
+

@@ -1,0 +1,488 @@
+A_Resource_Whose_Name = me.m07.d05_en_UK_lash
+
+meDate.text = "July 5"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode2
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+meVE.Stichera01.text = "What panegyrics of praise may we offer to Athanasios? By his actions fairly adorned, richly supplied with graces poured from the bright radiance of God; the sword who cuts down the assaults of the passions; the pillar ablaze with contemplation; the lamp of self-mastery who radiates from the lamp of his soul the commands of God, who grants life to all."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode2
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+meVE.Stichera02.text = "With what garlands of words may we paltry creatures garland Athanasios? The falcon who flies heavenwards, lifted soaring on godlike wings of contemplation; the impregnable tower of humility; the unshakeable wall of discernment; the honoured beauty of the fair adornment of virtues; the one who on behalf of his children implores Christ God the only compassionate."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode2
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+meVE.Stichera03.text = "By the torch of your gifts of grace, Venerable Father Athanasios, inspired by God, you were revealed as an ever-radiant dawn, drawing towards the day-break that knows no evening those who are blinded by the fog of the passions; and so, as one who has multiplied his talent, Christ has declared you to be a healer of souls who lances the putrefaction of incurable wounds with the sword of your words, and grants saving strength to those who approach you."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode8
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode8
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode8
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Your life was filled with God, your end was all-holy, Father Athanasios, for by it the whole multitude of the Mountain was assembled and when they saw you lying lifeless on a bier they cried out with mournful words: Grant a final word to your servants, O Saint; tell us, how have you abandoned your children, Father, the children whom you pitied as a father, truly full of sympathy and tender love. But even though here you are hidden in the tomb, we who honour you with love are enriched with you as protector and advocate on high with God."
+
+meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
+
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode2
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_UK_lash.Mode4
+meVE.Lity3.melody = ""
+meVE.Lity3.text = ""
+
+meVE.LityGlory.mode = misc_en_UK_lash.Mode5
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode5
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha1.text = "Hail venerable Athanasios, companion of angelic choirs; for you truly led their life on earth, all-blessed Father, practising virtue and appearing as an unsullied mirror of purity, receiving the blazing beams of the Holy Spirit; therefore shining brightly you saw the future, foretelling all, initiated from the divine illumination of Christ; implore him that our souls be given his great mercy."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha2.text = "Hail prince and invincible champion of ascetics; for having cut out the roots of the passions and bravely withstood the assaults of the demons, Athanasios, you triumphed over their soul-destroying error; while you revealed the force and unconquerable power of the Cross of the Saviour. Girded with this power you conquered all those who reject the divine manifestation of Christ in the flesh; implore him that our souls be given his great mercy."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha3.text = "A well-fixed pillar of virtues radiant with light and an overshadowing cloud, you appeared leading those on Athos who love God from earth to heaven, as you break open the sea of the passions with the staff of the Cross. You wounded the spiritual Amalek and found the unimpeded path to heaven and an inviolate lot, O Blest by God, as you stand joyfully with the Bodiless Powers before the throne of Christ; implore him that our souls be given his great mercy."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "As we hasten together, O lovers of festivals, let us honour with songs of praise the beauty of the Fathers, the glory of ascetics, the spring of marvels and unashamed intercessor with God as we say: Hail, rule and model, most precise pattern of the monastic life. Hail, most brilliant of beacons, who light up the whole world with the torches of virtues. Hail, great advocate and pains and fervent protector of those in troubles. And therefore, Athanasios, do not cease to intercede with Christ God on behalf of this flock of yours, and of all the faithful who honour your revered falling asleep."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.o_en_UK_lash.TheotokeSyEi.name
+meVE.AposTheotokion.text = he.o_en_UK_lash.TheotokeSyEiOsiou.text
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode3
+meVE.Apolytikion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+meVE.Apolytikion1.text = "The ranks of Angels were amazed by your life in the flesh, how with a body you were capable of invisible wrestlings and wounded the regiments of the demons; therefore, Athanasios, Christ has repaid you with rich gifts. And so, Father, intercede with Christ God that our souls may be saved."
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+meMA.Kathisma11.text = "Taking up his Cross on your shoulders, you devoutly followed Christ by ascetic deeds, venerable Athanasios; and you have become a model for all monastics who in holiness live the ascetic life, glorious Father. But now that by godly trials you have attained the palaces above do not cease to intercede for the salvation of our souls."
+
+meMA.Kathisma1T.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma1T.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+meMA.Kathisma1T.text = "Like the Prophet I cry out to you: Do not enter into judgement with me, O Christ; for I know that my faults accuse me, and I cry out to you: Have mercy at the prayers of her who bore on me, humble and unworthy, as you did on the Thief and the Harlot, the Prodigal and the Publican, O Lover of mankind; for you did not come to save the just, but rather those who had fallen."
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kathisma21.text = "Through godly deeds and a pure life you were well pleasing to the Lord, Venerable Father; and you have been found worthy of the inheritance of the Bodiless Powers, wise Athanasios."
+
+meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma2T.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kathisma2T.text = "Invincible protection of those in need and ready intercession of those who hope in you, deliver me from dangers and do not despise me, O help of all."
+
+meMA.C1Acrostic.text = "As I hymn Athanasios, I shall praise his virtue. Amen."
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C11.text = "Immortality became your name and while still in life you appeared as a partaker of true immortality, passing beyond transient things. But as you stand before Christ remember us who remember you."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C12.text = "Devout from childhood, the loss of parents in no way hindered you from acquiring virtue, but you turned all your love and all your desire entirely towards the Creator alone."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C13.text = "From impure lips I dare to sing to you in praise, possessed with longing for you and prisoner of love. But, Father, be forgiving and make me worthy to bring you this song of praise."
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C1T.text = "You gave birth beyond reason to a little child, the Ancient of Days, who showed new paths of virtue upon earth; wounded with love for him, O Maiden, your renowned servant Athanasios framed this house for you."
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C2T.text = ""
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C11.text = "From a child you were seized with love for God, collecting round you children of your own age and forming them into a band you trained them spiritually, most wisely weaning them from childish ways."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C12.text = "Smitten with love of wisdom, you reached the fair city of Constantine, O God-inspired; and like a wise, melodious bee you gathered seasonable words and abandoned what was superfluous."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C13.text = "Piloting your spiritual ship, blest Father, with the sail of the Cross you accomplished shrewdly and nimbly the difficult voyage of life and you were brought to the divine havens of calm."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C1T.text = "He who was ineffably begotten of the Father before the ages, in the last times came forth from your womb and made our nature divine, O Virgin Mother, conspicuously bringing to himself the companies of the ascetics."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SyToLogoSouKyrie.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SyToLogoSouKyrie.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SyToLogoSouKyrie.name
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SyToLogoSouKyrie.name
+meMA.Ode3C2T.text = ""
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = "From your youth you abandoned all the perishable and pleasant things of life, keenly following the One who called you, venerable Father; and taking the Cross on your shoulders, as you had heard, you wasted your body away by fasts; therefore the All-loving Lord chose you well as shepherd of his own sheep, Venerable Athanasios. Intercede with Christ God to grant forgiveness of offences to those who celebrate with love your holy memory."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = "The Wisdom and Word you conceived in your womb unburned, O Mother of God, and you bore for the world the One who possesses the world; from your breasts you suckled the One who nourishes all; in your embrace you held the One who carries all things; therefore I implore you, All-holy Virgin, to be delivered from my offences when I am about to stand before the face of my Creator. O Lady, pure Virgin, grant me then your help; for I your servant have you as my hope."
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C11.text = "Making your mind ruler of the passions and guided by inspired deeds you accomplished the good way and devoutly drove off the ambushes, villainies and knaveries of the demons, wisely choosing the better part."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C12.text = "You submitted to the light yoke of Christ and instructed by fear of God and purified in body and soul you became an argument of purity and sobriety, a definition of self-control, a seal of dispassion and an image of love, Athanasios."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C13.text = "Having shared in our own culture and that which is from without, with great love of wisdom you distinguished in each that which is suitable and advantageous, fortified by justice, wisdom, humility, understanding and courage, and conspicuous by the other gifts of grace."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C1T.text = "Carried with awe on the backs of the Cherubim, the Master dwelt in your womb, Pure Virgin, as on a throne of fire, and by assuming flesh he made human nature divine, as Athanasios, famed among ascetics, teaches, O only all-praised."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C11.text = "You appeared as a lode-stone, Father, by the sweetness of your words drawing to the teaching and hearing of your instructions those who desire to see and look on your revered and gracious face."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C12.text = "Yielding to divine laws and obedient to the commands of their Maker, you appeared as a lawgiver and most strict rule for monks, teacher of the foolish, guide of the erring and beacon of those in darkness, honoured Father."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C13.text = "Mould of virtues and vessel of the gifts of the Holy Spirit, you built a sacred and pleasant place of learning, setting out the whole conduct and way of life suitable for monks."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C1T.text = "The mouth of rhetors has not strength to sing you, O All-praised, who are higher than the Cherubim and all creation; and so with godlike Athanasios intercede with the Master on behalf of us all."
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C11.text = "By your toils you slew the desires of the flesh, you crucified yourself to the world and the passions, as by fasts and tears, prayers and hymns you waited on God."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C12.text = "Prince of monks on Mount Athos, type and model of virtuous deeds, you adorned all the dwellings there of the unwedded."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C13.text = "Pleasant, upright and good, fair and moderate, accessible, gentle, merciful, sympathetic and compassionate and cheerful you were in your ways, and by your conduct an imitator of Christ."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C1T.text = "Revealed as a new Moses, you made ready another tabernacle, a sheepfold, All-honoured Father; and you increased it by toils and sweat and dedicated it to the Mother of God."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C2T.text = ""
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYpermacho.name
+meMA.Kontakion1.text = "As noblest contemplator of the immaterial beings and truest ascetic teacher we your flock praise you and we cry: Do not cease to intercede with the Lord that they may be delivered from trials and dangers those who cry out to you: Hail Father Athanasios!"
+
+meMA.Oikos1.text = "Accepting your call from above you have inherited immortal life; for with a body upon earth you shared the life of the Bodiless Ones and became impregnable to the passions; and so we praise you Father:"
+meMA.Oikos12.text = "Hail, bright glory of monks; hail, radiant monument of sobriety."
+meMA.Oikos13.text = "Hail, far seen token of courage; hail, proof of all-wise prudence."
+meMA.Oikos14.text = "Hail, balanced line of accurate justice; hail, who by reason order the impulses of duties."
+meMA.Oikos15.text = "Hail, mind who enjoy ineffable thoughts; hail, who devoutly perceive all creation."
+meMA.Oikos16.text = "Hail, through whom the demons are shamed; hail through whom every passion is slain."
+meMA.Oikos17.text = "Hail, haven of those in the tempest of life; hail saviour of those who faithfully cry to you:"
+meMA.Oikos18.text = "Hail, Father Athanasios!"
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C11.text = "The sound of your way of life and your achievements has gone out into nearly all creation, Father, and reached the glorious height of God who glorified you and made you spoken of to all."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C12.text = "Forethought for the poor, defender of widows, provider for orphans, swift consolation of the sad, defence of the wronged, you have become, Father, as you imitate your Teacher."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C13.text = "Universal star and unsetting beacon of monks, helper in need, great refuge of sinners: as these I know you, and I present you, All-honoured, as mediator and advocate with the Master, Christ."
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C1T.text = "Your servant, Mother of God, as he longed to see the ineffable glory of your Son and God, took up the precious Cross and followed in his life-bearing and divine footsteps."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTinKaminonPalai.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTinKaminonPalai.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTinKaminonPalai.name
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTinKaminonPalai.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C11.text = "As a youth, Athanasios, you routed the principalities and powers of darkness and became a great teacher and saving guide, unveiling their assaults, their ambushes and their wiles, and guarding your untended flock from the malice of the demons."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C12.text = "Living as man on earth you truly gained the commonwealth of heaven, revealed as a companion of Angels and living their way of life; with them you now sing out: Priests bless, people highly exalt Christ to the ages."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C13.text = "Assembled today we rightly honour you and reverence the casket of your relics, asking by your prayers release from passions and forgiveness of sins, deliverance from every calamity and danger as we celebrate with faith and joy your holy memory to the ages."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C1T.text = "As Elias of old dwelt on Carmel, so he too dwelt on Mount Athos, devoting himself with longing to be by himself with God; and irradiated by divine graces of contemplation he was declared to be the servant of the pure Mother of God, as with the Archangel he cried to her:Hail!"
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C11.text = "When you had perfected, as though without flesh upon earth, purity, sobriety and a pure and unsullied way of life and conduct, you hastened to heavenly abodes and you rejoice together with all the saints and just as you implore Christ on behalf of all."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C12.text = "Greatly you magnified on earth your own Master and by your own limbs through contemplation and activity you glorified him and appeared as glorious and you became admired by all, godbearing Father; for the enemy knew truly to respect your virtue."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C13.text = "You were united with the armies of the Bodiless Powers and numbered with the choirs of saints, and you join in the dance with all the elect, partaking in the true life of God and in immortal life, O Father; with them intercede with your Master unremittingly for your flock."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C1T.text = "As you are a hallowed temple which contained one of the Trinity, O Lady, your servant Athanasios raised a fair and holy temple to your glory and honour, in which do not cease without ceasing to grant your support by your prayers."
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEkTheouTheonLogon.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEkTheouTheonLogon.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEkTheouTheonLogon.name
+meMA.Ode9C2T.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+meMA.Exaposteilarion1.text = "You dawned resplendent, bearing light, from the regions of the East and enlightened the regions of the West, Athanasios, by the radiance of your virtues; but do not cease to intercede for the world to the Lord."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+meMA.ExapTheotokion.text = "All-shining universal Queen, at the supplications of honoured Athanasios guard untouched by any hostility your flock which ever sings your praise, the protection of the world."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode8
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meMA.Lauds1.text = "Truly the death of your Saint was precious in your sight, O Christ; for see, from his foot your servant made a spring of blood gush out and after death it drives out every kind of sickness and puts to flight the spirits of wickedness with which, while still alive, he had battled to shedding of blood."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode8
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meMA.Lauds2.text = "All-wise Athanasios, the Lord has revealed the casket of your relics as a source of wonders and a river of gifts for mortals; it grants sight to the blind, cures leprosy, and elephantiasis; delivers those possessed by unclean spirits from their power and makes them sane."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode8
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meMA.Lauds3.text = "Hail, glory of ascetics, star of monks, boast of shepherds, Father Athanasios, companion of the Saints; hail, source of love and soberness; hail, dwelling of the Trinity; hail, radiant lamp of discernment, hail straightest rule of virtues, and living boundary-stone."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "Let us all praise the one whose name means Immortality, who lived as an ascetic bravely and nobly on Athos; who gathered this flock and with love raised up a house to the Lord and dedicated it to the Mother of God; with her he intercedes for us who with faith celebrate his memory."
+
+meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode6
+meMA.LaudsTheotokion.melody = misc_en_UK_lash.NotMetered //he.o_en_UK_lash.TheotokeSyEi.name
+meMA.LaudsTheotokion.text = he.o_en_UK_lash.TheotokeSyEiOsiou.text
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+meMegalynarion.text = ""
+

@@ -1,0 +1,48 @@
+A_Resource_Whose_Name = dismissals_en_UK_lash
+
+dis00 = "May"
+dis00.andresurrection = ""
+dis00.annunciation = ""
+dis00.ascension = ""
+dis00.andascension = ""
+dis00.bridegroom = ""
+dis00.christmas = ""
+dis00.circumcision = ""
+dis00.deceased = "he who has authority over the living and the dead, as immortal King, and who rose from the dead,"
+dis00.epiphany = ""
+dis00.holyfriday = ""
+dis00.holythursday = ""
+dis00.meeting = ""
+dis00.palm = ""
+dis00.pascha = ""
+dis00.passion = ""
+dis00.pentecost = ""
+dis00.pentvespers = ""
+dis00.resurrection = "(On Sundays: he who rose from the dead)"
+dis00.transfiguration = ""
+dis01 = "Christ, our true God,"
+dis02 = "through the prayers of his most pure and holy Mother,"
+dis03 = "by the power of the precious and life-giving Cross,"
+dis04 = "through the protection of the honoured, Bodiless Powers of heaven,"
+dis05 = "through the intercessions of the honoured, glorious Prophet, Forerunner and Baptist, John,"
+dis05b = ""
+dis06 = "of the holy, glorious and all-praised Apostles,"
+dis07 = "of the holy, glorious and triumphant Martyrs,"
+dis08 = "of our venerable and God-bearing fathers,"
+dis09 = "of the holy and righteous forebears of God, Joachim and Anna,"
+dis10 = "and of all the Saints,"
+
+dis70 = ""
+dis71 = ""
+
+dis88 = "have mercy on us and save us, for he is good and loves mankind."
+dis89 = ""
+
+dis90.text = ""
+dis91 = ""
+dis92 = ""
+dis93 = ""
+dis94 = ""
+
+dis100 = prayers_en_UK_lash.DiEfchonPateron.text
+dis101 = prayers_en_UK_lash.DiEfchonDespotou.text

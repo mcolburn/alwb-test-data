@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = sy.m02.d25_en_US_dedes
+
+S01.commemoration.text = "On February 25 we commemorate our father among the saints Tarasios the Confessor, Archbishop of Constantinople."
+
+S02.commemoration.text = "On this day Saint Alexander died by the sword."
+
+S03.commemoration.text = "On this day we also commemorate the holy Hieromartyr Reginus, Bishop of Scopelus."
+
+S04.commemoration.text = "On this day Saint Anthony died by fire."
+
+S05.commemoration.text = "On this day Saint Theodore, the Fool for Christ, reposed in peace."
+
+S06.commemoration.text = "On this day the holy hieromartyr Markellos of Cyprus, Bishop of Apamea in Syria, died by the sword."
+
+S99.lastline.text= "By their holy intercessions, O God, have mercy on us. Amen."

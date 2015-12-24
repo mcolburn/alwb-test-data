@@ -1,0 +1,71 @@
+Template cu.presanctified 
+
+	import client_gr_GR_cog.*
+	import eu.lichrysbasil_gr_GR_cog.*
+	import ho.s03_gr_GR_cog.*
+	import ho.s07_gr_GR_cog.*
+	import ho.s10_gr_GR_cog.*	
+//	import me.m00.d00_gr_GR_cog.*
+//	import pe.d000_gr_GR_cog.*
+//	import tr.d000_gr_GR_cog.*
+
+//	import oc.*
+//	import pe.*
+//	import tr.*
+
+	//Templates
+	import kTheotokos.*  //Katavasia
+	import eu.li.chrysbasil.*
+	import PresanctifiedParts.*
+	
+	import actors_gr_GR_cog.*
+	import template.titles_gr_GR_cog.*
+	import misc_gr_GR_cog.*
+	import prayers_gr_GR_cog.*
+	import rubrical_gr_GR_cog.*
+	import titles_gr_GR_cog.*
+		
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	
+
+	Head 
+	Template_Title @text "Presanctified Liturgy" End_Title
+		Set_Date month 3 day 27 End_Date
+			Page_Header_Even
+				left @pageNbr
+				center @lookup sid pl.pdf.header lang L1 
+			End_Page_Header_Even
+			Page_Header_Odd
+				center @lookup sid pl.pdf.header lang L2 
+				right @pageNbr
+			End_Page_Header_Odd
+		Set_Page_Number 1 End_Set_Page_Number
+	End_Head
+	
+	Preface Covers
+		Insert_template cu.snc_presanctifiedcover End-Insert
+		Insert_template ematins.credits End-Insert
+	End-Preface
+	
+	Insert_section PL._01_Beginning End-Insert
+	Title <r>sid client_en_US_us2goa3atl4nc04.cl.eu.presanctified.R001</> End-Title
+	Break line End_Break
+	Break line End_Break
+	Break line End_Break
+	Break line End_Break
+	Break line End_Break
+	Break line End_Break
+	Break line End_Break
+	Break line End_Break
+	Insert_section PL._06 End-Insert
+	Insert_section PL._07 End-Insert
+	Insert_section PL._08 End-Insert
+	Insert_section PL._09 End-Insert
+	Insert_section PL._10 End-Insert
+	Insert_section PL._11 End-Insert
+	Insert_section PL._12 End-Insert
+
+End-Template

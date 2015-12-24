@@ -1,0 +1,612 @@
+A_Resource_Whose_Name = titles_gr_GR_cog
+
+Allilouia = "Ἀλληλούϊα."
+
+Anastasimon = "Ἀναστάσιμον."
+
+Antifonon1 = "Ἀντίφωνον Αʹ."
+
+Antifonon2 = "Ἀντίφωνον Βʹ."
+
+Antifonon3 = "Ἀντίφωνον Γʹ."
+
+Antifonon4 = "Ἀντίφωνον Δʹ."
+
+AntiTouEidomenToFos = "Ἀντὶ τοῦ, Εἴδομεν τὸ φῶς·"
+
+Apolysis = "ΑΠΟΛΥΣΙΣ"
+
+Apolytikia = "Ἀπολυτίκια."
+
+Apolytikion = "Ἀπολυτίκιον."
+
+ApolytikionAnastasimon = "Ἀπολυτίκιον Ἀναστάσιμον."
+
+Aposticha = "Ἀπόστιχα."
+
+ApostichaAnastasima = "Ἀπόστιχα Ἀναστάσιμα."
+
+ApostichaStichira = "Ἀπόστιχα Στιχηρά."
+
+ApostichaTonAinon = "Ἀπόστιχα τῶν Αἴνων."
+
+Apostolika = "Αποστολικά."
+
+Apostolikon = "Ἀποστολικόν."
+
+DoxologiaMegaliKaiApolysis = "Δοξολογία Μεγάλη, καὶ Ἀπόλυσις."
+
+EfchiTouAgiouEfraim = "Εὐχὴ τοῦ Ἁγίου Ἐφραίμ"
+
+EiEstinEideMi = "εἴ ἐστιν· εἰδὲ μή,"
+
+EirmosEteros = "Εἱρμὸς Ἕτερος."
+
+EirmosOAftos = "Εἱρμὸς ὁ αὐτός."
+
+Eisodikon = "Εἰσοδικόν."
+
+EisTinLeitourgian = "ΕΙΣ ΤΗΝ ΛΕΙΤΟΥΡΓΙΑΝ"
+
+EisTinLitin = "Εἰς τὴν Λιτήν."
+
+EisTinTrithektin = "ΕΙΣ ΤΗΝ ΤΡΙΘΕΚΤΗΝ"
+
+EisToApodeipnon = "ΕΙΣ ΤΟ ΑΠΟΔΕΙΠΝΟΝ"
+
+EisToKyrieEkekraxa = "Εἰς τό, Κύριε ἐκέκραξα,"
+
+EisTonEsperinon = "ΕΙΣ ΤΟΝ ΕΣΠΕΡΙΝΟΝ"
+
+EisTonOrthron = "ΕΙΣ ΤΟΝ ΟΡΘΡΟΝ"
+
+EisTonStichon = "Εἰς τὸν Στίχον."
+
+EisTonStichonTonAinon = "Εἰς τὸν Στίχον τῶν Αἴνων."
+
+EisTousAinous = "Εἰς τοὺς Αἴνους."
+
+Eita = "Εἴτα·"
+
+EkTouEsperinou = "Ἐκ τοῦ Ἑσπερινοῦ."
+
+EkTouMinaiou = "Ἐκ τοῦ Μηναίου."
+
+EnTiLeitourgia = "ΕΝ Τῌ ΛΕΙΤΟΥΡΓΙᾼ"
+
+EnToMegaloEsperino = "ΕΝ Τῼ ΜΕΓΑΛῼ ΕΣΠΕΡΙΝῼ"
+
+EnToMesonyktiko = "ΕΝ Τῼ ΜΕΣΟΝΥΚΤΙΚῼ"
+
+EnToMikroEsperino = "ΕΝ Τῼ ΜΙΚΡῼ ΕΣΠΕΡΙΝῼ"
+
+EnToOrthro = "ΕΝ Τῼ ΟΡΘΡῼ"
+
+Entrance = "Η ΕΙΣΟΔΟΣ"
+
+Eothinon = "Ἑωθινὸν"
+
+EothinonEvangelion = "Ἑωθινὸν Εὐαγγέλιον"
+
+EteraEisTonKanonaTouAgiou = "Ἕτερα εἰς τὸν Κανόνα τοῦ Ἁγίου."
+
+EteraKathismataAnastasima = "ἕτερα Καθίσματα Ἀναστάσιμα."
+
+EteraNekrosima = "Ἕτερα Νεκρώσιμα."
+
+EteraStichira = "Ἕτερα Στιχηρά."
+
+EteraStichiraAnatolika = "Ἕτερα Στιχηρὰ Ἀνατολικά."
+
+EteraTisTheotokou = "Ἕτερα τῆς Θεοτόκου."
+
+Etera = "Ἕτερα "
+
+Eteron = "Ἕτερον."
+
+EteronEktosTypikou = "Ἕτερον ἐκτὸς Τυπικοῦ."
+
+Eteros = "Ἕτερος."
+
+EterosKanon = "Ἕτερος Κανών."
+
+EteronTisEortis = "Ἕτερον τῆς Ἑορτῆς."
+
+Evlogitaria = "Εὐλογητάρια."
+
+Exaposteilaria = "Ἐξαποστειλάρια."
+
+Exaposteilarion = "Ἐξαποστειλάριον."
+
+ILiti = "Ἡ Λιτή."
+
+ILitiKaiArtoklasia = "Ἡ Λιτὴ καὶ Ἀρτοκλασία."
+
+IStavrotheotokion = "Ἢ Σταυροθεοτοκίον."
+
+Iamvikos = "Ἰαμβικός."
+
+IchosOAftos = "Ἦχος ὁ αὐτός."
+
+Idiomela = "Ἰδιόμελα."
+
+IdiomelaTouTriodiou = "Ἰδιόμελα τοῦ Τριωδίου."
+
+IProfiteia = "Η ΠΡΟΦΗΤΕΙΑ"
+
+ITisEvdomados = "(ἢ τῆς ἑβδομάδος.)"
+
+Kanon1 = "Κανὼν Αʹ."
+
+Kanon2 = "Κανὼν Βʹ."
+
+Kanon3 = "Κανὼν Γʹ."
+
+KanonEisKoimithentas = "Κανὼν εἰς Κοιμηθέντας."
+
+KanonEisPantasTousAgious = "Κανὼν εἰς πάντας τοὺς Ἁγίους."
+
+KanonEisProfitasKaiMartyras = "Κανὼν εἰς Προφήτας καὶ Μάρτυρας."
+
+KanonKatanyktikos = "Κανὼν Κατανυκτικός."
+
+KanonOAnastasimos = "Κανὼν ὁ Ἀναστάσιμος."
+
+KanonProeortios = "Κανὼν Προεόρτιος."
+
+KanonStavrosimos = "Κανὼν Σταυρώσιμος."
+
+KanonStavroanastasimos = "Κανὼν Σταυροαναστάσιμος."
+
+KanonTisAgias = "Κανὼν τῆς Ἁγίας."
+
+KanonTisEortis = "Κανὼν τῆς Ἑορτῆς."
+
+KanonTisOsias = "Κανὼν τῆς Ὁσίας."
+
+KanonTisTheotokou = "Κανὼν τῆς Θεοτόκου."
+
+KanonTonAgion = "Κανὼν τῶν Ἁγίων."
+
+KanonTonAgionApostolon = "Κανὼν τῶν Ἁγίων Ἀποστόλων."
+
+KanonTonAsomaton = "Κανὼν τῶν Ἀσωμάτων."
+
+KanonTonMartyron = "Κανὼν τῶν Μαρτύρων."
+
+KanonTouAgiou = "Κανὼν τοῦ Ἁγίου."
+
+KanonTouAgiouNikolaou = "Κανὼν τοῦ Ἁγίου Νικολάου."
+
+KanonTouOsiou = ""
+
+KanonTouProdromou = "Κανὼν τοῦ Προδρόμου."
+
+KanonTouTriodiou = "Κανὼν τοῦ Τριωδίου."
+
+KanonTriadikos = "Κανὼν Τριαδικός."
+
+Katanyktika = "Κατανυκτικά."
+
+Katanyktikon = "Κατανυκτικόν."
+
+Katavasia = "Καταβασία."
+
+Katavasia2 = "Καταβασίαι"
+
+KatavasiaEtera = "Καταβασία Ἑταίρα."
+
+Kathisma = "Κάθισμα."
+
+Kathisma1 = "Κάθισμα Αʹ."
+
+Kathisma2 = "Κάθισμα Βʹ."
+
+Kathisma3 = "Κάθισμα Γʹ."
+
+KathismaMartyrikon = "Κάθισμα Μαρτυρικόν."
+
+Kathismata = "Καθίσματα."
+
+KathismataAnastasima = "Καθίσματα Ἀναστάσιμα."
+
+KathismataMartyrika = "Καθίσματα Μαρτυρικά."
+
+Koinonikon = "Κοινωνικόν."
+
+Kontakia = "Κοντάκια."
+
+Kontakion = "Κοντάκιον."
+
+KontakionAnastasimon = "Κοντάκιον Ἀναστάσιμον."
+
+KontakionProeortion = "Κοντάκιον Προεόρτιον."
+
+KontakionTisEortis = "Κοντάκιον τῆς Ἑορτῆς."
+
+KontakionTonPateron = "Κοντάκιον τῶν Πατέρων."
+
+KontakionTouTriodiou = "Κοντάκιον τοῦ Τριωδίου."
+
+KyriakiProsefchi = "ΚΥΡΙΑΚΗ ΠΡΟΣΕΥΧΗ"
+
+Litanies = "ΑΙ ΔΕΗΣΕΙΣ"
+
+Martyrika = "Μαρτυρικά."
+
+Martyrikon = "Μαρτυρικόν."
+
+Megalynaria = "Μεγαλυνάρια."
+
+Megalynarion = "Μεγαλυνάριον."
+
+MetaTin1Stichologian = "Μετὰ τὴν αʹ Στιχολογίαν"
+
+MetaTin1StichologianKathismata = "Μετὰ τὴν αʹ Στιχολογίαν, Καθίσματα."
+
+MetaTin2Stichologian = "Μετὰ τὴν βʹ Στιχολογίαν"
+
+MetaTin2StichologianEK = "Μετὰ τὴν βʹ Στιχολογίαν, ἕτερα Καθίσματα."
+
+MetaTin3StichologianEK = "Μετὰ τὴν γʹ Στιχολογίαν, ἕτερα Καθίσματα."
+
+MetaTonAmomonKaiTaEvlogitaria = "Μετὰ τὸν Ἄμωμον καὶ τὰ Εὐλογητάρια, ἡ"
+
+MetaTonPolyeleon = "Μετὰ τὸν Πολυέλεον."
+
+Mode = "Ἦχος"
+
+Nekrosima = "Νεκρώσιμα."
+
+Nekrosimon = "Νεκρώσιμον."
+
+NekrosimonKanona = "Νεκρώσιμον Κανόνα"
+
+OAftos = "Ὁ αὐτός."
+
+OApostolos = "Ο ΑΠΟΣΤΟΛΟΣ"
+
+OEirmos = "Ὁ Εἱρμός."
+
+OEirmosOsKatavasia = "Ὁ Εἱρμὸς ὡς Καταβασία."
+
+OiAinoi = "Οἱ Αἶνοι."
+
+OiAnavathmoi = "Οἱ Ἀναβαθμοί."
+
+OiAnavathmoi41 = "Οἱ Ἀναναθμοί, τὸ αʹ Ἀντίφωνον τοῦ δʹ ἤχου."
+
+OiMakarismoi = "Οἱ Μακαρισμοί."
+
+OKanon = "Ὁ Κανών."
+
+OKanonTisEortis = "Ὁ Κανὼν τῆς Ἑορτῆς."
+
+OKanonTouMinaiou = "Ὁ Κανὼν τοῦ Μηναίου."
+
+Omoia = "Ὅμοια."
+
+Omoion = "Ὅμοιον."
+
+OOikos = "Ὁ Οἶκος."
+
+OTrisagiosYmnos = "Ο ΤΡΙΣΑΓΙΟΣ ΥΜΝΟΣ"
+
+OuIAkrostichis = "οὗ ἡ ἀκροστιχίς·"
+
+PalinToAfto = "Πάλιν τὸ αὐτό."
+
+Pentikostarion = "Πεντηκοστάριον."
+
+Proeortia = "Προεόρτια."
+
+Proeortion = "Προεόρτιον."
+
+Prokeimenon = "Προκείμενον."
+
+Prosomoia = "Προσόμοια."
+
+PsallomenaEnTiOdiTafti = "Ψαλλόμενα ἐν τῇ ᾨδῇ ταύτῃ."
+
+SmallEntrance = "Η ΜΙΚΡΑ ΕΙΣΟΔΟΣ"
+
+Stasis1 = "ΣΤΑΣΙΣ ΠΡΩΤΗ"
+
+Stasis2 = "ΣΤΑΣΙΣ ΔΕΥΤΕΡΑ"
+
+Stasis3 = "ΣΤΑΣΙΣ ΤΡΙΤΗ"
+
+Stasis4 = "ΣΤΑΣΙΣ ΤΕΤΑΡΤΗ"
+
+Stavrosimon = "Σταυρώσιμον."
+
+Stavrosima = "Σταυρώσιμα."
+
+Stavrotheotokion = "Σταυροθεοτοκίον."
+
+Stichira = "Στιχηρά."
+
+Stichiron = "Στιχηρόν."
+
+Stichiron1 = "Στιχηρὸν Αʹ."
+Stichiron2 = "Στιχηρὸν Βʹ."
+Stichiron3 = "Στιχηρὸν Γʹ."
+Stichiron4 = "Στιχηρὸν Δʹ."
+Stichiron5 = "Στιχηρὸν Εʹ."
+Stichiron6 = "Στιχηρὸν Ϛʹ."
+Stichiron7 = "Στιχηρὸν Ζʹ."
+Stichiron8 = "Στιχηρὸν Ηʹ."
+Stichiron9 = "Στιχηρὸν Θʹ."
+Stichiron10 = "Στιχηρὸν Ιʹ."
+
+StichiraAnastasima = "Στιχηρὰ Ἀναστάσιμα."
+
+StichiraAnastasimaTisOktoichou = "Στιχηρὰ Ἀναστάσιμα τῆς Ὀκτωήχου."
+
+StichiraApostolika = "Στιχηρὰ Ἀποστολικά."
+
+StichiraDespotika = "Στιχηρὰ Δεσποτικά."
+
+StichiraIdiomela = "Στιχηρὰ Ἰδιόμελα."
+
+StichironIdiomelon = "Στιχηρὸν Ἰδιόμελον."
+
+StichiraIdiomelaTisEortis = "Στιχηρὰ Ἰδιόμελα τῆς Ἑορτῆς."
+
+StichiraProsomoia = "Στιχηρὰ Προσόμοια."
+
+StichiraProsomoiaTouAgiou = "Στιχηρὰ Προσόμοια τοῦ Ἁγίου."
+
+StichiraStavrosima = "Στιχηρὰ Σταυρώσιμα."
+
+StichiraTisEortis = "Στιχηρὰ τῆς Ἑορτῆς."
+
+StichiraTisTheotokou = "Στιχηρὰ τῆς Θεοτόκου."
+
+StichiraTouAgiouNikolaou = "Στιχηρὰ τοῦ Ἁγίου Νικολάου."
+
+StichiraTouPascha = "Στιχηρὰ τοῦ Πάσχα."
+
+StichiraTouProdromou = "Στιχηρὰ τοῦ Προδρόμου."
+
+Stichoi = "Στίχοι."
+
+Synaxarion = "Συναξάριον."
+
+TaAnagnosmata = "ΤΑ ΑΝΑΓΝΩΣΜΑΤΑ"
+
+TaAnastasima = "Τὰ Ἀναστάσιμα."
+
+TaKatAlfaviton = "Τὰ κατ' Ἀλφάβητον."
+
+TaTypikaKaiOiMakarismoi = "Τὰ Τυπικά, καὶ οἱ Μακαρισμοί."
+
+Theotokia = "Θεοτοκία."
+
+Theotokion = "Θεοτοκίον."
+
+TheotokionDogmatikon = "Θεοτοκίον Δογματικόν."
+
+TisAgias = "Τῆς Ἁγίας."
+
+TisEortis = "Τῆς Ἑορτῆς."
+
+TisIndiktou = "Τῆς Ἰνδίκτου."
+
+TisMartyros = "Τῆς Μάρτυρος."
+
+TisMesopentikostis = "Τῆς Μεσοπεντηκοστῆς."
+
+TisMyroforou = "Τῆς Μυροφόρου."
+
+TisOktoichou = "Τῆς Ὀκτωήχου."
+
+TisOsias = "Τῆς Ὁσίας."
+
+TisSamaritidos = "Τῆς Σαμαρείτιδος."
+
+TisTheotokou = "Τῆς Θεοτόκου."
+
+ToAfto = "Τὸ αὐτό."
+
+ToAnastasimon = "Τὸ Ἀναστάσιμον."
+
+ToATheotokionTouIchou = "Τὸ αʹ Θεοτοκίον τοῦ Ἦχου."
+
+ToEothinonDoxastikon = "Τὸ Ἑωθινὸν Δοξαστικόν."
+
+ToEothinonTisKyriakis = "Τὸ Ἑωθινὸν τῆς Κυριακῆς."
+
+ToEvangelion = "ΤΟ ΕΥΑΓΓΕΛΙΟΝ"
+
+ToTheionEvangelion = "ΤΟ ΘΕΙΟΝ ΕΥΑΓΓΕΛΙΟΝ"
+
+TonAgion = "Τῶν Ἁγίων."
+
+TonAgionGynaikon = "Τῶν ἁγίων Γυναικῶν."
+
+TonApostolon = "Τῶν Ἀποστόλων."
+
+TonAsomaton = "Τῶν Ἀσωμάτων."
+
+TonDodeka = "Τῶν ΙΒʹ."
+
+TonEnkainion = "Τῶν Ἐγκαινίων."
+
+TonIerarchon = "Τῶν Ἱεραρχῶν."
+
+TonIsapostolon = "Τῶν Ἰσαποστόλων."
+
+TonKoryfaion = "Τῶν Κορυφαίων."
+
+TonMartyron = "Τῶν Μαρτύρων."
+
+TonMyroforon = "Τῶν Μυροφόρων."
+
+TonOsion = "Τῶν Ὁσίων."
+
+TonPateron = "Τῶν Πατέρων."
+
+TonPropatoron = "Τῶν Προπατόρων."
+
+TonTheopatoron = "Τῶν Θεοπατόρων."
+
+TouAgiou = "Τοῦ Ἁγίου."
+
+TouAgiouMandyliou = "Τοῦ Ἁγίου Μανδυλίου."
+
+TouAgiouNikolaou = "Τοῦ Ἁγίου Νικολάου."
+
+TouApostolou = "Τοῦ Ἀποστόλου."
+
+TouArchangelou = "Τοῦ Ἀρχαγγέλου."
+
+TouEvangelistou = "Τοῦ Εὐαγγελιστοῦ."
+
+TouIerarchou = "Τοῦ Ἱεράρχου."
+
+TouIeromartyros = "Τοῦ Ἱερομάρτυρος."
+
+TouLazarou = "Του Λαζάρου."
+
+TouMartyros = "Τοῦ Μάρτυρος."
+
+TouMinaiou = "Τοῦ Μηναίου."
+
+TouMnistoros = "Τοῦ Μνήστορος."
+
+TouNaou = "Τοῦ Ναοῦ."
+
+TouOsiomartyros = "Τοῦ Ὁσιομάρτυρος."
+
+TouOsiou = "Τοῦ Ὁσίου."
+
+TouParalytou = "Τοῦ Παραλύτου."
+
+TouPascha = "Τοῦ Πάσχα."
+
+TouPenticostariou = "Τοῦ Πεντηκοσταρίου."
+
+TouProdromou = "Τοῦ Προδρόμου."
+
+TouProfitou = "Τοῦ Προφήτου."
+
+TouProtomartyros = "Τοῦ Πρωτομάρτυρος."
+
+TouSeismou = "Τοῦ Σεισμοῦ."
+
+TouStavrou = "Τοῦ Σταυροῦ."
+
+TouTriodiou = "Τοῦ Τριωδίου."
+
+TouTyflou = "Τοῦ Τυφλοῦ."
+
+Triadikon = "Τριαδικόν."
+
+Trisagion = "Τρισάγιον."
+
+Troparia = "Τροπάρια."
+
+Troparion = "Τροπάριον."
+
+TroparionTisProfiteias = "Τροπάριον τῆς Προφητείας."
+
+YmnoiMetaTinMikranEisodon = "Ὕμνοι μετὰ τὴν Μικρὰν Εἴσοδον"
+
+Ypakoi = "Ὑπακοή."
+
+daySunday = "Κυριακή"
+dayMonday = "Δευτέρα"
+dayTuesday = "Τρίτη"
+dayWednesday = "Τετάρτη"
+dayThursday = "Πέμπτη"
+dayFriday = "Παρασκευή"
+daySaturday = "Σάββατον"
+OnSunday = "Τῇ Κυριακῇ"
+OnMonday = "Τῇ Δευτέρᾳ"
+OnTuesday = "Τῇ Τρίτῃ"
+OnWednesday = "Τῇ Τετάρτῃ"
+OnThursday = "Τῇ Πέμπτῃ"
+OnFriday = "Τῇ Παρασκευῇ"
+OnSaturday = "Τῷ Σαββάτῳ"
+
+BeforeChristmas = "πρὸ τῆς Χριστοῦ Γεννήσεως."
+AfterChristmas = "μετὰ τὴν Χριστοῦ Γέννησιν."
+BeforeEpiphany = "πρὸ τῶν Φώτων."
+AfterEpiphany = "μετὰ τὰ Φώτα."
+BeforeCross = "πρὸ τῆς Ὑπψώσεως."
+AfterCross = "μετὰ τὴν Ὕψωσιν."
+
+daySunday.uc = "ΚΥΡΙΑΚΗ"
+dayMonday.uc = "ΔΕΥΤΕΡΑ"
+dayTuesday.uc = "ΤΡΙΤΗ"
+dayWednesday.uc = "ΤΕΤΑΡΤΗ"
+dayThursday.uc = "ΠΕΜΠΤΗ"
+dayFriday.uc = "ΠΑΡΑΣΚΕΥΗ"
+daySaturday.uc = "ΣΑΒΒΑΤΟΝ"
+OnSunday.uc = "Τῌ ΚΥΡΙΑΚῌ"
+OnMonday.uc = "Τῌ ΔΕΥΤΕΡᾼ"
+OnTuesday.uc = "Τῌ ΤΡΙΤῌ"
+OnWednesday.uc = "Τῌ ΤΕΤΑΡΤῌ"
+OnThursday.uc = "Τῌ ΠΕΜΠΤῌ"
+OnFriday.uc = "Τῌ ΠΑΡΑΣΚΕΥῌ"
+OnSaturday.uc = "Τῼ ΣΑΒΒΑΤῼ"
+
+BeforeChristmas.uc = "ΠΡΟ ΤΗΣ ΧΡΙΣΤΟΥ ΓΕΝΝΗΣΕΩΣ"
+AfterChristmas.uc = "ΜΕΤΑ ΤΗΝ ΧΡΙΣΤΟΥ ΓΕΝΝΗΣΙΝ"
+BeforeEpiphany.uc = "ΠΡΟ ΤΩΝ ΦΩΤΩΝ"
+AfterEpiphany.uc = "ΜΕΤΑ ΤΑ ΦΩΤΑ"
+BeforeCross.uc = "ΠΡΟ ΤΗΣ ΥΨΩΣΕΩΣ"
+AfterCross.uc = "ΜΕΤΑ ΤΗΝ ΥΨΩΣΙΝ"
+
+ForTheDay = "Τῆς Ἡμέρας."
+ForSunday = "Τῆς Κυριακῆς."
+ForMonday = "Τῆς Δευτέρας."
+ForTuesday = "Τῆς Τρίτης."
+ForWednesday = "Τῆς Τετάρτης."
+ForThursday = "Τῆς Πέμπτης."
+ForFriday = "Τῆς Παρασκευῆς."
+ForSaturday = "Τοῦ Σαββάτου."
+Evening = "Ἑσπέρας"
+Morning = "Πρωΐ"
+ofWeek1 = "Αʹ Ἑβδομάδος"
+ofWeek2 = "Βʹ Ἑβδομάδος"
+ofWeek3 = "Γʹ Ἑβδομάδος"
+ofWeek4 = "Δʹ Ἑβδομάδος"
+ofWeek5 = "Εʹ Ἑβδομάδος"
+ofWeek6 = "Πρὸ τῶν Βαΐων"
+TriadicHymns = "Ὕμνοι Τριαδικοί"
+PhotagogicHymns = "Φωταγωγικά"
+
+sourceHorologion = "Τοῦ Ὡρολογίου - - -"
+sourceMenaion = "Τοῦ Μηναίου - - -"
+sourceOctoechos = "Τῆς Ὀκτωήχου - - -"
+sourcePentecostarion = "Τοῦ Πεντηκοσταρίου - - -"
+sourceTriodion = "Τοῦ Τριωδίου - - -"
+
+//used by Horologion Eclogarion
+eclog.title1 = ""
+eclog.title2 = ""
+eclog.title3 = ""
+eclog.rubric1 = ""
+eclog.TheotokiosBirth.title = ""
+eclog.Cross.title = ""
+eclog.Apostles.title = ""
+eclog.Martyrs.title = ""
+eclog.Archngels.title = ""
+eclog.Hierarchs.title = ""
+eclog.Entry.title = ""
+eclog.Monastics.title = ""
+eclog.Christmas.title = ""
+eclog.Epiphany.title = ""
+eclog.Meeting.title = ""
+eclog.Annunciation.title = "Ἐκλογὴ εἰς τὸν Εὐαγγελισμὸν τῆς Ὑπεραγίας ἡμῶν Θεοτόκου"
+eclog.Palm.title = "Ἐκλογὴ τῇ Κυριακῇ Βαΐων"
+eclog.Thomas.title = "Ἐκλογὴ τῇ Κυριακῇ τοῦ Θωμᾶ"
+eclog.Ascension.title = "Ἐκλογὴ τῇ Πέμπτῃ τῆς Ἀναλήψεως"
+eclog.Pentecost.title = "Ἐκλογὴ τῇ Κυριακῇ τῆς Πεντηκοστῆς"
+eclog.Forerunner.title = ""
+eclog.StAnne.title = ""
+eclog.Transfiguration.title = ""
+eclog.Dormition.title = ""
+eclog.Meatfare.title = ""

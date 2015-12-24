@@ -1,0 +1,15 @@
+A_Resource_Whose_Name = sy.m06.d10_en_US_dedes
+
+S01.commemoration.text = "On June 9 we commerate the strugle of the Holy Martyrs Alexander and Antonina."
+
+S02.commemoration.text = "On this day we commemorate the Holy Hieromartyr Timothy, Bishop of Proussa."
+
+S03.commemoration.text = "On this day we commemorate our devout father Canides."
+
+S04.commemoration.text = "On this day we also commemorate the devout Theophanes and Pansemne of Antioch."
+
+S05.commemoration.text = "On this day we commemorate the devout Bishop Apollo."
+
+S06.commemoration.text = "The Holy Alexios, Bishop of Bethany, reposed in peace."
+
+S99.lastline.text= "By their holy intercessions, Christ God, have mercy on us. Amen."

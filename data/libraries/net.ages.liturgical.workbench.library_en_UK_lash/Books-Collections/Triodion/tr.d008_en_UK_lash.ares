@@ -1,0 +1,277 @@
+A_Resource_Whose_Name = tr.d008_en_UK_lash 
+
+trCommemoration.text = "SUNDAY OF THE PROFLIGATE SON" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+trVE.Stichera01.mode = misc_en_UK_lash.Mode1
+trVE.Stichera01.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera01.text = "I was entrusted with a sinless and living country, but, having sown the ground with sin, with a sickle I have reaped the ears of indifference and piled up the heaps of the sheaves of my actions, which I have not spread out on the threshing floor of repentance. But I beg you, our God, husbandman before the ages, with the wind of your loving compassion winnow away the chaff of my works, and provision my soul with forgiveness; shut me in your heavenly storehouse and save me."
+
+trVE.Stichera02.mode = misc_en_UK_lash.Mode1
+trVE.Stichera02.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera02.text = "Brethren, let us learn the power of the mystery. For when the Profligate Son ran back from sin to his Father's hearth, the all-loving Father, coming out to meet him, kissed him and gave him back again the tokens of his own glory, and completed the mystical joy of those on high by sacrificing the fatted calf, so that we might live lives worthy of the loving Father, who offered the sacrifice, and of the glorious sacrificial victim, the Saviour of our souls."
+
+trVE.MM.Stichera123as567.text = properties_en_UK_lash.media.key
+
+trVE.SticGlory.mode = misc_en_UK_lash.Mode2
+trVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.SticGlory.text = "Of what great blessings, wretch that I am, have I deprived myself! From what a kingship in my misery have I fallen! I have wasted the wealth that I received, I have transgressed the commandment. Alas, unhappy soul ! You are henceforth condemned to the eternal fire. Therefore before the end cry out to Christ our God, 'Receive me as the Profligate Son, O God, and have mercy on me'."
+
+trVE.AposGlory.mode = misc_en_UK_lash.Mode6
+trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.AposGlory.text = "I have squandered the wealth of my Father's gift, and have grazed[7], poor wretch, with irrational beasts. Yearning for their food, I starved and was not filled. But now I return to the compassionate Father and cry out with tears, 'Accept me as a hired servant, as I fall down before your loving‑kindness, and save me'."
+
+trVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.text
+
+trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_en_UK_lash.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_en_UK_lash.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_UK_lash.KyriouIosif
+
+trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinMoseosOdin.name
+trMA.Ode1C11.text = "Jesus my God, now accept me too as I repent like the Profligate Son. All my life I have lived in carelessness and provoked you to anger."
+
+trMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinMoseosOdin.name
+trMA.Ode1C12.text = "The divine wealth that you once gave me I have squandered wickedly. I have gone far from you and lived like the Profligate, compassionate Father. And so accept me too as I return."
+
+trMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinMoseosOdin.name
+trMA.Ode1C13.text = "Spread wide your fatherly embrace now and accept me too like the Profligate, compassionate Lord, that with thanksgiving I may glorify you."
+
+trMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinMoseosOdin.name
+trMA.Ode1C1T.text = "Show in me all your goodness, O God. As my Benefactor, overlook the multitude of my offences at your Mother's godly prayers."
+
+trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SteirothentaMouTonNoun.name
+trMA.Ode3C11.text = "Wholly beside myself, I attached myself in madness to the inventors of passions. But accept me, O Christ, like the Profligate."
+
+trMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SteirothentaMouTonNoun.name
+trMA.Ode3C12.text = "Imitating the words of the Profligate I cry aloud, 'I have sinned, Father'. Like him now embrace me too and do not reject me."
+
+trMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SteirothentaMouTonNoun.name
+trMA.Ode3C13.text = "Open wide your arms, O Christ, and in compassion receive me as I return from a far country of sin and passions."
+
+trMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.SteirothentaMouTonNoun.name
+trMA.Ode3C1T.text = "O lovely among women, enrich me too, reduced to poverty by many sins, pure Virgin, with notions of what is fair and lovely, that I may glorify you."
+
+trMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
+trMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+trMA.Ode3Kathisma1.text = oc.m1.d2_en_UK_lash.ocMA.Kathisma21.text
+
+trMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode1
+trMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+trMA.Ode3Kathisma2.text = "Pure Virgin Mother of God without bridegroom, the only guardian and protection of the faithful, deliver from dangers, afflictions and dread circumstances all who have their hopes on you, O Maiden, and by your godly intercessions save our souls."
+
+trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinEkParthenou.name
+trMA.Ode4C11.text = "The wealth of fair blessings which you gave me, heavenly Father, I have wrongly squandered, enslaved to citizens of a foreign country, therefore I cry to you, 'I have sinned against you. Receive me like the Profligate of old, unfolding your arms to me'."
+
+trMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinEkParthenou.name
+trMA.Ode4C12.text = "I have become enslaved to every evil and, wretchedly bowed down to the creators of the passions, through negligence I have lost possession of myself. Take pity on me, Saviour, heavenly Father, as I flee to your many mercies."
+
+trMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinEkParthenou.name
+trMA.Ode4C13.text = "I have been filled with every shame and dare not look towards the height of heaven, for I have irrationally bowed down to sin. But now as I return I cry aloud in compunction, 'I have sinned against you. Receive me, King of all'."
+
+trMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinEkParthenou.name
+trMA.Ode4C1T.text = "You are the help of humankind, the sure hope of all Christians, immaculate Virgin, and the refuge of the saved. Save me by your motherly intercessions and count me worthy of the life to come."
+
+trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TisNyktosDielthousis.name
+trMA.Ode5C11.text = "I was enslaved to citizens of a foreign country, I became an exile in a land of destruction, and I was filled with shame. But now, as I return, O Compassionate, I cry to you, 'I have sinned.'"
+
+trMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TisNyktosDielthousis.name
+trMA.Ode5C12.text = "Open to me now your fatherly compassion as I return from evils, heavenly Father, and in your surpassing mercy do not reject me."
+
+trMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TisNyktosDielthousis.name
+trMA.Ode5C13.text = "I dare not look up at the height of heaven, O Christ, for I have angered you beyond measure. But knowing your compassion, merciful Lord, I cry, 'I have sinned. Be merciful. Save me'."
+
+trMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TisNyktosDielthousis.name
+trMA.Ode5C1T.text = "All-holy Virgin, full of grace, who gave birth to the propitiation of all, by your prayers lighten the heavy burden of my offences."
+
+trMA.Ode6C11.ode = misc_en_UK_lash.Ode5
+trMA.Ode6C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VythoAmartimaton.name
+trMA.Ode6C11.text = "The depth of sin ever holds me fast, and a tempest of transgressions drags me down. Pilot me, Christ my God, to the harbour of life and save me, King of glory."
+
+trMA.Ode6C12.ode = misc_en_UK_lash.Ode5
+trMA.Ode6C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VythoAmartimaton.name
+trMA.Ode6C12.text = "I have wickedly squandered my Father's wealth, and reduced to poverty, I am filled with shame, enslaved to fruitless thoughts. Therefore I cry to you who love humankind, 'Take pity on me and save me'."
+
+trMA.Ode6C13.ode = misc_en_UK_lash.Ode5
+trMA.Ode6C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VythoAmartimaton.name
+trMA.Ode6C13.text = "I am wasted with starvation of every good, and estranged from you, O Christ supremely good. Take pity on me as I now return, and save me as I sing the praise of your love for humankind."
+
+trMA.Ode6C1T.ode = misc_en_UK_lash.Ode5
+trMA.Ode6C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VythoAmartimaton.name
+trMA.Ode6C1T.text = "Maiden, who conceived Christ the Saviour and Master, count me, beggared of every kind of good, worthy of salvation, pure Virgin, that I may sing the praise of your mighty acts."
+
+trMA.Kontakion1.mode = misc_en_UK_lash.Mode3
+trMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.IParthenosSimeron.name
+trMA.Kontakion1.text = "I have foolishly run away, O Father, from your glory; I have squandered in evil deeds the riches you entrusted to me; therefore I offer you the words of the Profligate: I have sinned before you, compassionate Father: take me now repentant and make me as one of your hired servants."
+
+trMA.Oikos1.text = "Our Saviour teaches us every day through his own voice. Let us therefore listen to the Scriptures concerning the Profligate who became temperate again, and with faith let us imitate his fair repentance. With humble heart let us cry out to him who knows all secrets, 'We have sinned against you, merciful Father, and are not worthy ever to be called your children as before. But since you are by nature full of love for humankind, accept me and make me as one of your hired servants."
+
+trMA.Synaxarion.commemoration.text = "On this day we commemorate the parable of the Profligate Son from the holy Gospel, which our most godly Fathers prescribed for the second Sunday of the Triodion."
+trMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+trMA.Synaxarion.couplet1.verse1 = "If you're a Profligate, like me, take heart!"
+trMA.Synaxarion.couplet1.verse2 = "All doors to God's compassion open lie."
+trMA.Synaxarion.lastline.text = "By your ineffable love for humankind, Christ our God, have mercy on me."
+
+trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.name
+trMA.Ode7C11.text = "I have bowed down miserably to the pleasures of the body and I have become wholly enslaved to the inventors of the passions; and I have become a stranger to you, lover of humankind. But now I cry with the voice of the Profligate, 'I have sinned, O Christ, do not despise, for you alone are merciful'."
+
+trMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.name
+trMA.Ode7C12.text = "I call out, 'I have sinned', and I dare not even look towards the height of heaven, O King of all; for in foolishness I alone have angered you, rejecting your commandments. Therefore, as you alone are good, do not cast me away from your presence."
+
+trMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.name
+trMA.Ode7C13.text = "At the prayers of the apostles, prophets, ascetics, honoured martyrs and the just, pardon me all the things by which I have offended, and angering your goodness, Christ my Lord, that I may sing your praise to all the ages."
+
+trMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.name
+trMA.Ode7C1T.text = "Mother of God, you are revealed as more radiant than the Cherubim and Seraphim and all the heavenly host. With them, O all-blameless, entreat the One to whom you gave a body, God the Word of the Father without beginning that we may all be found worthy of the good things that last for ever."
+
+trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnTiVatoMosi.name
+trMA.Ode8C11.text = "You, who through great mercy came down to earth to save the world by voluntary poverty, save me as you are merciful, for I am poor in all good works."
+
+trMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnTiVatoMosi.name
+trMA.Ode8C12.text = "Distancing myself from your commandments, in utter wretchedness I became enslaved to the deceiver. But, as I now turn back like the Profligate of old and fall before you, accept me, heavenly Father."
+
+trMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnTiVatoMosi.name
+trMA.Ode8C13.text = "Subjected by corrupting thoughts, I became dark and distanced myself from you, and I lost all possession of myself, compassionate Lord. Therefore, as I fall before you in repentance, save me."
+
+trMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnTiVatoMosi.name
+trMA.Ode8C1T.text = "Pure Mother of God, only restoration of the broken, restore me, for I am wholly crushed and humbled by every kind of sin."
+
+trMA.C1Acrostic.text = "" //Acrostic for Ode 9
+trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C11.mode = misc_en_UK_lash.Mode2
+trMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonGigenonTisIkouse.name
+trMA.Ode9C11.text = "See, O Christ, the affliction of my heart; see my turning back; see my tears, O Saviour, and do not despise me. But embrace me once again through your compassion and number me with the multitude of the saved, that with thanksgiving I may sing the praise of your mercies."
+
+trMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C12.mode = misc_en_UK_lash.Mode2
+trMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonGigenonTisIkouse.name
+trMA.Ode9C12.text = "Like the Thief I cry to you, 'Remember me'. Like the Tax Collector, with downcast eyes cast, I now beat my breast and say, 'Be merciful'. Like the Profligate deliver me from all my evils, compassionate King of all, that I may sing the praise of your profound condescension."
+
+trMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C13.mode = misc_en_UK_lash.Mode2
+trMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonGigenonTisIkouse.name
+trMA.Ode9C13.text = "Groan now, my soul, all-wretched, and cry aloud to Christ, 'Lord, who for my sake willingly became poor, in my poverty I lack every good work. Make me rich with an abundance of fair things, as you alone are good and full of mercy'."
+
+trMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C14.mode = misc_en_UK_lash.Mode2
+trMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonGigenonTisIkouse.name
+trMA.Ode9C14.text = "O Good One, the joy that you once created at the voluntary return of the Profligate, now create once again because of me, wretch though I am. Open wide your holy arms to me, that saved I may sing the praise of your profound condescension."
+
+trMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C1T.mode = misc_en_UK_lash.Mode2
+trMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonGigenonTisIkouse.name
+trMA.Ode9C1T.text = "I pray you, Virgin, through your radiant intercessions enlighten the eyes of my mind darkened by wickedness and bring me to ways of repentance. So that, as is fitting, I may sing your praise, who beyond reason gave a body to the Word."
+
+trMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+trMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = "By uselessly leaving home, wretch that I am, I wickedly wasted the wealth of grace that you gave me. And living like the Profligate I squandered my wealth deceitfully to demons. But now, as I return, accept me like the Profligate, merciful Father, and save me."
+
+trMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
+trMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+trMA.Exaposteilarion2.text = "I have squandered and spent all your wealth and have become the subject to evil demons, wretch that I am. But, most compassionate Saviour, take pity on the Profligate, cleanse me of filth and give me back again the first robe of your kingdom."
+
+trMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+trMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.text = "Holy Virgin Mother of God, the great boast of Martyrs, Prophets and Ascetics, gain the mercy of your Son and Lord for us your servants, when he sits to judge each according to their due."
+
+trMA.Lauds1.mode = misc_en_UK_lash.Mode2
+trMA.Lauds1.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds1.text = "I bring you the words of the Profligate, Lord. I have sinned in your sight, O Good One. I have squandered the wealth of your gifts of grace. But receive me in repentance Saviour, and save me."
+
+trMA.Lauds2.mode = misc_en_UK_lash.Mode4
+trMA.Lauds2.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds2.text = "Like the Profligate Son I too have come to you, merciful Lord. I have squandered my whole livelihood in a foreign land; I have scattered the wealth which you gave me, Father. Receive me as I repent, O God, and have mercy on me."
+
+trMA.Lauds3.mode = misc_en_UK_lash.Mode8
+trMA.Lauds3.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds3.text = "Like the Profligate I have wasted the riches of my Father's substance; and having spent them all I am now destitute, dwelling in the land of the evil citizens. No longer can I bear to live among them, but turning back I cry to you, merciful Father, 'I have sinned against heaven and before you, and I am not worthy to be called your son. Make me as one of your hired servants, O God, and have mercy on me'."
+
+trMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+trMA.LaudsGlory.text = "Loving Father, I have gone far from you, but do not forsake me, nor declare me unfitted for your Kingdom. The all-evil enemy has stripped me naked and taken all my wealth. I have squandered like the Profligate the graces given to my soul. But now I have arisen and returned, and I cry aloud to you, 'Make me as one of your hired servants, you who for my sake stretched out your spotless hands on the Cross, to snatch me from the fearsome beast and to clothe me once again in the first robe, for you alone art full of mercy'."
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
+
+trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode3
+trLI.SeasonalKontakion.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.IParthenosSimeron.name
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+trMegalynarion.text = ""
+

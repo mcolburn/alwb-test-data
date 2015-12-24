@@ -1,0 +1,415 @@
+A_Resource_Whose_Name = pe.d099_en_UK_lash
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.day = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+peVE.Stichera05.mode = misc_en_UK_lash.Mode4
+peVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.name
+peVE.Stichera05.text = pe.d095_en_UK_lash.peVE.Stichera01.text
+
+peVE.Stichera06.mode = misc_en_UK_lash.Mode4
+peVE.Stichera06.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.name
+peVE.Stichera06.text = pe.d095_en_UK_lash.peVE.Stichera02.text
+
+peVE.Stichera07.mode = misc_en_UK_lash.Mode4
+peVE.Stichera07.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.name
+peVE.Stichera07.text = pe.d095_en_UK_lash.peVE.Stichera03.text
+
+peVE.Stichera08.mode = misc_en_UK_lash.Mode1
+peVE.Stichera08.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera08.text = "The source of wonders came to the source at the sixth hour to catch the fruit of Eve; for at the same hour Eve had left Paradise by the deception of the serpent. The woman of Samaria then came near to draw water. When the Saviour saw her he said: Give me water to drink and I will fill you with water welling up. The wise woman ran to the city, and at once announced to the crowds: Come, see Christ the Lord, the Saviour of our souls."
+
+peVE.Stichera09.mode = misc_en_UK_lash.Mode2
+peVE.Stichera09.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera09.text = "When the Lord came to the well, the woman of Samaria asked the compassionate one: Grant me the water of faith and I shall receive the streams of the font: joy and redemption. Giver of life, Lord, glory to You."
+
+peVE.Stichera10.mode = misc_en_UK_lash.Mode2
+peVE.Stichera10.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera10.text = "The Son and Word of the Father, like him without beginning, like him eternal, the source of healings, came to the source; and a woman from Samaria approached to draw water. Seeing her, the Saviour said: Give me water to drink, and go, call your husband. But she, as though talking with a man and not with God, keen to deceive, said: I have no husband. The Teacher answered her: You say truly: I have no husband, for you have had five, and the one you have now is not your husband. But she, smitten by the word, ran to the city and cried out to the crowds, saying: Come, see Christ, who grants the world his great mercy."
+
+peVE.SticGlory.mode = misc_en_UK_lash.Mode6
+peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.SticGlory.text = "Finding the woman of Samaria by the well of Jacob, Jesus, who covers the earth with clouds, asked water of her. O the wonder! He who rides on the Cherubim converses with a woman who is a harlot. He who hung the earth upon the waters, asks for water. He who pours out springs and pools of water, seeks water, as he wishes truly to draw her who is hunted by the warlike foe, and to quench with the water of life the thirst of her who is aflame with foul desires, as he alone is compassionate and loves mankind."
+
+peVE.LityGlory.mode = misc_en_UK_lash.Mode3
+peVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.LityGlory.text = "Let heaven and earth to-day radiantly be glad, for Christ has appeared in flesh as man to free all Adam’s race from the curse; and by wonders he is made wonderful. When he comes to Samaria, he approaches a woman, and he who is wrapped in the waters of a cloud, seeks water. Therefore all we faithful worship him who willingly became poor for our sakes in his compassionate purpose."
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode8
+peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.AposGlory.text = "When through your inexpressible dispensation, Christ God, you appeared on earth, the woman of Samaria, having heard your word, full of love for mankind, left her bucket at the well and ran saying to those in the city: Come, see the one who knows the heart: is not this the expected Christ, who has great mercy?"
+
+peVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
+peVE.Apolytikion1.melody = ""
+peVE.Apolytikion1.text = oc.m4.d1_en_UK_lash.ocVE.Apolytikion.text
+
+peVE.Apolytikion2.mode = misc_en_UK_lash.Mode8
+peVE.Apolytikion2.melody = ""
+peVE.Apolytikion2.text = pe.d095_en_UK_lash.peVE.Apolytikion1.text
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma11.melody = ""
+peMA.Kathisma11.text = oc.m4.d1_en_UK_lash.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+peMA.Kathisma12.text = oc.m4.d1_en_UK_lash.ocMA.Kathisma21.text
+
+peMA.Kathisma13.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma13.melody = ""
+peMA.Kathisma13.text = oc.m4.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+peMA.Kathisma21.text = oc.m4.d1_en_UK_lash.ocMA.Kathisma22.text
+
+peMA.Kathisma22.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+peMA.Kathisma22.text = oc.m4.d1_en_UK_lash.ocMA.Kathisma12.text
+
+peMA.Kathisma23.mode = misc_en_UK_lash.Mode4
+peMA.Kathisma23.melody = misc_en_UK_lash.AutomelonNotMetered
+peMA.Kathisma23.text = oc.m4.d1_en_UK_lash.ocMA.Kathisma13.text
+
+peMA.C1Poet = poets_en_UK_lash.IosifThessalonikis
+peMA.C1Acrostic.text = ""
+
+peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode1C1H.text = he.h.m4_en_UK_lash.OPataxasAigypton.text
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
+peMA.Ode1C11.text = "The Buried has arisen, and with him raised the human race; let all creation rejoice, and let all the spiritual clouds to-day clearly rain down justice." 
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
+peMA.Ode1C12.text = "Having willingly accepted the cross in the flesh, you rose on the third day from the dead, Lord, source of life, emptying Hell’s storehouses and leading out the fettered souls." 
+
+peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
+peMA.Ode1C13.text = "O Lord, who lay the beams of your chambers on the water, you are the water of life and you granted hallowed streams to the woman of Samaria when she asked, for she recognised your compassion." 
+
+peMA.Ode1C1F1.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
+peMA.Ode1C1F1.text = ""
+
+peMA.Ode1C1Tr.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
+peMA.Ode1C1Tr.text = "O Trinity, Father, Son and Spirit, as maker of all things save those who glorify you with pure faith, and grant pardon of our sins, as you are supremely good."
+
+peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
+peMA.Ode1C1T.text = "Hail throne of fire, hail lampstand all of gold, hail cloud of light, hail palace of the Word, and spiritual table, who fittingly carry Christ, the bread of life."
+
+peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode3C1H.text = he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.text
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C11.text = "Willingly you were lifted up on the tree, O Word, and seeing it the rocks were rent, and all creation was shaken, and the dead arose from the graves as from sleep." 
+
+peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C12.text = "When all the souls of the just saw you coming to Hell with your soul, O Word, they were released from their eternal chains as they hymned your power beyond understanding." 
+
+peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C13.text = "Why are you amazed? Why with spices do you seek the Master in a grave, O Women? He has risen, and has raised the world with himself, cried the dazzling Angel to the Myrrhbearers." 
+
+peMA.Ode3C1F1.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C1F1.text = "As Life and the source of immortality you sat down by the source, O Merciful, and filled with your all-wise streams the Woman of Samaria who asked and hymned you."
+
+peMA.Ode3C1Tr.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C1Tr.text = "One God in Trinity is hymned over all, the Father, Son and divine Spirit, whom the armies of heaven glorify in fear, as they clearly cry out: Holy, Holy, Holy, are you to the ages."
+
+peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
+peMA.Ode3C1T.text = "Beyond explanation you conceived in the womb, O Virgin Mother, and beyond understanding and reason you gave birth to the God of all things, remaining a Virgin as before child-birth, O Bride of God."
+
+peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+peMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+peMA.Ode3Kathisma1.text = "Let heaven rejoice, and things on earth dance, for Christ, having appeared from a Virgin as man, has delivered all mankind from corruption by his own death; but, having shone with wonders, he asks water of the Woman of Samaria and bestows a source of healings, for he alone is immortal."
+
+peMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode4
+peMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+peMA.Ode3Kathisma2.text = "O Giver of wisdom and Master, when the feast according to the Law had come, You sat in the temple and taught, speaking thus to all: Come, you who thirst, drink of the stream which I now give you; through which, you will all enjoy life in God and delight."
+
+peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode4C1H.text = he.h.m4_en_UK_lash.EisakikoaKyrie.text
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C11.text = "Let the heavens rejoice, let all creation keep the feast: the Lord has risen and appeared to all his wise Apostles." 
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C12.text = "Your power, Death, was swallowed up, when Christ died: at his Rising as from bridal chambers the dead have come from the graves." 
+
+peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C13.text = "Why do you lament, O women? Why seek the immortal with spices? He has risen as he said, the Angel cried to the Myrrh-bearers." 
+
+peMA.Ode4C1F1.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C1F1.text = "To the woman of Samaria, when she asked, Lord, you gave water, the knowledge of your might; therefore for all ages she will never thirst as she sings your praise."
+
+peMA.Ode4C1Tr.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C1Tr.text = "O Trinity beyond being, Father, Word and divine Spirit, identical in power, together without beginning, save us all, who in faith sing your praise."
+
+peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C1T.text = "The lawgiver saw you as a bush unburned: Daniel recognised you as a holy mountain, O Sovereign Lady, only Virgin-mother."
+
+peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode5C1H.text = he.h.m4_en_UK_lash.AnateilonMoiKyrie.text
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnateilonMoiKyrie.name
+peMA.Ode5C11.text = "Reaching your holy grave at early dawn, the Myrrh-bearers saw a shining youth, and were amazed on learning of your divine Rising, O Christ." 
+
+peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnateilonMoiKyrie.name
+peMA.Ode5C12.text = "Death has been slain, Hell taken prisoner, those in chains freed by the Resurrection of Christ. Let us rejoice and clap our hands and radiantly keep the feast." 
+
+peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnateilonMoiKyrie.name
+peMA.Ode5C13.text = "Apostles leap for joy, Angels dance, all born of earth be glad: the Lord has risen, corruption has been banished, grief has ceased, and Adam dances." 
+
+peMA.Ode5C1F1.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnateilonMoiKyrie.name
+peMA.Ode5C1F1.text = "O Lord, as source of life you once gave the water of forgiveness and knowledge to a woman of Samaria when she asked: therefore we praise your inexpressible mercies."
+
+peMA.Ode5C1Tr.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnateilonMoiKyrie.name
+peMA.Ode5C1Tr.text = "We honour a three-personned Unity, consubstantial Trinity, Father, Word and Holy Spirit, inseparable by nature, one God, Maker and Lord and Master of all."
+
+peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnateilonMoiKyrie.name
+peMA.Ode5C1T.text = "O Pure one, we name you gate without passage, field untilled, ark bearing the Manna, jar, lampstand and censer of the immaterial coal."
+
+peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode6C1H.text = he.h.m4_en_UK_lash.MiKatapontisato.text
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiKatapontisato.name
+peMA.Ode6C11.text = "Jesus, the transgressors nailed you to a cross, and pierced you with a lance, O Christ, and Joseph laid you for burial in a new tomb; from which you rose with glory, raising with you all creation, which hymns your might." 
+
+peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiKatapontisato.name
+peMA.Ode6C12.text = "Powerfully you smashed the bolts and gates of Hell, O Master, and rose as God, and meeting the women you said to them: Rejoice, and you sent them to say to the Disciples: The Living has arisen, and he has appeared giving light to the ends of the earth." 
+
+peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiKatapontisato.name
+peMA.Ode6C13.text = "Why do you weep? Why bring spices as to a mortal, O women? Christ has arisen, leaving the grave clothes behind empty, cried the youth who appeared of old flashing like lightning; Go, announce the Resurrection to his friends." 
+
+peMA.Ode6C1F1.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiKatapontisato.name
+peMA.Ode6C1F1.text = "Good Lord, you are an inexhaustible stream of life, an abyss of mercy. As you journeyed you sat down by the Well of the Oath, and cried out to the woman of Samaria: Give me water to drink, that you may receive streams of forgiveness."
+
+peMA.Ode6C1Tr.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiKatapontisato.name
+peMA.Ode6C1Tr.text = "With the bodiless powers, I hymn in faith the Father without beginning, and the Son equal in majesty, and the consubstantial Spirit, one Essence, and nature and glory, and one kingship, God and Maker of all, who holds the universe together."
+
+peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiKatapontisato.name
+peMA.Ode6C1T.text = "Pure one, we hymn you, as only Virgin who has given birth and kept her womb incorrupt, throne of the Lord, gate and mountain, and spiritual lampstand, bridal chamber of God, all light, and manifest tabernacle of glory, ark and jar and table."
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+peMA.Kontakion1.melody = ""
+peMA.Kontakion1.text = "Coming in faith to the well, the woman of Samaria saw you, the water of wisdom, and having been given unstintingly to drink she inherited the kingdom from above, eternally glorious."
+
+peMA.Oikos1.text = "Let us listen to John teaching us of the holy mysteries which happened in Samaria; how the Lord spoke with a woman, asking her for water, He who gathers the waters to their gatherings, equal in majesty with the Father and the Spirit; for He came seeking out his image, as eternally glorious."
+
+peMA.Synaxarion.commemoration.text = ""
+peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+peMA.Synaxarion.couplet1.verse1 = ""
+peMA.Synaxarion.couplet1.verse2 = ""
+peMA.Synaxarion.lastline.text = ""
+
+peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode7C1H.text = he.h.m4_en_UK_lash.MiParadoisImas.text
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiParadoisImas.name
+peMA.Ode7C11.text = "O merciful Christ, willingly you were numbered among the lawless at the moment of your divine Passion; seeing it the earth was shaken and the rocks were rent by your all-effecting wish, O Infinite, and the dead from time’s beginning arose." 
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiParadoisImas.name
+peMA.Ode7C12.text = "With your soul you went down to the lower regions of Hell; bravely you led out all the prisoners that death, the bitter tyrant, held since time’s beginning, as they cried out to you, Christ our God: Glory to your dread dispensation!" 
+
+peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiParadoisImas.name
+peMA.Ode7C13.text = "Why do you seek the eternally living with the dead? He has risen, as he said. Here, as you see, the graveclothes are empty, the tomb is empty, the young man who appeared said to the Women: Go with haste, tell the Apostles." 
+
+peMA.Ode7C1F1.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiParadoisImas.name
+peMA.Ode7C1F1.text = "You are the water of life, the Woman of Samaria cried out to Christ; therefore, O Word, give me, who am ever thirsty, your divine grace to drink, that I may no longer, Lord Jesus, be mastered by the drought of ignorance, but may proclaim your wonderful works."
+
+peMA.Ode7C1Tr.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiParadoisImas.name
+peMA.Ode7C1Tr.text = "We hymn the Father and the Son and the divine Spirit, Trinity by nature undivided, divided by persons, one united Essence, without beginning, Maker of all and God, whom all the ranks of heaven praise."
+
+peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.MiParadoisImas.name
+peMA.Ode7C1T.text = "After your dread child-birth, holy Mother of God, you were kept a pure Virgin; therefore all the choirs of Angels and all generations of mankind hymn you with never silent voices as the pure place which confined the infinite."
+
+peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode8C1H.text = he.h.m4_en_UK_lash.TaSympantaDespota.text
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TaSympantaDespota.name
+peMA.Ode8C11.text = "You endured death by your will, only Immortal, you took hell captive, you smashed the gates of brass, heavenly King, and released the prisoners held there since time’s beginning, who unceasingly hymn the might of your goodness." 
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TaSympantaDespota.name
+peMA.Ode8C12.text = "You were lifted up willingly on the Cross, O Longsuffering, and the rocks were split, the sun was quenched, the veil of the temple was rent in two, and the earth was shaken, and Hell, the laughing stock, trembled with fright and released all his prisoners." 
+
+peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TaSympantaDespota.name
+peMA.Ode8C13.text = "You, Lord, the light that never sets and life of all, appeared to those sitting in darkness; therefore when the just saw you, O Word, they leaped for joy and cried aloud: You have come to free all from their chains; we praise your might." 
+
+peMA.Ode8C1F1.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TaSympantaDespota.name
+peMA.Ode8C1F1.text = "You sat next the source at the sixth hour, O Saviour, and granted the Woman of Samaria living water and streams of knowledge in your great compassion; with her we all cry out in song: You works of the Lord, unceasingly bless the Lord."
+
+peMA.Ode8C1Tr.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TaSympantaDespota.name
+peMA.Ode8C1Tr.text = "We praise the Father without beginning, the Son likewise without beginning and the Holy Spirit, the three one God without confusion, inseparable, Creator of all, identical in power, might of sovereign freedom, and we cry out: You works of the Lord, unceasingly bless the Lord."
+
+peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TaSympantaDespota.name
+peMA.Ode8C1T.text = "Isaias was cleansed by a coal, proclaiming in advance the spiritual coal, incarnate of you beyond understanding, O Virgin, and which burns up all the material sins of mortals, and through pity deifies our nature, O immaculate."
+
+peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode9C1H.text = he.h.m4_en_UK_lash.EpoiiseKratos.text
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EpoiiseKratos.name
+peMA.Ode9C11.text = "Jesus the life of all was seen hanged willingly on a Tree; and seeing it the earth was shaken, and many bodies of the Saints that slept visibly arose, and Hell’s prison was shaken." 
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EpoiiseKratos.name
+peMA.Ode9C12.text = "Out of the tomb, fair as a bridegroom from his chamber, you came, having abolished the tyranny of death, and smashed the bolts of Hell by your divine power, and illumined the world by the spiritual light of your Rising." 
+
+peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C13.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EpoiiseKratos.name
+peMA.Ode9C13.text = "Spiritual choirs now let us all establish and let us cry: The Lord has risen; let the earth rejoice and the heavens be glad, let the clouds rain down showers of justice for us who radiantly celebrate and sing Christ’s praise." 
+
+peMA.Ode9C1F1.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1F1.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EpoiiseKratos.name
+peMA.Ode9C1F1.text = "Even as he poured out teachings richly, the Lord, source of blessings, life of all living, cried out to the woman, ‘Grant me water to drink, that I may give you water which dries up the sources of your sins’."
+
+peMA.Ode9C1Tr.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1Tr.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EpoiiseKratos.name
+peMA.Ode9C1Tr.text = "Pure single light, yet without parts, is the triple-sunned unity; the Father who has no beginning, Son and Spirit, one Godhead, life and maker of all. Let us the faithful, with the Bodiless ones, praise the Godhead, as we chant thrice-holy songs."
+
+peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1T.mode = misc_en_UK_lash.Mode4
+peMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EpoiiseKratos.name
+peMA.Ode9C1T.text = "Having become the dwelling of the Light, O Pure one, illumine the pupils of my soul, blackened by the many wiles of the foe, and make me worthy to see clearly with a pure heart the Splendour that shone from you beyond understanding."
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+peMA.Exaposteilarion1.text = "You reached Samaria, and talking with a woman, sought water to drink, my all-powerful Saviour, who poured out water for the Hebrews from a sharp rock, and led her to belief in you: and now she enjoys life eternally in heaven."
+
+peMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+peMA.Exaposteilarion2.text = ""
+
+peMA.LaudsVerse7.text = ""
+
+peMA.Lauds7.mode = misc_en_UK_lash.Mode3
+peMA.Lauds7.melody = misc_en_UK_lash.Idiomelon
+peMA.Lauds7.text = peVE.LityGlory.text
+
+peMA.LaudsVerse8.text = ""
+
+peMA.Lauds8.mode = misc_en_UK_lash.Mode6
+peMA.Lauds8.melody = misc_en_UK_lash.Idiomelon
+peMA.Lauds8.text = ""
+
+peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.LaudsGlory.text = ""
+
+peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
+peLI.TheotokosHymnVerse.text = pe.d00P_en_UK_lash.pePA.Ode9MKa.text
+peLI.TheotokosHymn.text = pe.d00P_en_UK_lash.pePA.Ode9T2.text
+
+peMegalynarion.text = ""

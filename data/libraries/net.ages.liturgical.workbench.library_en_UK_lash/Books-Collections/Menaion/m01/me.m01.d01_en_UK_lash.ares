@@ -1,0 +1,584 @@
+A_Resource_Whose_Name = me.m01.d01_en_UK_lash
+
+meHO.Month.text = "JANUARY"
+meHO.DaysHours.text = "HAVING THIRTY ONE DAYS"
+
+meDate.text = "On the 1st of the Month" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "The Circumcision of Our Lord Jesus Christ
+and commemoration of our Father among the Saints Basil the Great." // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = rubrical_en_UK_lash.HolidayAll
+meHO.note2 = ""
+meDismissal = dismissals_en_UK_lash.dis00.circumcision
+
+meVE.Stichera01.poet = poets_en_UK_lash.Anatoliou
+meVE.Stichera01.mode = misc_en_UK_lash.Mode8
+meVE.Stichera01.melody = ""
+meVE.Stichera01.text = "The Saviour in coming down to aid the human race accepted circumvolution in swaddling clothes; he did not abhor circumcision of the flesh, when eight days old in respect of his Mother, without beginning in respect of his Father. To him let us believers cry aloud: You are our God; have mercy on us."
+
+meVE.Stichera02.poet = poets_en_UK_lash.Anatoliou
+meVE.Stichera02.mode = misc_en_UK_lash.Mode8
+meVE.Stichera02.melody = ""
+meVE.Stichera02.text = "God, the supremely good, was not ashamed to be severed by circumcision of the flesh, but gave us himself as a type and example to all for salvation. For the Maker of the Law fulfils the requirements of the Law and the sayings of the Prophets concerning him. You who hold all things in the hollow of your hand and were wrapped in swaddling clothes, Lord, glory to you!"
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode4
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera03.text = "Called by a name which means royal, when you had shepherded the royal priesthood, the holy nation of Christ with true wisdom and knowledge, Father, then the king of kings and Lord of all, the Son eternally of one mind and without beginning with his Begetter, adorned you, Basil, with a diadem of the kingdom; implore him to save and enlighten our souls."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode4
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera04.text = "Dazzling in the robes of high priesthood, you proclaimed with joy the Gospel of the kingdom, Basil, pouring out for the Church teachings of orthodoxy; now enlightened by them we confess one Godhead in a Father almighty, an only-begotten Word of God and a divine Spirit, and we glorify it, inseparable in Three Persons; Implore this one Godhead to save and enlighten our souls."
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode4
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera05.text = "United and dwelling with the heavenly choirs, whose life you rivalled, Father Basil, by the radiant sincerity of your way of life, as you lived among those on earth like one without flesh while still in the body, implore Christ our God to save those who delight in your teaching, inspired by God, from dangers and the darkness of ignorance, and to enlighten our souls."
+
+meVE.SticGlory.poet = poets_en_UK_lash.Anatoliou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode8
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "You became a lover of wisdom, Venerable Father, and, preferring a life lived in companionship with God to all existing things, you abandoned concern for death, as befitted your life; for having destroyed for yourself the passions of the flesh by labours of self-mastery and by care for the Law of God, having kept dignity of your soul unenslaved by an abundance of virtue, you subdued all fleshly thought by the spirit; and so, having hated the flesh and the world and ruler of the world, as you stand before Christ, ask for our souls his great mercy."
+
+meVE.SticBoth.poet = poets_en_UK_lash.Anatoliou
+meVE.SticBoth.mode = misc_en_UK_lash.Mode8
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = meVE.Stichera01.text
+
+meVE.Lity1.poet = poets_en_UK_lash.Germanou
+meVE.Lity1.mode = misc_en_UK_lash.Mode3
+meVE.Lity1.melody = ""
+meVE.Lity1.text = "You made Christ, the source of life, dwell in your soul through your pure life, Basil, teacher of mysteries, and so you poured out rivers of orthodox doctrines for the inhabited world; watered from which the faithful people of the Church offers grace, as the fruit of lips that confess, to him who has glorified your memory to age on age."
+
+meVE.Lity2.poet = poets_en_UK_lash.Germanou
+meVE.Lity2.mode = misc_en_UK_lash.Mode3
+meVE.Lity2.melody = ""
+meVE.Lity2.text = "Myrrh of the grace poured out upon you anointed you to minister the Gospel of the kingdom of heaven, Basil revealer of God; for you became a sweet fragrance of Christ and filled the inhabited world with the scent of his knowledge; and so receiving the voices of your servants with kindness, ask for us who honour you his great mercy."
+
+meVE.Lity3.poet = poets_en_UK_lash.Vyzantos
+meVE.Lity3.mode = misc_en_UK_lash.Mode3
+meVE.Lity3.melody = ""
+meVE.Lity3.text = "Wrapped in the priestly robe, Basil, champion of the Trinity, you took your stand before the judge's throne, braving danger for the faith; and having displayed an athlete's determination you shamed the fury of the Governor, who vaunted in the might of impiety; and you preferred the excision of your inner parts to him who zealously threatened such things; and becoming a Martyr by choice, you have been bound with a garland of victory by Christ, who has great mercy."
+
+meVE.LityGlory.poet = poets_en_UK_lash.Vyzantiou
+meVE.LityGlory.mode = misc_en_UK_lash.Mode6
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "Grace was poured out on your lips, Venerable Father, and you became shepherd of Christ's Church, teaching the rational sheep to believe in a consubstantial Trinity in one Godhead."
+
+meVE.LityBoth.poet = poets_en_UK_lash.Anatoliou
+meVE.LityBoth.mode = misc_en_UK_lash.Mode8
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = "The Saviour in coming down to aid the human race accepted circumvolution in swaddling clothes; he did not abhor circumcision of the flesh, when eight days old in respect of his Mother, without beginning in respect of his Father. To him let us believers cry aloud: You are our God; have mercy on us."
+
+meVE.Aposticha1.poet = poets_en_UK_lash.Vyzantos
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
+meVE.Aposticha1.melody = ""
+meVE.Aposticha1.text = "O godly and sacred bee of Christ’s Church, all-blessed Basil; for you armed yourself with the sting of divine longing and wounded the blasphemies of heresies hated by God; and you treasured up for the souls of the faithful the sweetness of true religion; and now, as you pass through the divine meadows of inviolate pasture, remember us also as you stand before the consubstantial Trinity."
+
+meVE.Aposticha2.poet = poets_en_UK_lash.VasileiouMonachou
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode1
+meVE.Aposticha2.melody = ""
+meVE.Aposticha2.text = "You have received the imprint of the virtues of all the Saints, our Father Basil: the meekness of Moses; the zeal of Elias; the confession of Peter; the theology of John; like Paul you do not cease to cry out: Who is weak, and I am not weak? Who is scandalised, and I am not on fire? Therefore as you now dwell with them, intercede that our souls may be saved."
+
+meVE.Aposticha3.poet = poets_en_UK_lash.IoannouMonachou
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha3.melody = ""
+meVE.Aposticha3.text = "When you had meditated on the nature of what exists and observed the instability of all things, you found the only unmoved Being, the Creator of all things who is above being; to him you attached yourself and cast away the longing for things which are not. Intercede that we too may find divine longing, Basil teacher of mysteries."
+
+meVE.AposGlory.poet = poets_en_UK_lash.Vyzantiou
+meVE.AposGlory.mode = misc_en_UK_lash.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "You received the grace of wonders from heaven and held up to public scorn the error of idols by your doctrines, and so you are the glory and support of High Priests, all-blest Basil, and the pattern of the teaching of all the Fathers. As you have boldness towards Christ, implore him that our souls may be saved."
+
+meVE.AposBoth.poet = poets_en_UK_lash.Anatoliou
+meVE.AposBoth.mode = misc_en_UK_lash.Mode8
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = "God the supremely good was not ashamed to be severed by circumcision of the flesh, but gave us himself as a type and example for all for salvation. For the Maker of the Law fulfilled the requirements of the Law and the sayings of the Prophets concerning him. You who hold all things in the hollow of your hand and were wrapped in swaddling clothes, Lord, glory to you!"
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "Your sound has gone out into all the earth, for it has received your word, through which you taught in a manner fitting God; the nature of what exists you made clear; you set in order the conduct of mankind; O Royal Priesthood, venerable Father, intercede with Christ God to grant us his great mercy."
+
+meVE.Apolytikion2.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
+meVE.Apolytikion2.text = "Without change you took a human form, by nature being God, O most compassionate Lord; and fulfilling the Law, you willingly accepted circumcision in the flesh, that you might banish shadows, and strip away the covering of our passions. Glory to your goodness; glory to your compassion; glory to your ineffable condescension, O Word!"
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma11.text = "Let us all praise Basil as a royal adornment of Christ’s Church, the inexhaustible treasury of doctrines; for he through these has taught us to reverence a holy Trinity, united by being, but distinct by persons."
+
+meMA.Kathisma12.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma12.text = "Wise Basil, as you stand before the Trinity, implore that we, who sing your praise and honour your memory, may on the day of judgement receive grace, mercy and pardon of offences; that with mouth and heart we may glorify the only lover of humankind."
+
+meMA.Kathisma13.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma13.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma13.text = "The Maker of the world and the Master of all things, who exists above with the Father and the Spirit, is circumcised on earth as a babe of eight days. Truly your works are divine and wondrous! For you, Master, as fulfilment of the Law, are circumcised for our sake."
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma21.text = "Drawing out in a manner fitting God the mystical wealth of ineffable wisdom, you have treasured up for all streams of orthodoxy, which with divine inspiration delight hearts of the believers, but fittingly drown the doctrines of the unbelievers. Therefore through both by exertions of true religion you were revealed as an invincible champion of the Trinity. High Priest Basil, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
+
+meMA.Kathisma22.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kathisma22.text = "As you are the depth of love for humankind, Master, you put on the form of the slave and were circumcised in the flesh, granting to all humankind your great mercy."
+
+meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma31.text = "By the power of the divine words you destroyed the gloomy heresies, sank all the insolence of Arius; for to mortals you preached the Spirit as God, and by the stretching out of your hands you put enemies to death, dispelled all the service of Sabellios; and abolished all the ideas of Nestorios. High Priest Basil, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
+
+meMA.Kathisma32.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma32.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma32.text = "The grace of your godlike words and the mystical elevation of your doctrines has become for a ladder of divine ascent, Father; for you gained a spiritual trumpet and by it proclaimed the divine teachings. Therefore you have made your dwelling in a place of green pasture and obtained the reward of your struggles. High Priest Basil, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
+
+meMA.Kathisma3T.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma3T.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma3T.text = "The Master and Maker of all things, taking flesh from your immaculate womb, revealed you as protectress of humankind, All-blameless Lady; therefore we all fly to you for refuge, asking pardon of offences, and to be rescued from everlasting punishment and every outrage of the dread ruler of the world; therefore we cry out to you: intercede with your Son and God to grant forgiveness of offences to those who worship your all-holy birth giving."
+
+meMA.MM.Prokeimenon.text = "" // for media
+
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelHierarch.text
+
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.Vyzantiou
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+
+meMA.C1Poet = poets_en_UK_lash.Stefanou
+
+meMA.C2Poet = poets_en_UK_lash.IoannouTouDamaskinou
+
+meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.text = he.h.m2_en_UK_lash.DefteLaoi.text
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C11.text = "The eighth day, which bears the image of the age to come, is made radiant and hallowed, O Christ, by your voluntary poverty; for on it you were circumcised in the flesh according to the law."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C12.text = "Christ receives circumcision on the eighth day from his birth; and today he reduces its shadow by making the light of the new grace dawn."
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C21.text = "Yours is the voice that should have been with those who wish to undertake your praises, Basil; but as you judge kindly, Father, grant us grace ungrudgingly."
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C22.text = "You disciplined the passionate surging of the tyrannous flesh by your love of the philosophic life; and so you dwell in undefiled palaces, Father Basil."
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C23.text = "You walked the rough way of the virtues and so you attained the smooth and undisturbed floor of heaven, and have been revealed, Basil, as a model for all."
+
+meMA.Ode1C24.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C24.text = "Effectively you circumcised the passions of both the soul and body with the sword of the Spirit; while you offered yourself as a sacrifice to the Master."
+
+meMA.Ode1C25.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C25.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C25.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C25.text = "You became an initiate of ineffable mysteries, Father Basil, into which you initiated the royal priesthood of Christ, making the light of the Trinity blaze out for us."
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name
+meMA.Ode1C2T.text = "Who will be able worthily to tell forth your conception beyond understanding? For you gave birth in the flesh to God, O All-holy, who has appeared to us as Saviour of us all."
+
+meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.text = he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.text
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C11.text = "The Word, who is beyond being, became incarnate and was circumcised to bring the Law to an end; but he has given us the first fruits of divine grace and unsullied life."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C12.text = "Fulfiller of the Law, as being not hostile to God, Christ was revealed as incarnate, and vouchsafed willingly to be circumcised on the eighth day."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C21.text = "When you had become filled with all learning, no only that which is below and well-worn, but even more that which better, you were revealed, Basil, as a light for the world."
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C22.text = "Grounded in the fear of the Lord; for this is the beginning of wisdom; you were given wings by the love of the better wisdom, O Basil."
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C23.text = "Basil you wisely you took the path of practice and showed practice to the path to more divine contemplation, and you were clearly initiated into the knowledge of things that are."
+
+meMA.Ode3C24.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C24.text = "Your commemoration, Father, coincided and shone out together with the Christ’s nativity; the ineffable mystery of which you made manifest by your teachings."
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
+meMA.Ode3C2T.text = "Without seed you conceived in the womb, and you gave birth ineffably to God, on whom, pure Ever-virgin, the Powers of heaven dare not look."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = "Opening your mouth with God’s word, you uttered wisdom, Herald of light, and sowed in the inhabited world thought inspired by God; You truly confirmed the doctrines of the Fathers and appeared in the manner of Paul a champion of the faith. Therefore you are a fellow citizen of the Angels, and have been declared their companion, blest Saint. Basil, revealer of heaven, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
+
+meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode3
+meMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TheiasPisteos.name
+meMA.Ode3Kathisma2.text = "You watered the whole inhabited world by your teachings, as by water, sowing doctrines in it; for Christ the source of life truly took his rest in you, Basil; as you have gained boldness, O inspired by God, implore him to grant us his great mercy."
+
+meMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode3
+meMA.Ode3Kathisma3.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.IParthenosSimeron.name
+meMA.Ode3Kathisma3.text = "The Lord of all things undergoes circumcision, and as he is good circumcises mortals’ faults; today he gives salvation to the world, while in the highest the Creator’s high priest and bearer of light rejoices, Basil the great initiate of Christ."
+
+meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.text = he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.text
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C11.text = "Circumcision has ceased since Christ was willingly circumcised, saving the multitudes of the nations by grace."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C12.text = "The eighth day, on which the master Christ was circumcised, is an image of the unending life of the age to come."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C21.text = "As the Bride, the Church, is made lovely by the birth of Christ, so too she is by your memory, O all-blessed."
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C22.text = "Proud to be a child of God, Basil, devoutly you did not lower the Godhead to be a creature."
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C23.text = "Unhumbled you appeared allied to God, Basil, for by his command you were humbled to all."
+
+meMA.Ode4C24.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C24.text = "You have been given to the Church by God as a palisade and stout wall, Basil all-blessed."
+
+meMA.Ode4C25.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C25.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C25.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C25.text = "To those opposed to God you appeared as a cutting axe and a fire consuming deception, Father Basil."
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C2T.text = "We implore you, Immaculate, who conceived God without seed, to intercede for ever for your servants."
+
+meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.text = he.h.m2_en_UK_lash.OTouFotosChorigos.text
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C11.text = "From a Virgin Mother, Lord, you came forth beyond explanation, and did not disdain to clothe yourself in mortals' form, so as a babe in accordance with the law you fulfilled the Law."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C12.text = "As she accepts the shadow of the Law, the daughter of Israel is likened to the night, from which Christ, the light of the world, shone forth and has appeared." //added by Seraphim Dedes
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C21.text = "Truly the Church holds a double feast today: of the Circumcision as a babe of the Master who appeared on earth, and of the memory of a wise and thrice-blessed servant."
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C22.text = "Christ the light beyond understanding dwelt in you, venerable Father, and revealed you as a torch of light for the world; and so we sing the praise of your memory, Basil."
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C23.text = "Not Moses the giver of the Law, nor Joseph before the Law was a distributor of nourishment like you; for you, Basil, were revealed as host at the banquet of God’s flesh."
+
+meMA.Ode5C24.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C24.text = "The Genesis of the universe, dimly recounted to Moses on Sinai, you interpreted to all unfolding it from divine treasuries, Basil all-blessed."
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C2T.text = "To you, who gave birth to Christ, the creator of the universe, we cry: Hail, Pure One! Hail, who made the Light dawn for us! Hail, who contained the God who cannot be contained."
+
+meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.text = he.h.m2_en_UK_lash.AvyssosAmartimaton.text
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C11.text = "The Law has come to an end since Christ became an infant, and revealed as the fulfiller of the Law he accepted circumcision and abolished the curse of the Law."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C12.text = "Sabbaths and Circumcision, the proud boast of the Hebrews, have ceased now that Christ has been made manifest, and the spring of grace has shone."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C21.text = "Unstintingly you nourished souls of the poor that were wasted by famine, and you filled the hearts of those who hungered, Basil, with every godly joy."
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C22.text = "You nourished souls of the hungry with heavenly food, for the word is indeed the bread of angels, O Basil; and you were an excellent distributor of it." //added by Seraphim Dedes
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C23.text = "With the bee’s love of toil, Basil, you gathered every flower of virtue; and becoming skilled in them you are called blessed."
+
+meMA.Ode6C24.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C24.text = "You hastened to break free of the world and to live your life with God; and so Father Basil, in wisdom you have gained things that abide for things that are transient and unstable."
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C2T.text = "A bush on Sinai that clung to fire unburned prefigured you, a Mother ever-virgin, O Mary without bridegroom Mother of God."
+
+meMA.Kontakion1.poet = poets_en_UK_lash.RomanouTouMelodou
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kontakion1.text = "Today you have appeared to the inhabited world, and your light, O Lord, has been signed upon us, who with knowledge sing your praise: You have come, you have appeared, the unapproachable Light."
+
+meMA.Oikos1.text = "Bowl of temperance, mouth of wisdom and foundation of doctrines, Basil the Great shines spiritually for all. Come then, let us stand in the house of God, gazing fervently and delighting in his wonders; and so made radiant by their light as by great brilliance, we may be warmed by the purifying spirit of his way of life, imitating his faith, his zeal and his humility; through which he was revealed as truly a house of God; to whom we cry out, as we sing his praise: venerable Father Basil, Revealer of heaven."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.text = he.h.m2_en_UK_lash.EikonosChrysis.text
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C11.text = "The nativity of Christ is all radiant and bright, and traces out today the mystery of the renewal of the age to come; because by the regulation of the Law the Saviour is circumcised , not as God, but as a mortal and the fulfilment of the Law."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C12.text = "Fulfilling the Law the Maker of the Law is today willingly circumcised in the flesh, bringing about the circumcision of the winter of sin, and granting grace to cry: Blessed are you the God of our Fathers."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C21.text = "The Son, the image of the Father, and the Spirit of the Son have appeared; while you, O Basil, are an unsullied mirror of the Spirit and a house for the whole Trinity; blest is your memory; and those who glorify it are glorified in return."
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C22.text = "Sinking your mind deep into the unfathomable depths of God, and gathering the pearl of knowledge of great price, you enriched the world with wisdom and taught it to cry: Blessed are you the God of our Fathers."
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C23.text = "O harmony of mind, sacred pair, soul as one though separated in two bodies, united by godly love, Basil in Gregory and Gregory, now intercede with Christ on behalf of your flock."
+
+meMA.Ode7C24.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C24.text = "Father of orphans, defender of widows, wealth for paupers, consolation of the weak, pilotage for those with wealth, staff of old age, guidance of youth and rule of virtue for monks you have been declared, O Basil."
+
+meMA.Ode7C25.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C25.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C25.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C25.text = "Cleansing your mind of every miry defilement, Basil, you looked deep into the things of the Spirit by the Spirit which you longed for; therefore as you praised the Trinity, you cried with boldness: Blessed are you, the God of our Fathers."
+
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+meMA.Ode7C2T.text = "Moses foresaw you on Mount Sinai as a bush that flamed, Pure Virgin, who bore within you unconsumed the unendurable radiance of the ineffable Being, united to the solidity of one flesh of the two natures in it."
+
+meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.text = he.h.m2_en_UK_lash.TonArritoSofia.text
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C11.text = "On the eighth day the Master is circumcised as a babe and receives the name Jesus, because he is the Saviour of the world and Lord."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C12.text = "The all-glorious memory of the High Priest is fittingly linked with the nativity of Christ; as we honour it with faith we hymn the Lord."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C21.text = "Him who gave Basil to the world in his ineffable providence as a light of true religion and trumpet of theology, bless him, as Lord, all you works of the Lord."
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C22.text = "Him, who with abundant activity made his dwelling in wise Basil, and through him preached true theology, bless him, as Lord, all you works of the Lord."
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C23.text = "We, who unceasingly enjoy your godlike words, Basil, as we keep festival in your memory, cry out: Bless the Lord, all you works of the Lord."
+
+meMA.Ode8C24.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C24.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C24.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C24.text = "You sent out into the world, Basil, the beams of your words, which lighted it to honour one nature of the Trinity, as it cried: You his works, bless the Lord."
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonArritoSofia.name
+meMA.Ode8C2T.text = "God the Word, who came forth from the Father before the ages and beyond time, and who in these last days dawned from a Virgin, bless him, as Lord, all you works of the Lord."
+
+meMA.Ode9C1M01.text = "Magnify, O my soul, her who is greater in honour and more glorious than the hosts on high. "
+meMA.Ode9C1M02.text = "Magnify, O my soul, him was circumcised in the flesh according to the Law."
+meMA.Ode9C1M03.text = "Magnify, O my soul, him who received circumcision on the eighth day."
+meMA.Ode9C1M04.text = "Today the Master is circumcised in the flesh as babe, fulfilling the Law."
+meMA.Ode9C1M05.text = "Today the Master was circumcised in the flesh and was named Jesus."
+
+meMA.Ode9C2M01.text = "Magnify, O my soul, Basil the Great, among the Hierarchs."
+meMA.Ode9C2M02.text = "Magnify, O my soul, Basil, the Great, of Caesarea."
+meMA.Ode9C2M03.text = "Magnify, O my soul, the shining beacon of the inhabited world."
+meMA.Ode9C2M04.text = "Magnify, O my soul, one who has adorned the Church of Christ."
+meMA.Ode9C2MTr.text = "Magnify, O my soul, the might of the three-personned and undivided Godhead."
+meMA.Ode9C2MTh.text = "Magnify, O my soul, her who rescued us from the curse."
+
+meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.text = he.h.m2_en_UK_lash.ITonProIliouFostira.text
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C11.text = "Passing beyond the bounds of all human nature, Christ is born of a Virgin, and as the letter of the law lays down is circumcised in the flesh and shown to be one who fulfils the Law."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C12.text = "Come, let us with holiness celebrate the festival of the glorious name day of the Master, Christ; for in a manner fitting God he is called Jesus today; with this let us also magnify the memory of the Hierarch."
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C21.text = "As a faithful sheep of Christ the Chief Shepherd you followed, Basil, in his life-bearing steps; for you for you gave up your soul, all-blessed Father, to the tyrant, nobly braving danger for the Church."
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C22.text = "When he perceived the most sacred body of Christ’s Church adorned by your high priesthood, wise Basil, the all-destructive tyrant fell, struck by lightning; for he could endure the beam of the Spirit that was in you."
+
+meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C23.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C23.text = "You were counted worthy, Basil, of the throne of the Apostles, the choir of Christ’s Champions, the tent of the Patriarchs, the delight of the Just and the choir of the Prophets; for you became an initiate of the Mother of God and a worshipper of the Trinity."
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C2T.text = "The Lord, who alone covers his upper chambers with the waters, reins back the sea and dries up the deeps, taking flesh from you, pure Virgin, hastens from Bethlehem to Jordan, to be baptised in the flesh."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.text = "With love of true love of wisdom, Father, you circumcised the covering of your soul and were revealed to the world as a sun by your wonders, and flooded the minds of the faithful with light, O Basil, worshipper of the Trinity and initiate of the Mother of God."
+
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.text = "The Creator of the ages, who fulfilled the law as a babe of eight days, is circumcised in the flesh; and he is wrapped in swaddling clothes as a mortal and he is nourished with milk, who holds all things by his infinite strength as God, and ends them in an instant."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode5
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds1.text = "He who was born ineffably from the Father without division and without change as Word and God from God, abiding in unaltered Godhead, undergoes Circumcision in the flesh; and so, in accordance with the Law he who is beyond the Law ransoms all from the curse of the Law and grants the blessing from on high. Therefore as we sing our praise we hymn his supremely loving condescension and give glory with thanksgiving, as we implore him that our souls may be given his great mercy."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode5
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds2.text = "When by adoption you had become a son of God, by the rebirth of divine Baptism, you confessed that he who is in nature and truth and before the ages the Son and Word of God is consubstantial with the Father and like him without beginning, Venerable Father; and by the splendour of your words you fenced the ungated mouths of heretics. Therefore you have come to dwell in the palaces on high, where you reign with Christ, who alone reigns by nature, and who distributes richly to the world his great mercy."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode5
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds3.text = "You entered within a heavenly Temple as a sacred Hierarch, wearing, like a holy robe, action and contemplation, the beginnings of wisdom, and now, as you act as priest at the altar on high, Venerable Father, and perform the immaterial liturgy, remember, compassionate, all-blessed Basil, those who celebrate your sacred and all honoured memory, as you intercede with Christ, who grants the world his great mercy."
+
+meMA.Lauds4.mode = misc_en_UK_lash.Mode5
+meMA.Lauds4.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds4.text = "Wholly consecrated to God, and from childhood dedicated to him in every way, irradiated by the rays of the wisdom beyond wisdom, you made clear the knowledge of what exists; radiantly explaining and wisely expounding the orderly arrangement of what exists, setting out the principles of a more godlike knowledge. Therefore we proclaim you to be a godlike Teacher, inspired by God, a light-bearing Beacon of the Church, as we sing the praise of Christ, who grants the world his great mercy."
+
+meMA.LaudsGlory.poet = poets_en_UK_lash.Vyzantiou
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = meVE.LityGlory.text
+
+meMA.LaudsBoth.poet = poets_en_UK_lash.Anatoliou
+meMA.LaudsBoth.mode = misc_en_UK_lash.Mode8
+meMA.LaudsBoth.melody = ""
+meMA.LaudsBoth.text = meVE.Stichera01.text
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meLI.Antiphon2.text = "circumcised in the flesh,"
+
+meLI.MM.EntranceHymn.text = ho.s07_en_UK_lash.hoLI.EntranceHymn.text
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = meMA.Ode3Kathisma3.mode
+meLI.SeasonalKontakion.melody = meMA.Ode3Kathisma3.melody
+meLI.SeasonalKontakion.text = meMA.Ode3Kathisma3.text
+
+meLI.TheotokosHymn.mode = ""
+meLI.TheotokosHymn.text = eu.lichrysbasil_en_UK_lash.euLI.Key1328.basil.text
+
+meLI.MM.CommunionHymn.text = ""
+
+meLI.AfterCommunion.mode = misc_en_UK_lash.Mode1
+meLI.AfterCommunion.text = meVE.Apolytikion2.text
+
+meMegalynarion.text = ""
+

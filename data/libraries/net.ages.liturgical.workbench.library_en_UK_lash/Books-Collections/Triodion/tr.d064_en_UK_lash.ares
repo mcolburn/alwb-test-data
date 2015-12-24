@@ -1,0 +1,366 @@
+A_Resource_Whose_Name = tr.d064_en_UK_lash
+
+trCommemoration.text = "Palm Sunday" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = rubrical_en_UK_lash.RelaxedFish
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_UK_lash.dis00.palm
+
+trSV.Stichera1.mode = misc_en_UK_lash.Mode6
+trSV.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+trSV.Stichera1.text = "Seated on the colt, O Christ, you accepted a song of victory from innocent children, as you, who are praised by Angels with the thrice-holy hymn, came to your Passion."
+
+trSV.Stichera2.mode = misc_en_UK_lash.Mode6
+trSV.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+trSV.Stichera2.text = "Your King, O Sion, meek and bringing salvation, is coming on a colt, seeking to smite the foe with strength. Rejoice and be glad, as you keep the feast with Palms."
+
+trSV.Stichera3.mode = misc_en_UK_lash.Mode6
+trSV.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+trSV.Stichera3.text = "Let us believers clap our hands with one accord, as we too, like the Children, offer branches of virtues to Christ. And let us unfold for him the cloaks of good works and mystically receive him."
+
+trSV.Stichera4.mode = misc_en_UK_lash.Mode6
+trSV.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+trSV.Stichera4.text = "Brethren, let us offer Christ God Palms of virtues as he comes in human form to suffer willingly for our sake, with the strength of the godhead to grant dispassion to all."
+
+trSV.SticGlory.mode = misc_en_UK_lash.Mode6
+trSV.SticGlory.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+trSV.SticGlory.text = "He who as God rides on the backs of the Cherubim is seated on a colt as for our sake he comes willingly to the slaughter. Come, let us fervently sing his praise with Palms."
+
+trSV.Aposticha1.mode = misc_en_UK_lash.Mode2
+trSV.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.Aposticha1.text = "New Sion, be radiant with children and sing the hymn with palms, ‘See, your King bringing salvation comes to his Passion’."
+
+trSV.Aposticha2.mode = misc_en_UK_lash.Mode2
+trSV.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.Aposticha2.text = "Adam and Eve, rejoice with Prophets. See, the Lord is hastening to call us back through the Passion."
+
+trSV.Aposticha3.mode = misc_en_UK_lash.Mode2
+trSV.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.Aposticha3.text = "He who on high with Father and Spirit receives the Angels’ hymn, makes himself strangely a pauper here below, and receives the praise of Children."
+
+trSV.AposGlory.mode = misc_en_UK_lash.Mode2
+trSV.AposGlory.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.AposGlory.text = "With fear I praise your dread dispensation. To you I cry, ‘Hosanna!’, for you are coming to save me, blessed Lord."
+
+trVE.Stichera01.mode = misc_en_UK_lash.Mode6
+trVE.Stichera01.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera01.text = "Today the grace of the Holy Spirit has gathered us together, and taking up the Cross we all say, ‘Blessed is he who comes in the name of the Lord. Hosanna in the highest!’"
+
+trVE.Stichera02.mode = misc_en_UK_lash.Mode6
+trVE.Stichera02.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera02.text = "He who has heaven as his throne and earth his footstool, the Word and co-eternal Son of God the Father, having come to Bethany, showed his humility today on the colt of a dumb animal. Therefore the children of the Hebrews, holding branches in their hands, sang his praise and cried, ‘Hosanna in the highest! Blessed is he who comes, the King of Israel’."
+
+trVE.Stichera03.mode = misc_en_UK_lash.Mode6
+trVE.Stichera03.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera03.text = "Let us too, all the new Israel, the Church from the nations, come today and let us cry out, ‘Rejoice greatly, daughter of Sion. Proclaim it, daughter of Jerusalem. For see, your King is coming to you, meek and bringing salvation, and mounted on the colt of an ass, offspring of a beast of burden. Celebrate with the Children. Holding branches in your hands shout his praise, ‘Hosanna in the highest! Blessed is he who comes, the King of Israel’."
+
+trVE.Stichera04.mode = misc_en_UK_lash.Mode6
+trVE.Stichera04.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera04.text = "Prefiguring for us your holy Resurrection, loving Lord, you raised a dead man from the grave by your command, Lazarus, your lifeless friend, who by the fourth day had begun to stink. So too, as a symbol, you mounted the colt, O Saviour, borne as on a chariot and giving a sign to the nations. So too Israel your beloved offers you praise from mouths of sucklings and innocent babes, as they see you coming to the Holy City, O Christ, six days before the Passover."
+
+trVE.Stichera05.mode = misc_en_UK_lash.Mode6
+trVE.Stichera05.melody = misc_en_UK_lash.Idiomelon
+trVE.Stichera05.text = "Six days before the Passover Jesus came to Bethany and his Disciples approached him, saying, ‘Lord, where do you wish us to prepare for you to eat the Passover?’ But he sent them, saying, ‘Go to the village opposite and you will find a man carrying a pitcher of water. Follow him and say to the master of the household, ‘The Teacher says, ‘I am celebrating Passover with you along with my Disciples’’’."
+
+trVE.SticGlory.mode = misc_en_UK_lash.Mode6
+trVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.SticGlory.text = trVE.Stichera01.text
+
+trVE.SticBoth.mode = misc_en_UK_lash.Mode6
+trVE.SticBoth.melody = misc_en_UK_lash.Idiomelon
+trVE.SticBoth.text = trVE.Stichera01.text
+
+trVE.Lity1.mode = misc_en_UK_lash.Mode1
+trVE.Lity1.melody = misc_en_UK_lash.Idiomelon
+trVE.Lity1.text = "The All-Holy Spirit, who taught the Apostles to speak in other strange tongues, himself inspires the innocent children of the Hebrews to cry out, ‘Hosanna in the highest! Blessed is he who comes, the King of Israel’."
+
+trVE.Lity2.mode = misc_en_UK_lash.Mode1
+trVE.Lity2.melody = misc_en_UK_lash.Idiomelon
+trVE.Lity2.text = "The Son and Word of the Father, like him without beginning and co-eternal, came today to the city of Jerusalem, seated on the colt of a dumb animal. The One whom the Cherubim cannot gaze upon with fear Children praise with palms and branches, as mystically they raise the song, ‘Hosanna in the highest to him who has come to save our whole race from error.’"
+
+trVE.Lity3.mode = misc_en_UK_lash.Mode1
+trVE.Lity3.melody = misc_en_UK_lash.Idiomelon
+trVE.Lity3.text = "Six days before the Passover your voice was heard, Lord, in the depths of Hell. From it you raised Lazarus, dead for four days, while the children of the Hebrews cried out, ‘Hosanna! Our God, glory to you!’"
+
+trVE.Lity4.mode = misc_en_UK_lash.Mode2
+trVE.Lity4.melody = misc_en_UK_lash.Idiomelon
+trVE.Lity4.text = "As you entered the Holy City, Lord, seated on the colt, you were hastening to your Passion, that you might fulfil the Law and the Prophets, while the Children of the Hebrews, foreshadowing the victory of your Resurrection, met you with branches and palms, saying, ‘Blessed are you, O Saviour. Have mercy on us’."
+
+trVE.Lity5.mode = misc_en_UK_lash.Mode2
+trVE.Lity5.melody = misc_en_UK_lash.Idiomelon
+trVE.Lity5.text = "Glory to you, O Christ, who are seated on the throne in the highest and are now awaited with your precious Cross. And so the daughter of Sion is glad, the nations of the earth rejoice. Children hold branches, the Disciples tunics; and the whole inhabited world was taught to cry out to you, ‘Blessed are you, O Saviour. Have mercy on us’."
+
+trVE.LityGlory.mode = misc_en_UK_lash.Mode3
+trVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.LityGlory.text = "Six days before the Passover was to take place, Jesus came to Bethany to call back Lazarus who had been dead for four days and to proclaim beforehand the Resurrection. Women too came to meet him, Martha and Mary, the sisters of Lazarus, crying out to him, ‘Lord, if you had been here, our brother would not have died’. Then he said to them, ‘Did I not tell you before, one who believes in me, even though they die, will live? Show me where you have laid him’. And the Creator of all things cried to him, ‘Lazarus, come forth!’"
+
+trVE.Aposticha1.mode = misc_en_UK_lash.Mode8
+trVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
+trVE.Aposticha1.text = "Rejoice and be glad, city of Sion, exult and be joyful, Church of God. For see, your King has come with justice, seated upon a colt, praised by children, ‘Hosanna in the highest! Blessed are you, who have great compassion. Have mercy on us’."
+
+trVE.Aposticha2.mode = misc_en_UK_lash.Mode8
+trVE.Aposticha2.melody = misc_en_UK_lash.Idiomelon
+trVE.Aposticha2.text = "Today the Saviour came to the city of Jerusalem to fulfil the Scripture. And all took palms in their hands, spread their garments before him, knowing that he is our God, to whom the Cherubim cry without ceasing, ‘Hosanna in the highest! Blessed are you, who have great compassion. Have mercy on us’."
+
+trVE.Aposticha3.mode = misc_en_UK_lash.Mode8
+trVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
+trVE.Aposticha3.text = "You, who ride on the Cherubim and are praised by the Seraphim, mounted like David on a colt, O loving Lord. And Children sang your praise in a manner fitting God. Jews unlawfully blasphemed you. Your sitting on a colt prefigured how the untamed nations were being changed from unbelief to faith. Glory to you, O Christ, who alone are merciful and love humankind."
+
+trVE.AposGlory.mode = misc_en_UK_lash.Mode6
+trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.AposGlory.text = trVE.Stichera01.text
+
+trVE.AposBoth.mode = misc_en_UK_lash.Mode6
+trVE.AposBoth.melody = misc_en_UK_lash.Idiomelon
+trVE.AposBoth.text = trVE.Stichera01.text
+
+trVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.text = tr.d063_en_UK_lash.trVE.Apolytikion1.text
+
+trVE.Apolytikion2.mode = misc_en_UK_lash.Mode4
+trVE.Apolytikion2.melody = ""
+trVE.Apolytikion2.text = "Buried with you through Baptism, Christ our God, we have been granted immortal life by your Resurrection, and we sing your praises, crying: Hosanna in the highest! Blessed is he who comes in the name of the Lord."
+
+trMA.Kathisma11.mode = misc_en_UK_lash.Mode4
+trMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+trMA.Kathisma11.text = "Cleansed in soul, let us, like the Children, with branches spiritually praise Christ with faith, as we cry with a loud voice to the Master, ‘Blessed are you, O Saviour, who came into the world to save Adam from the ancient curse, becoming spiritually a new Adam, O Lover of mankind, as you were well pleased. O Word, who have disposed all things for our good, glory to you!’"
+
+trMA.Kathisma12.mode = misc_en_UK_lash.Mode4
+trMA.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+trMA.Kathisma12.text = "By raising Lazarus, dead for four days, from the grave, Lord, you taught all to cry out to you with Palms and branches, ‘Blessed are you who come’."
+
+trMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+trMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+trMA.Kathisma21.text = "Over your friend, O Christ, you mystically shed tears and raise from the dead Lazarus who had died. By this you showed your compassion in your love for mankind. When they learned of your coming, the multitudes of infants went out today, holding Palms in their hands, crying out to you, ‘Hosanna! Blessed are you, for you have come to save the world’."
+
+trMA.Kathisma22.mode = misc_en_UK_lash.Mode1
+trMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
+trMA.Kathisma22.text = "Peoples and nations, give praise with one accord. For the King of the Angels has now mounted the colt and is coming willingly to smite his foes by the Cross as all-powerful. Therefore the Children too with Palms shout the hymn, ‘Glory to you who have come as Conqueror! Glory to you, Christ Saviour! Glory to you, our God, alone blessed!’"
+
+trMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+trMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.ToProstachthen.name
+trMA.Kathisma31.text = "He who sits on the throne of the Cherubim and on the colt for our sake, and has come to his voluntary Passion, hears today the Children crying out, ‘Hosanna!’ and the crowds replying, ‘Son of David, hasten to save those whom you fashioned, blessed Jesus. For for this you have come, that we may know your glory’."
+
+trMA.MM.Prokeimenon.text = "" //for media
+
+trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = "Today Christ enters the Holy City seated on a colt, abolishing the wicked folly of the nations, that had been left dry and barren of old."
+
+trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+trMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
+trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
+
+trMA.C1Poet = poets_en_UK_lash.KosmaMonachou
+trMA.C1Acrostic.text = "of which the acrostic is:
+Hosanna Christ, blessed God"
+
+trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode1C1H.text = he.h.m4_en_UK_lash.OfthisanAiPigai.text
+
+trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OfthisanAiPigai.name
+trMA.Ode1C11.text = "From the mouth of innocent babes and sucklings, your own servants, you made sure of praise, to destroy the opponent and by the suffering of the Cross to avenge the fall of the old Adam; to raise him up through a tree as he sang a song of victory to you, O Lord."
+
+trMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OfthisanAiPigai.name
+trMA.Ode1C12.text = "The Church of the holy ones offers you praise, O Christ who dwell in Sion, while Israel rejoices in you his Maker, and mountains, types of the stony hearted nations exulted before your face, as they sang you a song of victory, O Lord."
+
+trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode3C1H.text = he.h.m4_en_UK_lash.NaousanAkrotomon.text
+
+trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NaousanAkrotomon.name
+trMA.Ode3C11.text = "Trembling at your command Hell let go Lazarus, dead for four days, from among the dead. For you, O Christ, are resurrection and life on whom the Church has been established as she cries, ‘Hosanna! Blessed are you who come’."
+
+trMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.NaousanAkrotomon.name
+trMA.Ode3C12.text = "You peoples, sing in Sion in a manner fitting God, and offer a prayer to Christ in Jerusalem. He comes himself in glory with dominion, on whom the Church has been established as she cries, ‘Hosanna! Blessed are you who come’."
+
+trMA.Hypakoe.mode = misc_en_UK_lash.Mode6
+trMA.Hypakoe.melody = ""
+trMA.Hypakoe.text = "At first the ungrateful Jews with branches praised Christ God, later with staves arrested him. But as with faith unchanging we ever honour him as Benefactor, let us cry to him, ‘Blessed are you who come to call back Adam.’"
+
+trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode4C1H.text = he.h.m4_en_UK_lash.ChristosOErchomenos.text
+
+trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ChristosOErchomenos.name
+trMA.Ode4C11.text = "Let the mountains and all the hills break forth into mighty rejoicing at mercy, and let the trees of the forest clap their hands. Praise Christ, you nations, and all you peoples praise him as you cry out, ‘Glory to your power, O Lord!’"
+
+trMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ChristosOErchomenos.name
+trMA.Ode4C12.text = "The Lord who is king over the ages will come clothed in strength. The splendour of his beauty and glory is beyond compare in Sion. Therefore let us all cry out, ‘Glory to your power, O Lord!’"
+
+trMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C13.mode = misc_en_UK_lash.Mode4
+trMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ChristosOErchomenos.name
+trMA.Ode4C13.text = "The Lord who measures Heaven in a span and earth in the hollow of his hand is here. For he chose Sion. In her he was pleased to dwell and reign over the peoples who cry out in faith, ‘Glory to your power, O Lord!’"
+
+trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode5C1H.text = he.h.m4_en_UK_lash.TinSionEpOrous.text
+
+trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinSionEpOrous.name
+trMA.Ode5C11.text = "God who is seated in the highest upon the Cherubim and looks upon lowly things comes himself in glory with dominion,. And all things will b filled with his divine praise. Peace upon Israel and salvation to the nations."
+
+trMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinSionEpOrous.name
+trMA.Ode5C12.text = "Sion, holy mountain of God, and Jerusalem lift your eyes round about and see your children gathered in you. For see, they have come from afar to worship your King. Peace upon Israel and salvation to the nations."
+
+trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode6C1H.text = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.text
+
+trMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EvoisanEnEffrosyni.name
+trMA.Ode6C11.text = "Israel, receive the kingdom of God. And the one who walks in darkness see the great light And let a people be made new through sprinkling with divine Blood."
+
+trMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EvoisanEnEffrosyni.name
+trMA.Ode6C12.text = "Sion, send forth your prisoners who have been set free, and lead them out of the waterless pit of ignorance. And let the people be made new through sprinkling with divine Blood."
+
+trMA.Kontakion1.mode = misc_en_UK_lash.Mode6
+trMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+trMA.Kontakion1.text = "Mounted on the throne in heaven, Christ God, and on the colt on earth, you accepted the praise of the angels and the hymn of the children who cried to you, ‘Blessed are you who come to call back Adam.’"
+
+trMA.Oikos1.text = "Since you bound Hell, slew Death and raised the world,, with palms the infants praised you, O Christ, as victor, crying out to you to-day, ‘Hosanna to the Son of David. For no more’, they say, ‘will infants be slaughtered because of Mary’s babe, But for all, infants and elders, you alone are crucified. No more against us will the sword advance, for your side will be pierced by a lance, therefore we rejoice and say, ‘Blessed are you who come to call back Adam.’’"
+
+trMA.Synaxarion.commemoration.text = ""
+trMA.Synaxarion.couplet1.title = 
+trMA.Synaxarion.couplet1.verse1 = ""
+trMA.Synaxarion.couplet1.verse2 = ""
+trMA.Synaxarion.lastline.text = ""
+
+trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode7C1H.text = he.h.m4_en_UK_lash.ODiasosasEnPyri.text
+
+trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ODiasosasEnPyri.name
+trMA.Ode7C11.text = "With palms in their hands, the peoples bending their knees and rejoicing with the Disciples were crying, ‘Hosanna to the Son of David. O Lord, highly exalted and God of our Fathers, blessed are you’."
+
+trMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ODiasosasEnPyri.name
+trMA.Ode7C12.text = "The innocent multitude, being still in infancy, sang your praise in a manner fitting God, O King of Israel and of Angels. ‘O Lord, highly exalted and God of our Fathers, blessed are you.’"
+
+trMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C13.mode = misc_en_UK_lash.Mode4
+trMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ODiasosasEnPyri.name
+trMA.Ode7C13.text = "With branches of palms the multitudes greeted you, O Christ, and cried out, ‘Blessed is he who has come, King of the ages. O Lord, highly exalted and God of our Fathers, blessed are you.’"
+
+trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode8C1H.text = he.h.m4_en_UK_lash.EffranthitiIerousalim.text
+
+trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffranthitiIerousalim.name
+trMA.Ode8C11.text = "Mounted on a young colt, Christ your King is here, O Sion. For to abolish the irrational error of idols and restrain the untamed wilfulness of all nations, he is at hand that they may sing, ‘O Lord, highly exalted and God of our Fathers, blessed are you’."
+
+trMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffranthitiIerousalim.name
+trMA.Ode8C12.text = "Rejoice greatly, daughter of Sion, Christ your God has reigned to the ages, for so it is written, on a colt our just Redeemer has come, meek and bringing salvation, to destroy the prancing arrogance of foes who do not sing, ‘O Lord, highly exalted and God of our Fathers, blessed are you’."
+
+trMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C13.mode = misc_en_UK_lash.Mode4
+trMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffranthitiIerousalim.name
+trMA.Ode8C13.text = "The lawless Sanhedrin of disobedient men is scattered from the sacred precincts, for it had made God’s house of prayer into a den of thieves, having banished the Redeemer from their hearts. To him we cry, ‘O Lord, highly exalted and God of our Fathers, blessed are you’."
+
+trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
+trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode9C1H.text = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.text
+
+trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C11.mode = misc_en_UK_lash.Mode4
+trMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.name
+trMA.Ode9C11.text = "Nations, why did you rage? Scribes and Priests, why did you meditate vain things, saying, ‘Who is this, to whom Children with palms and branches shout aloud with hymns, ‘Blessed is he who comes in the name of the Lord, our Saviour’?’"
+
+trMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C12.mode = misc_en_UK_lash.Mode4
+trMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.name
+trMA.Ode9C12.text = "This is our God and there is none like him. He has found out every just way and given it to Israel his beloved. But after this he appeared and lived among mankind. Blessed is he who comes in the name of the Lord, our Saviour."
+
+trMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C13.mode = misc_en_UK_lash.Mode4
+trMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.name
+trMA.Ode9C13.text = "Disobedient people, why do put stumbling blocks for us on the path? Your feet are swift to shed the blood of the Master. But he will arise to save all those who cry, ‘Blessed is he who comes in the name of the Lord, our Saviour’."
+
+trMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+trMA.Exaposteilarion1.melody = ""
+trMA.Exaposteilarion1.text = ho.s03_en_UK_lash.hoMA.SunExapVerse1.text
+
+trMA.Lauds1.mode = misc_en_UK_lash.Mode4
+trMA.Lauds1.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds1.text = "A very great crowd, Lord, spread their garments in the way, while others cut down branches from the trees and carried them. Those who went ahead and those who followed cried out, saying, ‘Hosanna to the Son of David! Blessed are you who came and who are coming again in the name of the Lord’."
+
+trMA.Lauds2.mode = misc_en_UK_lash.Mode4
+trMA.Lauds2.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds2.text = "As you were about to enter the Holy City, Lord, the peoples were carrying branches of plants as they hymned you, the Master of all things, seeing you seated on the colt, as though they beheld you on the Cherubim. And therefore they cried out , ‘Hosanna in the highest! Blessed are you who came and who are coming again in the name of the Lord’."
+
+trMA.Lauds3.mode = misc_en_UK_lash.Mode4
+trMA.Lauds3.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds3.text = "Come forth, you nations, and come forth you peoples, and look today on the King of Heaven on a humble colt as on a lofty throne treading the path to Jerusalem. Faithless and adulterous generation of the Jews, look on the one whom Isaias saw who has come for our sake in flesh. see, how he weds the new Sion, for she is chaste, and rejects the synagogue that is condemned. As at a marriage that is incorrupt and undefiled, the undefiled and innocent Children run together as they sing his praise. As we raise the song with them, let us cry aloud the Angels’ song, ‘Hosanna in the highest to him who has great mercy!’"
+
+trMA.Lauds4.mode = misc_en_UK_lash.Mode4
+trMA.Lauds4.melody = misc_en_UK_lash.Idiomelon
+trMA.Lauds4.text = "Before your voluntary Passion, Christ God, foreshadowing the general Resurrection for the assurance of all, in Bethany you raised Lazarus, dead for four days, by your mighty power, and as giver of light gave sight to the blind, O Saviour. And with your Disciples you entered the Holy City, seated, as though riding on the Cherubim, on the colt of an ass, so fulfilling the preaching of the Prophets. And the Children of the Hebrews with branches and palms went out to meet you. Therefore we also, carrying branches of olive and palms, cry out to you with thanksgiving, ‘Hosanna in the highest! Blessed is he who comes in the name of the Lord!’"
+
+trMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+trMA.LaudsGlory.text = "Six days before the Passover Jesus came to Bethany and his Disciples approached him, saying, ‘Lord, where do you wish us to prepare for you to eat the Passover?’ But he sent them, saying, ‘Go to the village opposite and you will find a man carrying a pitcher of water. Follow him and say to the master of the household, ‘The Teacher says, ‘I am celebrating Passover with you along with my Disciples’’’."
+
+trLI.Antiphon2.text = "seated on the foal of an ass," //for media
+
+trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
+trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode6
+trLI.SeasonalKontakion.melody = misc_en_UK_lash.Automelon
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode4
+trLI.TheotokosHymn.text = trMA.Ode9C1H.text
+
+trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+trLI.AfterCommunion.mode = misc_en_UK_lash.Mode1
+trLI.AfterCommunion.text = trVE.Apolytikion1.text
+
+trMegalynarion.text = ""
+

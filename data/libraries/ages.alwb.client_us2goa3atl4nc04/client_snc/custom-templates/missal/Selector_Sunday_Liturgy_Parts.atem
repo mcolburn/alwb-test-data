@@ -1,0 +1,85 @@
+Template Selector_Sunday_Liturgy_Parts
+
+Status Draft
+
+	import client_gr_GR_cog.*
+	import ho.s07_gr_GR_cog.*
+
+	import da.*
+	
+	import actors_gr_GR_cog.*
+	import dismissals_gr_GR_cog.*
+	import misc_gr_GR_cog.*
+	import prayers_gr_GR_cog.*
+	import rubrical_gr_GR_cog.*
+	import template.titles_gr_GR_cog.*
+	import titles_gr_GR_cog.*
+		
+	import iTags.*
+	import bTags.*
+	import roles.*
+ 
+ 	Head 
+ 		Set_Date month 1 day 4 year 2015 End_Date
+ 	End_Head
+
+	Section hymns
+		when-date-is
+			Jan 4 use: Insert_section se.m01.d04.li.Instance02.hymns End-Insert
+			Jan 11 use: Insert_section se.m01.d11.li.Instance02.hymns End-Insert
+			Jan 18 use: Insert_section se.m01.d18.li.Instance02.hymns End-Insert
+			Jan 25 use: Insert_section se.m01.d25.li.Instance02.hymns End-Insert
+			Feb 1 use: Insert_section se.tr.d001.li.Instance01.hymns End-Insert
+			Feb 8 use: Insert_section se.tr.d008.li.Instance01.hymns End-Insert
+			Feb 15 use: Insert_section se.tr.d015.li.Instance01.hymns End-Insert
+			Feb 22 use: Insert_section se.tr.d022.li.Instance01.hymns End-Insert
+			Mar 1 use: Insert_section se.tr.d029.li.Instance01.hymns End-Insert
+			Mar 8 use: Insert_section se.tr.d036.li.Instance01.hymns End-Insert
+			Mar 15 use: Insert_section se.tr.d043.li.Instance01.hymns End-Insert
+			Mar 22 use: Insert_section se.tr.d050.li.Instance01.hymns End-Insert
+			Mar 29 use: Insert_section se.tr.d057.li.Instance01.hymns End-Insert
+			Apr 5 use: Insert_section se.tr.d064.li.Instance01.hymns End-Insert
+			Jun 21 use: Insert_section se.m06.d21.li.Instance05.hymns End-Insert
+			Jun 28 use: Insert_section se.m06.d28.li.Instance05.hymns End-Insert
+			Jul 5 use: Insert_section se.m07.d05.li.Instance02.hymns End-Insert
+			Jul 12 use: Insert_section se.m07.d12.li.Instance02.hymns End-Insert
+			Jul 19 use: Insert_section se.m07.dHF.li.Instance01.hymns End-Insert
+			Jul 26 use: Insert_section se.m07.d26.li.Instance02.hymns End-Insert
+			Aug 2 use: Insert_section se.m08.d02.li.Instance02.hymns End-Insert
+			Aug 9 use: Insert_section se.m08.d09.li.Instance02.hymns End-Insert
+			Aug 16 use: Insert_section se.m08.d16.li.Instance02.hymns End-Insert
+			Aug 23 use: Insert_section se.m08.d23.li.Instance02.hymns End-Insert
+			Aug 30 use: Insert_section se.m08.d30.li.Instance02.hymns End-Insert
+		end-when
+	End-Section
+	
+	Section trisagion
+		when-date-is
+			Jan 6, 7 use:
+				Hymn sid hoLI.OsoiEisChriston.text @ver media-off End-Hymn	
+			Aug 1 use:
+				Hymn sid hoLI.TonStavronSou.text @ver End-Hymn	
+			Sep 14 use:
+				Hymn sid hoLI.TonStavronSou.text @ver End-Hymn	
+			Dec 25, 26 use:
+				Hymn sid hoLI.OsoiEisChriston.text @ver End-Hymn	
+			otherwise use:
+				when-movable-cycle-day-is
+					43 use:
+						Hymn sid hoLI.TonStavronSou.text @ver End-Hymn	
+					63, 71, 72, 73, 74, 75, 76, 77, 109, 120, 121 use:
+						Hymn sid hoLI.OsoiEisChriston.text @ver End-Hymn	
+					otherwise use:
+						Hymn sid hoLI.TrisagiosHymn.text @ver End-Hymn	
+				end-when
+		end-when
+	End-Section	
+	
+	
+	
+	
+	
+	
+	
+	
+End-Template

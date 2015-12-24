@@ -1,0 +1,152 @@
+A_Resource_Whose_Name = eu.funeral_en_UK_lash
+
+euFUN.title = ""
+euFUN.brightweek.title = ""
+euFUN.translator = ""
+
+euFUN.Key0100.title = ""
+
+euFUN.Key0101.mode = misc_en_UK_lash.Mode4
+euFUN.Key0101.text = oc.m4.d7_en_UK_lash.ocVE.Aposticha4.text
+euFUN.Key0102.text = oc.m4.d7_en_UK_lash.ocMA.Lauds4.text
+euFUN.Key0103.text = "You are our God who descended into Hades and did away with the pains of those who had been bound; give rest, O Saviour, also to the soul(s) of your servant(s)."
+euFUN.Key0104.text = oc.m4.d5_en_UK_lash.ocMA.AposTheotokion.text
+
+euFUN.Key0105.text = "O God of spirits and all flesh, who trampled down death and crushed the devil, giving life to your world; do you, Lord, give rest to the soul(s) of your servant(s) N. (and N.), who has (have) fallen asleep, in a place of light, a place of green pasture, a place of refreshment, whence pain, grief and sighing have fled away. Pardon, O God, as you are good and love mankind, every sin committed by him/her (them) in word or deed or thought, because there is none who will live and not sin, for you alone are without sin; your righteousness is an everlasting righteousness, and your word is truth."
+euFUN.Key0106.text = "For you are the resurrection, the life and the repose of your servant(s) N. (and N.), who has (have) fallen asleep, Christ our God, and to you we give glory, together with your Father who is without beginning, and your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages."
+euFUN.Key0107.text = "Everlasting your memory, our brother (brothers), worthy of blessedness and ever-remembered."
+euFUN.Key0108.text = "Everlasting your memory, our sister (brothers and sisters), worthy of blessedness and ever-remembered."
+euFUN.Key0109.text = ""
+euFUN.Key0110.text = prayers_en_UK_lash.res14
+euFUN.Key0111.text = prayers_en_UK_lash.res15
+euFUN.Key0112.text = prayers_en_UK_lash.res16
+
+euFUN.Key0200.title = ""
+
+euFUN.Key0300.title = ""
+euFUN.Key0300.mode = misc_en_UK_lash.Mode6
+euFUN.Key0300.version = ""
+euFUN.Key0300.text = ""
+
+euFUN.Key0400.title = ""
+euFUN.Key0400.mode = misc_en_UK_lash.Mode5
+euFUN.Key0400.version = ""
+euFUN.Key0400.text = ""
+
+euFUN.Key0500.title = ""
+euFUN.Key0500.mode = misc_en_UK_lash.Mode8
+euFUN.Key0500.version = ""
+euFUN.Key0500.text = ""
+
+euFUN.Key0600.title = ""
+euFUN.Key0600.mode = misc_en_UK_lash.Mode5
+euFUN.Key0600.text = ho.s03_en_UK_lash.hoMA.FuneralEvlogVerse.text
+euFUN.Key0601.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog1.text
+euFUN.Key0602.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog4.text
+euFUN.Key0603.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog5.text
+euFUN.Key0604.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog6.text
+euFUN.Key0605.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog7.text
+euFUN.Key0606.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog8.text
+euFUN.Key0607.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog9.text
+
+euFUN.Key0700.title = titles_en_UK_lash.Kontakion
+euFUN.Key0700.mode = misc_en_UK_lash.Mode8
+euFUN.Key0700.text = tr.d014_en_UK_lash.trMA.Kontakion1.text
+
+euFUN.Key0800.title = ""
+euFUN.Key0800.poet = poets_en_UK_lash.IoannouMonachou
+euFUN.Key0801.mode = misc_en_UK_lash.Mode1
+euFUN.Key0801.text = oc.m1.d7_en_UK_lash.ocVE.Aposticha4.text
+euFUN.Key0802.mode = misc_en_UK_lash.Mode2
+euFUN.Key0802.text = oc.m2.d7_en_UK_lash.ocVE.Aposticha4.text
+euFUN.Key0803.title = titles_en_UK_lash.EteronEktosTypikou
+euFUN.Key0803.mode = misc_en_UK_lash.Mode2
+euFUN.Key0803.text = oc.m2.d7_en_UK_lash.ocMA.Lauds4.text
+euFUN.Key0804.mode = misc_en_UK_lash.Mode3
+euFUN.Key0804.text = oc.m3.d7_en_UK_lash.ocVE.Aposticha4.text
+euFUN.Key0805.mode = misc_en_UK_lash.Mode4
+euFUN.Key0805.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
+euFUN.Key0805.text = oc.m4.d7_en_UK_lash.ocMA.Aposticha1.text
+euFUN.Key0806.title = titles_en_UK_lash.EteronEktosTypikou
+euFUN.Key0806.mode = misc_en_UK_lash.Mode4
+euFUN.Key0806.text = oc.m4.d7_en_UK_lash.ocMA.LaudsGlory.text
+euFUN.Key0807.mode = misc_en_UK_lash.Mode5
+euFUN.Key0807.text = oc.m5.d7_en_UK_lash.ocVE.Aposticha2.text
+euFUN.Key0808.mode = misc_en_UK_lash.Mode6
+euFUN.Key0808.text = oc.m6.d7_en_UK_lash.ocVE.Aposticha2.text
+euFUN.Key0809.mode = misc_en_UK_lash.Mode7
+euFUN.Key0809.melody = misc_en_UK_lash.NotMetered //he.a.m7_en_UK_lash.OukEtiKolyometha.name
+euFUN.Key0809.text = oc.m7.d7_en_UK_lash.ocVE.Aposticha3.text
+euFUN.Key0810.title = titles_en_UK_lash.EteronEktosTypikou
+euFUN.Key0810.mode = misc_en_UK_lash.Mode7
+euFUN.Key0810.text = oc.m7.d7_en_UK_lash.ocVE.Aposticha2.text
+euFUN.Key0811.mode = misc_en_UK_lash.Mode8
+euFUN.Key0811.text = oc.m8.d7_en_UK_lash.ocVE.Aposticha2.text
+euFUN.Key0812.mode = misc_en_UK_lash.Mode8
+euFUN.Key0812.text = oc.m8.d7_en_UK_lash.ocVE.Aposticha3.text
+euFUN.Key0813.mode = misc_en_UK_lash.Mode8
+euFUN.Key0813.text = oc.m8.d7_en_UK_lash.ocVE.AposTheotokion.text
+
+euFUN.Key0900.title = ""
+euFUN.Key0900.mode = misc_en_UK_lash.Mode6
+euFUN.Key0900.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OiOsioiSouPaides.name
+euFUN.Key0901.text = ""
+euFUN.Key0902.text = ""
+euFUN.Key0903.text = ""
+euFUN.Key0904.text = ""
+euFUN.Key0905.text = ""
+euFUN.Key0906.text = ""
+euFUN.Key0907.text = ""
+euFUN.Key0908.text = ""
+
+euFUN.EpistleProkeimenon.text = ""
+
+euFUN.brightweek.R091= ""
+
+euFUN.Key1000.title = ""
+euFUN.Key1001.title = ""
+euFUN.Key1002.text = ""
+euFUN.Key1003.title = ""
+euFUN.Key1003.text = ""
+
+euFUN.Key1101.mode = misc_en_UK_lash.Mode2
+euFUN.Key1101.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+euFUN.Key1101.text = ""
+
+euFUN.Key1102.mode = misc_en_UK_lash.Mode2
+euFUN.Key1102.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+euFUN.Key1102.text = ""
+
+euFUN.Key1103.mode = misc_en_UK_lash.Mode2
+euFUN.Key1103.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+euFUN.Key1103.text = ""
+
+euFUN.Key1104.mode = misc_en_UK_lash.Mode6
+euFUN.Key1104.melody = misc_en_UK_lash.Idiomelon
+euFUN.Key1104.text = ""
+
+euFUN.Key1105.mode = misc_en_UK_lash.Mode6
+euFUN.Key1105.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+euFUN.Key1105.text = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.text
+
+euFUN.brightweek.R111= ""
+euFUN.brightweek.R112= ""
+
+euFUN.Key1200.title = ""
+
+euFUN.Key1300.title = ""
+euFUN.Key1301.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog2.text
+euFUN.Key1302.text = ho.s03_en_UK_lash.hoMA.FuneralEvlog3.text
+euFUN.Key1303.title = ""
+euFUN.Key1303.text = ""
+
+euFUN.Key1400.title = ""
+euFUN.Key1401.text = dismissals_en_UK_lash.dis00.deceased
+euFUN.Key1402.text = dismissals_en_UK_lash.dis02
+euFUN.Key1403.text = dismissals_en_UK_lash.dis06
+euFUN.Key1404.text = dismissals_en_UK_lash.dis08
+euFUN.Key1405.text = ""
+euFUN.Key1406.text = ""
+euFUN.Key1407.text = dismissals_en_UK_lash.dis10
+euFUN.Key1408.text = ""
+

@@ -1,0 +1,804 @@
+A_Resource_Whose_Name = me.m01.d03_en_UK_lash
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode8
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.KyrieEiKaiKritirio.name
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode8
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.KyrieEiKaiKritirio.name
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode8
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.KyrieEiKaiKritirio.name
+meVE.Stichera03.text = ""
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode8
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.Stichera04.text = ""
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode8
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.Stichera05.text = ""
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode8
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
+meVE.Stichera06.text = ""
+
+meVE.SticGlory.poet = poets_en_UK_lash.IoannouMonachou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode4
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "O marvellous wonder! He who baptizes in the Holy Spirit and in fire, is coming into the Jordan to be baptised by John; not bare God, nor simple human, but in two natures one and the same only-begotten Son. As a human he seeks baptism from a mortal, while as God he takes away the sin of the world and grants his great mercy."
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode6
+meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+meVE.Aposticha1.text = "See, the enlightenment of believers, see, our atonement is about to enter the streams of the river to wash away the stain of humans' wickedness, and to refashion us who had been crushed."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode6
+meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+meVE.Aposticha2.text = "As the Forerunner saw you, Lord, coming and asking baptism of him, he cried out in fear: My God, my Fashioner, how may I baptise you, the undefiled?"
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode6
+meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
+meVE.Aposticha3.text = "Let us believers assemble in spirit to the streams of Jordan, that we may clearly see a great wonder: For the Creator of all things has appeared and been seen, and has come to be baptised."
+
+meVE.AposGlory.poet = poets_en_UK_lash.Vyzantiou
+meVE.AposGlory.mode = misc_en_UK_lash.Mode5
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Christ our God is coming for Baptism in the river Jordan, wishing to cleanse us from our iniquities by his appearing, as he alone is good and loves mankind."
+
+meVE.Apolytikion1.mode = me.m01.d02_en_UK_lash.meVE.Apolytikion1.mode
+meVE.Apolytikion1.melody = me.m01.d02_en_UK_lash.meVE.Apolytikion1.melody
+meVE.Apolytikion1.text = me.m01.d02_en_UK_lash.meVE.Apolytikion1.text
+
+meCO.C1Acrostic.text = ""
+
+meCO.C2Acrostic.text = ""
+
+meCO.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meCO.Ode3C1H.mode = misc_en_UK_lash.Mode2
+meCO.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meCO.Ode3C1H.text = he.h.m2_en_UK_lash.TisPisteosEnPetra.text
+
+meCO.Ode3C11.ode = misc_en_UK_lash.Ode3
+meCO.Ode3C11.mode = misc_en_UK_lash.Mode2
+meCO.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TisPisteosEnPetra.name
+meCO.Ode3C11.text = "To no purpose was Herod's design, when he lawlessly destroyed the children who were about to gain freedom; for Christ, our Redeemer, bestows indestructible life on all."
+
+meCO.Ode3C12.ode = misc_en_UK_lash.Ode3
+meCO.Ode3C12.mode = misc_en_UK_lash.Mode2
+meCO.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TisPisteosEnPetra.name
+meCO.Ode3C12.text = "The dread council of Herod slew the young babes of old, filling Bethlehem with blood; while now Christ comes to the Church to adopt many children through Baptism."
+
+meCO.Ode5C2H.ode = misc_en_UK_lash.Ode5
+meCO.Ode5C2H.mode = misc_en_UK_lash.Mode6
+meCO.Ode5C2H.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C2H.text = he.h.m6_en_UK_lash.ProsSeOrthrizo.text
+
+meCO.Ode5C21.ode = misc_en_UK_lash.Ode5
+meCO.Ode5C21.mode = misc_en_UK_lash.Mode6
+meCO.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C21.text = "Cleansed in mind and purified by participation in the mystery of the dread dispensation, let all us believers go to meet Christ as he comes to purify us in the streams of Jordan."
+
+meCO.Ode5C22.ode = misc_en_UK_lash.Ode5
+meCO.Ode5C22.mode = misc_en_UK_lash.Mode6
+meCO.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C22.text = "See, friends, the voice of the Word, the lamp of the Sun, the friend of the Bridegroom, who cries out to the peoples: Repent, and hasten to be purified for meeting the Creator."
+
+meCO.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C1H.mode = misc_en_UK_lash.Mode2
+meCO.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meCO.Ode8C1H.text = he.h.m2_en_UK_lash.RimaTyrannou.text
+
+meCO.Ode8C11.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C11.mode = misc_en_UK_lash.Mode2
+meCO.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.RimaTyrannou.name
+meCO.Ode8C11.text = "Believers, as we shed floods of tears from our eyes, let us purify every stain of our souls, and in light we shall see the triple light of Christ who is coming to be baptised; to whom the Father will bear witness from heaven, and who will shine by the presence of the Holy Spirit in the form of a dove."
+
+meCO.Ode8C12.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C12.mode = misc_en_UK_lash.Mode2
+meCO.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.RimaTyrannou.name
+meCO.Ode8C12.text = "Christ, who takes every tear from every face, is coming near, painlessly putting an end to most painful sicknesses of souls, and by rebirth renewing humans decayed through time who sing his praise to the ages."
+
+meCO.Ode8C13.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C13.mode = misc_en_UK_lash.Mode2
+meCO.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.RimaTyrannou.name
+meCO.Ode8C13.text = "Souls are made holy by the God-given bath of Baptism, and the fire of the Spirit, who cleanses the passions, burns away all the matter of wretched wickedness and gives the grace to cry out in compunction: We highly exalt you, O Christ, to the ages."
+
+meCO.Ode8C21.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C21.mode = misc_en_UK_lash.Mode6
+meCO.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C21.text = "Believers, shaking the sleep of wickedness from the eyelids of our souls, let us remove all evils from our hearts, and with hot tears wash our minds as ones who contemplate him who has appeared, that we may be seen glorifying Christ to the ages."
+
+meCO.Ode8C22.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C22.mode = misc_en_UK_lash.Mode6
+meCO.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C22.text = "Let us not offer a harmful word of evil thoughts; but meditating on the divine word, let us approach with hymns the Word, who has appeared in flesh for our sake and enlightens those in darkness. All creation blesses him as it gives him glory to the ages."
+
+meCO.Ode8C23.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C23.mode = misc_en_UK_lash.Mode6
+meCO.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C23.text = ""
+
+meCO.Ode8C24.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C24.mode = misc_en_UK_lash.Mode6
+meCO.Ode8C24.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C24.text = "You refuse, John, what you will swiftly do as you submit to me. Let be then for now; for thus it is fitting for us truly to fulfill all justice, said the Master to the slave. All creation blesses him as it gives him glory to the ages."
+
+meCO.Ode8C2H.ode = misc_en_UK_lash.Ode8
+meCO.Ode8C2H.mode = misc_en_UK_lash.Mode6
+meCO.Ode8C2H.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C2H.text = he.h.m6_en_UK_lash.StilinKakiasAntitheou.text
+
+meCO.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C1H.mode = misc_en_UK_lash.Mode2
+meCO.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meCO.Ode9C1H.text = he.h.m2_en_UK_lash.PsychaisKatharais.text
+
+meCO.Ode9C11.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C11.mode = misc_en_UK_lash.Mode2
+meCO.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.PsychaisKatharais.name
+meCO.Ode9C11.text = "Let none be unfeeling and ungrateful to Christ, insulting by their disdain the long-suffering of his forbearance; but let us serve with fear and joy as we sing to him, \"Spare our souls, Christ God, and save us.\""
+
+meCO.Ode9C12.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C12.mode = misc_en_UK_lash.Mode2
+meCO.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.PsychaisKatharais.name
+meCO.Ode9C12.text = "The Forerunner says to the peoples of the disobedient, `Who has showed you to flee the wrath that is coming, broods of vipers? Demonstrate fruits worthy of repentance then, by crying out, \"Spare our souls, Christ God, and save us.\""
+
+meCO.Ode9C13.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C13.mode = misc_en_UK_lash.Mode2
+meCO.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.PsychaisKatharais.name
+meCO.Ode9C13.text = "O rashness of blind ingratitude! For Christ, whom foreigners worshipped as Redeemer, honouring him with gifts, his own folk in their madness sought to slay when he appeared. Spare our souls, Christ God, and save us."
+
+meCO.Ode9C21.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C21.mode = misc_en_UK_lash.Mode6
+meCO.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinTimioteran.name
+meCO.Ode9C21.text = "A new Adam has now appeared, setting right Adam's destructive fall, granting wondrously through Baptism the freedom of rebirth."
+
+meCO.Ode9C22.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C22.mode = misc_en_UK_lash.Mode6
+meCO.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinTimioteran.name
+meCO.Ode9C22.text = "Accomplishing Law and Prophets, and fulfilling justice, the Saviour now has hands laid on him by the palm of a slave, as he snatches mankind from the slavery of the foe."
+
+meCO.Ode9C23.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C23.mode = misc_en_UK_lash.Mode6
+meCO.Ode9C23.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinTimioteran.name
+meCO.Ode9C23.text = "A great light has shone for the Nations; a divine ray has risen for the darkened; Christ the Sun of glory has dawned for those who sat of old in the darkness of death."
+
+meCO.Ode9C24.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C24.mode = misc_en_UK_lash.Mode6
+meCO.Ode9C24.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinTimioteran.name
+meCO.Ode9C24.text = "The hosts of Angels encircled the Redeemer as he was being baptized in Jordan, and with trembling they hymned the great Mystery of his ineffable condescension."
+
+meCO.Ode9C2H.ode = misc_en_UK_lash.Ode9
+meCO.Ode9C2H.mode = misc_en_UK_lash.Mode6
+meCO.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meCO.Ode9C2H.text = he.h.m6_en_UK_lash.TinTimioteran.text
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode3
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+meMA.Kathisma11.text = "The one uncircumscribed in his Divinity, now circumscribed by body's matter, is about to approach the streams of Jordan to be baptised. Let us receive him with purity of thought, for he wishes to work the refashioning of all. To him now let us cry in fear: Glory, O Christ, to your Appearing!"
+
+meMA.Kathisma12.mode = misc_en_UK_lash.Mode3
+meMA.Kathisma12.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+meMA.Kathisma12.text = "When you appeared in the Jordan, O Saviour, to be baptized in the flesh by the waters, the hosts of Angels were amazed as they looked on the Master of creation standing with a slave; from above the Father without beginning proclaimed you; and so with gladness we cry to you, Glory, O Christ, to your Appearing!"
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma21.text = "The Word, equal in honour with the Father and the Spirit, incarnate through pity and baptised, the Angels looking on him trembled; and the river Jordan, with reverence and with fear, was turned back, as it led us, who flowed with passions, to the height of salvation."
+
+meMA.Kathisma22.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma22.text = "The Word without beginning with the Father and the Spirit, now taking a strange form through his compassion, is already hastening to be baptised for us; let us go to meet him with pure thought, as we cry, \"Blessed are you, Christ Saviour and Benefactor, who come to sanctify us.\""
+
+meMA.C1Acrostic.text = "of which the acrostic is the Alphabet:"
+
+meMA.C2Acrostic.text = ""
+
+meMA.C3Acrostic.text = ""
+
+meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou.text
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C11.text = "As you created the deeps by a command and hung the earth upon the waters, O Lord who love mankind, made lowly you come to be baptised in a river's streams, as you wash me from the stain of passions."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C12.text = "By your wish, O Christ, you beggared the one who willingly beggared me by gifts of evils, as you made me rich. And you, the sinless, approach the waters of Jordan, asking for baptism."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C13.text = "Creating anew a world grown old by faults, O Lover of mankind, you are coming to make a strange renewal for mankind through water and the Spirit; therefore we glorify your Appearing."
+
+meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C14.text = "David, singing in advance by the divine Spirit, cried out: What is it, sea, that you have now fled? What is it, Jordan, that you have turned back, as you look on Christ standing naked in you?"
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name
+meMA.Ode1C2T.text = ""
+
+meMA.Ode1C31.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C31.text = ""
+
+meMA.Ode1C32.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C32.text = ""
+
+meMA.Ode1C33.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C33.text = ""
+
+meMA.Ode1C34.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C34.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C34.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C34.text = ""
+
+meMA.Ode1C3T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C3T.text = ""
+
+meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TousSousYmnologous.name
+meMA.Ode3C11.text = "Exult, thirsty desert, the whole nature of mortals, see, the water of life appears, which irrigates you most productively with grace: Christ, the refashioning of all."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TousSousYmnologous.name
+meMA.Ode3C12.text = "For to seek me, who have gone astray by my own will, O Christ, you are approaching the waters; by being plunged in them you drown my faults, and bring me up out of the deep of every wickedness, as you are compassionate."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TousSousYmnologous.name
+meMA.Ode3C13.text = "Going to see you stripped naked, O Word, the sun hides its rays; for you are coming to clothe me, stripped naked by the deception of the serpent, in a garment of salvation through your Baptism."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C22.text = ""
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C2T.text = ""
+
+meMA.Ode3C31.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C31.text = ""
+
+meMA.Ode3C32.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C32.text = ""
+
+meMA.Ode3C33.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C33.text = ""
+
+meMA.Ode3C3T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C3T.text = ""
+
+meMA.Ode3H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3H.mode = misc_en_UK_lash.Mode8
+meMA.Ode3H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3H.text = he.h.m8_en_UK_lash.OukEstinAgios.text
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.text = ""
+
+meMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma3.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.AvlonPoimenikon.name
+meMA.Ode3Kathisma3.text = "The prophetic choir, proclaiming in advance, rejoices at the Baptism of Christ, which pours forth life. Isaias cries out: Draw cleansing water! The Forefather of God writes how the sea flees before the face of God, who in his good pleasure saves the human race."
+
+meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.text = he.h.m4_en_UK_lash.TinAnexichniaston.text
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+meMA.Ode4C11.text = "Heaven and the hosts of Angels will be seized with amazement as they see you, O Christ, coming like a slave to your slave and seeking for Baptism."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+meMA.Ode4C12.text = "John, leap for joy; for the Lord who delivers all is coming to bend down humbly beneath your hand that by divine Baptism he may exalt my who have been humbled."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+meMA.Ode4C13.text = "Bowing the heavens you came down upon the Virgin, O Lover of mankind, and you bow your head to John as you seek for Baptism: Glory to your great compassion."
+
+meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinAnexichniaston.name
+meMA.Ode4C14.text = "Loosing the unnumbered cords of my sins in the waters of Jordan, O Word, you are hurrying to approach and to be baptised: Glory to your great compassion."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EisakikoaKyrie.name
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EisakikoaKyrie.name
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EisakikoaKyrie.name
+meMA.Ode4C2T.text = ""
+
+meMA.Ode4C31.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExOrousKataskiou.name
+meMA.Ode4C31.text = ""
+
+meMA.Ode4C32.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExOrousKataskiou.name
+meMA.Ode4C32.text = ""
+
+meMA.Ode4C33.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExOrousKataskiou.name
+meMA.Ode4C33.text = ""
+
+meMA.Ode4C34.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C34.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C34.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExOrousKataskiou.name
+meMA.Ode4C34.text = ""
+
+meMA.Ode4C3T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExOrousKataskiou.name
+meMA.Ode4C3T.text = ""
+
+meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+meMA.Ode5C11.text = "Mankind gone far from God the Word of God took pity one and appeared as a man; and by divine Baptism he made it his own and brought it back to its original dignity."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+meMA.Ode5C12.text = "Now you are coming, Giver of life, to restore to life in Jordan's streams, us who had been declared dead by our transgressions; therefore we faithfully glorify your present Appearing and ineffable mercy."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ExestiTaSympanta.name
+meMA.Ode5C13.text = "O the astonishment of every soul as it considers your dread dispensation! How, you, who are clothed in light, wishing to refashion all things, are coming to go naked into the streams of a river?"
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C22.text = ""
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C2T.text = ""
+
+meMA.Ode5C31.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C31.text = ""
+
+meMA.Ode5C32.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C32.text = ""
+
+meMA.Ode5C33.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C33.text = ""
+
+meMA.Ode5C3T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OEkNyktosAgnoias.name
+meMA.Ode5C3T.text = ""
+
+meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinTheianTaftin.name
+meMA.Ode6C11.text = "People, who sat of old in darkness, be filled with joy as you look on the light, come to dwell among you. See, the Lord has appeared wrapped about in the streams of Jordan."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinTheianTaftin.name
+meMA.Ode6C12.text = "How will the Forerunner see you as you draw near and ask for divine Baptism, O Saviour? How will the streams of Jordan receive you, who are a stream of forgiveness?"
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinTheianTaftin.name
+meMA.Ode6C13.text = "Let clouds in gladness rain down spiritual joy. See, the Lord has come to be baptised, as he dispels the clouds from our hearts."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C22.text = ""
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+meMA.Ode6C2T.text = ""
+
+meMA.Ode6C31.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OsTonProfitinErryso.name
+meMA.Ode6C31.text = ""
+
+meMA.Ode6C32.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OsTonProfitinErryso.name
+meMA.Ode6C32.text = ""
+
+meMA.Ode6C33.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OsTonProfitinErryso.name
+meMA.Ode6C33.text = ""
+
+meMA.Ode6C3T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OsTonProfitinErryso.name
+meMA.Ode6C3T.text = ""
+
+meMA.Ode6H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6H.mode = misc_en_UK_lash.Mode8
+meMA.Ode6H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6H.text = he.h.m8_en_UK_lash.OsTonProfitinErryso.text
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode3
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.IParthenosSimeron.name
+meMA.Kontakion1.text = ""
+
+meMA.Kontakion2.mode = misc_en_UK_lash.Mode6
+meMA.Kontakion2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TinEnPresveiais.name
+meMA.Kontakion2.text = ""
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukElatrefsan.name
+meMA.Ode7C11.text = "Taking pity, Lord, through goodness you had mercy on me, crushed by faults and lying in the darkness of transgression; and you come, Lord, to be baptised in the waters of Jordan."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukElatrefsan.name
+meMA.Ode7C12.text = "What is this strange sight? cried the ranks of Angels. He who made the lakes and rivers by his command is coming to be wrapped in Jordan�s streams; for by them he makes Adam new."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukElatrefsan.name
+meMA.Ode7C13.text = "Your dispensation, Master, is an ineffable height, an unplumbed depth, which surpasses all the understanding of the mind: how through water and the All-holy Spirit you resmelt mortals."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C2T.text = ""
+
+meMA.Ode7C31.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OTousPaidasDrosisas.name
+meMA.Ode7C31.text = ""
+
+meMA.Ode7C32.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OTousPaidasDrosisas.name
+meMA.Ode7C32.text = ""
+
+meMA.Ode7C33.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OTousPaidasDrosisas.name
+meMA.Ode7C33.text = ""
+
+meMA.Ode7C3T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OTousPaidasDrosisas.name
+meMA.Ode7C3T.text = ""
+
+meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+meMA.Ode8C11.text = "The voice of the Begetter from on high will bear witness that you are the consubstantial Son who go into the waters and send out upon them your blessing, O blessed Christ, and the Holy Spirit will proclaim to all that you are God incarnate."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+meMA.Ode8C12.text = "Visible creation, dance at the Appearing of God; Angels, sing praises; Sea, be glad; Lakes and Springs, leap for joy, and Rivers mystically beat out your hymns: Christ, who makes you resplendent with his blessings, is present."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+meMA.Ode8C13.text = "Let us chant in praise to the Lord, who has appeared in the waters and by them refashioned our brokenness and broken the heads of the invisible foes, and let us cry: You works, praise and highly exalt to all the ages."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.PaidasEvageis.name
+meMA.Ode8C1T.text = "O wonder of wonders! How our God, greater than all creation, is created and fashioned from the Mother of God, and, as the only Benefactor, makes new and refashions us by his will through water and the Spirit as a most wondrous fashioning."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.NikitaiTyrannou.name
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.NikitaiTyrannou.name
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.NikitaiTyrannou.name
+meMA.Ode8C2T.text = ""
+
+meMA.Ode8C31.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OiTheorrimonesPaides.name
+meMA.Ode8C31.text = ""
+
+meMA.Ode8C32.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OiTheorrimonesPaides.name
+meMA.Ode8C32.text = ""
+
+meMA.Ode8C33.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OiTheorrimonesPaides.name
+meMA.Ode8C33.text = ""
+
+meMA.Ode8C3T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OiTheorrimonesPaides.name
+meMA.Ode8C3T.text = ""
+
+meMA.Ode8H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8H.mode = misc_en_UK_lash.Mode8
+meMA.Ode8H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8H.text = he.h.m8_en_UK_lash.OiTheorrimonesPaides.text
+
+meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.text = he.h.m4_en_UK_lash.ApasGigenis.text
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+meMA.Ode9C11.text = "See, the Lamb who takes away the faults of humanity, has come, has made his abode; and asking for Baptism he comes like a slave to the slave, as he seeks to free us, who were enslaved to the Boaster and who had lost our former beauty."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+meMA.Ode9C12.text = "God, through goodness, has appeared manifestly in a body, and he who truly wraps the heaven in clouds is coming to wrap himself in the waters of Jordan. Let us all now feast in advance with joy his honoured Appearing."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+meMA.Ode9C13.text = "Leap for joy, and be prepared to receive the Water that springs up to eternal life, O Jordan; you rivers dance as you now see the torrent of delight entering the streams drying up the flood of wickedness."
+
+meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C14.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+meMA.Ode9C14.text = "A day of salvation has shed its rays on us, who ever sleep in the night of the passions; for Christ the Lord, the Sun of justice, in reality and in thought, has come to bow his head to a slave and be baptised in the flesh by his own will."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigenis.name
+meMA.Ode9C1T.text = "The Cherubim and every heavenly nature trembles, O All-blameless, at your honoured Offspring, beyond understanding, made like us through his ineffable compassion, and baptised in the flesh. His divine Appearing we all now celebrate rejoicing."
+
+meMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2H.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C2H.text = he.h.m8_en_UK_lash.EfrixePasaAkoi.text
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EfrixePasaAkoi.name
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EfrixePasaAkoi.name
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EfrixePasaAkoi.name
+meMA.Ode9C2T.text = ""
+
+meMA.Ode9C31.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C31.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C31.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonProdilothenta.name
+meMA.Ode9C31.text = ""
+
+meMA.Ode9C32.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C32.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C32.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonProdilothenta.name
+meMA.Ode9C32.text = ""
+
+meMA.Ode9C33.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C33.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C33.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonProdilothenta.name
+meMA.Ode9C33.text = ""
+
+meMA.Ode9C34.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C34.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C34.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonProdilothenta.name
+meMA.Ode9C34.text = ""
+
+meMA.Ode9C3T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C3T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C3T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TonProdilothenta.name
+meMA.Ode9C3T.text = ""
+
+meMA.Ode9H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9H.mode = misc_en_UK_lash.Mode8
+meMA.Ode9H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9H.text = he.h.m8_en_UK_lash.TonProdilothenta.text
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.text = ""
+
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
+meMA.Exaposteilarion2.text = "Leaving Bethlehem, the newest wonder, let us run to Jordan with most fervent soul, and there let us contemplate the dread mystery; for in a manner fitting God my Christ has come, stripped naked, as he clothes me in a robe of the Kingdom of heaven."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode6
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds1.text = "The Master, who possesses a heavenly throne, has come on earth, incarnate of the Virgin; and coming to the Jordan he asks of John the cleansing of all. Families of the whole earth, let us sing to him: Blessed are you, our God, who have appeared, glory to you."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode6
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds2.text = "Christ, who cleanses sins, has arrived at the streams of Jordan asking for Baptism. Let the whole earth leap for joy. Let the heavens be glad. Rejoice, Church of the Nations, espoused to the King, cry aloud with faith: Blessed are you, our God, who have appeared, glory to you."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode6
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds3.text = "Mountains, drop down the sweetness of joy; you nations now mystically clap your hands; let the desert flower; Jordan, receive; come, Baptist, serve with joy the mystery of the Redeemer; peoples, let us chant: Blessed are you, our God, who have appeared, glory to you."
+
+meMA.Lauds4.mode = misc_en_UK_lash.Mode6
+meMA.Lauds4.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds4.text = "The Light which shone forth from Light beyond time, has appeared to those who sat in night, and purified and enlightened the darkness of sin. Adam, dance; Eve, be glad. Christ, the Redemption, has come; David, cry out: Blessed are you, our God, who have appeared, glory to you."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.LaudsGlory.text = "A star has dawned from Jacob for the world, and taking up the flaming sin of mankind he buries it in the waters of Jordan, as he shines with the light of the Godhead and gives to the Nations the illumination of the knowledge of God. Blessed are you, our God, who have appeared, glory to you."
+
+meMA.LaudsBoth.mode = misc_en_UK_lash.Mode6
+meMA.LaudsBoth.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.LaudsBoth.text = "Christ, who is declared the fulfiller of the law, according to the flesh, has come to perfect the first-fruit of salvation upon Jordan, as he is compassionate; and he bows down his head to the Baptist, who cries out in faith: Peoples, let us cry: Blessed are you, our God, who have appeared, glory to you."
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meMA.Aposticha1.mode = misc_en_UK_lash.Mode2
+meMA.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.Aposticha1.text = "Let us pass over from Bethlehem to Jordan; for there the light for those in darkness already begins to shine."
+
+meMA.Aposticha2.mode = misc_en_UK_lash.Mode2
+meMA.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.Aposticha2.text = "Land of Zavoulon, you from beyond Jordan, listen: Christ is drawing near, Salvation, Light, Redemption."
+
+meMA.Aposticha3.mode = misc_en_UK_lash.Mode2
+meMA.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.Aposticha3.text = "Make ready, too, stream of Jordan; for he who baptises with fire is drawing near to make new the crushed vessel he had fashioned."
+
+meMA.AposGlory.mode = misc_en_UK_lash.Mode2
+meMA.AposGlory.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.AposGlory.text = "The brightness of the Father's glory has appeared in Jordan's streams, cleansing by Baptism the stain of our souls."
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode4
+meLI.SeasonalKontakion.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meLI.SeasonalKontakion.text = me.m01.d02_en_UK_lash.meMA.Kontakion1.text
+
+meMegalynarion.text = ""
+

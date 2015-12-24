@@ -1,0 +1,11 @@
+A_Resource_Whose_Name = sy.m10.d20_en_US_dedes 
+
+S01.commemoration.text = "On October 20, we commemorate the holy Great Martyr Artemios."
+
+S02.commemoration.text = "The holy Martyrs Ebores, Enoes, Zebinas, Germanus, Nikephoros, Antho-ny, and the holy woman Martyr Manatho the virgin, died by the sword and fire."
+
+S03.commemoration.text = "We also commemorate our devout and God-bearing father Gerasimos the new ascetic, who was from Trikala in the Peloponnese, and whose venerable and holy relic is preserved incorrupt on the island of Kefallinia."
+
+S04.commemoration.text = "We also commemorate our devout mother Matrona of Chios."
+
+S99.lastline.text= "By their holy intercessions, O God, have mercy on us. Amen."

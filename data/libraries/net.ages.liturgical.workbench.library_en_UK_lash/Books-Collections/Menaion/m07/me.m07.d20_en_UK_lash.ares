@@ -1,0 +1,512 @@
+A_Resource_Whose_Name = me.m07.d20_en_UK_lash
+
+meDate.text = ""
+meCommemoration.text = "Commemoration of the Holy, Glorious Prophet, Elias the Thesbite" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode1
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Stichera01.text = "Merciful Word, who translated Elias the Thesbite from earth in a fiery chariot, at his intercessions save us who faithfully glorify you and who harmoniously celebrate his godlike and honoured memory. "
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode1
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Stichera02.text = "Elias, blest by God, of old you saw the enlightening presence of God, not in a earthquake, but in a light breeze. Borne on a four-horse chariot, you rode to heaven in a wondrous way, O God-inspired. "
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode1
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Stichera03.text = "Burning with divine zeal, Elias, you slew the priests of shame with the sword; with your tongue you ordered the heaven not to rain; you filled Elissaios by the gift of your mantle with a double share of inspired grace."
+
+meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Come, gathering of the orthodox, assembled today in the all-honoured temple of the inspired Prophets, let us sing in psalms a harmonious melody to Him who glorified them, Christ our God, and let us cry out with joy and gladness: Hail, angel on earth and man of heaven, glorious Elias. Hail, all-honoured Elissaios, who received double grace from God. Hail, fervent helpers, defenders and physicians of both souls and bodies of the people which loves Christ. From every hostile assault and calamity, from every kind of danger deliver those who celebrate with faith your festive memorial."
+
+meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
+
+meVE.Lity1.poet = poets_en_UK_lash.Germanou
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode1
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.poet = poets_en_UK_lash.Germanou
+meVE.Lity3.mode = misc_en_UK_lash.Mode1
+meVE.Lity3.melody = ""
+meVE.Lity3.text = ""
+
+meVE.Lity4.poet = poets_en_UK_lash.IoannouMonachou
+meVE.Lity4.mode = misc_en_UK_lash.Mode2
+meVE.Lity4.melody = ""
+meVE.Lity4.text = ""
+
+meVE.Lity5.poet = poets_en_UK_lash.IoannouMonachou
+meVE.Lity5.mode = misc_en_UK_lash.Mode2
+meVE.Lity5.melody = ""
+meVE.Lity5.text = ""
+
+meVE.LityGlory.poet = poets_en_UK_lash.Arseniou
+meVE.LityGlory.mode = misc_en_UK_lash.Mode4
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode4
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Aposticha1.text = "The one hallowed before his conception, the Angel embodied, the mind of fire, the man of heaven, the godlike forerunner of the second coming of Christ. the glorious Elias, the foundation of the Prophets has spiritually invited all lovers of festivals to celebrate his godly memory. At his intercessions guard your people, O Christ God, untroubled from every kind of harm of the trickster."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Aposticha2.text = "Elias the Prophet, whose thoughts were in heaven, when he saw all Israel prostituting itself from God and clinging to idols, on fire with zeal he drew in the clouds, dried up the earth and shut the heavens with a word, saying: There will be no drop upon the earth, except at my bidding. He is now our host, for ungrudgingly he grants inexpressible grace to us who honour him with faith."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Aposticha3.text = "Initiate of the ineffable mysteries, you parted the streams of Jordan; you reduced the deception of idols to ashes with the lightning of your godlike words; you rebuked the lawless sovereign, slew the priests of lawlessness and burnt up the sacrifice by prayer. Wither up the flaming coals of the passions and tribulations of your people, Elias, with the fire of your intercession."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Prophet, herald of Christ, you are never parted from the throne of Greatness, and you ever stand beside each one who is weak; as you minister in the highest, you bless the inhabited world, everywhere glorified. Ask mercy for our souls."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.o_en_UK_lash.TheotokeSyEi.name
+meVE.AposTheotokion.text = he.o_en_UK_lash.TheotokeSyEiProfitou.text
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
+meVE.Apolytikion1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meVE.Apolytikion1.text = "The angel embodied, the Prophets’ foundation, the second forerunner of the coming of Christ, Elias the glorious, by sending down grace from on high to Elissaios drives out diseases, cleanses lepers; and so he overflows with healings for those who honour him."
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma11.text = "Elias, blessed visionary of God, with one voice we proclaim you as all-radiant beacon, fire-bearing charioteer angel in the flesh, breathing out zeal for God, routing impiety, rebuking the lawless, and as prince of the Prophets; therefore watch over us."
+
+meMA.Kathisma1T.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma1T.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma1T.text = oc.m1.d1_en_UK_lash.ocMA.Kathisma13.text
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma21.text = "Through unsullied virtue you were endeared to God, for you lived the life of heaven upon earth; having gained the life of grace, blessed Prophet, by your breath you raised a dead child; and you remain incorrupt, still surpassing death, inspired Elias."
+
+meMA.Kathisma2T.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma2T.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma2T.text = oc.m1.d1_en_UK_lash.ocMA.Kathisma23.text
+
+meR01 = ""
+meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key 
+
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelProphet.text
+
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
+
+meMA.C1Poet = poets_en_UK_lash.IoannouMonachou
+meMA.C1Acrostic.text = "with the following acrostic, not including the Theotokia: Dancing I praise the wonders of Elias."
+
+meMA.C2Acrostic.text = "whose acrostic is: Give to me God’s grace, blessed Elias. Joseph."
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C11.text = "Chosen to sing the fire-breathing power of the wonders of Elias, fittingly we have summoned the strength of the fire-formed and holy tongue of the Spirit."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C12.text = "Be gracious, god-bearing Saint, and by the force of the Spirit which is in you open up my narrow and ill-sounding feeble tongue, and make it clear and distinct to sing the praise of your wonders."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C13.text = "You distribute gifts above nature to those who obey your holy commandments, O Word, and through the Spirit make the gates of rain obey, accomplishing the word that has been made strong."
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AsomenToKyrio.name
+meMA.Ode1C1T.text = "O only blessed one, pure and godlike treasure of purity, purify me of the impure slime of the passions, asking pardon of my faults."
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C21.text = "As to the widow’s son, give life to my soul, which has become a corpse, and make it bright with godly virtues, blessed Saint, guide it towards life and make it a partaker of everlasting delight, longing to take delight in you."
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C22.text = "When you were born your father was initiated into a truly mighty wonder; for he saw you, O blessed one, eating fire and being swaddled in flame. Therefore by your intercessions deliver me from everlasting fire."
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C23.text = "Made great by your inclinations towards God, O blessed one, you were truly always greatly zealous for the Lord. Therefore empower me, once I am filled with divine zeal, to do God’s will so that saved I may honour you."
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C2T.text = "God who is beyond being was incarnate from you, O All-blameless, and for us he appeared like us as man. Entreat him insistently, O All-pure, to save me who have sinned more than all mankind and to deliver me from punishment."
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C11.text = "How excellent, O Prophet, the Host who through ravens provided for a sumptuous banquet, who alone fills everything living with good-pleasure, to whom we cry: You are our God, and none is Holy but you, O Lord."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C12.text = "Gratitude to the Benefactor and Protector, who with ineffable providence brought it to pass that widow and Prophet nourished one another, to whom we cry: You are our God, and none is Holy but you, O Lord."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C13.text = "By shutting up the clouds that bring forth showers you stopped the rain, while for the woman of Sarepta, at a loss for nourishment, you made the remains of her food rain drop by drop unceasingly; and so you cried: None is Holy but you, O Lord."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C1T.text = "You alone beyond all those from every age were counted worthy of great things, and ones above nature; for you bore in your womb and gave a body to God, whom all creation cannot contain. Therefore with faith we honour you as Mother of God."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OuraniasApsidos.name
+meMA.Ode3C21.text = "The priests of shame as enemies you slew, glorious Prophet, aflame with zeal for God. Therefore I cry to you: Snatch me from the works of shame and the everlasting fire."
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OuraniasApsidos.name
+meMA.Ode3C22.text = "I put you forward as intercessor before the mighty God, O blessed one, able to save me from every evil. Be persuaded by my humble prayer and do not despise me as I entreat you."
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OuraniasApsidos.name
+meMA.Ode3C23.text = "God, who brings all to pass, magnifies you, glorious Prophet Elias, nourishing you of old through a bird. Beseech him to make me a partaker of eternal delight and of the light to come."
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OuraniasApsidos.name
+meMA.Ode3C2T.text = "Gate through which none may pass that leads to God, open to me I beg, O Maiden, gates of repentance, cleansing me from the stain of sins with showers of your mercy, O full of God’s grace."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = "As Prophet of the true divine light you cast down the prophets of falsehood, by this rebuking Achab who transgressed the law and teaching him not to worship Baal, and by your prayer asking for streams from on high, glorious Elias; therefore you were taken up, a charioteer of the air, in a fiery chariot to the Lord; and so we cry to you: Intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = "All generations of mankind call you blessed, as Virgin and the one who alone among women bore God in the flesh without seed; for the fire of the Godhead dwelt in you, and you suckled as an infant the Creator and Lord. Therefore the race of Angels and of mortals fittingly glorify your all-holy child-bearing, and cry to you with one accord: Intercede with your Son and God to grant forgiveness of offences to those who worship in faith your child-bearing without seed."
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C11.text = "You appeared clearly, O Prophet, as pruner of evil but planter of virtue; therefore we honour you."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C12.text = "The widow who nourished you, O Prophet, reviled you with words for the death of her child, hastening his rising."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C13.text = "You clearly indicated the glory of the Trinity when by breathing three times you gave the child alive to his mother."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.name
+meMA.Ode4C1T.text = "Like a fruitful vine, Pure Virgin, you bore a cluster to gush fourth the wine of salvation for all."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C21.text = "God turned all your fiery zeal and sent you to nourish a widow, inspired Elias, who by a woman’s threat had of old become a fugitive. And so I implore you to nourish my hungry soul with divine gifts of grace."
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C22.text = "Fierce clouds of sins cover me, billows of life buffet me and the spirits of wickedness blow dreadfully against my soul. Prophet who speak of God, become my pilot, directing me towards the haven of salvation."
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C23.text = "Strength of soul, strength of body grant me, blessed Elias, by entreating the Lord of glory who takes away the diseases of all; and guide me safely to hasten through the stumbling blocks of life unharmed; for I put you forward as my good defender."
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C2T.text = "All-blameless Lady, with all the heavenly Powers, with all the Prophets, Athletes, Apostles and Holy Ones, intercede that I, who have greatly sinned, main find salvation and be delivered from the punishment to come."
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C11.text = "The Law of the Fathers showed you, Elias, to be an all true intercessor, a worker of marvels who turned natures from their elements, and burned up a holy sacrifice with water."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C12.text = "As worshipper of the truth, all-blessed, venerable Elias, you nobly put to shame the prophets of polluted shame, clearly indicating the power of the Trinity."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C13.text = "Acting as priest, Elias, by a word of grace you sacrificed the priests of abominations with your guiltless hands, adorned with zeal as with a priestly robe."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OTouFotosChorigos.name
+meMA.Ode5C1T.text = "To you who gave birth to Christ the Creator of the universe we cry: Hail, pure one! Hail, who made the light dawn for us! Hail, who contained the uncontainable God."
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C21.text = "Ablaze with the zeal of the faith you shut up the clouds that give birth to rain; but, I beg you, Elias, by your sacred mediation water my soul, melted by the flame of pleasures, with divine showers, and save me."
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C22.text = "Shown forth as a priest, with guiltless hands you sacrificed the priests of abominations who practised foul deeds; but I beg you, O Prophet, guard me unharmed from every foul sin."
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C23.text = "You were declared wonderful, O Prophet, blazing with godly invocations you performed the sacrifices with faith; therefore I beg you unceasingly: set alight in my heart the sacred love that burns up the fuel of my passions."
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C2T.text = "The Word beyond being came down upon you like rain; entreat him, all-blameless Maiden, to rain pure drops of compunction on me, that will wash away every stain of my numberless evils."
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C11.text = "Inspired, god-bearing Elias, you became a figure of godliness and of unsullied life, a husbandman of purity and an image of Angels."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C12.text = "The frenzy of a woman, slayer of prophets, terrified you, inspired Elias, and banished the one to whom had been assigned the binding and loosing of the outpouring of the rains."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C13.text = "Falling to your knees, you lifted up the eye of your mind on high, through sacred supplications bringing release you made the furrows of the land drunk with rain."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AvyssosAmartimaton.name
+meMA.Ode6C1T.text = "The bush on Sinai close companion to the fire yet unconsumed foretold you, the ever-virgin Mother, O Mary, Mother of God without bridegroom."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C21.text = "Be gracious to me, Saviour, who have foolishly sinned greatly against you, and ransom me from the punishment that awaits me in the world to come, for you have great Elias and your most pure Mother entreating you."
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C22.text = "As husbandman of purity keep me pure in soul; as zealous Elias fill my mind with divine zeal, that I may beat off the assaults of wickedness."
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C23.text = "You fasted with one food and accomplished a journey of forty days with the help of God. Therefore I implore you: Empower me, O god-bearer, to be master of every transgression."
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C2T.text = "O gate of God open for my humble soul divine entrances, by which I shall enter with thanksgiving and receive release from evils, O Mother of God."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
+meMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+meMA.Kontakion1.text = "Glorious Elias, foreteller and foreseer of the mighty works of God, who in your fierce anger stopped the rain-shedding clouds, intercede on our behalf with the only lover of mankind."
+
+meMA.Oikos1.text = "When he contemplated the great lawlessness of mankind and the measureless love for mankind of God the Prophet Elias was troubled and angry and uttered words without compassion to the Compassionate, crying out: Judge most just, be angry with those who reject you! But he moved the compassion of the Good One not at all to punish those who rejected him; for he ever awaits the repentance of all, the only lover of mankind."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VatosEnOrei.name
+meMA.Ode7C11.text = "Clothed with power that was marvellously formed for you from God, with only one meal, inspired Elias, you ended the long journey of forty days. And so at Horeb you danced and sang: Blessed is the God of our Fathers."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VatosEnOrei.name
+meMA.Ode7C12.text = "A mild and gentle breeze, not a mighty wind, nor earthquake, nor fearsome fire, revealed the Lord to you Elias, zealous for God almighty. And so to Jesus, the gentle, we sing: Blessed is the God of our Fathers."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VatosEnOrei.name
+meMA.Ode7C13.text = "Like the great Moses you were found worthy of the manifestation of God and of prophecy, inspired Elias, anointing prophets and kings; and as you contemplated Christ’s glory on Thabor you cried out: Blessed is the God of our Fathers."
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VatosEnOrei.name
+meMA.Ode7C1T.text = "The all-good Word of God the Father dwelt supernaturally in your womb, O Most Pure, refashioned us and made us worthy of the life of Eden. Therefore all we believers, worshipping you as Mother of God, raise the song: Blessed is the God of our Fathers."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C21.text = "Taking pity on a people that was perishing, glorious Prophet, with zeal of faith and godly invocations you brought down fire that consumed a holy sacrifice. Therefore I implore you: deliver me from the eternal flame and save me."
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C22.text = "On mount Thabor you were counted worthy to see the face of God. Beseech him, O Prophet, to overlook my sins and on the day of judgement with soul uncondemned to contemplate his face."
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C23.text = "As I journey on life’s road I take up many false paths. Elias, my loving protector, with your protection pilot me, who am shaken by my own inclination and assent to pleasures."
+
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C2T.text = "O All-praised, I hymn you and I magnify your pure child-bearing, O full of God’s grace. Help me who am storm-tossed by the waves of life and give to my humble soul compunction that cleanses from stains."
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
+meMA.Ode8C11.text = "At the reproof of a Prophet, Achab found the total destruction of the race plausible as a reward for murderous defilement; but the Thesbite from his mind that breathed fire sang this hymn to the Giver of life: Praise the Lord, you his works, and highly exalt him to all the ages."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
+meMA.Ode8C12.text = "Fire rained from heaven for you, Elias, as God’s good servant, consuming twice fifty who attacked you; for to the One who is Lord of ever-living life you cried out in a manner fitting God the hymn: Praise the Lord, you his works, and highly exalt him to all the ages."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
+meMA.Ode8C1T.text = "Christ, the shoot beyond godhead of the Virgin, revealed you on Thabor as cultivator of purity, to be an initiate of the divine incarnation, showing you in his flesh the incomprehensible light of the Godhead, as you cried out: Praise the Lord, you his works, and highly exalt him to all the ages."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C21.text = "We know you to have been a vessel that contained the Spirit of God; for you, Elias, were an angel on earth who breathed the fire of divine zeal, routed impiety, rebuked kings, anointed prophets and cut off the priests of shame with the sword. And so we cry to you: Deliver us from shame to come."
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C22.text = "A chariot of fire took you from earth, Elias inspired by God, ablaze with divine zeal; and so I implore you with the four-horsed chariot of your virtues lighten my mind of the ills on earth; and entreat the God and King of all things that I may reach the winning post in heaven."
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C23.text = "With a living word you shut up heaven from giving rain; now with your spiritual word open to me, I beg, the gates of repentance, holy Prophet, sending to my soul showers of compunction, and save me as I cry out: Priests bless, people highly exalt Christ to the ages."
+
+meMA.Ode8C2Tr.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2Tr.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C2Tr.text = "As we honour a Trinity in one Godhead, equal in strength, identical in honour, consubstantial, equal in majesty, we honour Father, Son and Holy Spirit, unsetting ray, might of equal kingship, and we sing with one accord: Priests bless, people highly exalt the Lord to all the ages."
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C2T.text = "Born from you Emmanuel appeared framing laws of true religion and teaching repentance. Most holy Lady now implore him to open for me gates of righteousness and to save me as I cry out: Priests bless, people highly exalt him to all the ages."
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C11.text = "Having lived on earth a path of life unchanged by men, and crossed the stream of Jordan with his cloak, the Thesbite, as charioteer of the air, through the Spirit completed the strange path of his journey to heaven."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C12.text = "The Thesbite, aflame with the zeal of devotion to God, is raised up on a chariot formed of fire; while, letting fall his cloak, he leaves behind, doubled by divine grace, Elissaios whose notice he was not able to escape."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C13.text = "Revealed as one who sees God the Thesbite, with Moses, contemplates what eye has not seen, nor ear heard nor the heart of humans born of earth considered, the incarnate Lord almighty on Thabor."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode2
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ITonProIliouFostira.name
+meMA.Ode9C1T.text = "O Mother of God, who abolished the severe ancient sentence, who set upright the Foremother, the cause reconciliation of the race to God, the bridge to the Creator, we magnify you."
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C21.text = "You were counted worthy to see God in a light breeze, as far it is possible to see him, having before made your body light by an ascetic life, glorious Prophet; therefore I implore you that, lightening the grossness of my mind by your prayers, you would shine on me with divine beams of repentance."
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C22.text = "As of old you parted the Jordan with your mantle and crossed over, O all-blessed, so dry up too the streams of my dreadful sins, sending to my soul each day, Prophet who spoke of God, showers of tears, granting me a torrent of delight."
+
+meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C23.text = "From the many forms of stumbling blocks in life, from lawless foes, every tribulation, bodily disease and perversion of soul, as a loving protector, deliver me by your prayers, glorious Prophet, I cry out to you and from eternal condemnation in Gehenna."
+
+meMA.Ode9C24.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C24.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C24.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C24.text = "You were snatched up to the height, glorious Elias, leaving behind to Elissaios when he asked double the grace of the Spirit. With him ceaselessly beg victory from heaven and forgiveness of offences for our Sovereign, made rich with you as unashamed protector with the Master."
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C2T.text = "As you are loving, do not despise the voices of your servants, all-blameless Lady; but insistently beg the Master of all things, O Virgin, to grant trophies of victory to our Sovereign, health of soul and a share in and the splendour of God’s kingdom."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.FosAnalloioton.name
+meMA.Exaposteilarion1.text = "Light showed you as a charioteer borne heavenwards on a fiery chariot, Elias, and did not consume you; for by a tongue of clay you drew down fire and dried up showers."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode3
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.FosAnalloioton.name
+meMA.ExapTheotokion.text = "Light you bore, O Virgin; implore your Son, O Mother of God, by your intercessions to take pity and to save me, who trust in your honoured assistance, from eternal darkness."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode8
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meMA.Lauds1.text = "When through virtue and an innocent life you had been joined to God, inspired Prophet, you received authority from him and altered creation according to your judgement: you shut up the gates of the rain as you willed; you brought down fire from above; you consumed the impious by fire. Intercede that our souls may be saved."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode8
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meMA.Lauds2.text = "On fire with zeal for the Lord you fiercely rebuked lawless sovereigns; fervently you put to death the priests of shame; you kindled a wondrous fire in the waters, while you were a source of nourishment without husbandry; you parted the streams of Jordan with your cloak. Intercede that our souls may be saved."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode8
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
+meMA.Lauds3.text = "When upon earth, O Prophet, you truly manifested the heavenly life, enriched in yourself with the interior life, by your breath you raised one who was dead; you remained yet stronger than death; lifted up into the sky, you mounted a chariot of fire. Intercede that our souls may be saved."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "Let us the faithful honour with hymns the most eminent of the Prophets, the all-radiant beacons of the inhabited world, Elias and Elissaios; and let us cry out in harmony to Christ: Compassionate Lord, at the intercessions of your Prophets grant to your people forgiveness of sins and your great mercy."
+
+meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode8
+meMA.LaudsTheotokion.melody = ""
+meMA.LaudsTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+meMegalynarion.text = ""

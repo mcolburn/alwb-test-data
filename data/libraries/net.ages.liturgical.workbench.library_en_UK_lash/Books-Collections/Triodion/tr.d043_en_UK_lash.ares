@@ -1,0 +1,466 @@
+A_Resource_Whose_Name = tr.d043_en_UK_lash
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+trDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+trSV.Stichera1.mode = misc_en_UK_lash.Mode6
+trSV.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+trSV.Stichera1.text = ""
+
+trSV.Stichera2.mode = misc_en_UK_lash.Mode6
+trSV.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+trSV.Stichera2.text = ""
+
+trSV.Stichera3.mode = misc_en_UK_lash.Mode6
+trSV.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+trSV.Stichera3.text = ""
+
+trSV.SticGlory.mode = misc_en_UK_lash.Mode6
+trSV.SticGlory.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.AiAngelikai.name
+trSV.SticGlory.text = ""
+
+trSV.Aposticha1.mode = misc_en_UK_lash.Mode2
+trSV.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.Aposticha1.text = ""
+
+trSV.Aposticha2.mode = misc_en_UK_lash.Mode2
+trSV.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.Aposticha2.text = ""
+
+trSV.Aposticha3.mode = misc_en_UK_lash.Mode2
+trSV.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.Aposticha3.text = ""
+
+trSV.AposGlory.mode = misc_en_UK_lash.Mode2
+trSV.AposGlory.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+trSV.AposGlory.text = ""
+
+trVE.Stichera01.mode = misc_en_UK_lash.Mode5
+trVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+trVE.Stichera01.text = "Shine, Cross of the Lord, with the bright darting rays of your grace on the hearts of those who honour you, and with love inspired by God, embrace you, O desire of all the world. Through you our tears of sorrow have been wiped away; we have been delivered from the snares of death and have passed over to unending joy. Show us the splendour of your beauty, granting to us your servants the reward of our abstinence, for we entreat with faith your rich protection and great mercy."
+
+trVE.Stichera02.mode = misc_en_UK_lash.Mode5
+trVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+trVE.Stichera02.text = "Hail, life-giving Cross! the fair Paradise of the Church, Tree of incorruption that blossoms for us with the enjoyment of eternal glory. Through you the hosts of demons are driven back, the companies of the Angels rejoice with one accord and the congregations of the faithful keep the feast. You are an invincible weapon, an unbroken stronghold; you are the victory of kings and the glory of priests. Grant us also now to draw near to the Passion of Christ and to His Resurrection."
+
+trVE.Stichera03.mode = misc_en_UK_lash.Mode5
+trVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+trVE.Stichera03.text = "Hail, life-giving Cross! unconquerable trophy of the true faith, door to Paradise, succour of the faithful, rampart set about the Church. Through you the curse has utterly destroyed, the power of death swallowed up, and we are raised from earth to heaven: invincible weapon, adversary of demons, glory of martyrs, true ornament of holy monks, haven of salvation bestowing on the world great mercy."
+
+trVE.Stichera04.mode = misc_en_UK_lash.Mode5
+trVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+trVE.Stichera04.text = "Come, first-fashioned pair, who fell from the choir on high through the envy of the murderer of humankind, through the bitter pleasure of tasting from the tree. See, the Tree, revered by all, draws near! Run with haste and embrace it joyfully, and cry to it with faith: O all-honoured Cross, you are our succour; partaking of your fruits we have gained incorruption; we are restored once more to Eden, and we have received great mercy."
+
+trVE.SticGlory.mode = misc_en_UK_lash.Mode3
+trVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.SticGlory.text = "O Christ our God, of your own will you accepted Crucifixion, for the common restoration of humankind. Taking the reed pen of the Cross, out of love for humankind, in the red ink of royalty with bloody fingers you signed our absolution. Do not forsake us, who are in danger once again of being parted from you. Take pity on your people in distress, for you alone are longsuffering. Rise up and fight against our enemies, as you are all-powerful."
+
+trVE.LityGlory.mode = misc_en_UK_lash.Mode5
+trVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.LityGlory.text = ""
+
+trVE.AposGlory.mode = misc_en_UK_lash.Mode4
+trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+trVE.AposGlory.text = "Lord, who helped gentle David in the combat and enabled him to overcome the foreigner, come to the aid of our faithful Sovereign and by the weapon of the Cross cast down our enemies. In your compassion show us your mercy as of old, and make them know in truth that you are God, and putting our trust in you may we conquer. At the constant intercessions of your most pure Mother, grant us your great mercy."
+
+trVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.text = me.m09.d14_en_UK_lash.meVE.Apolytikion1.text
+
+trVE.ApolTheotokion.mode = misc_en_UK_lash.Mode1
+trVE.ApolTheotokion.melody = ""
+trVE.ApolTheotokion.text = oc.m1.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+trMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+trMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.ToProstachthen.name
+trMA.Kathisma31.text = "In Paradise of old the enemy stripped me naked by a tree, for by my tasting it he brought in death. But now the Tree of the Cross, that bears the clothing of life for mortals, has been fixed on the earth, and the whole world filled with every joy. Seeing it worshipped, you peoples, let us with one accord raise our cry to God with faith, 'His house is full of glory!'"
+
+trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_en_UK_lash.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_en_UK_lash.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.text
+
+trMA.C1Poet = poets_en_UK_lash.TheodorouTouStouditou
+
+trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
+trMA.Ode1C11.text = "A day of festival! At Christ's Rising, death has fled away and the light of life has dawned. Adam has arisen and dances for joy. Therefore let us cry aloud as we sing a song of victory."
+
+trMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
+trMA.Ode1C12.text = "A day of worship of the Precious Cross! Come, let all approach it! For now it is set forth, shining with the bright beams of Christ's Rising. Let us kiss it, as we rejoice in soul."
+
+trMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
+trMA.Ode1C13.text = "Great Cross of the Lord, appear! Show me now the divine vision of your beauty, and make me your worthy worshipper. For I address you and embrace you as though you were alive."
+
+trMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
+trMA.Ode1C14.text = "Let heaven and earth give praise with one accord, for the all-blessed Cross, on which Christ, nailed in the body, was sacrificed, is now set forth for all. Let us kiss it as we rejoice in soul."
+
+trMA.Ode1C1Tr.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode1C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
+trMA.Ode1C1Tr.text = "O Trinity in Persons, O Unity in Essence, Father, Son and Spirit, equal in power, Unity in purpose and will, dominion and rule, watch over your world and crown it with peace."
+
+trMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+trMA.Ode1C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
+trMA.Ode1C1T.text = "Virgin who did not know man, you give birth to an infant without seed and the Offspring you bear is the Maker of all things, Christ our God. Entreat him to grant the whole universe peace."
+
+trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.DeftePomaPiomen.name
+trMA.Ode3C11.text = "Come, let us sing a new song, as we celebrate the overthrow of Hell, for Christ has risen from the tomb; capturing death, and saving the whole universe."
+
+trMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.DeftePomaPiomen.name
+trMA.Ode3C12.text = "Come, believers, let us drink, not from a well that gushes water that perishes, but from the source of enlightenment, as we worship the Cross of Christ, in which we boast."
+
+trMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.DeftePomaPiomen.name
+trMA.Ode3C13.text = "As with our hands we now embrace your Cross, which Moses of old prefigured with his outstretched arms, the invisible Amalek we put to flight, Christ our Master, through whom we shall be saved."
+
+trMA.Ode3C14.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode3C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.DeftePomaPiomen.name
+trMA.Ode3C14.text = "Believers, with pure eyes and lips let us worship in joy the Cross of the Lord, as we raise a song of exultation."
+
+trMA.Ode3C1Tr.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode3C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.DeftePomaPiomen.name
+trMA.Ode3C1Tr.text = "I honour one God without beginning, in three Persons but undivided in Essence, the Father, the Son and the living Spirit, in whose Name we have been baptized."
+
+trMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+trMA.Ode3C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.DeftePomaPiomen.name
+trMA.Ode3C1T.text = "In days of old Moses saw your mystery prefigured in the bush, holy Virgin: for as the flames did not consume it, so the fire of the Godhead did not consume your womb."
+
+trMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode6
+trMA.Ode3Kathisma1.melody = ""
+trMA.Ode3Kathisma1.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma22.text
+
+trMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode6
+trMA.Ode3Kathisma2.melody = ""
+trMA.Ode3Kathisma2.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma21.text
+
+trMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode6
+trMA.Ode3Kathisma3.melody = ""
+trMA.Ode3Kathisma3.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma11.text
+
+trMA.Ode3Kathisma4.mode = misc_en_UK_lash.Mode6
+trMA.Ode3Kathisma4.melody = ""
+trMA.Ode3Kathisma4.text = "Virgin Mother of God, implore your Son, Christ our God, who was nailed on the Cross of his own will, and rose from the dead, that our souls may be saved."
+
+trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EpiTisTheiasFylakis.name
+trMA.Ode4C11.text = "See, Christ has risen', said the Angel to the Myrrhbearing Women, 'Do not lament, but go, say to the Apostles, 'Rejoice, today is the salvation of the world; for by death the tyranny of the enemy has been destroyed.'"
+
+trMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EpiTisTheiasFylakis.name
+trMA.Ode4C12.text = "As we celebrate today the joyful worship of your life-bearing Cross, O Christ, we prepare ourselves for your most holy Passion; for you achieved it for the salvation of the world, O Saviour, as all-powerful."
+
+trMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EpiTisTheiasFylakis.name
+trMA.Ode4C13.text = "Today there is joy in heaven and on earth, for the sign of the Cross is made manifest to the world. The thrice-blessed Cross is set before us, and to all who worship it it is a fount of ever-flowing grace."
+
+trMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EpiTisTheiasFylakis.name
+trMA.Ode4C14.text = "What shall we offer you, O Christ? For you have given us your Precious Cross to worship, on which your all-holy Blood was poured out, and to which your flesh was fixed by nails. As with love we kiss it we give you thanks."
+
+trMA.Ode4C1Tr.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode4C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EpiTisTheiasFylakis.name
+trMA.Ode4C1Tr.text = "I sing the praises of the three Persons in one Godhead, one simple Nature undivided, as I proclaim: Father without beginning, Son and Holy Spirit, equal in throne, one lordship, equal Kingship, one everlasting Might."
+
+trMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+trMA.Ode4C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EpiTisTheiasFylakis.name
+trMA.Ode4C1T.text = "You alone among women, pure Lady, were revealed as a marvellous and fearful thing. For you made nature new, conceiving without seed and still remaining as before a virgin; for the one born from you is true God."
+
+trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrthrisomenOrthrouVatheos.name
+trMA.Ode5C11.text = "You dawned form the tomb, O Light that never sets, and made incorruption blaze forth on the world. In your compassion you banished the darkness of death from the ends of the earth."
+
+trMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrthrisomenOrthrouVatheos.name
+trMA.Ode5C12.text = "Cleansed by self-mastery, let us draw near, as with praise we fervently embrace the all-holy Tree on which Christ crucified saved the world in his compassion."
+
+trMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrthrisomenOrthrouVatheos.name
+trMA.Ode5C13.text = "Today the ranks of angels dance with gladness at the worship of your Cross. For through it you shattered the regiments of devils, O Christ, so saving humankind."
+
+trMA.Ode5C14.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode5C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrthrisomenOrthrouVatheos.name
+trMA.Ode5C14.text = "The Church has been revealed as a second Paradise, having within it, as of old, a Tree that bears life, your Cross, O Lord. By touching it we share in immortality."
+
+trMA.Ode5C1Tr.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode5C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrthrisomenOrthrouVatheos.name
+trMA.Ode5C1Tr.text = "I glorify Three without beginning, God in one Essence, Father, Son and Spirit, a single Light in threefold radiance, Kingdom of equal might in identity without confusion."
+
+trMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+trMA.Ode5C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrthrisomenOrthrouVatheos.name
+trMA.Ode5C1T.text = "You conceived by nature's law, but above law; for your child-bearing alone was without seed. Fearful to think or speak of was the manner of your giving birth, O all-unblemished Virgin."
+
+trMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C11.text = "Having crushed death, O Christ, you rose as a great King, calling us back from the storehouses of Hell to the enjoyment of the Kingdom of Heaven, to the land of immortality."
+
+trMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C12.text = "Believers, let us cry aloud in godly songs and shout with joy to God, as we greet the Cross of the Lord; for it is a fountain of holiness to all those in the world."
+
+trMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C13.text = "The saying of the writer of songs is fulfilled: for see, we worship at the footstool of your most pure feet, all-powerful Lord, your Precious Cross, the thrice-longed for Tree."
+
+trMA.Ode6C14.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C14.text = "The wood which the Prophet of lamentation saw cast into your bread, — your Cross, compassionate Lord — we greet and we sing in praise of your bonds and tomb, of the lance and nails"
+
+trMA.Ode6C15.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C15.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C15.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C15.text = "The holy Cross, O Christ, which you accepted to bear on your shoulders, and on it to be lifted up and crucified in the flesh, we kiss; and from it we gather strength against invisible foes."
+
+trMA.Ode6C1Tr.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C1Tr.text = "A Unity in three Persons I praise and a Trinity worshipped in one Nature, God the three in one, Light of triple sun, Father, Son and Holy Spirit."
+
+trMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+trMA.Ode6C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatilthesEnToisKatotatois.name
+trMA.Ode6C1T.text = "The greatest wonder of all wonders was revealed in you, O Ewe-lamb free from blemish,: for you bore the Lamb who takes away the sin of the world. Entreat him fervently for those who sing your praise."
+
+trMA.Kontakion1.mode = misc_en_UK_lash.Mode7
+trMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
+trMA.Kontakion1.text = "The sword of flame no longer guards the gate of Eden,<br>
+For a strange bond came upon it: the wood of the Cross.<br>
+The sting of Death and the victory of Hell were nailed to it.<br>
+But you appeared, my Saviour, crying to those in Hell:<br>
+'Be brought back<br>
+Again to Paradise'."
+
+trMA.Oikos1.text = "Three crosses Pilate fixed on Golgotha,<br>
+Two for the thieves and one for the Giver of life,<br>
+Whom Hades saw and said to those below,<br>
+'My ministers and powers,<br>
+Who has fixed a nail in my heart?<br>
+A wooden lance has suddenly pierced me and I am being torn apart.<br>
+My insides are in pain, my belly in agony.<br>
+My senses make my spirit tremble,<br>
+And I am compelled to disgorge<br>
+Adam and Adam's race, given me by a tree,<br>
+A tree is bringing them back<br>
+Again to Paradise'."
+
+trMA.Synaxarion.commemoration.text = "On the same day, the 3rd Sunday of the Fast, we celebrate the adoration of the precious and life-giving Cross."
+trMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+trMA.Synaxarion.couplet1.verse1 = "Let all the earth bow down before the Cross,"
+trMA.Synaxarion.couplet1.verse2 = "Through which it learned to worship you, O Word."
+trMA.Synaxarion.lastline.text = "By its power, Christ God, guard us from the assaults of the evil one and make us worthy to worship your divine Sufferings and life-bringing Resurrection, when we have passed successfully through the stadium of forty days, and have mercy on us as you alone are good and love mankind."
+
+trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OPaidasEkKaminou.name
+trMA.Ode7C11.text = "You rose on the third day from the tomb as one who slept, Lord, and by your divine power struck down the gatekeepers of hell; you raised up all our forebears from of old, O God of our fathers, alone blessed and greatly glorified."
+
+trMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OPaidasEkKaminou.name
+trMA.Ode7C12.text = "Today, you peoples, as we dance and sing to the harp, let us greatly rejoice at the worship of the Cross, glorifying Christ who was nailed upon it, the God of our fathers, alone blessed and greatly glorified."
+
+trMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OPaidasEkKaminou.name
+trMA.Ode7C13.text = "All-merciful Lord, who showed the instrument of mortality, your Cross, to be the workshop of life, honoured by the whole world, sanctify those who worship it, O God of our fathers, alone blessed and greatly glorified."
+
+trMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OPaidasEkKaminou.name
+trMA.Ode7C14.text = "You alone, O only Jesus, are merciful and tender-hearted: enlighten and sanctify those who with faith worship your Cross and your divine Sufferings, O God of our fathers, alone blessed and greatly glorified."
+
+trMA.Ode7C1Tr.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode7C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OPaidasEkKaminou.name
+trMA.Ode7C1Tr.text = "I praise the Godhead, Unity in three Persons: for the Father is Light, the Son is Light, and the Spirit is Light, of Light remaining undivided, shining forth in oneness of Nature, and in three rays of the Persons."
+
+trMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+trMA.Ode7C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OPaidasEkKaminou.name
+trMA.Ode7C1T.text = "With many names you were proclaimed by all the prophets: for you were revealed as gate of God, golden jar, holy land, O Virgin Bride of God who conceived in the flesh Jesus Christ, the God of our fathers who is greatly glorified."
+
+trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C11.text = "'Why do you hold sweet spices in your hands? Whom are you seeking?', now cries the young man in the tomb. 'Christ our God has risen, raising up the nature of mortals from the vaults of Hell'."
+
+trMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C12.text = "Hail, O Cross, thrice-blessed and divine Tree, a light for those in darkness. By your shining you herald to the four-cornered World the rays of Christ's Rising. Grant that all the faithful may reach Pascha."
+
+trMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C13.text = "On this day the Tree anointed with life, the Cross of Christ, fills all things with the perfume of divine grace. Let us smell its God-given fragrance, worshipping it with faith to the ages."
+
+trMA.Ode8C14.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C14.text = "Come, Elissaios the Prophet, tell us plainly: What was that wood you cast into the water? 'It was the Cross of Christ, through which we have been drawn up from the depths of corruption, as we worship it with faith to the ages.'"
+
+trMA.Ode8C15.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C15.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C15.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C15.text = "Of old Jacob prefigured your Cross, O Christ, when he worshipped the top of Joseph's holy staff, foreseeing this dread sceptre of your Kingdom, which now we worship in faith to the ages."
+
+trMA.Ode8C1Tr.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C1Tr.text = "I glorify one Substance in three beings: Father, Son and Spirit, neither confused in Persons nor divided in Essence; for there is one God in Trinity, over all to the ages."
+
+trMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AftiIKliti.name
+trMA.Ode8C1T.text = "Alone among mothers, Mary Bride of God, you remained a virgin, without man giving birth to the Saviour Christ, yet preserving the seal of your purity. We believers will call you blessed to the ages."
+
+trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C11.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C11.text = "You went down into the tomb, O God the Giver of Life and you broke all the bolts and bars, raising up the dead who cry aloud: Glory to your Resurrection! O Christ, the Saviour all-powerful."
+
+trMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C12.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C12.text = "Your tomb, O Christ, has brought me life: for you, the Lord of life, came and cried to those who were dwelling in the grave, 'All who are in bonds, be loosed: for I have come, the Ransom of the world."
+
+trMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C13.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C13.text = "Let all the trees of the forest dance and sing, as they behold their fellow-tree, the Cross, today receiving veneration: for Christ, as holy David prophesied, has exalted it on high."
+
+trMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C14.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C14.text = "I died through a tree, but I have found in you a Tree of Life, O Cross of Christ. You are my invincible protector, my strong defence against the demons. Venerating you this day, I cry aloud: Sanctify me by your glory."
+
+trMA.Ode9C15.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C15.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C15.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C15.text = "Rejoice and be exceeding glad, O Church of God, as you venerate today the thrice-blessed wood of the most holy Cross of Christ, that is attended by the ranks of angels, and with fear they stand before it."
+
+trMA.Ode9C1Tr.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C1Tr.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C1Tr.text = "I worship you, O holy God, as Trinity of Persons in Unity of Essence, Father, Son and Holy Spirit, one Power and Kingdom, sovereign over all."
+
+trMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+trMA.Ode9C1T.mode = misc_en_UK_lash.Mode1
+trMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.FotizouFotizou.name
+trMA.Ode9C1T.text = "You are the great mountain, O Virgin, in which Christ dwelt, as holy David says. By you we are raised up to heaven, all-blessed Lady, regaining through the Spirit the adoption of sons."
+
+trMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+trMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.text = "Seeing the Precious Cross of Christ placed this day before us, let us venerate it and rejoice in faith; with love let us greet the Lord who by his own free choice was crucified upon it, asking he to grant us all uncondemned to adore his Holy Passion and to attain the Resurrection."
+
+trMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+trMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+trMA.ExapTheotokion.text = "All-hallowed Lady, with true devotion now we venerate the Wood on which your Son stretched out his most pure hands and for our sakes was nailed. Give us peace and grant that we may come to the Holy Passion that has saved the world; and may we worship at the radiant Festival of Easter, the Lord's Day that brings light and joy to all creation."
+
+trMA.Lauds1.mode = misc_en_UK_lash.Mode4
+trMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+trMA.Lauds1.text = "With our voices let us shout and magnify in songs the Precious Cross; let us kiss it and cry out: O honoured Cross, sanctify our souls and bodies by your power, and keep unharmed from all malice of the enemy those who venerate you with true reverence."
+
+trMA.LaudsSundayVerse1.text = ""
+
+trMA.Lauds2.mode = misc_en_UK_lash.Mode4
+trMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+trMA.Lauds2.text = "Approach and draw waters that shall never fail, flowing from the grace of the Cross. See now set before you the holy Wood, source of divine gifts, on which there fell blood and water from the wounded side of the Lord of all. Of his own will he was raised upon the Cross, and with Himself he raised up mortal man."
+
+trMA.LaudsSundayVerse2.text = ""
+
+trMA.Lauds3.mode = misc_en_UK_lash.Mode4
+trMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+trMA.Lauds3.text = "O honoured Cross, you are the firm foundation of the Church, the strength of kings the glory and defence of monks. Venerating you today, we are filled with light in heart and soul, through the divine grace of the Lord who was nailed upon you and overthrew the power of our deceitful enemy, bringing the curse to naught."
+
+trMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+trMA.LaudsGlory.text = "The Lord of all has taught us in a parable to shun the boastful thoughts of the evil Pharisees; and he has instructed all of us not to think more highly than we should. He himself became our pattern and example, for he emptied himself even unto death upon the Cross. Let us therefore render thanks with the Publican and say: O God who suffered for us and yet remained impassible, deliver us from the passions and save our souls."
+
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
+
+trMA.AdditionalIdiomelon1.poet = poets_en_UK_lash.LeontosDespotou
+trMA.AdditionalIdiomelon1.mode = misc_en_UK_lash.Mode2
+trMA.AdditionalIdiomelon1.melody = misc_en_UK_lash.Idiomelon
+trMA.AdditionalIdiomelon1.text = ""
+
+trMA.AdditionalIdiomelon2.mode = misc_en_UK_lash.Mode8
+trMA.AdditionalIdiomelon2.melody = misc_en_UK_lash.Idiomelon
+trMA.AdditionalIdiomelon2.text = ""
+
+trMA.AdditionalIdiomelonGlory.mode = misc_en_UK_lash.Mode8
+trMA.AdditionalIdiomelonGlory.melody = misc_en_UK_lash.Idiomelon
+trMA.AdditionalIdiomelonGlory.text = ""
+
+trMA.AdditionalIdiomelonBoth.mode = misc_en_UK_lash.Mode6
+trMA.AdditionalIdiomelonBoth.melody = ""
+trMA.AdditionalIdiomelonBoth.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma21.text
+
+trLI.Antiphon2.text = ""
+
+trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
+trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode8
+trLI.SeasonalKontakion.melody = misc_en_UK_lash.AutomelonNotMetered
+trLI.SeasonalKontakion.text = he.a.m8_en_UK_lash.TiYpermacho.text
+
+trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
+trLI.TheotokosHymn.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.text
+
+trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+trLI.AfterCommunion.mode = misc_en_UK_lash.Mode1
+trLI.AfterCommunion.text = trVE.Apolytikion1.text
+
+trMegalynarion.text = ""
+

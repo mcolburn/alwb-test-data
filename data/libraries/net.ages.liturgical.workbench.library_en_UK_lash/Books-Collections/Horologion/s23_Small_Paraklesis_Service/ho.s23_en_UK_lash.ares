@@ -1,0 +1,367 @@
+A_Resource_Whose_Name = ho.s23_en_UK_lash
+
+//Small Paraklesis
+hoCA.title = "SERVICE OF THE LITTLE CANON OF SUPPLICATION"
+hoCA.title2 = "TO THE MOST HOLY MOTHER OF GOD"
+hoCA.poet = poets_en_UK_lash.TheostiriktouMonachouOiDeThefanous
+
+hoCA.media.text = "" //for complete music
+
+R01 = ""
+R02 = "After the Psalm we sing the following in Tone 4."
+R03 = "This is sung after each of the following verses by the two choirs alternately"
+
+hoCA.Apolytikion1.mode = misc_en_UK_lash.Mode4
+hoCA.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+hoCA.Apolytikion1.text = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+R04 = "The same again, or the Apolytikion of the Church. [Strictly, if the latter is not in Tone 4, the following Theotokion should be replaced by one in the appropriate Tone.]"
+
+hoCA.Apolytikion2.mode = misc_en_UK_lash.Mode4
+hoCA.Apolytikion2.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+hoCA.Apolytikion2.text = "Though most unworthy, may we never by silence * fail to proclaim your mighty acts and accomplishments, * for if you do not stand to intercede for us all, * Mother of our God, who then * will preserve us in freedom? * Who would have delivered us * from such terrible dangers? * O Sovereign Lady, from all kinds of threats * you save your servants, * may we not abandon you."
+
+R05 = ""
+
+hoCA.Ode1H.ode = misc_en_UK_lash.Ode1
+hoCA.Ode1H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode1H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode1H.text = he.h.m8_en_UK_lash.YgranDiodefsas.text
+
+hoCA.Ode11.ode = misc_en_UK_lash.Ode1
+hoCA.Ode11.mode = misc_en_UK_lash.Mode8
+hoCA.Ode11.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
+hoCA.Ode11.text = "By many temptations I am held fast, * and seeking salvation * come for refuge in flight to you * O Mother of God’s own Word and Virgin, * from my dread dangers and troubles now rescue me."
+
+hoCA.Ode12.ode = misc_en_UK_lash.Ode1
+hoCA.Ode12.mode = misc_en_UK_lash.Mode8
+hoCA.Ode12.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
+hoCA.Ode12.text = "The passions torment with their assaults, * despondency’s burden * presses heavily on my soul, * with the calm of your Son and God, pure Maiden, * O All-immaculate Virgin, now give me peace."
+
+hoCA.Ode13.ode = misc_en_UK_lash.Ode1
+hoCA.Ode13.mode = misc_en_UK_lash.Mode8
+hoCA.Ode13.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
+hoCA.Ode13.text = "To God and our Saviour, you once gave birth, * pure Maiden, I beg you, * from dread troubles may I be saved, * for as I now run to you for refuge, * it is to you that I lift both my soul and mind."
+
+hoCA.Ode14.ode = misc_en_UK_lash.Ode1
+hoCA.Ode14.mode = misc_en_UK_lash.Mode8
+hoCA.Ode14.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
+hoCA.Ode14.text = "In body and soul, sick as I am, * consider me worthy, * only Mother of our true God, * of your godly providence and kindness, * for you are good and the one who gave birth to Good."
+
+hoCA.Ode3H.ode = misc_en_UK_lash.Ode3
+hoCA.Ode3H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode3H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode3H.text = he.h.m8_en_UK_lash.OuraniasApsidos.text
+
+hoCA.Ode31.ode = misc_en_UK_lash.Ode3
+hoCA.Ode31.mode = misc_en_UK_lash.Mode8
+hoCA.Ode31.melody = he.h.m8_en_UK_lash.OuraniasApsidos.name
+hoCA.Ode31.text = "As protection I set you and as the shield of my life, * you gave birth to God, Virgin Mother, guide me as a pilot now * into your anchorage, * you the support of the faithful, * source of all good things, you alone the one all-praised."
+
+hoCA.Ode32.ode = misc_en_UK_lash.Ode3
+hoCA.Ode32.mode = misc_en_UK_lash.Mode8
+hoCA.Ode32.melody = he.h.m8_en_UK_lash.OuraniasApsidos.name
+hoCA.Ode32.text = "I entreat you, O Virgin, dispel the strife in my soul, * pacify, I pray you, the tempest of my despondency, * for you, O Bride of God, * gave birth to him who is calm’s source, * you gave birth to Christ, you alone are the one all-praised."
+
+hoCA.Ode33.ode = misc_en_UK_lash.Ode3
+hoCA.Ode33.mode = misc_en_UK_lash.Mode8
+hoCA.Ode33.melody = he.h.m8_en_UK_lash.OuraniasApsidos.name
+hoCA.Ode33.text = "Benefactor is he whom you bore and cause of all good, * pour out then for all the abundant wealth of his benefits, * power to do all things, * is yours who bore Christ the mighty, * powerful in strength is he, O greatly blessed by God."
+
+hoCA.Ode34.ode = misc_en_UK_lash.Ode3
+hoCA.Ode34.mode = misc_en_UK_lash.Mode8
+hoCA.Ode34.melody = he.h.m8_en_UK_lash.OuraniasApsidos.name
+hoCA.Ode34.text = "Cruel illnesses test me, and passions most damaging, * help me, I beseech you, O Virgin, aid me, all-blameless one, * for I know you to be * the inexhaustible treasure, * never failing storehouse, of healings that have no price."
+
+hoCA.Troparion31.mode = misc_en_UK_lash.Mode8
+hoCA.Troparion31.melody  = ""
+hoCA.Troparion31.text = "Save your servants, from every danger, O Mother of God, for next after God we all fly for refuge to you as unbreachable wall and protection."
+
+hoCA.Troparion32.mode = misc_en_UK_lash.Mode8
+hoCA.Troparion32.melody  = ""
+hoCA.Troparion32.text = "With kindness, all-praised Mother of God, look on the dire affliction of my body and heal the pain of my soul."
+
+//R06
+//R07
+
+hoCA.Kathisma11.mode = misc_en_UK_lash.Mode2
+hoCA.Kathisma11.melody = he.a.m2_en_UK_lash.TaAnoZiton.name
+hoCA.Kathisma11.text = "Invincible rampart, fervent intercession, * the wellspring of mercy, refuge of the world, to you * we all cry insistently, * ‘Sovereign Lady, Mother who bore our God, * hasten, from perils swiftly set us free, * alone you are ever swift in our defence’."
+
+hoCA.Ode4H.ode = misc_en_UK_lash.Ode4
+hoCA.Ode4H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode4H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode4H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
+
+hoCA.Ode41.ode = misc_en_UK_lash.Ode4
+hoCA.Ode41.mode = misc_en_UK_lash.Mode8
+hoCA.Ode41.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
+hoCA.Ode41.text = "I entreat you, O Bride of God, * still my passions’ tumult, the tempest of my faults, * still the raging turmoil in my soul; * you who brought to birth my pilot and my Lord."
+
+hoCA.Ode42.ode = misc_en_UK_lash.Ode4
+hoCA.Ode42.mode = misc_en_UK_lash.Mode8
+hoCA.Ode42.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
+hoCA.Ode42.text = "As I call on you grant to me * your compassion’s depths, let me know your tenderness, * you who bore the Saviour of all those * who now lift their voices and who sing your praise."
+
+hoCA.Ode43.ode = misc_en_UK_lash.Ode4
+hoCA.Ode43.mode = misc_en_UK_lash.Mode8
+hoCA.Ode43.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
+hoCA.Ode43.text = "All-Immaculate Virgin, * we acknowledge you as the Mother of our God * as we offer you our hymns of thanks, * for your many gracious gifts which we enjoy."
+
+hoCA.Ode44.ode = misc_en_UK_lash.Ode4
+hoCA.Ode44.mode = misc_en_UK_lash.Mode8
+hoCA.Ode44.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
+hoCA.Ode44.text = "As our hope and assurance, * rampart of salvation which none can overthrow * we have gained you, highly honoured one, * and from every trouble you deliver us."
+
+hoCA.Ode5H.ode = misc_en_UK_lash.Ode5
+hoCA.Ode5H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode5H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode5H.text = he.h.m8_en_UK_lash.FotisonImas.text
+
+hoCA.Ode51.ode = misc_en_UK_lash.Ode5
+hoCA.Ode51.mode = misc_en_UK_lash.Mode8
+hoCA.Ode51.melody = he.h.m8_en_UK_lash.FotisonImas.name
+hoCA.Ode51.text = "Fill my heart, I pray, * with your gladness and unsullied joy, * Virgin most pure, the only Mother of our God, * for you who gave birth to him who is the cause of gladness."
+
+hoCA.Ode52.ode = misc_en_UK_lash.Ode5
+hoCA.Ode52.mode = misc_en_UK_lash.Mode8
+hoCA.Ode52.melody = he.h.m8_en_UK_lash.FotisonImas.name
+hoCA.Ode52.text = "Come, deliver us * from all dangers, Mother of our God, * you bore eternal liberation, Maid most pure, * the peace which passes all understanding came to birth from you."
+
+hoCA.Ode53.ode = misc_en_UK_lash.Ode5
+hoCA.Ode53.mode = misc_en_UK_lash.Mode8
+hoCA.Ode53.melody = he.h.m8_en_UK_lash.FotisonImas.name
+hoCA.Ode53.text = "Dissipate the fog, * Bride of God, the murk of my misdeeds, * with the illumination of your radiance, * you who gave birth to the divine and pre-eternal light."
+
+hoCA.Ode54.ode = misc_en_UK_lash.Ode5
+hoCA.Ode54.mode = misc_en_UK_lash.Mode8
+hoCA.Ode54.melody = he.h.m8_en_UK_lash.FotisonImas.name
+hoCA.Ode54.text = "Heal me, O Most Pure, * heal the sickness that afflicts my soul, * making it worthy of your kindness and your care, * and by your fervent intercession grant me health, I pray."
+
+hoCA.Ode6H.ode = misc_en_UK_lash.Ode6
+hoCA.Ode6H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode6H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode6H.text = he.h.m8_en_UK_lash.TinDeisinEkcheo.text
+
+hoCA.Ode61.ode = misc_en_UK_lash.Ode6
+hoCA.Ode61.mode = misc_en_UK_lash.Mode8
+hoCA.Ode61.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+hoCA.Ode61.text = "As from death * and from corruption and decay, * when to death and to decay it captive, * he saved my nature held fast by corruption * giving himself over into the hand of death, * O Virgin, beg your Lord and Son * from the malice of foes to deliver me."
+
+hoCA.Ode62.ode = misc_en_UK_lash.Ode6
+hoCA.Ode62.mode = misc_en_UK_lash.Mode8
+hoCA.Ode62.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+hoCA.Ode62.text = "I know you * to be my life’s sure guardian * its protection and shield, O pure Virgin, * you who dispel the great throng of temptations, * and drive away assaults of demon hordes, * unceasingly I plead with you, * ‘From the passions’ corruption deliver me’."
+
+hoCA.Ode63.ode = misc_en_UK_lash.Ode6
+hoCA.Ode63.mode = misc_en_UK_lash.Mode8
+hoCA.Ode63.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+hoCA.Ode63.text = "O Maiden, * complete salvation of our souls, * we have gained you as our rampart of refuge, * as our relief in afflictions and torment, * and in your light evermore we are filled with joy. * O Sovereign Lady, save us now * from the passions and dangers besetting us."
+
+hoCA.Ode64.ode = misc_en_UK_lash.Ode6
+hoCA.Ode64.mode = misc_en_UK_lash.Mode8
+hoCA.Ode64.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.name
+hoCA.Ode64.text = "In sickness * and with no healing in my flesh * now I lie upon my bed, yet I implore you, * as you gave birth to our God and the world’s Saviour, * to him who frees us from sickness and malady, * O good one, hear me, I implore, * ‘From disease’s corruption now raise me up’."
+
+hoCA.Troparion61.mode = misc_en_UK_lash.Mode8
+hoCA.Troparion61.melody  = ""
+hoCA.Troparion61.text = hoCA.Troparion31.text
+
+hoCA.Troparion62.mode = misc_en_UK_lash.Mode8
+hoCA.Troparion62.melody  = ""
+hoCA.Troparion62.text = "Immaculate, who through a word gave birth to the Word beyond explanation in the last days, make intercession, as you have a mother’s freedom to speak."
+
+//R08
+//R09
+
+hoCA.Kontakion.mode = misc_en_UK_lash.Mode2
+hoCA.Kontakion.melody  = ""
+hoCA.Kontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+//R10
+//First Antiphon Mode 4
+
+//R11
+hoCA.Prokeimenon.text = ""
+
+hoCA.ProkVerse.text = ""
+
+//R12 ""
+hoCA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+hoCA.PostGospelGlory.melody  = ""
+hoCA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelTrinity.text
+
+hoCA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+hoCA.PostGospelBoth.melody  = ""
+hoCA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+hoCA.PostGospelVerse.text = ""
+
+hoCA.PostGospelHymn1.mode = misc_en_UK_lash.Mode6
+hoCA.PostGospelHymn1.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
+hoCA.PostGospelHymn1.text = "Sovereign and all-holy one, * do not trust me to protection * which is merely human, * but accept the pleading of your supplicant, * anguish has hold of me, * nor can I endure * the hostile demons’ arrows; * no shelter can I find, * no, nor place of refuge, wretch that I am, * from every side I am assailed, * and, save you, I find none that offers solace, * Queen of all creation, * Protection of the faithful and our hope, * do not despise my entreaty, * but take action for my good."
+
+hoCA.PostGospelHymn2.mode = misc_en_UK_lash.Mode6
+hoCA.PostGospelHymn2.melody  = ""
+hoCA.PostGospelHymn2.text = oc.m6.d3_en_UK_lash.ocMA.AposTheotokion.text
+
+hoCA.PostGospelHymn3.mode = misc_en_UK_lash.Mode6
+hoCA.PostGospelHymn3.melody  = ""
+hoCA.PostGospelHymn3.text = oc.m6.d3_en_UK_lash.ocVE.AposTheotokion.text
+
+//Priest
+//Supplication
+
+//R13
+
+hoCA.Ode7H.ode = misc_en_UK_lash.Ode7
+hoCA.Ode7H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode7H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode7H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
+
+hoCA.Ode71.ode = misc_en_UK_lash.Ode7
+hoCA.Ode71.mode = misc_en_UK_lash.Mode8
+hoCA.Ode71.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+hoCA.Ode71.text = "With the will to accomplish * our salvation, O Saviour, you made your dwelling place * within the Virgin’s womb, * revealed her as the champion * and protection for all the world. * ‘Blessed are you, O God, * the God of our Fathers!’"
+
+hoCA.Ode72.ode = misc_en_UK_lash.Ode7
+hoCA.Ode72.mode = misc_en_UK_lash.Mode8
+hoCA.Ode72.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+hoCA.Ode72.text = "O pure Mother implore him * who desires to grant mercy, the one you brought to birth, * that they may be set free * from faults and soul’s defilements, * those who cry out with faith and sing, * ‘Blessed are you, O God, * the God of our Fathers!’"
+
+hoCA.Ode73.ode = misc_en_UK_lash.Ode7
+hoCA.Ode73.mode = misc_en_UK_lash.Mode8
+hoCA.Ode73.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+hoCA.Ode73.text = "You revealed her who bore you * as a tower of safety, as incorruption’s fount, * salvation’s treasure store * and doorway to repentance * for all those who now cry aloud, * ‘Blessed are you, O God, * the God of our Fathers!’"
+
+hoCA.Ode74.ode = misc_en_UK_lash.Ode7
+hoCA.Ode74.mode = misc_en_UK_lash.Mode8
+hoCA.Ode74.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+hoCA.Ode74.text = "As you bore Christ the Saviour * for our sake, deign to heal from all sicknesses of the soul * and weakness of the body * those who with love and longing, * O most pure, who gave birth to God, * come close to you, to draw near * to your divine protection."
+
+hoCA.Ode8H.ode = misc_en_UK_lash.Ode8
+hoCA.Ode8H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode8H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode8H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
+
+hoCA.Ode81.ode = misc_en_UK_lash.Ode8
+hoCA.Ode81.mode = misc_en_UK_lash.Mode8
+hoCA.Ode81.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.name
+hoCA.Ode81.text = "Do not despise those * who beg your help, O pure Virgin, * as their raise their song up in your honour, * praising and exalting you, Maiden, to the ages."
+
+hoCA.Ode82.ode = misc_en_UK_lash.Ode8
+hoCA.Ode82.mode = misc_en_UK_lash.Mode8
+hoCA.Ode82.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.name
+hoCA.Ode82.text = "Unending rivers * of healings you pour, O Virgin, * for all those who him and extol and praise you, * those whose songs exalt your Birth-Giving beyond language."
+
+hoCA.Ode83.ode = misc_en_UK_lash.Ode8
+hoCA.Ode83.mode = misc_en_UK_lash.Mode8
+hoCA.Ode83.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.name
+hoCA.Ode83.text = "You cure, O Virgin, * all my soul’s weakness and sickness, * and the flesh’s tormenting afflictions, * so that I may sing of your glory, Highly Favoured."
+
+hoCA.Ode84.ode = misc_en_UK_lash.Ode8
+hoCA.Ode84.mode = misc_en_UK_lash.Mode8
+hoCA.Ode84.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.name
+hoCA.Ode84.text = "The passions’ onslaughts * and the assaults of temptations * you, O Virgin, repel and drive from us, * wherefore we shall praise and hymn you to all ages."
+
+hoCA.Ode9H.ode = misc_en_UK_lash.Ode9
+hoCA.Ode9H.mode = misc_en_UK_lash.Mode8
+hoCA.Ode9H.melody = misc_en_UK_lash.Heirmos
+hoCA.Ode9H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
+
+hoCA.Ode91.ode = misc_en_UK_lash.Ode9
+hoCA.Ode91.mode = misc_en_UK_lash.Mode8
+hoCA.Ode91.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+hoCA.Ode91.text = "Do not reject my weeping, * tears that flow unceasing, * for you, O Virgin, gave birth to our Saviour Christ, * and it he who has wiped every tear from every face."
+
+hoCA.Ode92.ode = misc_en_UK_lash.Ode9
+hoCA.Ode92.mode = misc_en_UK_lash.Mode8
+hoCA.Ode92.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+hoCA.Ode92.text = "Come, fill my heart, O Virgin, * fill my heart with gladness, * for you received in his fullness the joy of all, * and made the pain and the sadness of sin now disappear."
+
+hoCA.Ode93.ode = misc_en_UK_lash.Ode9
+hoCA.Ode93.mode = misc_en_UK_lash.Mode8
+hoCA.Ode93.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+hoCA.Ode93.text = "O Virgin, be the haven, * shelter and protection * of those who flee to you, rampart unshakeable, * may they have as their refuge, their gladness and their joy."
+
+hoCA.Ode94.ode = misc_en_UK_lash.Ode9
+hoCA.Ode94.mode = misc_en_UK_lash.Mode8
+hoCA.Ode94.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+hoCA.Ode94.text = "Dispel the fog of error, * ignorance’s darkness, * and let your light’s rays, O Virgin, illumine those * who with devotion proclaim you the Mother of our God."
+
+hoCA.Ode95.ode = misc_en_UK_lash.Ode9
+hoCA.Ode95.mode = misc_en_UK_lash.Mode8
+hoCA.Ode95.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+hoCA.Ode95.text = "Heal one laid low and wretched, * in a place of sickness, * a place, O Virgin, of ill and of wretchedness, * grant transformation from weakness and feebleness to health."
+
+//R14
+
+hoCA.Meg00.text = ho.s03_en_UK_lash.hoMA.Ode9.Meg00.text
+hoCA.Meg01.melody = misc_en_UK_lash.Heirmos
+hoCA.Meg01.text = he.h.m6_en_UK_lash.TinTimioteran.text
+//R15
+hoCA.Meg02.melody = he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.Meg02.text = "Higher than the heavens is she by far, * and yet more resplendent than the sun with its blazing rays, * she who has delivered * us from the curse’s power, * in hymns now let us honour * her who rules all the world."
+hoCA.Meg03.melody = he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.Meg03.text = "From the swarming multitude of my sins, * both my soul and body are now weakened, they are both sick, * O Most Highly Favoured, * to you I fly for refuge, * the hope of those who have none, * grant me, I pray you, your help."
+hoCA.Meg04.melody = he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.Meg04.text = "Mother of the One who redeemed us all, * hear the supplications your unworthy household makes, * be our intercessor * with him, the One born from you, * the world’s true Sovereign Lady, * become our Advocate."
+hoCA.Meg05.melody = he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.Meg05.text = "Fervently and joyfully we now sing * hymns and odes to you, the all-praised Mother of our God, * with the Lord’s Forerunner * and all the Saints in heaven, * implore your Son, O Mother, * to show us pity now."
+hoCA.Meg06.melody = he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.Meg06.text = "Let the impious’ lips be bereft of speech, * who do not worship this your icon, the all-revered, * this which was depicted * by Luke, the Lord’s Apostle, * the icon with the title, * ‘She who points out the Way’."
+//R16
+R17 = ""
+hoCA.MegTrans1.melody =he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.MegTrans1.text = "" //Could be linked to Menaion
+R18 = ""
+hoCA.Meg0F.melody = he.h.m6_en_UK_lash.TinTimioteran.name
+hoCA.Meg0F.text = "All you hosts of heaven, the Angel Bands, * John, the Lord’s Forerunner, the Apostles, the holy Twelve, * Saints beyond all number, * with our God’s own Mother, * make intercession for us, * that we may all be saved."
+//Reader
+//Trisagion Prayers with exclamation
+
+hoCA.Troparion1.mode = misc_en_UK_lash.Mode6
+hoCA.Troparion1.melody  = ""
+hoCA.Troparion1.text = oc.m6.d3_en_UK_lash.octrMA.Kathisma12.text
+
+hoCA.Troparion2.mode = misc_en_UK_lash.Mode6
+hoCA.Troparion2.melody  = ""
+hoCA.Troparion2.text = oc.m6.d2_en_UK_lash.ocMA.Kathisma22.text
+
+hoCA.Troparion3.mode = misc_en_UK_lash.Mode6
+hoCA.Troparion3.melody  = ""
+hoCA.Troparion3.text = oc.m6.d5_en_UK_lash.ocMA.Kathisma13.text
+
+hoCA.Troparion4.mode = misc_en_UK_lash.Mode2
+hoCA.Troparion4.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+hoCA.Troparion4.text = oc.m2.d5_en_UK_lash.ocVE.AposTheotokion.text
+
+hoCA.Troparion5.mode = misc_en_UK_lash.Mode2
+hoCA.Troparion5.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+hoCA.Troparion5.text = oc.m2.d1_en_UK_lash.ocSV.Aposticha1.text
+
+hoCA.Troparion6.mode = misc_en_UK_lash.Mode8
+hoCA.Troparion6.melody  = ""
+hoCA.Troparion6.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
+
+hoCA.Troparion7.mode = misc_en_UK_lash.Mode2
+hoCA.Troparion7.melody  = ""
+hoCA.Troparion7.text = "All my hope I lay on you, Mother of God. Guard me beneath your protection."
+
+R24 = "During the first fortnight of August it is customary to sing, instead of the preceding Theotokia, the following Exapostilaria."
+
+hoCA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+hoCA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoCA.Exaposteilarion1.text = me.m08.d15_en_UK_lash.meMA.Exaposteilarion1.text
+
+hoCA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+hoCA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoCA.Exaposteilarion2.text = da.d7_en_UK_lash.daMA.ExapTheotokion.text 
+
+hoCA.Exaposteilarion3.mode = misc_en_UK_lash.Mode3
+hoCA.Exaposteilarion3.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoCA.Exaposteilarion3.text = da.d3_en_UK_lash.daMA.ExapTheotokion.text
+
+hoCA.Exaposteilarion4.mode = misc_en_UK_lash.Mode3
+hoCA.Exaposteilarion4.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoCA.Exaposteilarion4.text = "O Tower wreathed in gold, * O glorious Twelve-walled City, * The Throne from which the sun pours down, * the Seat of the King of all, * O wonder beyond understanding! * How is it you suckle the Master?"

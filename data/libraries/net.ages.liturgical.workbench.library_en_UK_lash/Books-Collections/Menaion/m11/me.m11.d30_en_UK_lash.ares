@@ -1,0 +1,811 @@
+A_Resource_Whose_Name = me.m11.d30_en_UK_lash
+
+meDate.text = ""
+meCommemoration.text = "Commemoration of the holy and glorious Apostle Andrew, the First-called" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode4
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera01.text = "Formed by the light of the Forerunner, when the empersonned brightness of the Father’s glory appeared, wishing through his compassion to save the human race, then, glorious Saint, you were the first to run to him, illumined in mind by the perfect brilliance of his Godhead; therefore you are named herald and Apostle of Christ our God; implore him to save and enlighten our souls."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode4
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera02.text = "Acquainted with the voice of the Forerunner, when the all-holy Word became flesh, granting us life and salvation, bringing the good tidings to those on earth, then, O all-wise, you followed him and dedicated yourself as firstling and all-holy first fruits to him; our God, whom you both came to know and revealed to your own brother; implore him to save and enlighten our souls."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode4
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera03.text = "Frequenting the one sprung from a barren womb, when the offspring of the Virgin dawned, as Teacher of piety and temperance revealing purity, then you became a most fervent lover of virtue, blessed Andrew, placing ascents in your heart; and from glory you were raised to the ineffable glory of Christ our God; implore him to save and enlighten our souls."
+
+meVE.MM.Stichera1123as78910.text = "" // for media
+
+meVE.SticGlory.poet = poets_en_UK_lash.Anatoliou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode4
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Leaving behind the catching of fish, O Apostle, you net men, lowering the bait of true religion like a hook with the rod of your preaching, and drawing up from the depth of error all the nations. Apostle Andrew, brother of the Prince and outstanding teacher of the world, do not cease to intercede for us, O all-praised, who with faith and love praise your ever-honoured memory."
+
+meVE.SticBoth.mode = misc_en_UK_lash.Mode4
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = "Isaias, dance, receive the word of God; prophesy to Mary the maiden that the bush is aflame with the beam of the Godhead and is not being burned by fire. Bethlehem, make ready, Eden open your gate; and Magi make your journey to see salvation swaddled in a manger; whom the Star above the cave reveals as the Lord, the giver of life, who saves our race."
+
+meVE.Lity1.poet = poets_en_UK_lash.AndreouIerosolymitou
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = "The First-called Disciple and imitator of your passion, the Apostle Andrew, conformed to you, Lord, having drawn out with the fish-hook of your Cross those once gone astray in the deep of ignorance, brought them to you. At his prayers, O supremely Good, make our lives peaceful and save our souls."
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode1
+meVE.Lity2.melody = ""
+meVE.Lity2.text = "Let us the faithful sing the praise of Peter’s brother, Andrew, Christ’s Disciple; for he once searched the sea with nets and caught fish, while now he trawls the inhabited world with the rod of the Cross and brings the nations back from error by Baptism; and as he stands before Christ he asks peace for the world, and for our souls God’s great mercy."
+
+meVE.Lity3.mode = misc_en_UK_lash.Mode1
+meVE.Lity3.melody = ""
+meVE.Lity3.text = "Having received within his heart the spiritual fire that enlightens minds and burns up sins, Christ’s Apostle and disciple shines with the mystical rays of teachings in the unenlightened hearts of the nations; while he again burns up the brushwood fables of the ungodly; for the fire of the Spirit has such a force. O strange and fearful wonder! A tongue of clay, a nature of clay, a body of dust has received spiritual and immaterial knowledge. But, O initiate of ineffable and contemplator of heavenly mysteries, intercede that our souls may be illumined."
+
+meVE.Lity4.mode = misc_en_UK_lash.Mode8
+meVE.Lity4.melody = ""
+meVE.Lity4.text = "When you saw the God so longed for walking the earth, O First-called, who saw God, you called out to your brother: We have found, Simon, the one so longed for; to the Saviour you cried like David: As the hart longs for the springs of water, so my soul longs for you, Christ God. Therefore too adding longing to longing, you pass over through a cross to him you longed for, as a true Disciple and became an imitator of the passion through his Cross; and so having also become with him a partaker of glory, fervently intercede on behalf of our souls."
+
+meVE.LityGlory.poet = poets_en_UK_lash.AndreouIerosolymitouOiDeAnatoliou
+meVE.LityGlory.mode = misc_en_UK_lash.Mode8
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "Let us all sing the praise of Andrew, the herald of the faith and servant of the Word; for he fishes men from the deep, grasping in his hands the Cross for a rod, and lowering power like a line he brings souls up from the error of the foe and offers them as an acceptable gift to God. Let us the faithful ever sing his praise with the choir of Christ’s Disciples, that he may intercede with him so that he may be merciful to us on the day of judgement."
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode8
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha1.text = "Hail, spiritual heaven, ever telling the glory of God; the first to submit fervently to the call of Christ, and immediately to join him; set aflame by him you were seen as a second light, and by your beams you enlightened those in darkness, as you imitated his loving-kindness. Therefore we celebrate your all-holy festival, and with great joy kiss the casket of your relics, from which you pour out salvation for those who ask, and God’s great mercy."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha2.text = "Having found the first of all objects of desire, who had put on our nature through compassion, with ardent longing you attached yourself firmly to him, Andrew, inspired by God, crying to your brother: The one whom the Prophets proclaimed in the Spirit, we have found; come, let us entrance our soul and mind with his beauties; so that, guided to the light by his radiance, we may dispel the night of error and the darkness of ignorance, as we bless Christ, who grants the world his great mercy."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode5
+meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meVE.Aposticha3.text = "You caught from the deep of ignorance the nations which did not know God with the net of your words, and you troubled the salt seas, appearing as a noble horse of him who is Master of the sea, honoured Saint; and you dried up the putrid rot of godlessness, casting in precious salt, your wisdom; at which, glorious Andrew, they were indeed amazed, those who were shameless content with a wisdom proved folly."
+
+meVE.AposGlory.poet = poets_en_UK_lash.Germanou
+meVE.AposGlory.mode = misc_en_UK_lash.Mode3
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "With hymns let us honour the brother of Peter and disciple of Christ, catcher of fish and fisher of men, Andrew the Apostle; for by his doctrines he has trained all in the teachings of Jesus; and like a bait for fish he handed over his flesh to lawless men, and caught them in his net. At his intercessions, O Christ, grant your people peace and great mercy."
+
+meVE.AposBoth.mode = misc_en_UK_lash.Mode3
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = "Joseph, tell us: How are you bringing the Maiden you received from the Holy Place, to Bethlehem great with child? I, he said, have searched the Scriptures and have been told by an Angel, and I am assured that Mary will give birth to God in a way past explanation; to worship him Magi will come from the East, adoring him with precious gifts. O Lord, incarnate for our sake, glory to you!"
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "As the First-called of the Apostles and full brother of the Prince, implore the Master of all things, Andrew, to give peace to the inhabited world, and to our souls his great mercy."
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma11.text = "As a godly Disciple and First-called of all the Disciples of Christ, with love we praise you, Apostle Andrew, and faithfully we cry out to you: Deliver your flock, with which you were entrusted by God, from every tribulation, from constraints and stumblings, and every evil"
+
+meMA.Kathisma1T.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma1T.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma1T.text = "As you now stretch out your hands in pity, holy Lady, grant us your help from the Holy Place, and may they complete their lives without danger, those who glorify your all-holy Offspring, and claim you, Lady and Maiden, as their hope and boast."
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode3
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TheiasPisteos.name
+meMA.Kathisma21.text = "Christ found you first, blest Andrew, as you came, a noble initiate, and one who proclaimed his commandments clearly to the inhabited world like a soaring bird, illumining the companies of the nations. Implore him as God to grant us his great mercy."
+
+meMA.Kathisma2T.mode = misc_en_UK_lash.Mode3
+meMA.Kathisma2T.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TheiasPisteos.name
+meMA.Kathisma2T.text = "You became the divine tabernacle of the Word, Mother of God alone all-pure, surpassing the Angels in purity. With the divine waters of your prayers purify me, who am befouled more than all by offences of the flesh, granting me God’s great mercy."
+
+meMA.Kathisma31.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma31.text = "Let us all sing the praise of the Apostle as eye-witness and godlike herald of the Word, and truly spiritual fisher of nations; because Andrew inspired of God brought us to knowledge of Christ, and now he intercedes without ceasing that our souls may be saved."
+
+meMA.Kathisma3T.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma3T.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma3T.text = "Immaculate Virgin, you are the protection, of those who have their hopes unquestioningly in you. Free us from trials of every kind, calamities and dire troubles, as with the Apostles you intercede with your Son, and save all who sing your praise."
+
+meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
+// from Nov30.pdf from 2012
+
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostle.text
+
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode1
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.Lity1.text
+
+meMA.C2Poet = poets_en_UK_lash.IoannouMonachou
+
+meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.text = he.h.m1_en_UK_lash.OdinEpinikion.text
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C11.text = "As she who alone gave birth in time in the flesh to the Son who is without time, O all-holy and immaculate, heal for all times the passions of my most wretched soul."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C12.text = "As you are compassionate, O all-pure, wipe out by your supplications the wounds of my soul, the hardness of my heart, the darkening of my thought and the wrong turnings of my mind."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C13.text = "O Immaculate, who bore the Light, my Redeemer, redeem me from darkness and the eternal torments there, that saved I may praise you mighty deeds."
+
+meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C14.text = "With your light, O all-blameless, dispel the blackness of my mind, you who bore the Light; and grant me, loving Lady, to behold the Light which dawned for us from you."
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C21.text = "Purify my soul, muddied by thoughts and words, Andrew, herald of Christ, by the divine grace which dwells in you, that in purity I may offer you a worthy hymn."
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C22.text = "Christ’s Forerunner, shoot of a barren womb, rejoicing brought you, Andrew, as the precious cornerstone of his own Disciples to the one born of a Virgin, Christ, who has been glorified."
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C23.text = "With love and unwavering longing you mounted the steps of virtue, and ever meditating on ascents, Andrew, from feeble power you attained the highest power."
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C2T.text = "Hail, fount of grace. Hail, ladder and gate of heaven. Hail, lampstand and golden jar, and mountain unhewn, who bore for the world Christ the giver of life."
+
+meMA.Ode1C31.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ODiaStylouPyros.name
+meMA.Ode1C31.text = "With the rod of the Gospel, Andrew all-praised, you drew from the deep of error and caught peoples, as Christ had promised, who taught you to trawl men as you had caught fish."
+
+meMA.Ode1C32.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ODiaStylouPyros.name
+meMA.Ode1C32.text = "The pillar of the faith, the seat of the true doctrines of Christ, Andrew inspired by God today calls all the ends of the earth to arrange a yearly feast; let us believers, therefore, come together."
+
+meMA.Ode1C33.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ODiaStylouPyros.name
+meMA.Ode1C33.text = "As a fisherman by craft you searched the hollow of the sea with nets; with the seine net of the Spirit you catch nations, tribes and peoples by the Spirit, and, O most wondrous, you reveal to us the deep above."
+
+meMA.Ode1C34.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ODiaStylouPyros.name
+meMA.Ode1C34.text = "Initiator, eye-witness and preacher of the ineffable knowledge of Christ, you received from on high the Holy Spirit, who speaks in tongues, comes to rest by fire, distributes his gifts. Intercede that we may be saved."
+
+meMA.Ode1C3Tr.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ODiaStylouPyros.name
+meMA.Ode1C3Tr.text = "With faith I worship a Unity beyond being of a Trinity without beginning, not dividing the Godhead; for it is one in form, simple and indivisible; but I join it together in a being of Persons, and faithfully I distinguish."
+
+meMA.Ode1C3T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ODiaStylouPyros.name
+meMA.Ode1C3T.text = "God becomes a babe from a Virgin, makes new the corrupted descendants of Adam, abolishes the middle wall and rampart of enmity in his flesh and by coming forth from an immaculate Mother makes the curse of the Foremother a blessing."
+
+meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereothitoIKardiaMou.text
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C11.text = "Banish from my barren mind all unfruitfulness, and make my soul fruitful with virtues, All-holy Mother of God, the help of the faithful."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C12.text = "Deliver me from every condemnation and the many stumbling blocks of the serpent, the everliving fire and the darkness, O All-blameless, who bore for us the Light that knows no evening."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C13.text = "I greatly fear the inexorable tribunal, that unquenchable fire and the dread sentence, pure, loving Lady. Hasten, save your servant before the end."
+
+meMA.Ode3C14.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C14.text = "Blessed is the fruit of your womb, Virgin all-praised, for he has made incorruptible through the tree of his Cross those corrupted by a fruit, and established them as partakers in divine grace."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C21.text = "Without being called, with thirst you hurried forward, Andrew, of your own volition to the source of life, like a hart; and having found it you proclaimed it to all, and having drunk you watered with the streams of incorruption the ends of the earth, that were fainting from thirst."
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C22.text = "You acknowledged the bonds of nature, noble Andrew, and took your brother as companion, crying out: We have found the one so longed for. And when he made his way you explained to him the birth of the flesh and the knowledge of the spirit."
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C23.text = "With the net of the word you netted the rational fish from the deep of deception, Apostle, and brought them to the table of Christ as a pure delicacy, resplendent with the grace of him who appeared in the likeness of flesh."
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C2T.text = "When you conceived God in your womb, O Virgin, through the All-holy Spirit, you remained unburned; since to Moses the lawgiver the bush which flamed unconsumed had clearly foretold you, as the one who had received the unbearable fire."
+
+meMA.Ode3C31.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C31.text = "When the Word called, ‘Come after me’, Kephas too with Andrew followed Christ at once, and like arrows of faith they left their father and the boat and the nets."
+
+meMA.Ode3C32.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C32.text = "O all-revered, you transformed the shrines of idols into temples of God, consecrating in them children of baptism, whom grace renewed through water by the Spirit."
+
+meMA.Ode3C33.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C33.text = "Mystically you found beforehand for the world the pearl of great price, hidden in the field of your heart, Apostle, which once the nations found it they treasured it by the faith."
+
+meMA.Ode3C34.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C34.text = "Having taken the Gospel in your hands like a treasure, O all-praised, you enriched the whole earth with the inspired proclamation; and so it honours your memorials with your struggles."
+
+meMA.Ode3C3Tr.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C3Tr.text = "Let us all praise with orthodox belief the one power in Trinity, as we sing the praise of God without beginning, uncreated, consubstantial, equal in throne, three-personned triple sun."
+
+meMA.Ode3C3T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereothitoIKardiaMou.name
+meMA.Ode3C3T.text = "Every mother who bears a child can no longer remain virgin; but you gave birth to Christ and appeared as Virgin Mother, suckling our life, and remaining ever pure."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.text = "As First-called of all the Disciples, eye-witness and minister of the Word, we honour you as is fitting, Apostle Andrew; for you fervently followed with unwavering love the Lamb who takes away the offences of the world; therefore you were revealed as a partaker in the passion of him who willingly underwent death in the flesh. And so we cry to you: Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
+
+meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.text = "You threw down the insolence of the idols; you longed for the sufferings of the Saviour, blessed Andrew, and you were declared to be an Apostle, a source for all of wonders from heaven; and you became, all-blessed, a Teacher of nations; therefore as we fittingly honour your memory, we give you glory in hymns and faithfully magnify you, Apostle of the Lord. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3KathismaT.text = "Hail, throne of God, formed of fire. Hail, Maiden, royal seat, couch strewn with purple and gold, and purple bridal chamber, cloak of sea purple dye, most costly sanctuary, lightning-bearing chariot, lampstand of many lights. Hail, Mother of God, twelve-walled city, gate of beaten gold, beauteous inner chamber, fair gilded table, tabernacle adorned by God. Hail, glorious Bride, bedecked with the sun. Hail, only loveliness of my soul."
+
+meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.text = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.text
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C11.text = "All-holy Virgin, spotless tabernacle, purify me now, who am defiled by sin, with the most pure drops of your mercies, and give me a hand of help, that I may cry, ‘Glory to you, pure Virgin glorified by God’."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C12.text = "You were revealed as the hallowed Temple of God, who, beyond understanding, dwelt in you, O Virgin; entreat him to cleanse us from the stain of sins, that we may be recognised as house and dwelling of the Spirit."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C13.text = "Have mercy on me, Mother of God, who alone gave birth to the source of mercy, and loose the dread sickness of my soul and the hardness of my heart, granting me before the end streams of tears and divine compunction by your intercessions."
+
+meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C14.text = "Perceiving by the Spirit of God, the Prophet depicted you beforehand, Pure Virgin, as a shaded Mountain, for you cleanse by your mediations those who are wasted by the fever of offences, only righting of mortals."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C21.text = "The divine power of the all-creating and radiant Spirit, which utterly consumes what is worse, dwelt in you, Andrew, in a manner fitting God, in the form of a tongue of fire, and revealed you as Herald of ineffable mysteries."
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C22.text = "All-honoured Andrew did not take up weapons of flesh for the destruction of the dread strongholds of the foe, but shielding himself with Christ he took prisoner and brought him subject nations."
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C23.text = "All-blessed Andrew, from the unfailing gift of your Teacher Christ do not cease by your prayers to fill with waters of spiritual joy those who with longing celebrate your memory in songs."
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C2T.text = "We hymn your great and fearful mystery; for unknown to the leaders of the hosts above the world the One Who Is came down upon you, O all-praised, like rain upon a fleece, for our salvation and refashioning."
+
+meMA.Ode4C31.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C31.text = "Leaving your nets and taking up the Cross, you ran to follow Christ who called you; and spreading the seine net of the Spirit, you netted men instead of fish. Glory to the Spirit which was given you."
+
+meMA.Ode4C32.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C32.text = "Having received the flame of the Spirit by a tongue, Apostle, you became a man possessed by God, traversing the beauties of the heavenly places and learning thoroughly the spiritual realities in them, and revealing these beauties to us."
+
+meMA.Ode4C33.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C33.text = "Wise Apostle, you watered the thirsty desert with your inspired words, and showed it to be mother of many offspring, the children of the Church, who bear the fruit of the seed of your preaching. Glory to the Spirit which was given you."
+
+meMA.Ode4C34.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C34.text = "Andrew, seeing your beauty, Jesus, before him, radiantly called to his brother: My brother Peter, we have found the Messias, the one proclaimed beforehand in the Law and the Prophets; come let us cling fast to the true life."
+
+meMA.Ode4C3Tr.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C3Tr.text = "Let us believers praise a Trinity in Unity, in one Godhead, Father, Son and Divine Spirit, one essence and nature, without division, without separation, without partition; for God is one in a Trinity of Persons."
+
+meMA.Ode4C3T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
+meMA.Ode4C3T.text = "You conceived ineffably one of the Trinity in your womb and gave birth to a Son without corruption; and the Trinity in no way received an addition, while your purity, Mother of God, remained as it had been before child birth."
+
+meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.text = he.h.m1_en_UK_lash.TinSinEirinin.text
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C11.text = "Open the eyes of my heart, Pure Virgin, that I may clearly see your divine splendour and your inexpressible glory, that I may obtain mercy and eternal glory."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C12.text = "All-immaculate, you gave birth to one of the holy Trinity, with two wills but one substance; implore him fervently that we may all be saved."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C13.text = "As you gave birth, All-immaculate, to the Saviour and God, intercede that I, your unprofitable servant, may be kept safe from every tribulation, from diseases and evil."
+
+meMA.Ode5C14.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C14.text = "O Virgin, entreat the one whom you bore beyond understanding that they may be saved who cry to you with faith: Hail, Virgin all-blameless, only blessed protection of the world."
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C21.text = "You have received the one for whom you longed, Apostle Andrew, and you take your rest with him in imperishable tabernacles, having worthily reaped the sheaves of your toils; therefore in hymns we glorify you."
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C22.text = "You longed for the Master, and you pursued him, guided by his footsteps, and truly imitating his sufferings, most honoured Andrew, unto death."
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C23.text = "Having stretched you like a powerful arrow the Lord unleashed you at the whole world, wounding demons and curing those wounded by impiety."
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C2T.text = "The powers of heaven are glad as they see you, the companies of mortals rejoice with them; for by your child bearing, Virgin Mother of God, they have been made one, as they fittingly glorify you."
+
+meMA.Ode5C31.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatavgasonImon.name
+meMA.Ode5C31.text = "Longing for the Cross of Christ, Disciple, you gained by your cross the unsullied kingdom, which he who by a cross had drawn all God’s initiates, will give as their inheritance to you his divines."
+
+meMA.Ode5C32.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatavgasonImon.name
+meMA.Ode5C32.text = "You sought for Christ, the true life, and having sought you were the first to find; and having found it mystically you grasped it and received it in him who gave it, and you have become a treasury of life perpetual."
+
+meMA.Ode5C33.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatavgasonImon.name
+meMA.Ode5C33.text = "The words of your thunders have re-echoed in the world, and gone from extremity to extremity of the earth; for like a wheel your lightnings encircled it and appeared to the inhabited world, as David says."
+
+meMA.Ode5C34.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatavgasonImon.name
+meMA.Ode5C34.text = "Disciple of Christ, remember us, who celebrate your memory and honour your relics; ever entreat fervently for the flock, whose guard and salvation you have been from the beginning."
+
+meMA.Ode5C3Tr.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatavgasonImon.name
+meMA.Ode5C3Tr.text = "Let us believers with one accord glorify Father, Son and Divine Spirit, undivided Trinity, Three-personned Kingship, as we faithfully sing its praise with unceasing songs of contemplation."
+
+meMA.Ode5C3T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.KatavgasonImon.name
+meMA.Ode5C3T.text = "You gave birth to the Light, not knowing how, O lampstand all light, lamp bearer of the Sun, and you have become a new vessel of immaterial light, pouring on all the earth rays of the knowledge of God."
+
+meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinIonan.text
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C11.text = "Befouled by many sins, I beseech you, the truly good and undefiled Tabernacle, wash me clean of every kind of stain by your mediation."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C12.text = "Be my pilot, who am ever storm-tossed on an ocean of the dread trials of life; and save me, directing me to an roadstead of salvation."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C13.text = "Waves of thoughts, assaults of passions and a deep of sins drive my wretched soul before the storm; help me, holy Lady."
+
+meMA.Ode6C14.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C14.text = "Christ has ever done great things for you; ever implore him to magnify his rich mercies upon me, O graced by God."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkyklosenImas.name
+meMA.Ode6C21.text = "As you crossed the sea of life in the boat of the body, O all-blessed, you found Christ, who governs all things, as your helmsman, and, blessed Andrew, you were borne rejoicing towards him."
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkyklosenImas.name
+meMA.Ode6C22.text = "Spirits are banished by the word, diseases take to flight and the swarm of sufferings of the soul are driven far from the diseased by the grace, Andrew, that has been given you from God."
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkyklosenImas.name
+meMA.Ode6C23.text = "Like a smooth wave, moved by a gentle spirit, blessed Saint, you dried up evil seas of polytheism by divine breezes, and poured out for all rivers of knowledge of God."
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkyklosenImas.name
+meMA.Ode6C2T.text = "The Ancestors of the race rejoice in you, immaculate Virgin, having received through you once more the Eden they had lost through transgression; for you are pure both before childbirth and after giving birth."
+
+meMA.Ode6C31.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C31.text = "He who comes from Bethsaida calls us together today to celebrate his festival, having set before us the trophies of his combats."
+
+meMA.Ode6C32.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C32.text = "The fisherman by craft and disciple by faith, he scans the hearts of the faithful like the deep, lets down the fish hook of the word and catches us in his net."
+
+meMA.Ode6C33.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C33.text = "Bearing in your heart the fire of the love of Christ, Disciple, you cried out to the nations: You flame has been truly quenched, now that Christ has appeared."
+
+meMA.Ode6C34.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C34.text = "Seasoned in mind with the salt of Christ, you sweetened your relishes for us, the doctrines of heavenly and pure delight."
+
+meMA.Ode6C3Tr.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C3Tr.text = "Let us believers worship the Father, the Son and the right Spirit, three-personned nature, undivided, as we cry aloud: Glory to God in Trinity."
+
+meMA.Ode6C3T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C3T.text = "By the Father’s good pleasure the Son became incarnate through the Spirit of God in your womb, pure Mother of God, and saved the former image."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode6
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TinEnPresveiais.name
+meMA.Kontakion1.text = "Let us sing the praise of God’s herald, whose name is ‘courage’, the First-called of the Saviour’s disciples, the brother of Peter; because, as to him of old, so now to us he cries, ‘Come, we have found the one so longed for’."
+
+meMA.Oikos1.text = "From on high David rouses a sinner like me to recount with blessing the statutes of God; nevertheless again he teaches in accord with faith, and with many tears declares, ‘Today if you should hear his voice, harden not your hearts, as Israel once embittered him’. He proposes then in the Psalm which follows, ‘Sing to the Lord all the earth’. Come, we have found the one so longed for."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.text = he.h.m1_en_UK_lash.TousEnKaminoPaidas.text
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C11.text = "Pure and Immaculate, ever sanctify the defiled soul of your servant, and swiftly abolish dread imprisonments of the mind, hardness of heart and assaults of the demons."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C12.text = "Give life to my mind, slain by the passions of the flesh, All-blameless, and strengthen me to accomplish things pleasing to God; that I may magnify you, that I may ever glorify your goodness."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C13.text = "Slay the passions of my flesh, pure Lady, and wiping away the foul stain of my base soul, O Virgin, deliver me from the audit of the invisible foes, and save me."
+
+meMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C14.text = "All-holy, immaculate and pure, your servants ever fall before you day and night with broken mind, as they implore that at your entreaties they may find ransom from sins."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C21.text = "Your certain promise has been manifestly fulfilled, O Christ, for your pupil, inspired by God, rebuking the rolling swell with a word, changed it to a joyful calm, as he sang, ‘God is praised and highly glorified’."
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C22.text = "Ordered to ascend to the spiritual mount of Sion, Apostle, and taking with joy the cup of salvation, ferried through death you went towards divine life, where Christ is, God of all and highly glorified."
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C23.text = "Born naturally of earth, Apostle, you work wonders above nature; for close knit through love to Christ, you followed him who loved you, as you sang, ‘God is praised and highly glorified’."
+
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C2T.text = "Hail, pure Virgin, Adam’s fleece, from which came forth the Shepherd, when he, the highly glorified, had truly put on humanity entire, having refashioned me in your womb, he the God of the Fathers, praised and highly glorified."
+
+meMA.Ode7C31.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C31.text = "Having breathed in the fire of the all-holy Spirit from above, Apostle of Christ, with new tongues, you were in no way consumed by them, but were commanded to declare his mighty works to the ends of the earth."
+
+meMA.Ode7C32.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C32.text = "Initiates of Christ, contemplators of things above, the proclamation that you trumpeted to the earth astounds every thought; because, while only twelve, you illumined earth’s many thousands."
+
+meMA.Ode7C33.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C33.text = "Your grace, O Master Christ, was regarded as a wonder in your Disciples, wise in God; because though of small account and common they hastened through all the earth, from one extremity to the other."
+
+meMA.Ode7C34.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C34.text = "What taught you to speak thus, Apostle? What enlightened your mind to see clearly the beam of the unapproachable glory, which pours the light of truth into our hearts?"
+
+meMA.Ode7C3Tr.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C3Tr.text = "Let us believers sing hymns of the Trinity as we glorify Father without beginning, Son and right Spirit, one single being; let us praise it with triple song: Holy, holy, holy are you, to the ages. Amen."
+
+meMA.Ode7C3T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C3T.text = "We glorify you, O Christ, as one of the Trinity; because incarnate of a Virgin, without change you endured all things as man and were not parted from your Father’s nature, Jesus, even when you had been made one with us."
+
+meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.text = he.h.m1_en_UK_lash.OnFrittousinAngeloi.text
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OnFrittousinAngeloi.name
+meMA.Ode8C11.text = "He who is without flesh took flesh from you in a manner fitting God; beseech him, O all-pure, to put to death the passions of my soul and give life to it, that was slain of old by most evil sin."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OnFrittousinAngeloi.name
+meMA.Ode8C12.text = "By bearing God the Saviour, O all immaculate, you cured the wound of Adam formed from dust; implore him to heal the incurable bruises of my sick soul"
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OnFrittousinAngeloi.name
+meMA.Ode8C13.text = "Raise me up as I lie in the depths of evils; war against the enemies who now war against me; do not, pure Lady, despise one wounded in soul by unseemly pleasures, but take pity and save me."
+
+meMA.Ode8C14.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OnFrittousinAngeloi.name
+meMA.Ode8C14.text = "Heal the passions of my heart, O Immaculate, who bore the Physician of us all; and make me a partaker of the portion of the Just, O Virgin, as you intercede with Christ."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C21.text = "Andrew, Apostle of Christ, your godly memorial, bearing light and gladness has now shed its rays of healings on us, as we cry out, ‘All you works of the Lord, praise the Lord, and highly exalt him to all the ages’."
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C22.text = meMA.Ode8C24.text //missing, so this substitue
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C23.text = "The breath of God’s Spirit from on high set you aflame and made you a fervent Orator to speak of God, Apostle, as you cried out, ‘All you works of the Lord, praise the Lord, and highly exalt him to all the ages’."
+
+meMA.Ode8C24.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C24.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C24.text = "Like lightning darting its rays, you went forth as light for the nations, dispelling the darkness of ignorance and illumining believers as they cried, ‘Bless the Lord all you works of the Lord, praise, and highly exalt him to all the ages’."
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C2T.text = "Let us all sing the praise of her who bore without seed and beyond nature from the divine lightning the pearl of great price, Christ, as we cry out, ‘All you works of the Lord, praise the Lord, and highly exalt him to all the ages.’"
+
+meMA.Ode8C31.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSinaTinVaton.name
+meMA.Ode8C31.text = "By the skill of the fisherman, O all-wise, you caught fish from the sea; while now by the faith you net humans for Christ from the error of the foe; for error was once a deep, drowning the nations in the tempest of ignorance."
+
+meMA.Ode8C32.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSinaTinVaton.name
+meMA.Ode8C32.text = "You sailed the spiritual deep of life unwashed by waves, Apostle, spreading the sail of the Spirit by the faith of Christ; and so rejoicing you attained the harbour of life for all the ages."
+
+meMA.Ode8C33.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSinaTinVaton.name
+meMA.Ode8C33.text = "When the spiritual Sun had set upon the Tree by the counsel of his own free will, the beacon of the sun, Andrew the great lamp of the Church, seeking to be dissolved with him and to set into Christ, was hanged upon the tree of a cross."
+
+meMA.Ode8C34.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSinaTinVaton.name
+meMA.Ode8C34.text = "O disciple and friend of Christ, and fellow of his Apostles, when the Judge is seated upon his throne with you, the Twelve, to judge, as the promise says, then be for us a wall of lovingkindness."
+
+meMA.Ode8C3Tr.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSinaTinVaton.name
+meMA.Ode8C3Tr.text = "Let us glorify the Unity of triple light and Trinity of equal throne, not separating, but uniting it harmoniously as truly one united being in three persons, yet not confounded."
+
+meMA.Ode8C3T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSinaTinVaton.name
+meMA.Ode8C3T.text = "You conceived one of the Trinity and gave birth to him incarnate of you, as he formed anew the laws of nature by your child-bearing, pure Virgin. Do not ever cease, Mother of God, to intercede with him as God on our behalf."
+
+meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TinFotoforonNefelin.text
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C11.text = "A lover of sin, I live in indifference, pure Bride of God, and I tremble at the impartial tribunal, at which keep me uncondemned by your holy entreaties, that as my protectress I may ever call you blessed."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C12.text = "I quake before the judgement seat, pure Virgin, and the infallible eye of your Son, for I have accomplished shameful deeds upon earth, and therefore I cry out to you, ‘Most compassionate Lady, help me, snatch me from then from my straits, and save me’."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C13.text = "How fearful, O Maiden, is the day of the trial! How dread the sentence! How terrible the shame! Who then will stand? All-immaculate, pure Lady, have mercy on my wretched soul and grant me forgiveness before the end."
+
+meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C14.text = "You gave birth to the divine light, O All-blameless, enlighten me, who am darkened by all the assaults of the evil one and all his malice, and who have angered God; guide me to good works, as you are the cause of all good that is good."
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C21.text = "Like an outstanding pupil, of your own will you became familiar with the cross, following your Master unto death, and you ascended the height of the cross rejoicing, as you journeyed on the path to heaven, blessed Apostle."
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C22.text = "The gate of Eden was opened for you, a heavenly ladder was set up, the tabernacles of heaven received you and you took your stand rejoicing before Christ the giver of life, Apostle, best intercessor for the world."
+
+meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C23.text = "Blessed, all-wise Andrew, you were glorified by sufferings equalling those of the Teacher; for you achieved your godlike end through a cross, and were called God by participation; and so we beseech you: ever intercede on our behalf."
+
+meMA.Ode9C24.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C24.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C24.text = "Hail noble pair, who have now attained the citizenry in heaven; may you watch over the conduct of those who sing your praise, and make resplendent with the radiance of your divine gifts of grace their conquering power."
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C2T.text = "You sprang from the prophetic root of David, ancestor of God, O Virgin; but also glorified David by giving birth to the Lord of glory, whom he prophesied; him as is fitting we magnify."
+
+meMA.Ode9C31.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C31.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C31.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C31.text = "Having spread the net of mystic contemplation, and in it caught like fish the beauties of heavenly thoughts, Holy Apostle, implore the Holy Trinity to be for us too a source of pardon."
+
+meMA.Ode9C32.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C32.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C32.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C32.text = "We nations, enlightened through you, and through you raised from earth to heaven, give thanks; for having abandoned the cult of the foe, we have become companions of the Angels and fellows of the Lord of glory."
+
+meMA.Ode9C33.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C33.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C33.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C33.text = "Eye-witnesses of ineffable mysteries and servants of the Word, mystagogues and contemplators of things unsearchable, intercede, Apostles, that we too may become fellow heirs of Christ’s kingdom and sharers in his Godhead."
+
+meMA.Ode9C34.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C34.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C34.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C34.text = "Having received from Christ authority to bind and loose, loose us all from the bonds of many offences, because Christ will come and all you Twelve will sit on as many thrones to judge all the tribes of Israel."
+
+meMA.Ode9C3Tr.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C3Tr.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C3Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C3Tr.text = "Let us glorify the Nature in three persons and the inseparable glory, the undivided Trinity, hymned unceasingly in one Godhead in heaven and on earth, as we devoutly worship the Father and Spirit with the Son."
+
+meMA.Ode9C3T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C3T.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C3T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C3T.text = "Virgin, Mother of God, intercede that those who with faith take refuge under your compassion and devoutly worship your Son as God of the world and Lord may be rescued from dangers and trials of every kind."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.text = "The Word without beginning having found you, O all-blessed, declared you the First-called of all the Apostles, revered Andrew; and following in his footsteps you were revealed as guide of those who had gone astray, bringing up the divine path to heaven."
+
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+meMA.Exaposteilarion2.text = "Let us give glorious praise to Peter’s brother, the first-called of the Disciples, who became an eye-witness and servant of the Word, the Apostle Andrew; for he enlightened the nations, and was crucified, dying like a Disciple of the Master."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.text = "All-blameless Virgin, implore God, to whom you gave birth, for all who devoutly honour you, with the glorious Apostle, to obtain the divine radiance of your Son and the place of the elect and of the Saints; for you have strength to do whatever you wish."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode1
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds1.text = "Bethsaida now be glad; for in you there flowered from a mystic pool two sweet scented lilies, Peter and Andrew, who spread the fragrant proclamation of the faith to the whole world by the grace of Christ, whose sufferings too they imitated."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode1
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds2.text = "Andrew rejoice and leap for joy, because in the radiance of the Word you clearly received the Sun of glory, Christ the giver of life, whom you held fast and by the faith proclaimed; implore him without ceasing on behalf of us who sing your praise with faith."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode1
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds3.text = "Chosen initiate of the divine dispensation of Christ, chosen first of all to be a disciple of the Word, Andrew who saw God cried out and said, when he saw his brother Peter, ‘We have found the Messias whom the Scripture and Prophets proclaimed of old’."
+
+meMA.Lauds4.mode = misc_en_UK_lash.Mode1
+meMA.Lauds4.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds4.text = "The city of Patras has gained you as Shepherd and divine defender, deliverer from dangers of every kind and guardian, wise Andrew, as with thanksgiving it honours you. But implore without ceasing that it may be preserved unharmed."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = meVE.LityGlory.text
+
+meMA.LaudsBoth.mode = misc_en_UK_lash.Mode8
+meMA.LaudsBoth.melody = ""
+meMA.LaudsBoth.text = "Bethlehem receive the Mother City of God; for she has come to give birth in you to the unwaning light. You Angels, marvel in heaven; mankind give glory upon earth, Magi from Persia bring your triple glorious gift, Shepherds abiding in the fields sing the thrice-holy hymn. Let everything that has breath praise the Maker of all."
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = //me.m12.d20_en_UK_lash.meMA.Kontakion1.mode
+meLI.SeasonalKontakion.melody = //me.m12.d20_en_UK_lash.meMA.Kontakion1.melody
+meLI.SeasonalKontakion.text = //me.m12.d20_en_UK_lash.meMA.Kontakion1.text
+
+meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+meMegalynarion.text = ""
+

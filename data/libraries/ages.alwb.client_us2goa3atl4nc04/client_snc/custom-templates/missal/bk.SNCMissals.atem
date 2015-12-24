@@ -1,0 +1,71 @@
+Template bk.SNCMissals 
+
+	import client_gr_GR_cog.*
+	import ho.s07_gr_GR_cog.*
+	import missal_gr_GR_cog.*
+
+	import da.*
+	import me.*
+	import tr.*
+
+	import actors_gr_GR_cog.*
+	import dismissals_gr_GR_cog.*
+	import misc_gr_GR_cog.*
+	import prayers_gr_GR_cog.*
+	import rubrical_gr_GR_cog.*
+	import template.titles_gr_GR_cog.*
+	import titles_gr_GR_cog.*
+		
+	import iTags.*
+	import bTags.*
+	import roles.*
+
+	Head
+		Set_Date month 8 day 30 year 2015 End_Date
+	End_Head	
+
+		Para role missaltitle ldp @Service_Date End-Para
+		Para role missaltitle rid meCommemoration.text End-Para
+		Break line End_Break
+		Para role missaltitle sid Antiphon1.title<Tnumright>sid Antiphon1.pagenumber</>End-Para
+		Hymn sid hoLI.Antiphon1.text @ver media-off End-Hymn
+		Para role missaltitle sid Antiphon2.title<Tnumright>sid Antiphon2.pagenumber</>End-Para
+		Insert_section Selector_SundayLiturgyAntiphon2.Section01 End-Insert
+		Para role missaltitle sid Antiphon3.title<Tnumright>sid Antiphon3.pagenumber</>End-Para
+		Insert_section Selector_SundayLiturgyAntiphon3._02_hymn_no_title End-Insert
+		Para role missaltitle sid SmallEntrance.title<Tnumright>sid SmallEntrance.pagenumber</>End-Para
+		Insert_section Selector_Eisodikon.eisodikon_complete End-Insert
+		Insert_section Selector_Sunday_Liturgy_Parts.hymns End-Insert
+		Para role missaltitle sid Trisagion.title<Tnumright>sid Trisagion.pagenumber</>End-Para
+		Insert_section Selector_Sunday_Liturgy_Parts.trisagion End-Insert
+		Para role missaltitle sid Readings.title<Tnumright>sid Readings.pagenumber</>End-Para
+Break line End_Break
+		Insert_section Liturgy_Epistle.Epistle_Info End-Insert
+		Insert_section LectionaryEpistleText.Epistle_Text End-Insert
+Break line End_Break
+//		Insert_section Liturgy_Epistle_Menaion.Epistle_Info End-Insert
+//		Insert_section Liturgy_Epistle_Menaion.Epistle_Lesson End-Insert
+Break line End_Break
+		Insert_section Liturgy_Gospel.Gospel_Info End-Insert
+		Insert_section LectionaryGospelText.Gospel_Text End-Insert
+Break line End_Break
+//		Insert_section Liturgy_Gospel_Menaion.Gospel_Info End-Insert
+//		Insert_section Liturgy_Gospel_Menaion.Gospel_Lesson End-Insert
+Break line End_Break
+		Para role missaltitle sid GreatEntrance.title<Tnumright>sid GreatEntrance.pagenumber</>End-Para
+		Para role missaltitle sid Creed.title<Tnumright>sid Creed.pagenumber</>End-Para
+		Para role missaltitle sid Theotokos.title<Tnumright>sid Theotokos.pagenumber</>End-Para
+		Insert_section Selector_Liturgy_Theotokos.hymn End-Insert
+		Para role missaltitle sid LordsPrayer.title<Tnumright>sid LordsPrayer.pagenumber</>End-Para
+		Para role missaltitle sid CommunionPrayers.title<Tnumright>sid CommunionPrayers.pagenumber</>End-Para
+		Rubric sid CommunionPrayers.rubric End-Rubric
+		Para role missaltitle sid CommunionHymn.title<Tnumright>sid CommunionHymn.pagenumber</>End-Para
+		Insert_section Selector_Liturgy_CommunionHymn.hymn End-Insert
+		Para role missaltitle sid HolyCommunion.title End-Para
+		Rubric sid HolyCommunion.rubric End-Rubric
+		Rubric sid Thanksgiving.rubric End-Rubric
+		Para role missaltitle sid AfterCommunion.title<Tnumright>sid AfterCommunion.pagenumber</>End-Para
+		Insert_section Selector_Liturgy_After_Communion.hymn End-Insert
+		Para role missaltitle sid Dismissal.title<Tnumright>sid Dismissal.pagenumber</>End-Para
+	
+End-Template

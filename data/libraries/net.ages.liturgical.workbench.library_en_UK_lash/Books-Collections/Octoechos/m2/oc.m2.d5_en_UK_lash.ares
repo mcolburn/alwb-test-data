@@ -1,0 +1,486 @@
+A_Resource_Whose_Name = oc.m2.d5_en_UK_lash
+
+ocVE.Stichera1.mode = misc_en_UK_lash.Mode2
+ocVE.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.Stichera1.text = "When the Word had appeared upon earth, godly Apostles, you were seen like trumpets, you made his salvation manifest to all and you gathered peoples to the inspired Faith, laying waste the fortresses of error. Therefore, blessed ones, you have worthily received the honours and crowns of victory."
+
+ocVE.Stichera2.mode = misc_en_UK_lash.Mode2
+ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.Stichera2.text = "Companies of Angels, truly rejoicing, clapped their hands on high as they saw the sacred Disciples proclaiming with boldness the incarnation of the Lord and crying out to all, ‘This is our God, who is before the ages; he has willingly taken flesh, yet he is enthroned with the Father and equal in honour with the Spirit’."
+
+ocVE.Stichera3.mode = misc_en_UK_lash.Mode2
+ocVE.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.Stichera3.text = "Fishermen of the inhabited world, speedily rescue my soul, caught on the hook by the devices of the foe, and save me now, who am in despair, giving me strength, godly Apostles, to bear fruits of repentance, so that I may not experience the fire of hell, but be found worthy of the Kingdom of heaven."
+
+ocVE.Stichera4.mode = misc_en_UK_lash.Mode2
+ocVE.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.Stichera4.text = "Surrounded by a multitude of temptations, hemmed in by the waves of life, drowning in a swell of troubles and tossed about by griefs, I place all my hope in you, Father Nicolas; grant me deliverance from all perils by your prayers, blessed Saint, by your entreaties to your Master."
+
+ocVE.Stichera5.mode = misc_en_UK_lash.Mode2
+ocVE.Stichera5.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.Stichera5.text = "A dark cloud of despair and a fog of misery now hide me, affliction on affliction troubles me, while fear of dangers seizes me. I beg you, save me, blessed of God, for I name you my defender, and send me your help, Father, as I call on you."
+
+ocVE.Stichera6.mode = misc_en_UK_lash.Mode2
+ocVE.Stichera6.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.Stichera6.text = "Having received grace from God, you give healings to all who have recourse to you beneath your protection, holy Nicolas. For you put to flight the incurable passions of the demons, while by your intercession you heal all. Therefore we also beseech you, intercede with the Lord that those who sing your praise may be rescued from harm."
+
+ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode2
+ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.SticTheotokion.text = "You are the whole strength of our life and our refuge, Immaculate Mother. You are the assistance of all who sing your praise. May those who boast against your servants not count on your protection; for you have been given as protection towards God. Therefore, Sovereign Lady, do not disdain to save your servants."
+
+ocVE.Aposticha1.mode = misc_en_UK_lash.Mode2
+ocVE.Aposticha1.melody = ""
+ocVE.Aposticha1.text = "You have magnified the names of the Princes of the Apostles in the inhabited world, O Saviour. They learned the ineffable mysteries of heaven, they gave healings to those on earth, and their shadows alone cured the passions. The one who was a fisherman worked wonders; the one who was a Jew taught the doctrines of grace. Through them, O Compassionate, grant us your great mercy."
+
+ocVE.Aposticha2.mode = misc_en_UK_lash.Mode2
+ocVE.Aposticha2.melody = ""
+ocVE.Aposticha2.text = "We who are warred upon from every side and take refuge in you, who alone are truly God, offer you the words of your Disciples as we say, ‘Save us, Teacher, we are perishing’. Show now also to our enemies, we beg, that you protect your people and, at the intercession of the Apostles, save them from dangers, overlooking their sins through your great goodness. Lord, glory to you."
+
+ocVE.Aposticha3.mode = misc_en_UK_lash.Mode2
+ocVE.Aposticha3.melody = ""
+ocVE.Aposticha3.text = "Great the glory that you gained through faith, O Saints! For not only did you defeat the foe when you suffered, but after death also you drive out spirits; you heal the infirm, O physicians of souls and bodies. Intercede with the Lord to have mercy on our souls."
+
+ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode2
+ocVE.AposTheotokion.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.AposTheotokion.text = "All those, loving Virgin, you protect, * with your mighty hand, who in faith come * to seek refuge with you; * for we sinners, bowed beneath the weight of many faults, * have no other who in our dangers and our afflictions * is ever-present intercessor before God, * Mother of God, the Most High, * whence we fall before you, ‘Deliver * all your servants in every predicament’." //You protect all those who with faith take refuge in your mighty hand, loving Lady; for we sinners, bowed down by many faults, have no other constant mediation but you before God in dangers and afflictions, Mother of God most high. Therefore we fall down before you, ‘Deliver your servants from every disaster’.
+
+ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode2
+ocVE.ApolTheotokionVM.melody = ""
+ocVE.ApolTheotokionVM.text = oc.m2.d5_en_UK_lash.ocMA.Kathisma13.text
+
+ocMA.Kathisma11.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma11.melody = ""
+ocMA.Kathisma11.text = "Christ God, who with ineffable love mankind made the Fishermen wiser than the learned and sent them out as heralds to all the earth, through them strengthen your Church and send down upon the faithful your blessing, as you alone are merciful and love mankind."
+
+ocMA.Kathisma12.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma12.melody = ""
+ocMA.Kathisma12.text = "Christ God, the Fishermen caught the nations in their net and taught the ends of the earth to worship you with the Father and the Spirit, through them establish the Faith inspired by God and send down upon the peoples your mercies, who alone rest among the Saints."
+
+ocMA.Kathisma13.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma13.melody = ""
+ocMA.Kathisma13.text = "We have become partakers in divine nature through you, Ever-virgin; for your gave birth to God incarnate for our sake; and so, as is fitting, we all devoutly magnify you."
+
+ocMA.Kathisma21.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.EfsplagchniasYparchousa.name
+ocMA.Kathisma21.text = "God, who became poor by compassion, sent you out wealthy into the world, showing by your poverty the heavenly wealth of their preaching. Made wealthy through them with the Faith inspired by God we devoutly sing the praise, Apostles, of your memory."
+
+ocMA.Kathisma22.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.EfsplagchniasYparchousa.name
+ocMA.Kathisma22.text = "As Disciples and eyewitnesses of the Wisdom of God, the godly Apostles poured scorn on the unwise wisdom of the wise and the learned, making the nations wise by the simplicity of their preaching to sing the praise with right belief of the Creator and only Lord."
+
+ocMA.Kathisma23.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma23.melody = ""
+ocMA.Kathisma23.text = "You are the helper of those in affliction, Bearer of God, and the defender of those under constraints, granting hope to the despairing, cleansing the diseases of the incurable, all-praised Mother of God; and so intercede for us to the Lord."
+
+ocMA.Kathisma31.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisTonAimatonSou.name
+ocMA.Kathisma31.text = "With the beams of your wonders, Nicolas, you make the whole expanse of the earth radiant, you dispel the gloom of afflictions and drive off the assault of dangers, for you are a most fervent protector."
+
+ocMA.Kathisma32.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma32.melody = ""
+ocMA.Kathisma32.text = "Apostles, Martyrs, Prophets and Hierarchs, Holy and Righteous Ones, having nobly completed the struggle and kept the Faith, as you have boldness towards the Saviour, we beseech you intercede for us with him, as he is good, that our souls may be saved."
+
+ocMA.Kathisma33.mode = misc_en_UK_lash.Mode2
+ocMA.Kathisma33.melody = ""
+ocMA.Kathisma33.text = "Immaculate Virgin, who alone bore God without seed and remained pure after your awesome child-bearing, I fall down before you crying with fear and faith: Save me from passions and diseases and from every constraint."
+
+ocMA.C2Acrostic.text = "of which the Acrostic is: I sing you, Nicolas, a godly song."
+
+ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.text = he.h.m2_en_UK_lash.EnVythoKatestrose.text
+
+ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C11.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C11.text = "By faith becoming lighting ashes of the divine light, radiant Apostles of the Saviour, illumine me wholly, who am darkened by the blackness of pleasures, and pass my whole life in indifference."
+
+ocMA.OdeW1C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C12.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C12.text = "Disciples and friends of Christ, rescue me from the Enemy, whose friend I have become through my propensity for evils, by rousing my soul to the love of the One who has become the friend of the race of mortals through his loving kindness."
+
+ocMA.OdeW1C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C13.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C13.text = "My base soul, before you die, hurry, repent and grieve for yourself who have been slain, so that the One who in his compassion raised up Lazarus after four days may raise you also at the pleadings of the Apostles."
+
+ocMA.OdeW1C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C1T.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C1T.text = "All-pure, All-blameless, who bore the God of blessings who makes all those held fast by corruption good, implore him with the Prophets, Martyrs and Apostles that all may be rescued from transgression."
+
+ocMA.OdeW1C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C21.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C21.text = "Standing at Christ’s tribunal, all-wise Nicolas, with the hosts of Angels, wearing a crown of victory, grant me illumination to enlighten the darkness of my soul, that with joy I may praise your memorial, O All-blessed."
+
+ocMA.OdeW1C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C22.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C22.text = "The Lord who glorifies all who glorify him has given you as a refuge for the faithful, delivering from temptations those who have recourse to your protection, Nicolas All-revered, and who call on you with faith and love."
+
+ocMA.OdeW1C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW1C2T.ode = misc_en_UK_lash.Ode1
+ocMA.OdeW1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
+ocMA.OdeW1C2T.text = "The all wicked serpent by planting in me the longing to be made equal with the Creator took me prisoner. Through you, O All-pure, I have been recalled and most truly made divine, for you, God’s Mother, gave birth to the One who deified me."
+
+ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.text = he.h.m2_en_UK_lash.ExinthisenIErimos.text
+
+ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C11.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C11.text = "Glorious and worthy Apostles who saw God, having gained by the Spirit the Wisdom of the Father as your Teacher you made the wisdom of the Greeks insipid."
+
+ocMA.OdeW3C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C12.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C12.text = "Abolish the barrenness of my soul, All-praised Apostles, and make me bear the fair offspring of virtuous deeds, as the all-revered eye-witnesses of the Word."
+
+ocMA.OdeW3C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C13.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C13.text = "At the entreaties of your Apostles, most merciful Benefactor of all, heal me who am now grievously poisoned by the noxious bite of the Enemy."
+
+ocMA.OdeW3C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C1T.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C1T.text = "With all the Apostles, O All-pure, implore Christ, the supremely good, that those who sing your praise may be delivered from every harm, disaster and dangers."
+
+ocMA.OdeW3C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C21.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C21.text = "Blessed Nicolas, who became a true disciple of the Master, you save from dire dangers and bitter death those who have recourse to you."
+
+ocMA.OdeW3C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C22.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C22.text = "Have pity on your servants, granting them as you are good forgiveness of faults at the intercessions of your servant Nicolas, O most merciful."
+
+ocMA.OdeW3C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW3C2T.ode = misc_en_UK_lash.Ode3
+ocMA.OdeW3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ExinthisenIErimos.name
+ocMA.OdeW3C2T.text = "Lull the tumult of my passions, and govern my life, All-holy Lady who gave birth to God, in whom my heart has been established."
+
+ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.text = he.h.m2_en_UK_lash.ElilythasEkParthenou.text
+
+ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C11.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C11.text = "As I hunger and waste away through famine each day, fill me with the food of salvation, O only Immortal, at the godly entreaties of those who proclaimed you to the entire world."
+
+ocMA.OdeW4C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C12.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C12.text = "You made all your far-famed Apostles mount upon the sea of the world, Lover of mankind, troubling the bitter waters of its salt-sea unbelief."
+
+ocMA.OdeW4C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C13.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C13.text = "All-praised Apostles, who made Christ the Sun dawn for those in darkness, enlighten me who lie in the darkness of sin, shutting out evil desires from heart."
+
+ocMA.OdeW4C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C1T.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C1T.text = "All-praised, who gave birth to God who is above praise, intercede together with the Apostles on behalf of those who sing your praise that we may be delivered from sins, dangers and eternal punishment."
+
+ocMA.OdeW4C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C21.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C21.text = "In purity familiar with the rays of the Spirit, you have become a bearer of light illumining the ends of the world, an advocate for all, saving all those who glorify you in faith."
+
+ocMA.OdeW4C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C22.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C22.text = "As you once appeared rescuing the Youths from death, Venerable and All-blessed, so now too save me from every calamity and from temptations and dangers."
+
+ocMA.OdeW4C23.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C23.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C23.text = "You blazed with the brilliant gleams of virtues, All-blessed, becoming a most noble imitator of your Master, while when called on you save those who glorify you with piety and love."
+
+ocMA.OdeW4C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW4C2T.ode = misc_en_UK_lash.Ode4
+ocMA.OdeW4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+ocMA.OdeW4C2T.text = "The Master of creation came upon you when he was about to take a body, and save the whole of me, humanity, as he is compassionate; and so all we believers reverence you as Mother of God."
+
+ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.text = he.h.m2_en_UK_lash.MesitisTheou.text
+
+ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C11.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.MesitisTheou.name
+ocMA.OdeW5C11.text = "The great Shepherd sent out his godly Disciples like sheep among wolves, remodelling them by the divine strength of Baptism and by the beauty of his words."
+
+ocMA.OdeW5C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C12.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.MesitisTheou.name
+ocMA.OdeW5C12.text = "By the divine light, Apostles, you enlightened the hearts in the gloom of error; therefore I beseech you, Blessed ones, enlighten me who have been darkened by the blackness of pleasures."
+
+ocMA.OdeW5C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C13.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.MesitisTheou.name
+ocMA.OdeW5C13.text = ""
+
+ocMA.OdeW5C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C1T.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.MesitisTheou.name
+ocMA.OdeW5C1T.text = "Dwelling place of Light, shine on me who lie in darkness with your light, and with the Apostles intercede that by your prayers I may be saved from every constraint."
+
+ocMA.OdeW5C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C21.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OFotismos.name
+ocMA.OdeW5C21.text = "Resplendent by a way of life befitting God, Thrice-blessed, you defended and rescued those condemned to die by an unjust sentence as they cried to the Master Christ: We know no other God but you."
+
+ocMA.OdeW5C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C22.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OFotismos.name
+ocMA.OdeW5C22.text = "As you now contemplate in heaven the eternal glory and delight in the resplendent rays of the ineffable and divine radiance, shelter me by your protection, Venerable and all-revered servant of Christ."
+
+ocMA.OdeW5C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW5C2T.ode = misc_en_UK_lash.Ode5
+ocMA.OdeW5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OFotismos.name
+ocMA.OdeW5C2T.text = "To seek out your Image, demolished by unnumbered passions, my Christ, Word of God, unknown to the heavenly beings you appeared incarnate from a Virgin to those who cry to you: We know no other God but you."
+
+ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.text = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.text
+
+ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C11.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C11.text = "Disciples of the Saviour, who furnish the living water, give drink, I beg, to my soul, burned up by the heat of sin."
+
+ocMA.OdeW6C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C12.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C12.text = "Named spiritual heavens, O Apostles who shed the divine light, you declare the ineffable glory of God. Intercede that we may all obtain it."
+
+ocMA.OdeW6C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C13.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C13.text = "Tossed on an ocean of dangers, I come to you, the Pilot of the universe; through your Apostles direct me to a roadstead of salvation."
+
+ocMA.OdeW6C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C1T.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C1T.text = "With all the Powers on high, with your Prophets, Apostles and Martyrs I bring you your Mother as means of atonement. Take pity, save me."
+
+ocMA.OdeW6C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C21.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C21.text = "The crown of victory is worthily set upon your head, Nicolas; as noblest victor save those who call upon you."
+
+ocMA.OdeW6C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C22.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C22.text = "Slain by my faults and drowning in the waves of the passions, appear and bring me safe, blessed Saint, to the haven of the divine will."
+
+ocMA.OdeW6C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW6C2T.ode = misc_en_UK_lash.Ode6
+ocMA.OdeW6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+ocMA.OdeW6C2T.text = "I have laid my hopes of salvation on you, Mother, Ever-virgin, and I place you as the sure and unshakeable protectress of my life."
+
+ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.text = he.h.m2_en_UK_lash.AntitheonProstagma.text
+
+ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C11.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AntitheonProstagma.name
+ocMA.OdeW7C11.text = "Set flame by the fire of the divine Spirit, O Apostles, you quenched the coals of error, while you lit the fire of the love of God in the minds of the faithful; and so with resounding voice we honour you."
+
+ocMA.OdeW7C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C12.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AntitheonProstagma.name
+ocMA.OdeW7C12.text = "Hating the world and the things of the world, you loved Christ, who in the world with a body conversed with mortals; implore him, godly Apostles, to free me from the perils of life."
+
+ocMA.OdeW7C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C13.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AntitheonProstagma.name
+ocMA.OdeW7C13.text = "Judge most just who know the heart, who alone know my secret offences, at the entreaties of your Apostles do not condemn me at the hour of the judgement, do not banish me to fire."
+
+ocMA.OdeW7C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C1T.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AntitheonProstagma.name
+ocMA.OdeW7C1T.text = "Virgin who knew not wedlock, you bore ineffably the fire of the Godhead and were not consumed, and so , Pure lady, with the Apostles intercede to free me, who glorify you, from the everlasting flame."
+
+ocMA.OdeW7C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C21.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+ocMA.OdeW7C21.text = "Pierced through by harsh temptation I have fallen grievously, and cast down by despondency I have drawn near to the gates of Hell. Save me by your intercessions, Blessed Father, and raise me up to sing to you: I ever call you blessed, sacred Servant of Christ."
+
+ocMA.OdeW7C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C22.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+ocMA.OdeW7C22.text = "Resplendent with the immaterial beams of the light which never sets, snatch out those held fast by the darkness of afflictions and guide them to the illumination of true religion as they sing: We ever call you blessed, true Servant of Christ."
+
+ocMA.OdeW7C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW7C2T.ode = misc_en_UK_lash.Ode7
+ocMA.OdeW7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EikonosChrysis.name
+ocMA.OdeW7C2T.text = "Implore Christ your Son and God, Mother of God, to draw up by his precious those destroyed by grave falls and the deceptions of the serpent, who sing: God of our Fathers, blessed are you."
+
+ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.text = he.h.m2_en_UK_lash.KaminosPote.text
+
+ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C11.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.KaminosPote.name
+ocMA.OdeW8C11.text = "In bodily form the Comforter Spirit came upon you in the form of fire and made you lamps which consumed the ungodly but illumined all the devout, godly Apostles of the Word."
+
+ocMA.OdeW8C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C12.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.KaminosPote.name
+ocMA.OdeW8C12.text = "O Compassionate, at the supplications of your Disciples heal the passions which grievously batter my incurable heart, I beg, lead my soul to light, guide my mind which inclines to wickedness."
+
+ocMA.OdeW8C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C13.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.KaminosPote.name
+ocMA.OdeW8C13.text = "Groan, my soul, and weep intensely, and grieve for yourself before the end, before the lamentation which cannot be comforted takes hold of you, and cry out to the Creator: Master, take pity on me at the entreaties of the Apostles."
+
+ocMA.OdeW8C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C1T.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.KaminosPote.name
+ocMA.OdeW8C1T.text = "The furnace that once did not consume the Youths prefigured your child-bearing, all-immaculate Virgin; therefore I implore you, with all the Apostles and prophets entreat that I may be delivered from the fire of hell."
+
+ocMA.OdeW8C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C21.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+ocMA.OdeW8C21.text = "As you are kindly and compassionate, blessed Initiator into sacred mysteries, free those encompassed by the deep of temptations, granting them release from the troubles that hold them fast by your entreaties to the Saviour."
+
+ocMA.OdeW8C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C22.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+ocMA.OdeW8C22.text = "Guide into mysteries beyond the mind, minister of things immaterial and heavenly, and faithful High Priest you have been declared, O Initiator inspired by God. Ask from our Saviour forgiveness of faults."
+
+ocMA.OdeW8C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW8C2T.ode = misc_en_UK_lash.Ode8
+ocMA.OdeW8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+ocMA.OdeW8C2T.text = "My mind is now enfeebled, having fallen into the depths of dishonour, so that it is therefore very close to evils of many kinds; but do you, O Virgin, heal it, by wrapping it in the light of dispassion."
+
+ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.text = he.h.m2_en_UK_lash.AnarchouGennitoros.text
+
+ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C11.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C11.text = "I am condemned, I am beyond correction, for I have despised your ordinances and followed in mad folly the wiles of the demons. Turn me back again, O Lord, at the prayers of your Apostles."
+
+ocMA.OdeW9C12.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C12.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C12.text = "Glorious Apostles, blessed Apostles, Disciples of the Saviour, all-wise Heralds, rescue me from all harm, all wrath, all sin, all disaster and transgression of every kind."
+
+ocMA.OdeW9C13.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C13.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C13.text = "I offer a soul beyond correction, a conscience buried beneath the stuff of offences, a heart defiled and thought befouled. I cry to you, Lover of mankind: Take pity on me in your mercy."
+
+ocMA.OdeW9C1T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C1T.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C1T.text = "All-pure Virgin, the Apostles proclaimed your Son to all the world as God and Man. Therefore with them entreat that on the dread day of judgement all those who faithfully magnify you may be delivered."
+
+ocMA.OdeW9C21.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C21.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C21.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C21.text = "Illumined by the lamps of grace, inspired Father, and having become a wise beacon of true religion, you save those in temptations, rescue those in the depth of the sea and wondrously nourish the starving, O all-blessed."
+
+ocMA.OdeW9C22.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C22.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C22.text = "Now encamped in the Paradise of delight and contemplating clearly the ineffable glory, you look from the vaults of heaven upon those who sing your praises and rescue them from passions, all-honoured God-bearer."
+
+ocMA.OdeW9C2T.mode = misc_en_UK_lash.Mode2
+ocMA.OdeW9C2T.ode = misc_en_UK_lash.Ode9
+ocMA.OdeW9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
+ocMA.OdeW9C2T.text = "Pure Mother of God, you conceived the Wisdom, Power and empersonned Word of the Father, Wisdom which took its temple from your immaculate blood, and was united to, by a union that was unbroken."
+
+ocMA.Aposticha1.mode = misc_en_UK_lash.Mode2
+ocMA.Aposticha1.melody = ""
+ocMA.Aposticha1.text = oc.m2.d5_en_UK_lash.ocVE.Aposticha1.text
+
+ocMA.Aposticha2.mode = misc_en_UK_lash.Mode2
+ocMA.Aposticha2.melody = ""
+ocMA.Aposticha2.text = oc.m2.d5_en_UK_lash.ocVE.Aposticha2.text
+
+ocMA.Aposticha3.mode = misc_en_UK_lash.Mode2
+ocMA.Aposticha3.melody = ""
+ocMA.Aposticha3.text = "Every city, town and village honours your relics, Martyrs and Champions; for you struggled like professionals and received a heavenly crown, and therefore you are the boast of priests, the victory of Kings and the splendour of Churches."
+
+ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode2
+ocMA.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocMA.AposTheotokion.text = oc.m2.d1_en_UK_lash.ocSV.Aposticha1.text
+
+ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode2
+ocMA.ApolTheotokion.melody = ""
+ocMA.ApolTheotokion.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.text
+
+ocLI.Beatitudes1.mode = misc_en_UK_lash.Mode2
+ocLI.Beatitudes1.melody = ""
+ocLI.Beatitudes1.text = oc.m2.d1_en_UK_lash.ocLI.Beatitudes1.text
+
+ocLI.Beatitudes2.mode = misc_en_UK_lash.Mode2
+ocLI.Beatitudes2.melody = ""
+ocLI.Beatitudes2.text = "All-wise Apostles, you passed through all the regions of the world and delivered mortals from the darkness of error."
+
+ocLI.Beatitudes3.mode = misc_en_UK_lash.Mode2
+ocLI.Beatitudes3.melody = ""
+ocLI.Beatitudes3.text = "With the net of grace, wise Initiates, you clearly drew up humans from the deep of vain folly."
+
+ocLI.Beatitudes4.mode = misc_en_UK_lash.Mode2
+ocLI.Beatitudes4.melody = ""
+ocLI.Beatitudes4.text = "Champions of Christ, who finished the course and kept the faith, with one accord we let us sing your praise."
+
+ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode2
+ocLI.BeatitudesGlory.melody = ""
+ocLI.BeatitudesGlory.text = "Let all us believers now glorify in fear the Son, equal in operation with the Begetter, together with the Spirit."
+
+ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode2
+ocLI.BeatitudesBoth.melody = ""
+ocLI.BeatitudesBoth.text = "Pure Virgin, you are the boast of Apostles, ornament of Athletes and salvation of the world."
+
+//Octoechos in Triodion
+
+octrMA.Triadic1.mode = misc_en_UK_lash.Mode2
+octrMA.Triadic1.text = oc.m2.d2_en_UK_lash.octrMA.Triadic1.text
+
+octrMA.Triadic2.mode = misc_en_UK_lash.Mode2
+octrMA.Triadic2.text = oc.m2.d2_en_UK_lash.octrMA.Triadic2.text
+
+octrMA.Triadic3.mode = misc_en_UK_lash.Mode2
+octrMA.Triadic3.text = oc.m2.d2_en_UK_lash.octrMA.Triadic3.text
+
+octrMA.Kathisma11.mode = misc_en_UK_lash.Mode2
+octrMA.Kathisma11.melody = ""
+octrMA.Kathisma11.text = ocMA.Kathisma11.text
+
+octrMA.Kathisma12.mode = misc_en_UK_lash.Mode2
+octrMA.Kathisma12.melody = ""
+octrMA.Kathisma12.text = ocMA.Kathisma12.text
+
+octrMA.Kathisma1T.mode = misc_en_UK_lash.Mode2
+octrMA.Kathisma1T.melody = ""
+octrMA.Kathisma1T.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.text
+
+octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode2
+octrMA.Ode7Martyricon.melody = ""
+octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
+
+octrMA.Photogogic.mode = misc_en_UK_lash.Mode2
+octrMA.Photogogic.text = oc.m2.d2_en_UK_lash.octrMA.Photagogic.text

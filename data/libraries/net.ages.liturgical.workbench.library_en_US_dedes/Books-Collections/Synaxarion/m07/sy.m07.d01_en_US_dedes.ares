@@ -1,0 +1,22 @@
+A_Resource_Whose_Name = sy.m07.d01_en_US_dedes
+
+S00.days = "The Month of July, which has thirty-one days."
+S00.hours = ""
+
+S01.commemoration.text = "On July 1, we commemorate Saints Cosmas and Damian, the Wonderworkers and Unmercenaries, who died in Rome."
+
+S02.commemoration.text = "On this day we also commemorate our devout Father Basil, who founded the Monastery of the Deep Stream."
+
+S03.commemoration.text = "On this day we also commemorate devout Saint Peter, a Patrician in the district of Evandrus."
+
+S04.commemoration.text = "Devout Saint Leo the Hermit, who lived naked, reposed in peace."
+
+S05.commemoration.text = "The holy Two Thousand Martyrs died by the sword."
+
+S06.commemoration.text = "The holy Martyr Maurice died after being covered with honey and stung by bees."
+
+S07.commemoration.text = "The holy Twenty-five Martyrs of Nicomedia died by fire."
+
+S08.commemoration.text = "The holy Martyr Constantine and those with him died by the sword."
+
+S99.lastline.text= "By their holy intercessions, O God, have mercy on us. Amen."

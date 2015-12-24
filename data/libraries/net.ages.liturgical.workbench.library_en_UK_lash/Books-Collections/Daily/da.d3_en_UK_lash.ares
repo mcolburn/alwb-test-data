@@ -1,0 +1,36 @@
+A_Resource_Whose_Name = da.d3_en_UK_lash 
+
+daDay.text = ""
+daCommemoration.text = ""
+
+daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onMondayEvening
+
+daVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
+daVE.Apolytikion1.melody = ""
+daVE.Apolytikion1.text = me.m08.d29_en_UK_lash.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_en_UK_lash.Mode2
+daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.text = oc.m2.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+daMA.Triadic1Ending.text = ""
+daMA.Triadic2Ending.text = prayers_en_UK_lash.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_en_UK_lash.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = ""
+daMA.Photagogic2Ending.text = prayers_en_UK_lash.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_en_UK_lash.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = ""
+daMA.Photagogic2Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+daMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+daMA.Exaposteilarion1.text = ""
+
+daMA.ExapTheotokion.mode = misc_en_UK_lash.Mode3
+daMA.ExapTheotokion.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+daMA.ExapTheotokion.text = "For you I have as advocate * before the God who loves mankind, * do not expose what I have done * before the sight of the Angels, * and I entreat you, O Virgin, * pray, come to my aid, come swiftly."
+
+daLI.CommunionHymn.text = properties_en_UK_lash.media.key

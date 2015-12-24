@@ -1,0 +1,16 @@
+A_Resource_Whose_Name = properties_en_US_boyer
+
+version.designation = "JMB"
+version.translator = "John Michael Boyer"
+
+version.copyright1 = "Copyright © 2015 by John Michael Boyer"
+version.copyright2 = "Used by permission."
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = "protopsaltis@yahoo.com"
+
+media.key = "For media only."

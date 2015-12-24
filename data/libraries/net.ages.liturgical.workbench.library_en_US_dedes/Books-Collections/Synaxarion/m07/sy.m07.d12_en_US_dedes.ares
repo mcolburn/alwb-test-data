@@ -1,0 +1,18 @@
+A_Resource_Whose_Name = sy.m07.d12_en_US_dedes 
+
+S01.commemoration.text = "On July 12, we commemorate the holy Martyrs Proclus and Hilary."
+
+S02.commemoration.text = "On this day we also commemorate our devout Father Michael Maleinus, the spiritual father of St. Athansius of Athos."
+
+S03.commemoration.text = "On this day we also commemorate the holy Martyr Serapion; and the holy Martyrs Andrew the Commander, Heraclius, Faustus, Menas, and their company; and the holy Martyr Mamas, over in Sigma."
+
+S04.commemoration.text = "St. Veronica, the woman with the flow of blood whom Christ cured, reposed in peace."
+
+S05.commemoration.text = "On this day we also commemorate our devout father Paisios the New of the Holy Mountain Athos, who reposed in peace in the year 1994."
+S05.couplet1.title = titles_en_US_dedes.Stichoi
+S05.couplet1.verse1 = ""
+S05.couplet1.verse2 = ""
+S05.single1.text = ""
+S05.narration1.text = ""
+
+S99.lastline.text= "By their holy intercessions, O God, have mercy on us. Amen."

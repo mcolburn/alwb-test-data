@@ -1,0 +1,24 @@
+A_Resource_Whose_Name = iTags
+
+//format based tags used with Title role mixed
+bl = "emphasis,black"
+inbl = "emphasis,italicsblack"
+b = "emphasis,bold"
+i = "emphasis,italics"
+r = "emphasis,red"
+bni = "emphasis,bolditalics"
+bnr = "emphasis,boldred"
+inr = "emphasis,italicsred"
+bninr = "emphasis,bolditalicsred"
+bigblack = "emphasis,bigblack"
+
+//role based tags used with Title role mixed
+Tmelody = "emphasis,melody"
+Tmode = "emphasis,mode"
+Tdesig = "emphasis,designation"
+Trubric = "emphasis,rubric"
+Tnumright = "emphasis,numright"
+
+inlinerubric = "emphasis,rubric"
+anum = "emphasis,anum"
+reference = "emphasis,reference"

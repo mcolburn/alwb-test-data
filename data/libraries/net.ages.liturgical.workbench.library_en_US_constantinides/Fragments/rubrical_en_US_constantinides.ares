@@ -1,0 +1,97 @@
+A_Resource_Whose_Name = rubrical_en_US_constantinides
+
+InALowVoice = "(silently)"
+
+And = ""
+
+Aloud = ""
+
+Forty = ""
+
+Inaudibly = "(silently)"
+
+InPlaceOfRightChoir = ""
+
+Thrice = "(3)"
+
+Twelve = "(12)"
+
+Twice = "(2)"
+
+Intoned = ""
+
+NoEntrance = ""
+
+ContinueBasilLiturgy = ""
+
+TwiceWithNoVerse = ""
+
+// Baptism.Rubrics
+Baptism.Start = "The priest, vested in rason, stole (epitrahilion), and phelonion, breathers on the face(s) of the candidate(s) and makes the sign of the Cross over him (her) (them) three times with his hand, on the forehead and chest, saying each time:"
+Baptism.LayingHandsPrayer1 = "And having laid his hands on the head(s) of the candidate(s) for Baptism, he recites the following prayer:"
+Baptism.BreathesAndBlesses = "Then the priest breathes three times on his (her) (their) face and makes the sign of the Cross with his hands hand on his (her) (their) forehead and chest, saying each time:"
+Baptism.FaceWestRenounce = "The priest asks the candidate(s) and his (her) (their) sponsor(s) to turn west (away from the Altar) and asks them three times:"
+Baptism.CandidateRenounce = "And the candidate(s) and/or the sponsor(s) respond each time:"
+Baptism.PriestHaveYou1a = "And the priest asks again three times:"
+Baptism.BreathUpon = "And the priest says to the candidate(s) and/or sponsor(s):"
+Baptism.CandidateBlow3Times = "And the candidate(s) and/or the sponsor(s) blow(s) toward the floor three times."
+Baptism.Allegiance1a = "The priest asks the candidate(s) and/or the sponsor(s) to face to the east (towards the Altar) and asks three times:"
+Baptism.PriestHaveYou1b = "Then the priest asks again three times:"
+Baptism.Believe = "And the priest adds:"
+Baptism.CandidateResp = "To which they respond:"
+Baptism.CreedRecital = "And they recite the Creed:"
+Baptism.Bow = "And the priest says to him (her) (them):"
+Baptism.CandidateBow = "And they bow down and say:"
+Baptism.PriestResp = "And the priest responds:"
+Baptism.RecitePrayer = "And recites the following prayer."
+Baptism.BeginsSacrament = "The priest now censes the Altar and the Font, returns the censer to its stand, and standing before the holy Altar lifts up the Gospel Book and begins the Sacrament of Baptism by saying:"
+Baptism.ReadsPrayerSilently = "Then the priest reads silently the following prayer:"
+Baptism.RecitesLoudly = "When the peace entreaties are completed, the priest recites loudly the following prayer with fear of God, from the depths of his soul and with a contrite heart:"
+Baptism.BlessesWater = "Then the priest blesses the water by making the sign of the Cross in it with his right hand saying three times:"
+Baptism.BreathesUponWater = "And the priest breathes upon the water three times in the form of a Cross, and blesses the water with his hand, saying each time:"
+Baptism.UndressChild = "At this point the attendants undress the child, and the sponsor, properly prepared, stands at the north side of the font holding a small bottle of pure olive oil in his (her) cupped hands. The priest takes his positrion to the west of the font (facing the Altar) and reads the following prayer over the oil, breathing upon it and making the sign of the Cross over it three times:"
+Baptism.PourOliveOil = "The priest takes the bottle of olive oil and pours some of it over the water in the font in the form of a Cross three times, chanting each time:"
+Baptism.CupHands = "The priest then asks the sponsor to cup his right hand in the left over the font and pours some oil in it. The attendant brings the undressed child to the  left of the priest (between the priest and the sponsor), held in a towel laying on its back with its head in the right arm of the attendant. The priest with the thumb and first two fingers of his right hand takes oil from the hand of the sponsor and annoints the child with it in the form of a Cross, on the forehead, chin and cheeks, and other parts of the body, saying:"
+Baptism.AnnointChild = "Then he anoints the child on the nostrils, ears, mouth, chest, legs, feet, hands and back, saying:"
+Baptism.Nose = "On the nose:"
+Baptism.Ears = "On the ears:"
+Baptism.Mouth = "On the mouth:"
+Baptism.Chest = "On the chest:"
+Baptism.Legs = "On the legs:"
+Baptism.Feet = "On the feet:"
+Baptism.Hands = "On the Hands:"
+Baptism.Back = "On the back:"
+Baptism.Immersion = "Then the priest holds the child under the armpits over the font, both facing the Altar, while the sponsor annoints the entire body of the child (except the face) with the oil in his (her) hands. The the priest baptizes the child by immersing it in the font three times, and saying:"
+Baptism.Immersion1 = "1st Immersion:"
+Baptism.Immersion2 = "2nd Immersion:"
+Baptism.Immersion3 = "3rd Immersion:"
+Baptism.WhiteSheet = "He then places the child in the white sheet which has been stretched between the arms of the sponsor on top of a bath towel."
+Baptism.Chrismation = "NOTE: At this point the priest should normally read the prayer of Chrismation. However, for practical reasons, he proceeds at once to chrismate the newly-baptized with holy Myrrh, making the sign of the Cross with it on the forehead, chin, cheeks, nostrils, mouth, ears, chest, legs, feet, hands and back, repeating with each anointing:"
+Baptism.Tonsure = "Then he tonsures the neophyte by cutting a few hairs from his (her) head in the form of a Cross, saying:"
+Baptism.VestNeo = "The priest then vests the neophyte by blessing his (her) inner garment and placing it upon him (her) saying:"
+Baptism.GarmentChant = "And the following chant is chanted three times by the people:"
+Baptism.WashHands = "The priest and the sponsor wash their hands in the font, and while the attendants dress the newly baptized, the priest reads the prayer of Chrismation, prayers of the well-being of the neophyte and the prayer of tonsure. Also see the Katavasia of the Cross and the Resurrection which are usually chanted here, at the end of the service."
+Baptism.Ablution = "At this time the dressed neophyte(s) is (are) brought in front where the priest performs the service of ablution. He takes two corners of a clean towel, wets them with clean water and sprinkles the face of the neophyte (each neophyte), saying:"
+Baptism.DriesFace = "Then the pries dries the face of the neophyte with a dry towel or cotton ball, saying:"
+Baptism.LayingHandsPrayer2 = "The priest lays his hands on the neophyte (each neophyte) and recites the following prayer:"
+Baptism.CensesRound = "The priest then censes the neophyte, the sponsor and the attendant, all of whom hold lighted candles and stand opposite him, as they go round the font three times counter clockwise, chanting the following hymn alternately with the people:"
+Baptism.CommunionAndCross = "At this time the neophyte(s)is given Holy Communion and presented with a small gold cross, a gift of the sponsor which the priest blesses and puts around his (her)(their)neck(s)."
+Baptism.Admonitions = "Then the newly-baptized child 9children) are presented to his (her)(their)parents with the following admonitions."
+Baptism.KissHand = "The parents kiss the hand of the sponsor and the priest and receive their child"
+
+// Wedding.Rubrics
+Wed.Vows = "On the soleas, in front of the Holy Gate, a table is placed with two candle sticks, the rings, the crowns (wreaths of simulated flowers on a silver tray), a cup of wine and the Holy Gospel Book on it. As the bride and groom arrive in front of the table and face the Altar, the groom to the right and the bride to his left, the priest, vested in rason, epitrahilion and phelonion, hands them lighted candles and ask the groom: \"(name), do you take (N) to be your wedded wife, to love and to cherish till death do you part?\" And then the bride: \"(name), do you take (N) to be your wedded husband, to love and to cherish till death do you part?\" If the answer of both is \"yes\", he begins the service:"
+Wed.Lit01 = "The priest begins the Litany of peace"
+Wed.RingsGroom = "The priest takes the rings, blesses them over the Holy Gospel Book, touches with them the forehead of the groom first and then the forehead of the bride, and makes the sign of the Cross with the rings on both of them, saying"
+Wed.RingsBride = "Then he does the same for the bride"
+Wed.RingsOn = "He then places the rings on the third finger of their right hands, and the best man (Koumbaro or Koumbara) exchanges them as follows: He (she) takes the ring off the finger of the groom with his (her) right hand, and the ring off the bride with his (her) left hand (i.e. his (her) hands NOT crossed). Then he (she) crosses his (her) hands and touches the finger of the groom with the ring of the bride and vice-versa. The he (she) crosses his (her) hands twice more repeating the same thing. Then he (she) places the rings on the priests hand and returns to his (her) place. The priest then offers the ring of the bride to the groom and the ring of the groom to the bride and asks to place them on each other's fingers, and he returns to his place and reads the following prayer:"
+Wed.Ps127.Ps128 = "The priest starts by chanting several verses from the 127th (128th) Psalm, to each of which the people respond: Glory to you, our God, glory to you."
+Rub.Pascha = "(During Pascha season we sing \" Christ has Risen\" three times)."
+Wed.Lit02 = "The priest recites the following petitions to each of which the people respond: Lord, have mercy."
+Wed.CrownsGroom = "The priest, having joined the bride and the groom by asking them to hold each other's right hand, now takes the crowns (wreathes), blesses them on the Holy Gospel Book,and first crowns the groom for the bride by making the sign of the Cross with the wreathes and saying three times:"
+Wed.CrownsBride = "Then he crowns the bride for the groom by making the sign of the Cross with the wreathes and saying three times:"
+Wed.CrownsOn = "Then he places the wreathes on their heads while chanting alternately with the people three times the following:"
+Wed.CrownsChange = "The best man exchanges the crowns three times, as follows: The Koumbaro (Best man) and the Koumbara (Best maid) goes behind the bride, and  groom, and picks up the crown of the groom with his (her) right hand, and the crown of the bride with his (her) left hand (i.e. his (her) hands NOT crossed). Then he (she) exchanges the crowns three times winding up with his (her) hands crossed, so that the crown of the groom finishes on the head of the bride and vice-versa. And he (she) leaves them there and returns to his (her) place. "
+Wed.CupChant = "While the priest offers the cup first to the groom and then to the bride, from which each takes three sips, the people chant:"
+Wed.Roundtable = "The priest then leads the groom and the bride around the table three times, holding them by their joined hands with his left hand, and holding the Holy Gospel Book in his right. The best man walks behind them holding the ribbon that joins the two crowns in the middle with one hand. The priest and the people chant at each circle alternately the following three hymns:"
+Wed.Prayer4Both = "After they have returned to their original positions, the priest reads the following prayers, first over the groom, and then over the bride."

@@ -1,0 +1,270 @@
+A_Resource_Whose_Name = me.m10.dHF_en_UK_lash 
+
+meDate.text = ""
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode6
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera01.text = "The Patriarch Germanos the Younger collected together in one Canon the seven Councils of the Fathers, which had taken place at different times, excellently writing together and strengthening their teachings; he also presents them to the Lord as unsleeping advocates of salvation and fellow-shepherds of the flock."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode6
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera02.text = "The letter of the Law laid down for the children of the Hebrews that the heptad was to be honoured, and they devoted themselves to a shadow and reverenced it. But you, O Fathers, came together in a heptad of Councils, at the behest of God, who fashioned the universe in a hexad of days and blessed the seventh, and you made the heptad even more honourable by laying down a definition of the Faith."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode6
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera03.text = "Thrice-blessed Fathers, you have handed down that the Trinity is the cause of the birth of the world for all things that are created; for with mystic reason you established three and four Councils, and you appeared as champions of orthodox reason, for you showed that while there are four elements, it is the Trinity which created them and made the world."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode6
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera04.text = "It would have been sufficient for the Prophet Elisaius to have bent over once at most to breathe life into the child that lay dead; nevertheless he bent over seven times and lay right over him, thus like a scout he foretold your comings together, by which you breathed life into the slaying of God the Word, by putting to death Arius and his boon companions."
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode6
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera05.text = "Revered Fathers, with wisdom you sewed together the torn garment of Christ, rent asunder by baying hounds, for you could not bear to look on his nakedness, as Sem and Japhet of old could not on their father’s, and you put the parricide to shame along with his supporters: Arius, whose name the madness bears."
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode6
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered
+meVE.Stichera06.text = "As true shepherds you bravely drove away the Macedioniusses, the Nestoriusses, the Eftychisses, the Dioscorusses, Apollinariusses and Sabellioseverusses, exposed as dangerous wolves in sheepskins, far from the Saviour’s flock stripped of their fleeces, making them thrice-wretched; therefore we call you blessed."
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Let us praise today the mystical trumpets of the Spirit, the Godbearing Fathers, who sang a harmonious melody of theology in the midst of the Church, one Trinity, unchanging Essence and Godhead; the overthrowers of Arius, the champions of the Orthodox, who ever intercede with the Lord that he may have mercy on our souls."
+
+meVE.LityGlory.mode = misc_en_UK_lash.Mode3
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "Holy Fathers, you have become sure guardians of the Apostolic traditions; for by teaching the orthodox doctrine of the consubstantiality of the Holy Trinity, you overthrew in Council the blasphemy of Arius. With him you refuted Macedonius, the opponent of the Spirit, and condemned Nestorius, Eftychis and Dioscorus, Sabellius and Severus the Leaderless. We implore you: beg that we who have been delivered from their error may preserve our life spotless in the faith."
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode3
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = ""
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode4
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Let us with faith celebrate today the yearly commemoration of the god-bearing Fathers, who were assembled from the whole world in the radiant city of Nicaea, as we reverence the gatherings of the Orthodox; for they, their minds attuned to true religion, overthrew the godless teaching of Arius, and in council banished him from the Catholic Church; and in the Symbol of faith, which they precisely and devoutly laid down, they taught all to confess clearly the Son of God as consubstantial and co-eternal, and existing before the ages. And so we too, following their divine teachings and firm in our belief, worship the Son and the all-holy Spirit with the Father, in one Godhead, a consubstantial Trinity."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode4
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.text = ""
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = ""
+
+meMA.C1Poet = poets_en_UK_lash.Theofanous
+meMA.C1Acrostic.text = ""
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C11.text = "Impart to me, Lord, who now desire to sing the Seventh Council, the assembly of the seven gifts of the Paraclete, who made it wise with tongues of fire and silenced all blasphemous prattling."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C12.text = "Since the beginning the seventh is the best of numbers; for the complete rest from God’s creative work took place originally on the seventh day; and now the cessation of all heresies at the Seventh Council."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C13.text = "In Nicea of old the choir of the Fathers, having vanquished Arius, enemy of God, with their shepherd’s rod, strengthened the Church with orthodox doctrines; and now in this same city their united ranks have put the iconoclasts to shame."
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C1T.text = "Now as the Fathers devoutly taught, we faithfully confess a virgin womb, which bore without pangs the fleshless in flesh; and we depict and worship his likeness, and greet it with honour.
+"
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C11.text = "Guided by Christ the godly Chief Shepherds, lest his Church, which cannot be broken, might be shaken, shook to their foundations as partners of Antichrist those who wished to shake the Church to its foundations."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C12.text = "The assembly of the Fathers cleans up foul and muddy torrents by drawing water from the springs of salvation, and quenches the thirst of Christ’s thirsty people with the streams of their teachings."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C13.text = "Here in the shining city of Nicea the seventh assembly of lovers of Christ took place against those who truly hated him, the Christians’ accusers; its advocates the Sovereigns Irene and Constantine."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C1T.text = "Every impious man, who does not honour the holy image of the Mother of God, and does not proclaim that she bore Christ as God and man, let him go hence and be sent to burn unceasingly in the fire."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meMA.Ode3Kathisma1.text = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.text
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meMA.Ode3KathismaT.text = "Come speedily to help us, pure Virgin Mother; deliver us from enemies who blaspheme you and do not worship you; shatter all the idle prattling of the heresies; let them know that you alone are Mother of God, who save the Orthodox by your intercessions."
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C11.text = "Sword and arrow, God’s word, in hand, the godlike Fathers utterly slaughtered all those ill disposed to the sign of the cross and who likewise do not honour the images of Christ, the Mother of God and all the Saints."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C12.text = "Even as seven trumpets on the seventh circuit threw down the walls of Jericho; so the seven Councils brought down to chaos the whole band that had risen up against God, at the seventh assembly of the well-tuned trumpets of the Spirit."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C13.text = "Vaunting a youthful brashness, and burning with God’s zeal, the assembled Fathers, like Elias, put to death the priests of shame; therefore with boldness they firmly taught the worship of Christ’s image."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C1T.text = "Ever pure, you are my hope, and you are my song, you are my harbour and you are my pilotage, you who without union bore God incarnate, the Word of the Father; therefore without doubting, empowered with your strength, I venerate your image."
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C11.text = "Now the revered Fathers, having deliberated together with lofty thought, have condemned the Iconoclasts as thinkers of strange thoughts; and decreed, as is fitting, that honour be paid to Christ’s image."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C12.text = "The time of joy is now, the day of salvation has newly appeared; let us therefore rejoice and joyfully cry out to Christ: Give us your peace, at the prayers of the Fathers of the Seventh Council, O Lover of mankind."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C1T.text = "He, the Son of God, through his merciful compassion, was born from the Virgin without change, bearing as his own what was alien; and willingly He appears circumscribed by its form, He who in his essence is uncircumscribed."
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C11.text = "Sweetness and rejoicing the mountains have rained down; for the multitude of heretics has been scattered, which exuded bitter poison: the rejection of the holy images."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C12.text = "Yea, let heaven and earth in harmony celebrate the greatness of the daughter of God; for she is magnified and casts down those who belittle her."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C1T.text = "New birth He gave me, the Son, of old of the Father without mother, and divinely born of a Mother without father; therefore making an image I greet the one who gave birth together with the One who was born."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "The Son who shone ineffably from the Father, was born twofold in nature from a woman; knowing Him we do not deny the representation of his form; but depicting it devoutly, we honour it faithfully; and so, holding to the true faith, the Church greets the image of Christ’s incarnation."
+
+meMA.Oikos1.text = "The all-merciful God, wishing to rouse us always to the perfect memory of his incarnation, has delivered to us this notion: the depiction of his honoured form through the painting of images; that seeing it with our sight we may believe what we have heard in speech; as we recognise the action, name, appearance and struggles of the holy men, and Christ the prize-giver who gives crowns of victory to the Holy Athletes and Martyrs; through whom the Church lately more clearly holding to the true faith, greets the image of Christ’s incarnation."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C11.text = "Overthrown are the leaders of heresy by the teachings of the inspired men, who rightly transfer the honour given to the types to their archetypes, as Basil the Great said: Blessed is the God of our Fathers."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C12.text = "Decorated now with shining images the churches are made beautiful; and so the world, through the churches, sings to the beauty far above all mortals, together with those who sing: Blessed is the God of our Fathers."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C13.text = "Out of the way you impious, the light has dawned, the darkness is far off; and so all things filled with light sing the praise of Christ in good heart and say: Blessed is the God of our Fathers."
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C1T.text = "For all the only hope of salvation, the all-pure Sovereign Lady, who awe-inspiringly gave birth to Christ the King of kings, bearing him as an infant in her arms, is venerated together with him in painting, as the Fathers say."
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C11.text = "The assembly of the Fathers excellently decreed, for those who honour God, a relative worship and the re-erection of the sacred image of Christ; but we lovers of true religion, as obedient children, celebrate their yearly memorial, and with longing we kiss Christ’s image."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C12.text = "How fiercely the arrogant bowed the humble down, and repulsed the attacks of the lovers of virtue, because they opposed their inspired deeds; but the Fathers of the Seventh Council, assembled in Nicea, at once brought down their pride far more fiercely."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C13.text = "Even as the Psalmist said, the blows and lashes of those who think like infants become infants’ arrows for those who think like the old; and by God’s power many tongues of those who speak blasphemies against the Highest become feeble; and each one acknowledges the Father, the Son and the Spirit, one God, only cause of all things."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C1T.text = "By his mercy the Creator is willingly created as an infant from your pure blood, guarding you wholly purified after child-birth, O Pure one, and purifying his polluted image; therefore in images he is depicted with you, having become mortal by nature, who is God by nature."
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C11.text = "Lord most mighty and King of all, great in might and counsel, who hold the universe in being, incomprehensible, alone God, strengthen the Church, protecting her by your orthodoxy, at the entreaties of the all-glorious Fathers, who have condemned false doctrine."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C12.text = "Even on earth, O Saints, whose minds were in heaven, you were found worthy of great honours, for you gave Christ’s image a relative honour; and now having laid aside the shadow and the covering of the flesh, you see him in person face to face, and are found worthy of yet greater things."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C13.text = "So that we might be chastened you provoked an assault by barbaric cavalry with all their host, do you shatter it yourself and their violence against us; and fight with the King who has shown his trust in you, who achieve all things, at the confident prayers of the Fathers whose memory we celebrate."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C1T.text = "The mystery of your awe-inspiring child-bearing no mortal mind can fathom; but no more than can the lofty mind of Angels that above nature you gave birth to God incarnate; therefore, acknowledging you as Mother of God and depicting you with him, we magnify you."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
+meMA.Exaposteilarion1.text = "O Fathers with minds in heaven, who were gathered in the Seventh Council, offer an insistent supplication to the Trinity that those who sing the praise of your divine assembly may be delivered from every heresy and eternal punishment and may reach the Kingdom."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode3
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
+meMA.ExapTheotokion.text = "O Lord supremely good, at the prayers of your Mother and of the Fathers gathered in the seven Councils, establish the Church and strengthen the Faith; and make all sharers in the Kingdom of heaven, when you come on earth to judge all creation."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode6
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meMA.Lauds1.text = me.m07.dHF_en_UK_lash.meMA.Lauds1.text
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode6
+meMA.Lauds2.melody = ""
+meMA.Lauds2.text = me.m07.dHF_en_UK_lash.meMA.Lauds2.text
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode6
+meMA.Lauds3.melody = ""
+meMA.Lauds3.text = me.m07.dHF_en_UK_lash.meMA.Lauds3.text
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "The choir of holy Fathers, having hurried together from the ends of the whole world, proclaimed the doctrine of the one being and nature of Father, Son and Holy Spirit, and clearly delivered to the Church the mystery of the godhead. Praising them with faith, let us call them blessed as we say: O godly host, inspired warriors of the Lord’s battle-line, brightly shining stars of the spiritual firmament, impregnable towers of the mystical Sion, sweet-scented flowers of Paradise, pure golden mouths of the Word, Nicea’s boast, the whole world’s ornament, intercede insistently on behalf of our souls."
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+meMegalynarion.text = ""
+

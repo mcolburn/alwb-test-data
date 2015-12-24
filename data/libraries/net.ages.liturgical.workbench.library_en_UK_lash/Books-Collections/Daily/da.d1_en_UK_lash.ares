@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = da.d1_en_UK_lash 
+
+daDay.text = ""
+daCommemoration.text = ""
+
+daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onSaturdayEvening
+
+daLI.GospelAlleluia.text = prayers_en_UK_lash.Allilouia3.text 
+
+daLI.CommunionHymn.text = "" //for media

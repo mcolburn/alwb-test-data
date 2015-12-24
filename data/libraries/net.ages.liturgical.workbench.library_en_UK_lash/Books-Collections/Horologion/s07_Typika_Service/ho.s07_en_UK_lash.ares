@@ -1,0 +1,84 @@
+A_Resource_Whose_Name = ho.s07_en_UK_lash
+
+hoTY.title = ""
+
+R01 = ""
+
+hoLI.OnlyBegotten.title = ""
+hoLI.OnlyBegotten.text = "Only-begotten Son and Word of God, * who, being immortal, * accepted for our salvation * to take flesh from the holy Mother of God * and Ever-Virgin Mary, and without change became man; * you were crucified, Christ God, * by death trampling on death, * though being one of the Holy Trinity, * glorified with the Father and the Holy Spirit: * save us!"
+
+hoTY.Key0200.text = "" //for media for beatitudes
+hoTY.Key0212.text = ""
+hoTY.Key0213.text = ""
+hoTY.Key0214.text = ""
+hoTY.Key0215.text = ""
+hoTY.Key0216.text = ""
+hoTY.Key0217.text = ""
+
+//0300-0313
+//0400-0408
+
+hoTY.Key0408.mode = misc_en_UK_lash.Mode2
+hoTY.Key0408.text = "Protection of Christians that cannot be put to shame, unfailing mediation with the Maker, do not despise the voices of us sinners as we pray; but, in your love, be quick to help us who cry to you with faith: Hasten to intercede, make speed to entreat, O Mother of God, for you ever protect those who honour you."
+
+hoTY.Key0501.text = ""
+
+// Liturgy Antiphons
+hoLI.Antiphon1.text = "At the prayers of the Mother of God, O Saviour, save us."
+
+hoLI.Antiphon21.text = "Son of God, "
+hoLI.Antiphon2s.text = "risen from the dead,"
+hoLI.Antiphon2w.text = ""
+hoLI.Antiphon22.text = "save us who sing to you: Alleluia!"
+
+hoLI.EntranceHymn.text = "Come, let us worship and fall down before Christ." // in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
+hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
+
+hoLI.TrisagiosHymn.title = ""
+hoLI.TrisagiosHymn.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us."
+hoLI.TrisagiosHymn1.text = ""
+hoLI.TrisagiosHymn2.text = ""
+hoLI.TrisagiosHymn3.text = "Holy Immortal,"
+hoLI.TrisagiosHymn4.text = "have mercy on us."
+ 
+hoLI.OsoiEisChriston.title = ""
+hoLI.OsoiEisChriston.text = ""
+hoLI.OsoiEisChriston1.text = ""
+hoLI.OsoiEisChriston2.text = ""
+hoLI.OsoiEisChriston3.text = ""
+hoLI.OsoiEisChriston4.text = ""
+
+hoLI.TonStavronSou.title = ""
+hoLI.TonStavronSou.text = ""
+hoLI.TonStavronSou1.text = ""
+hoLI.TonStavronSou2.text = ""
+hoLI.TonStavronSou3.text = ""
+hoLI.TonStavronSou4.text = ""
+
+hoLI.GospelAlleluia.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia.text = prayers_en_UK_lash.Allilouia3.text
+
+hoLI.GospelAlleluia1.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia1.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia2.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia2.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia3.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia3.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia4.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia4.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia5.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia5.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia6.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia6.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia7.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia7.text = prayers_en_UK_lash.Allilouia3.text 
+
+hoLI.GospelAlleluia8.title = titles_en_UK_lash.Allilouia
+hoLI.GospelAlleluia8.text = prayers_en_UK_lash.Allilouia3.text 

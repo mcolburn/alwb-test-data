@@ -1,0 +1,488 @@
+A_Resource_Whose_Name = me.m12.dBC_en_UK_lash
+
+meDate.text = ""
+meCommemoration.text = "SUNDAY BEFORE THE NATIVITY OF CHRIST"
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = "SUNDAY BEFORE THE NATIVITY OF CHRIST"
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode1
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+meVE.Stichera01.text = "All-blameless Virgin, living Palace of God, you contained within yourself him whom the heavens cannot contain; beyond understanding you gave birth to him in the Cave, a beggar and incarnate, that he might make me divine and enrich me, made a beggar by the incontinence of bitter eating."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode1
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+meVE.Stichera02.text = "Through compassion enrolled with slaves, long-suffering Christ, by Caesar’s decree, you came to give freedom, life and deliverance to ungrateful servants, who worship your saving Nativity, for you have come to save our souls."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode1
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+meVE.Stichera03.text = "The All-holy and blameless Virgin, realising that her child-bearing was beyond explanation and had made new the laws of nature, cried to her Son: My Child, so much desired, I am amazed at the great mystery: I have born a child and yet remain a virgin by your power, who do all things by your will!"
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode8
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OEnEdemParadeisos.name
+meVE.Stichera04.text = "As we believers celebrate today the memorials of the Fathers, let us sing in praise to Christ the Redeemer; the Lord, who as mighty and powerful magnified them among all the nations and faithfully performed extraordinary wonders; and has revealed from among them a rod of power, Mary the only pure Child of God, who has not known man; from her Christ has come forth, the flower that blossoms with life for all, the inexhaustible delight and the salvation of our souls."
+
+meVE.Stichera05.mode = misc_en_UK_lash.Mode8
+meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OEnEdemParadeisos.name
+meVE.Stichera05.text = me.m12.dFF_en_UK_lash.meVE.Stichera03.text
+
+meVE.Stichera06.mode = misc_en_UK_lash.Mode8
+meVE.Stichera06.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OEnEdemParadeisos.name
+meVE.Stichera06.text = me.m12.dFF_en_UK_lash.meVE.Stichera04.text
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Daniel, the man of desires, when he saw a stone hewn without human hand, foretold that you, Lord, would be born as a babe without seed, you the Word incarnate of the Virgin, God unchanging and the Saviour of our souls."
+
+meVE.SticBoth.mode = misc_en_UK_lash.Mode6
+meVE.SticBoth.melody = ""
+meVE.SticBoth.text = "Cave prepare, for the Ewe Lamb comes bearing Christ in her womb; Manger receive him who with a word has loosed us born of earth from irrational action. Shepherds abiding in the fields, bear witness to a fearful wonder; Magi from Persia, offer the King gold, frankincense and myrrh; for the Lord has appeared from a Virgin mother. Bending over him like a slave, his Mother worshipped him and addressed him as he lay in her arms: How were you sown in me? How have you grown in me, my Redeemer and my God?"
+
+meVE.LityGlory.mode = misc_en_UK_lash.Mode1
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "The famous Prophets, dazzling thunderbolts of inspiration, are for ever blest. Plucking the words of the Spirit, they proclaimed to all the inexplicable birth of Christ God; rightly they reached the goal, having lived lives beyond wonder."
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode1
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = "Hear, O heaven, and give ear, O earth; for see, the Son and Word of God the Father comes forth to be born of a maiden who has not known man, by the good pleasure of him who begat him impassibly and by the co-operation of the Holy Spirit. Bethlehem, prepare; Eden, open your gate, for he who is becomes what he was not, and the Fashioner of all creation is fashioned, he who grants the world his great mercy."
+
+meVE.AposGlory.poet = ""
+meVE.AposGlory.mode = misc_en_UK_lash.Mode2
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "Hail honoured Prophets, who excellently ordered the Law of the Lord and by your faith appeared as indestructible, unshakeable pillars; for you were seen as the mediators of the New Testament of Christ; and now that you have passed over into heaven, implore him to grant peace to the world and to save our souls."
+
+meVE.AposBoth.mode = misc_en_UK_lash.Mode2
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = "See, the time of salvation is at hand; Cave prepare, the Virgin draws near to give birth. Bethlehem, land of Juda, rejoice and be glad, for our Lord has dawned from you. Hearken, mountains and hills, and the countries around Judea; for Christ is coming to save mankind whom he fashioned, for he loves mankind."
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "Great are the achievements of faith! In the fountain of flame, as by the water of rest, the three holy youths rejoiced, and the Prophet Daniel was revealed shepherding lions like sheep. At their intercessions, Christ God, save our souls."
+
+meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.text = he.h.m6_en_UK_lash.KymatiThalassis.text
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C11.text = "To you in fear the gates of death stand open and the everlasting bars are shattered; for at your revered descent the dead of old have risen up and with joy, O Christ, they sing your Resurrection."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C12.text = "Today the company of the godly Fathers radiantly feasts in anticipation Christ’s Nativity and traces the wonder of this grace: for Abraham and the Youths are a symbol of the Law."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C13.text = "Of old holy Abraham entertained the one Godhead in three persons; while now the Word, enthroned with the Father and the divine Spirit, comes forth for the Youths, and he is greatly praised."
+
+meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C14.text = "Abraham was delivered from an unjust hand, the godly Youths from the flame of the furnace and the Prophet Daniel from the wild beats and the den. And so they now feast in anticipation Christ’s Nativity."
+
+meMA.Ode1C15.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C15.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C15.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C15.text = "In number and faith of the divine Trinity the Youths in the furnace overthrew godlessness and in symbols revealed beforehand to the world the mysteries of God that were to be."
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C1T.text = "O full of grace, Mother without bridegroom, Virgin undefiled, we call you blessed, for you blossomed from the race of Abraham and the tribe of David, and you have given birth to Christ who was proclaimed of old by the Prophets."
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ChristosGennatai.name
+meMA.Ode1C21.text = "Christ made a child in the flesh, Christ willingly become a beggar, Christ made visible, the Virgin now comes to Bethlehem to give birth to him. Let heaven and earth be glad."
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ChristosGennatai.name
+meMA.Ode1C22.text = "You hills and mountains, leap for joy; Prophets inspired by God, dance. Peoples and nations, clap your hands. The salvation, the enlightenment of all is close at hand and comes to bei born in the city of Bethlehem."
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ChristosGennatai.name
+meMA.Ode1C2T.text = "The Rich becomes a beggar, and beggars those rich by wickedness. God is recognised as without change the mortal offspring of an unwedded Maiden. Let us all sing to him in praise, for he has been glorified."
+
+meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.text = he.h.m6_en_UK_lash.SeTonEpiYdaton.text
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C11.text = "After three days in the tomb, you raised by your Rising those dead since time began; they, loosed from condemnation, in harmony rejoiced and cried: See, you have come, Lord, our Redemption!"
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C12.text = "Thinking on the glory in the image and likeness of God, the Youths, by the fire of the Spirit, valiantly quenched the flame of the image of gold, as they sang with faith: We know no Lord but you."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C13.text = "With superiority of wisdom and the power of the Spirit the Youths took prisoner and put to shame the wise men of Babylon, and resolutely they cried out: None is Holy but you, O Lord, lover of mankind!"
+
+meMA.Ode3C14.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C14.text = "The Law rejoices and dances with the Youths and the Prophets, and leaps with joy today in anticipation of the divine shining out of the Lord. Abraham is glad, because he has seen the Lord incarnate from his seed."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C1T.text = "Your conceiving was without seed, the acquisition of your giving birth came forth beyond reason and beyond nature; for the Mystery so often spoken of supernaturally by Prophets has appeared to us, the Word of God, the Lord."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ToProTonAionon.name
+meMA.Ode3C21.text = "He who was begotten of the Father before the ages beyond understanding, in the last times became flesh from the Virgin, as he knows how, for he wished to renew humanity, corrupted by the plot of the evil serpent."
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ToProTonAionon.name
+meMA.Ode3C22.text = "The Son of God without beginning, who is seated in the highest with the Father and the Spirit, seeing how human nature had been brought low, takes a beginning and is about to be born in the flesh as man."
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ToProTonAionon.name
+meMA.Ode3C2T.text = "She who is holier than the Angels and all creation now bears in the flesh the Angel of the great counsel of the Father for the recalling of all who sing to him unceasingly: Holy are you, O Lord."
+
+meMA.Hypakoe.mode = misc_en_UK_lash.Mode8
+meMA.Hypakoe.melody = ""
+meMA.Hypakoe.text = "An Angel turned the furnace of the Youths to dew, while now he halts the women’s lamentation, saying: Why do you bring sweet spices here? Whom do you seek in a tomb? Christ God has risen, for he is the life and salvation of the human race."
+
+meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.text = he.h.m6_en_UK_lash.TinEnStavroSou.text
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinEnStavroSou.name
+meMA.Ode4C11.text = "Your divine descent into Hell, Christ God, declared life to the dead; for you bound the enemies below, loving Lord, and opened to mankind the path to heaven."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinEnStavroSou.name
+meMA.Ode4C12.text = "Let us honour the firstfruits of the Fathers, Abraham, Isaac and Jacob; for from their seed has shone out Christ, incarnate from a Virgin, as all-powerful."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinEnStavroSou.name
+meMA.Ode4C13.text = "Foretelling what would come to pass at Christ’s descent, Daniel revealed the wild beasts to be like sheep, as God’s prophet knowing in advance and clearly revealing the future to all."
+
+meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinEnStavroSou.name
+meMA.Ode4C14.text = "Not having sucked in the poison of sin, the Youths were snatched from the flame; for being truly more precious than gold, they were not melted in the furnace of error."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TinEnStavroSou.name
+meMA.Ode4C1T.text = "Loudly the expectation of the Nations is proclaimed in advance, and the world’s salvation: your childbearing, O holy and immaculate, which the company of the Fathers hymns today."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.RavdosEkTisRizis.name
+meMA.Ode4C21.text = "Rod out of Jesse’s root, O Virgin, you budded, and blossomed with a flower that does wither, the Creator of all, who as God decks the whole earth with flowers, which cries aloud to him: Glory to your power, O Lord!"
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.RavdosEkTisRizis.name
+meMA.Ode4C22.text = "O Word of God you came to get me back, who had been stolen through evil eating, had fallen away by my own will and become like the dumb beasts. So you became a babe and were laid in a manger for dumb beasts. Glory to your power, O Lord!"
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.RavdosEkTisRizis.name
+meMA.Ode4C2T.text = "Avvakum foresaw you, Jesus, incarnate of a shaded mountain, the Virgin, crushing the evil mountains and hills and handing over to oblivion the uprisings of the evil one and the rebellions of the demons."
+
+meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.text = he.h.m6_en_UK_lash.TheofaneiasSouChriste.text
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C11.text = "The shining Angel, clearly indicating the dazzling radiance of joy, is revealed in the tomb proclaiming Resurrection to the women; and they, setting sorrow aside, rejoiced, for Christ had risen, and they announced to the Apostles the message: Rejoice!"
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C12.text = "As we assemble today, let us with faith honour the firstfruit of the Fathers, as founder of both Law and Grace, the Patriarch Abraham; for as a Prophet of God he foretold Christ from a Virgin, and he advances to meet his divine Nativity."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C13.text = "Abraham’s Children, clearly foreshadowing the Lord’s coming to us, through the presence of an Angel quenched the furnace and made the fire a fine mist of dew, and thus by faith they melted down the glory of the golden image."
+
+meMA.Ode5C14.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C14.text = "By the Spirit Daniel stopped the mouths of wild beasts in the den; by grace the Children of Abraham quenched the strength of the fire, and saved from destruction they foretell Christ from a Virgin, begging him, as Redeemer, for our salvation."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C1T.text = "Showing by the Spirit of God your passionless acquisition of our nature, O Lord, Isaias cried aloud, as he watched for the Law of grace: A Virgin is coming to give birth without seed to one according to the flesh of Abraham’s race, but of the tribe of Juda."
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
+meMA.Ode5C21.text = "By nature the Master, you are found with slaves. All-perfect Son of God, you were well-pleased to be called Son of Man, All-merciful; and so you willingly became a beggar and are coming to be born in the Cave, O supremely Good."
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
+meMA.Ode5C22.text = "Christ our King, by nature uncontainable, how will a little cave receive you? How will a manger, Jesus, be able to contain you? From a Mother who has not known man you come in flesh, Lord, to your own that you may save those who have been banished."
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
+meMA.Ode5C23.text = "The Ewe-lamb has come forth to bear the Shepherd. Holy Cave, prepare. Shepherds, hasten to behold the Lamb and Shepherd who has been born. Magi with gifts prepare to worship him in the flesh as King."
+
+meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.text = he.h.m6_en_UK_lash.TouViouTinThalassan.text
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C11.text = "By your burial for three days, O good one, in a manner fitting God you accomplished the slaughter of death and the cleansing of Hell. By rising you poured out life for those in the world, Jesus our King."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C12.text = "Since his way was that of hospitality and his faith exalted, Abraham, the forefather, received in type the divine mystery and he rejoiced; while now, as he hastens before Christ, he exults."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C13.text = "Now by the Spirit’s gift faith subjected nature to the Youths; for the fire, which devours all and is without fear, was filled with fear of those who honour the maker of fire, Jesus Christ."
+
+meMA.Ode6C14.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C14.text = "Daniel the prophet in the den once showed how the savagery of the world is trained for the peace of God by the coming of Christ, for in manner fitting God he tamed the lions."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C1T.text = "O Mary, Mother who knew not man, from your virgin womb you bore the Christ, whom the Prophets saw in vision; while now the Fathers dance in anticipation of his Nativity."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C21.text = "Sovereign Lady, you are a new heaven. From your womb, as from a cloud, you hasten to make Christ, the sun of glory, dawn in a cave in the flesh, for by his owns bright rays he is going to make all the fullness of the earth cry aloud because of his measureless pity."
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C22.text = "Compassionate Christ, you saw our grief and our trouble, and you did not despise us; but, without parting from your Father, you emptied yourself and dwelt in a womb that knew not wedlock, which now comes to the Cave to give birth to you in the flesh without pangs."
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C23.text = "Mountains and hills, plains and valleys, peoples and tribes, nations and everything that has breath, filled with divine joy, shout in exultation: The redemption of all, the timeless Word of God, through pity subject to time, came and dwelt on earth."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode6
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "Because you did not honour an image traced by human hand, but were armed with the breastplate of uncreated being, you were glorified, thrice-blessed Youths, in the arena of the fire; but standing in the midst of the immaterial flame you called on God: Come swiftly in your pity, hasten in your mercy to come to our aid, for you can accomplish whatever you will."
+
+meMA.Oikos1.text = "Stretch out your hand, which of old the warring Egyptians and the warred-on Hebrews experienced; do not abandon us, do not let death swallow us. He thirsts for us and Satan hates us; but draw near us and spare our souls, as you once spared the Youths, who without ceasing sang your praise in Babylon, and were cast into the furnace for your sake, while from its midst they cried to you: Come swiftly in your pity, hasten in your mercy to come to our aid, for you can accomplish whatever you will."
+
+meMA.Kontakion2.mode = misc_en_UK_lash.Mode1
+meMA.Kontakion2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.ChorosAngelikos.name
+meMA.Kontakion2.text = "Bethlehem rejoice, Ephrata prepare; for see the Ewe-lamb, bearing in her womb the great Shepherd, hastens to give birth. Seeing him the godbearing Fathers exult as with the Shepherds they hymn a Virgin who gives suck."
+
+meMA.Oikos2.text = "Seeing the dazzling radiance of your conceiving, O Virgin, Abraham the friend of God, noble Isaac, Jacob and the whole choir of saints chosen by God rejoice; and they bring creation to meet you with words of joy. For you appeared as the source of joy, since you conceived in your womb him who once appeared in Babylon and beyond all understanding preserved unburned the Youths unjustly cast into the furnace. And so they also raise the song as they hymn a Virgin who gives suck."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.text = he.h.m6_en_UK_lash.AfrastonThavma.text
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C11.text = "O strange wonder! The Lord himself, who is seated on a throne in the highest, by his taking flesh underwent death; but in the strength of his Godhead he rose and raised with himself the dead since time began. "
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C12.text = "Father Abraham, author of the faith, by being Christ’s ancestor according to the flesh, you were clearly revealed by the Spirit as Father of the nations, for the salvation of us who sing: Redeemer, our God, blessed are you!"
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C13.text = "The song of the living blunted the vainly shouting voices of the lifeless; for the Youths, with bodies aflame, trampled down the fire of the furnace as they cried: Our God, blessed are you!"
+
+meMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C14.text = "Of old the Prophet Daniel, gazing intently with the vision of the Spirit, foreshadowed the second coming of Christ, and foretold its dread accompaniments, as he cried: Our God, blessed are you!"
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C1T.text = "The strange wonder spoken of openly of old by prophets and by fathers, a Virgin who will give birth, is come to pass, for the salvation of us who sing: Redeemer, our God, blessed are you!"
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
+meMA.Ode7C21.text = "The godly vine, which makes the pure cluster ripen, draws near and has come to give birth to the wine of joy which gushes forth and gives drink to us who cry to him: God of our fathers, blessed are you!"
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
+meMA.Ode7C22.text = "The divine casket, bearing within it the sweet-scented myrrh, is coming to pour it out in the cave of Bethlehem, and fill with mystic fragrance those who sing: God of our fathers, blessed are you!"
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
+meMA.Ode7C23.text = "The tong, which the prophet Isaias saw of old, has come carrying in her womb the divine coal, Christ, who burns up all the material of sin and guides the souls of the faithful to the light."
+
+meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.text = he.h.m6_en_UK_lash.EkstithiFrittonOurane.text
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C11.text = "How ineffable, O Christ, is your condescension for us lowly creatures! For see, you tasted death, though you are immortal God, and were laid as a mortal in a tomb. But you arose, O Word, and raised up with yourself those below who highly exalt you to all the ages."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C12.text = "Foreshadowing your slaughter, O Christ, Abraham, obedient to you, his Master, ascended the mountain in faith to sacrifice like a sheep the son he had begotten. But he came back rejoicing, Isaac and the aged man highly exalting you to all the ages."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C13.text = "The unresting flame, O Christ, was quite dulled when the Holy Youths clothed themselves in you, the divine fire, as in a garment, and by your condescension the dew echoed round them as they sang: Priests bless, people highly exalt him to all the ages!"
+
+meMA.Ode8C14.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C14.text = "By ineffable judgements the prophet Daniel is given as fodder to lions; but devoutly he held the wild beasts by teachings of self control to be his fellow fasters in the pit of the den. At his prayers and those of Abraham and the Youths keep in peace those who sing your praise."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C1T.text = "Jesus Emmanuel, the Son and Word without beginning of God the Father, whom prophetic voices faithfully foretold, I coming in human form. From the Holy Spirit the Virgin Mary gives birth to him without wedlock in the city of Bethlehem."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ThavmatosYperfyous.name
+meMA.Ode8C21.text = "Glory to God in the highest, let us cry in joy with the Angels. The Saviour will be born. The Master, whom a Star shows to the Magi as they hasten to behold him in a manger, will come to make his dwelling. Let all creation bless the Lord, and highly exalt him to all the ages."
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ThavmatosYperfyous.name
+meMA.Ode8C22.text = "Obedient to Caesar’s law, Master, you were willingly enrolled among slaves, that as God you might free humanity from the slavery of the evil one, O most merciful. therefore with joy we raise the song: Let all creation bless the Lord, and highly exalt him to all the ages."
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ThavmatosYperfyous.name
+meMA.Ode8C2T.text = "O Word without beginning, I carry you as a young babe, yet am wholly without knowledge of man, said the Virgin. I am at a loss to know whom I should name as your father on earth; therefore with all I raise the song to you: Let all creation bless the Lord, and highly exalt him to all the ages."
+
+meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.text = he.h.m6_en_UK_lash.MiEpodyrouMouMiter.text
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C11.text = "Creation, why do you lament as you behold God the Master of life on a Cross and on a bier? For he will arise and radiantly renew you by his rising on the third day, having destroyed death and raised with himself those who sing his praise."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C12.text = "As we celebrate the feast of the Ancestors before the Law, let us honour in a manner fitting God Jesus, who came from them. For Abraham, Isaac and Jacob have been revealed as the foundation of the Prophets and the Law, and by faith the spiritual firstfruits of Grace."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C13.text = "The God, who in a divine vision showed in fire to Moses in the Bush the mystery beyond understanding, the same came down to the Youths in the fire and by the fire of his own divine nature turned the flame of the furnace to dew."
+
+meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C14.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C14.text = "The all-holy Youths and wondrous Daniel, God’s prophet, Isaac and Jacob, and with Moses Aaron join Abraham and dance with faith before Christ’s birth, as they intercede unceasingly that we may be saved."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C1T.text = "All creation rejoices, O Virgin, at your child-bearing; for Bethlehem has opened Eden to us; and see, we all enjoy the tree of life as we cry insistently: Master, fulfil our entreaties!"
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MystirionXenon.name
+meMA.Ode9C21.text = "Strange, wonderful and dread mysteries! The Lord of glory came to earth, and as a beggar in a cave he put on flesh, seeking to call back Adam, and to deliver Eve from her pains."
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MystirionXenon.name
+meMA.Ode9C22.text = "By your swaddling bands you loose the cords of offences, while by your poverty, O Compassionate, you make all rich. Laid in manger for unreasoning beasts, you free mortals from irrational wickedness, O Word of God ever without beginning."
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MystirionXenon.name
+meMA.Ode9C2T.text = "The proclamations of the Prophets have come to their end, for he whom they prophesied would come at the consummation of the years, has came, has appeared, embodied of a pure Virgin. Let us receive him with pure minds."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = "The princes of the Patriarchs and the Fathers before the Law, Abraham, Isaac and Jacob, shone out by faith like beacons; for all the Prophets and the Just like torches took their light from them, and formed of light they enlightened all creation in its darkness with rays of honoured prophecy."
+
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.text = "Bethlehem, rejoice; and you, Ephrata, prepare, for the Mother of God has come to give birth to God ineffably in a cave and in a manger. O dread mystery! whose divine Nativity Abraham, Isaac and Jacob, all the Patriarchs and Prophets now radiantly feast in anticipation, as mortals do with Angels."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode5
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds1.text = "Sion, godly city of God, truly raise your voice and proclaim the godly memory of the Fathers, with Abraham and Isaac honouring noble Jacob; see, with Juda and Levi we magnify Moses the great, Aaron the inspired, and with David we exalt Jesus and Samuel. Clapping our hands we all in songs inspired sing in anticipation the divine praise of Christ, and we beg that we may obtain the lovingkindness which comes from him, who grants the world his great mercy."
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode5
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds2.text = "Come, Elias, who once rode in a fiery chariot from God, inspired Elisaios, rejoice with Ezekias and Josias; you twelve honoured Prophets, inspired by God, dance together at the Saviour’s birth, and all you Just sing songs. All-blessed Youths, who quenched the flame of the furnace by the Spirit’s dew, intercede for us, imploring Christ God that our souls may be given his great mercy."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode5
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
+meMA.Lauds3.text = "She, who from all eternity was proclaimed on earth by the voices of the Prophets, has appeared, the Virgin Mother of God, whom wise Patriarchs and multitudes of Just announce. With them the loveliness of women dances, Sara, Rebecca and Rachel, and renowned Miriam too, Moses sister. With them all the ends of the earth rejoice, all creation exults, for God coming to be born in flesh and to grant the world his great mercy."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "The collected teachings of the Law reveal the divine Nativity of Christ in the flesh to those who heard the good tidings of Grace before the Law, as by faith they surpassed the Law. Therefore they proclaimed beforehand to the souls held fast in Hell that through the Resurrection it is the cause of escape from corruption. Lord, glory to you."
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode3
+meLI.SeasonalKontakion.melody = misc_en_UK_lash.AutomelonNotMetered
+meLI.SeasonalKontakion.text = //me.m12.d20_en_UK_lash.meMA.Kontakion1.text
+
+meMegalynarion.text = ""
+

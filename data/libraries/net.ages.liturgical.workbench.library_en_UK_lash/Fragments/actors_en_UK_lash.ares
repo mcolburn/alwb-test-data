@@ -1,0 +1,17 @@
+A_Resource_Whose_Name = actors_en_UK_lash
+
+Candidate_Sponsor = ""
+Chanter = ""
+ChanterOrReader = ""
+Choir = "PEOPLE"
+ChoirL = ""
+ChoirR = ""
+Clergy = "CLERGY"
+ClergyAndPeople = ""
+Deacon = "DEACON"
+Hierarch = ""
+HierarchOrPriest = ""
+People = "PEOPLE"
+Priest = "PRIEST"
+PriestOrDeacon = ""
+Reader = "READER"

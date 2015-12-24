@@ -1,0 +1,21 @@
+A_Resource_Whose_Name = sy.m01.d05_en_US_dedes
+
+S01.commemoration.text = "On January 5, we commemorate the holy Martyrs Theopemptos and Theonas."
+
+S02.commemoration.text = "On this day we also commemorate Saint Synkletike."
+
+S03.commemoration.text = "On this day we also commemorate our devout father Gregory who was in Acritas."
+
+S04.commemoration.text = "On this day we also commemorate our devout father Phosterios."
+
+S05.commemoration.text = "On this day, the holy Martyr Sais died after being thrown into the sea."
+
+S06.commemoration.text = "On this day, the holy Martyr Theoeidos died when he was trampled by the executioners."
+
+S07.commemoration.text = "On this day, the devout woman Domnina died in peace."
+
+S08.commemoration.text = "On this day, the devout woman Tatiana died in peace."
+
+S09.commemoration.text = "The holy new monastic Martyr Romanos of Karpenisi witnessed in Byzantium in the year 1694 and died by the sword."
+
+S99.lastline.text= "By their holy intercessions, O God, have mercy on us."

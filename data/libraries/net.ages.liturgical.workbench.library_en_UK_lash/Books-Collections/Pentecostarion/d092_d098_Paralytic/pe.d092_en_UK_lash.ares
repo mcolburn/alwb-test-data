@@ -1,0 +1,427 @@
+A_Resource_Whose_Name = pe.d092_en_UK_lash
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.day = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+peSV.Aposticha2.mode = misc_en_UK_lash.Mode3
+peSV.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
+peSV.Aposticha2.text = ""
+
+peSV.Aposticha3.mode = misc_en_UK_lash.Mode3
+peSV.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
+peSV.Aposticha3.text = ""
+
+peSV.Aposticha4.mode = misc_en_UK_lash.Mode3
+peSV.Aposticha4.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
+peSV.Aposticha4.text = ""
+
+peVE.Stichera09.mode = misc_en_UK_lash.Mode1
+peVE.Stichera09.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera09.text = ""
+
+peVE.Stichera10.mode = misc_en_UK_lash.Mode1
+peVE.Stichera10.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera10.text = ""
+
+peVE.SticGlory.mode = misc_en_UK_lash.Mode5
+peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.SticGlory.text = ""
+
+peVE.LityGlory.poet = poets_en_UK_lash.Koumoula
+peVE.LityGlory.mode = misc_en_UK_lash.Mode5
+peVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.LityGlory.text = ""
+
+peVE.LityBoth.mode = misc_en_UK_lash.Mode5
+peVE.LityBoth.melody = ""
+peVE.LityBoth.text = oc.m5.d1_en_UK_lash.ocVE.AposTheotokion.text
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode8
+peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.AposGlory.text = ""
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode3
+peMA.Kathisma11.melody = ""
+peMA.Kathisma11.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_UK_lash.Mode3
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma12.text
+
+peMA.Kathisma13.mode = misc_en_UK_lash.Mode3
+peMA.Kathisma13.melody = misc_en_UK_lash.AutomelonNotMetered
+peMA.Kathisma13.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.text
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode3
+peMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+peMA.Kathisma21.text = ""
+
+peMA.Kathisma22.mode = misc_en_UK_lash.Mode3
+peMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+peMA.Kathisma22.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma22.text
+
+peMA.Kathisma23.mode = misc_en_UK_lash.Mode3
+peMA.Kathisma23.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+peMA.Kathisma23.text = ""
+
+peMA.C1Poet = poets_en_UK_lash.IosifThessalonikis
+peMA.C1Acrostic.text = ""
+
+peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode1C1H.text = he.h.m3_en_UK_lash.ThavmastosEndoxos.text
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C11.text = "O only King, who perform signs and do marvels, as merciful you willingly underwent the Cross; having put death to death by death, you have given us life." 
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C12.text = "At Christ’s Rising let us dance with faith today, O peoples: Hell has been despoiled; rapidly he gave up the prisoners he held, as they hymned the wonderful works of God." 
+
+peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C13.text = "O Christ, who once with divine power braced the limbs of the paralytic by your word and ordered him who had been weak for many years to take up his bed, heal my fearsomely sick soul." 
+
+peMA.Ode1C1F1.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C1F1.text = "Once the Angel would come down into the Sheep Pool and cure one person each year; but now by divine Baptism Christ cleanses unnumbered multitudes."
+
+peMA.Ode1C1F2.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C1F2.text = "Prince of Angels, Chief Captain of the ministers on high, protect, and guard those who have come together in your venerable temple and who sing God’s praises."
+
+peMA.Ode1C1Tr.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C1Tr.text = "With the Bodiless ones let us ceaselessly sing the praise of God without beginning in three persons but one nature, Father, Word, Spirit, with kingdom and might undivided."
+
+peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ThavmastosEndoxos.name
+peMA.Ode1C1T.text = "O holy one, ever save this your city, which honours you, from dangers, capture by aliens, civil war, the sword and every other threat."
+
+peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode3C1H.text = he.h.m3_en_UK_lash.SteiraPsychi.text
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.SteiraPsychi.name
+peMA.Ode3C11.text = "The sun of old seeing you hanging upon the tree, O Word, withdrew its light, the whole earth was shaken; when you died the dead arose, O all-powerful." 
+
+peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.SteiraPsychi.name
+peMA.Ode3C12.text = "When you came with your soul to the belly of the earth, Hell speedily gave up the souls he had acquired, which loudly sang a song of thanks to your might, O only Lord." 
+
+peMA.Ode3C1F1.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.SteiraPsychi.name
+peMA.Ode3C1F1.text = "O most Good, heal my soul which for many many years has been grievously sick; that I may tread the paths which you have marked out for those who long for you."
+
+peMA.Ode3C1F2.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.SteiraPsychi.name
+peMA.Ode3C1F2.text = "With the ranks on high make intercession, O Archangel of God, for those who hymn you in faith, guarding and protecting us who fall into the snares of life’s passions."
+
+peMA.Ode3C1Tr.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.SteiraPsychi.name
+peMA.Ode3C1Tr.text = "Glory let us cry aloud to Father, Son and Spirit: for God is one by nature, whom all the powers of heaven glorify in fear, crying: Holy, Holy, Holy!"
+
+peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.SteiraPsychi.name
+peMA.Ode3C1T.text = "Your conceiving was without seed, your child-bearing beyond understanding, O immaculate Virgin-mother; an awesome thing, greatest marvel, feared by Angels, glorified by mortals, O Maiden, Sovereign Lady ."
+
+peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode3
+peMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
+peMA.Ode3Kathisma1.text = ""
+
+peMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode3
+peMA.Ode3Kathisma2.melody = misc_en_UK_lash.AutomelonNotMetered
+peMA.Ode3Kathisma2.text = he.a.m3_en_UK_lash.TinOraiotita.text
+
+peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode4C1H.text = he.h.m3_en_UK_lash.ToKataskionOros.text
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C11.text = "Consumed by envy the Hebrew people crucified you on a tree, O Lord; and having annulled the sentence of death, you rose from the dead as mighty, raising the world with you." 
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C12.text = "‘Why, O women, do you seek the inexhaustible Sweetness with sweet spices? he has risen’, the one who was seated clothed in white said to the Myrrhbearers, ‘and fills the whole world with fragrance." 
+
+peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C13.text = "Bearing the image of a servant in your surpassing compassion, O Word, you passed by on your way and restored health to the man who had lain sick for many years, and ordered him to take up his bed." 
+
+peMA.Ode4C1F1.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C1F1.text = "An Angel of the Lord went down at a certain time and stirred up the water in the Sheep Pool, making one, and only one person well; but Christ saves countless multitudes by divine Baptism."
+
+peMA.Ode4C1F2.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C1F2.text = "Prince of the Angels, guide of the erring, God’s Chief Captain, be among us at this hour, and offer all our prayers to the only Maker and Master."
+
+peMA.Ode4C1Tr.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C1Tr.text = "The holy Trinity is united in nature, divided in persons: the Father beyond all being, and the co-eternal Son and the Holy and alone all-powerful Spirit."
+
+peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToKataskionOros.name
+peMA.Ode4C1T.text = "How did you give suck, O pure one? How give birth to an infant more ancient than Adam? How bear in your embrace as Son him who is borne on the shoulders of the Cherubim? As he understands, as he knows, he who gave everything being."
+
+peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode5C1H.text = he.h.m3_en_UK_lash.FotiToAnespero.text
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C11.text = "You were lifted up on the tree of the Cross and you lifted up the whole world with you; and among the dead as God you raise those who have been dead since time began." 
+
+peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C12.text = "Christ has risen as he said, having emptied the palaces of Hell, and he appears to the Apostles, giving them a share in the joy that lasts forever." 
+
+peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C13.text = "A snow-white, dazzling Angel appeared to the women saying, ‘Do not weep. Our life has arisen, having given life to the dead in the graves’." 
+
+peMA.Ode5C1F1.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C1F1.text = "As you raised the Paralysed Man, O Christ, heal my soul crippled by transgressions, and lead me aright to walk in your straight paths."
+
+peMA.Ode5C1F2.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C1F2.text = "Michael, Prince of Angels, save the people which throngs your temple to-day and proclaims the wonderful works of God."
+
+peMA.Ode5C1Tr.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C1Tr.text = "Equal in honour, triple Unity, separated faithfully in persons but united in nature, are Father, Son and the divine Spirit."
+
+peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.FotiToAnespero.name
+peMA.Ode5C1T.text = "We hymn your child-bearing without seed and your birth-giving beyond understanding, O Pure one, calling you blessed as Mother of the Maker of all things and Master."
+
+peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode6C1H.text = he.h.m3_en_UK_lash.VythosMoiTonPathon.text
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C11.text = "Willingly you were raised on a tree, you were placed as a dead man in a tomb, and having given life to all the dead in Hell together, you rose, O Christ, by divine power." 
+
+peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C12.text = "Hell meeting you below was embittered, Merciful one, and hastily gave back his prisoners, as they hymned your dread Resurrection, Saviour, with never silent voices." 
+
+peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C13.text = "The divine Disciples, when they saw the life of all come from the grave, with great desire, right judgement and gladness of soul worshipped the risen Christ." 
+
+peMA.Ode6C1F1.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C1F1.text = "He who of old had lain for many years on a bed of pain, at your order, O Christ, was made whole, and with hymns glorified your compassion, O Giver of life."
+
+peMA.Ode6C1F2.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C1F2.text = "Michael, Prince of Angels, who stand by the throne of the Master, be present among us now and guide us who have gained you as a fervent protector towards paths of life."
+
+peMA.Ode6C1Tr.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C1Tr.text = "With the dread armies above, I reverence you, Trinity in persons; I proclaim you, Unity in Being, O Father without beginning, Son, right Spirit, God of all."
+
+peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.VythosMoiTonPathon.name
+peMA.Ode6C1T.text = "He who bears all things by divine spirit is held, Virgin Mother of God, in your arms. He snatches us all from the enslaving hand of the foe, for he is compassionate."
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode3
+peMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.IParthenosSimeron.name
+peMA.Kontakion1.text = "By your divine presence, O Lord, raise my soul, grievously paralysed by sins of every kind and by unnatural deeds, as you also raised the Paralysed Man of old, that saved I may cry to you: O merciful Christ, glory to your might."
+
+peMA.Oikos1.text = "You grasp the ends of the earth in the hollow of your hand, Jesus, God without beginning with the Father, Master of all things with the Holy Spirit; you appeared in flesh, healing diseases and banishing sufferings, giving light to the blind, and with a divine word you raised up the Paralysed Man, ordering him to walk quickly and to take up on his shoulders the bed which had borne him; therefore with him we all sing praises and cry out: O merciful Christ, glory to your might."
+
+peMA.Synaxarion.commemoration.text = ""
+peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+peMA.Synaxarion.couplet1.verse1 = ""
+peMA.Synaxarion.couplet1.verse2 = ""
+peMA.Synaxarion.lastline.text = ""
+
+peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode7C1H.text = he.h.m3_en_UK_lash.OTinFloga.text
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C11.text = "When it saw you stretched upon the Tree the sun withdrew its light, unable to shine on the world when you, O King of all, had willingly set to give light to all nations." 
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C12.text = "You arose, having emptied the graves and despoiled Hell by your almighty power; therefore, O Christ, we hymn your holy and divine Rising." 
+
+peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C13.text = "‘Why do you seek the living as one dead? he has risen. he is not in the tomb’ the divine Angel, in appearance as flashing lightning, cried to the Myrrhbearers." 
+
+peMA.Ode7C1F1.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C1F1.text = "With a word you healed the Paralysed Man, who had lain sick for many years, and you cried to him: Take up your bed, and go, praising the wonderful works of God."
+
+peMA.Ode7C1F2.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C1F2.text = "Michael, Chief Captain of the Lord, guide those who in faith have crowded into your divine temple to praise God; protect them by your mediation from every kind of danger."
+
+peMA.Ode7C1Tr.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C1Tr.text = "O Trinity, save from every kind of danger those who in faith hymn you as God of all and Master, and make them sharers in your good things."
+
+peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OTinFloga.name
+peMA.Ode7C1T.text = "You remained Virgin when above reason you bore without change him who was born of the Father without beginning before all ages; therefore, Pure one, we call you blest."
+
+peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode8C1H.text = he.h.m3_en_UK_lash.TonYpAngelon.text
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C11.text = "The veil was rent when you were crucified, O our Saviour, and death gave up the dead whom it had swallowed; and Hell was stripped bare when it saw you in the lowest regions of the earth." 
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C12.text = "Where death is your sting? Where grave is now your victory? You have been slain and destroyed by the risen King; you reign no longer; the Mighty One has taken away those whom you held prisoner." 
+
+peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C13.text = "‘Run quickly, announce the Resurrection to the Apostles’, cried the shining young man to the Myrrhbearers, ‘The Master has risen, and with him wondrously the dead from time’s beginning’." 
+
+peMA.Ode8C1F1.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C1F1.text = "The Paralysed Man, who had lain for many years, cried: Have mercy on me, afflicted by distress, O Redeemer. But he orders him to take up his bed with haste and to walk upright."
+
+peMA.Ode8C1F2.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C1F2.text = "O Chief Captain, as leader of the immaterial Powers, with them ask for us redemption from faults, correction of life and enjoyment of the eternal good things of heaven."
+
+peMA.Ode8C1Tr.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C1Tr.text = "Let us hymn in consort the uncreated, indivisible Essence, the three-personned Godhead, Father without beginning, and Son and Holy Spirit, crying with the Seraphim the dread melody."
+
+peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.TonYpAngelon.name
+peMA.Ode8C1T.text = "Of old Isaias saw you as a book, Ever-virgin, in which the timeless Word had been inscribed by the Father’s finger, saving us from all unreason, who hymn you with sacred words."
+
+peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1H.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode9C1H.text = he.h.m3_en_UK_lash.EnSinaioToOrei.text
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C11.text = "Jesus, lifted up upon the tree, you lifted us up with you; and placed willingly in a tomb, you raised from the graves all the dead, who praise your incomprehensible might and your invincible power." 
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C12.text = "O Word most fair, you dawned most fair from the grave as a bridegroom from his chamber; you abolished the gloom of Hell, and delivered the prisoners, who sang in consort: Glory to your glory! Glory, Jesus our God, to your Rising!" 
+
+peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C13.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C13.text = "Swiftly the women came to the all-holy grave bringing sighs and tears with sweet spices, and they were taught in faith Christ’s Rising, which we celebrate, rejoicing in gladness of soul." 
+
+peMA.Ode9C1F1.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1F1.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C1F1.text = "Energy of body followed your order, O Christ, and the man formerly Paralysed was seen going by in haste, bearing the bed on which he had lain for many years, and praising your great power."
+
+peMA.Ode9C1F2.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1F2.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C1F2.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C1F2.text = "Plead for enlightenment for us, great Chief Captain, who always stand in the great light, and give peace to our life forever shaken by the assaults of the serpent and by life’s difficulties, O holy one."
+
+peMA.Ode9C1Tr.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1Tr.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C1Tr.text = "Holy, Holy, Holy, I cry with the powers above, as with all reverence I glorify you, light and lights, life and lives, Father, Word and Holy Spirit, three-personned Unity, inseparable might, unconfused Godhead."
+
+peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1T.mode = misc_en_UK_lash.Mode3
+peMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnSinaioToOrei.name
+peMA.Ode9C1T.text = "He came from your light-bearing womb, Christ the great Sun, and enlightened the world, O immaculate, with his bright rays, and he removed the darkness of the transgression; therefore we hymn you as cause of all good, O bride of God."
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+peMA.Exaposteilarion1.text = "Having fallen asleep in the flesh as a mortal, O King and Lord, you rose again on the third day, raising up Adam from corruption, and abolishing death. O Pascha of incorruption, O salvation of the world."
+
+peMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.LaudsGlory.text = "O Lord, the pool did not cure the Paralysed Man, but your word renewed him, nor did his sickness of so many years hinder it, for the force of your voice was shown to be sharper; and he cast off the weight so hard to carry and carried the burden of his bed as a witness to the multitude of your mercies; glory to you."
+
+peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
+peLI.TheotokosHymnVerse.text = pe.d00P_en_UK_lash.pePA.Ode9MKa.text
+peLI.TheotokosHymn.text = pe.d00P_en_UK_lash.pePA.Ode9T1.text
+
+peMegalynarion.text = "It is the day of Resurrection; let us be radiant for the festival, and let us embrace one another. Let us say, O brethren, even to those who hate us: let us forgive all things at the Resurrection, and so let us cry: Christ is risen from the dead; death he trampled down by death, and to those in the tombs he has given life."

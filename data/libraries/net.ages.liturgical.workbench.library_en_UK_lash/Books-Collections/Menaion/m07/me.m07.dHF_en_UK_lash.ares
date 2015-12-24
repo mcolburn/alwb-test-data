@@ -1,0 +1,441 @@
+A_Resource_Whose_Name = me.m07.dHF_en_UK_lash
+
+meDate.text = ""
+meCommemoration.text = "" // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode6
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Stichera01.text = "The revered gathering of the wise Fathers proclaimed you, O Lover of mankind, the uncircumscribed and indescribable Word who became flesh for our sake, to be perfect God and perfect man, double in natures and energies and wills; one and the same by hypostasis; therefore knowing you to be one God with the Father and the Spirit, we worship you as we call the Fathers blessed."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode6
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Stichera02.text = "Glorious Fathers, you overthrew Pyrrhus and Sergios, with Honorius, Eftyches, Dioskoros and dread Nestorios, saving Christ’s flock from both sheer cliffs by radiantly proclaiming Christ one by hypostasis, but double in natures, revealed by energies alone; as we also worship him as man and perfect God, with the Father and the Spirit, we now glorify you."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode6
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Stichera03.text = "The God-bearing Fathers with one accord proclaimed to be uncreated the divine energy and the divine will of the One who became a beggar, as they allotted my humanity to the flesh, while the blessed Saints wisely fled from the createdness of the energy and will, the confusion of nature and the separation of the person. We faithful, as we honour them with yearly festivals, with one accord glorify Christ who glorified them."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode6
+meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Stichera04.text = "The God-bearing Fathers with one mind today proclaimed the uncreated Trinity to be one God and Lord, fittingly demonstrating to all the simplicity of the one nature, with common will and simplicity of energy, making him known through all things as without beginning and without end; therefore we sing their praise all as imitators of the Apostles and all teachers of their Gospel."
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Let us praise today the mystical trumpets of the Spirit, the Godbearing Fathers, who sang a harmonious melody of theology in the midst of the Church: one Trinity, unchanging Essence and Godhead; the overthrowers of Arius, the champions of the Orthodox, who ever intercede with the Lord that he have mercy on our souls."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode3
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "You have become strict guardians of the apostolic traditions, holy Fathers: for by teaching the orthodox doctrine that the holy Trinity is consubstantial, you overthrew in council the blasphemy of Arius; after him you refuted Makedonios, opponent of the Spirit, you condemned Nestorios, Eftyches and Dioscoros, Sabellios and the leaderless Severos; ask, we pray, that, delivered from their error, we may guard our life unsullied in the faith."
+
+meVE.AposBoth.mode = misc_en_UK_lash.Mode3
+meVE.AposBoth.melody = ""
+meVE.AposBoth.text = oc.m3.d1_en_UK_lash.ocVE.AposTheotokion.text
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "You are glorified above all, Christ our God, who established our Fathers as beacons on the earth, and through them guided us all to the true faith. O highly compassionate, glory to you!"
+
+meVE.Apolytikion2.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TisErimouPolitis.name
+meVE.Apolytikion2.text = ""
+
+meMA.C1Acrostic.text = "The two canons of the Fathers, the acrostic of the first is:
+I hymn the skilful purgers of error. In the Theotokia: Philotheos."
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C11.text = "Master, as I propose to sing the praise of the skilled demolishers of error, I call on your almighty grace from on high, and on your force; for you are indeed the right hand and power of the Father."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C12.text = "Following the words of the sacred Prophets and the laws of the Gospels, the wise Fathers taught us clearly the known and unknown things of God, and delivered all from error."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C13.text = "From on high the prophetic choir and the godly company of the Apostles plainly taught one God in three persons and almighty; whom the holy Fathers clearly revealed to us."
+
+meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C14.text = ""
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
+meMA.Ode1C1T.text = "As through God’s action you con­tained in your womb the Light with triple lamp, as you are loving, enlighten the hearts of those who de­voutly sing your praise; for you are light and glory and eternal salvation."
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C21.text = "The devout gathering of the Fathers, which was welded together against Eftyches, following and abiding by the teachings of the godlike Father, Cyril, truly defined the Saviour with two undivided natures."
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C22.text = "The three hundred and sixty most devout men overthrew the error of Eftyches and the heresy of Severos when they said: We proclaim Christ in two essences, following the words of the blessed Cyril."
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C23.text = "Anyone who does not proclaim Christ, the Word of the Father, in the two natures and energies, let them be anathema; for the fourth Council of the Holy Fathers thus wisely laid down. Therefore let us all call them blessed."
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C2T.text = "Glorious things have been spoken of you from generation to generation, Mary Mother of God, who contained in your womb God the Word, while remaining pure; and so we all honour you as  after God our protection."
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C11.text = "The first source of blessings, the grace of the Spirit, opened your mouths as rivers which sweep away error, glorious Fathers, and give the faithful streams of true religion to drink, the preaching of Prophets and Apostles."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C12.text = "Wise Fathers, you nobly destroyed all together Sergios and Pyrrhos the dread champions of heresy, Paul and Peter and Theodore, establishing the holy Church on the teachings of Apostles and Fathers."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C13.text = "The God-bearing Fathers, plainly proclaiming the energy without beginning of the Godhead without beginning, taught the created energy of the created addition, preaching Christ as one Son in a duality of natures."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
+meMA.Ode3C1T.text = "We who long to see the rays of the Spirit’s grace and the divine bright­ness that knows no evening, let us hasten to the source of grace, the Mother of the Creator; for by her all the best things are given to the faith­ful."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C21.text = "You that without shame pride yourselves on the words of Severos, which are full of death-dealing poison, may you be ever put to shame and all depart from the Church, like wolves and ravaging dogs."
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C22.text = "We worshippers and believers honour the Creator of all and Saviour in two undivided essences, and double wills and energies; therefore the error of Severos we utterly repulse."
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C23.text = "Come, let us all plainly reject the error of Severos, Eftyches and Jacob, and with them that of Theodore and Dioskoros; but let us praise in godly songs the fourth Council of the de­vout Fathers."
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C2T.text = "You have been declared higher than the Cherubim and Seraphim, Mother of God; for you alone received in your womb the uncontainable God, O undefiled; and so in hymns, pure Virgin, all we believers call you blessed."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meMA.Ode3Kathisma1.text = "Blessed Fathers, you were truly re­vealed to the world as most brilliant beacons of Christ’s truth on the earth, melting like wax the heresies of the blasphemous prattlers, quenching the burning confusions of the slanderers; and so, as Hierarchs of Christ, inter­cede that we may be saved."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meMA.Ode3KathismaT.text = "Speedily accept our supplications, all-blameless Lady, and bring them to your Son and God; abolish the troubles of those who have recourse to you; humble the devices and overthrow the insolence of the godless, who are in arms against your ser­vants."
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C11.text = "Wise fathers, making the laws of the Spirit your meditation, you received the practical laws sent to you from Rome, and unfolding them by the light of the Spirit, you firmly estab­lished the Church."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C12.text = "Let us the faithful garland with hymns the divine assembly of the God-bear­ing Fathers, for they proclaimed to us the incarnate Word as both God and man, with two energies and two cor­responding wills."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C13.text = "All-wise Fathers, you rightly over­threw Honorius, once greatly puffed up on the throne and rule of old Rome, and finally proclaimed him unworthy of both throne and rule."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
+meMA.Ode4C1T.text = "O Virgin, who gave birth,  to the empersonned Word of God and true Light; open the eyes of my soul, I pray, and make me a partaker of the brightness that comes from him; for you are his mediator and advocate."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C21.text = "Explain to us, insane and foolish Severos, how the light without be­ginning, the Word and Son of the Father is one composite nature; for if you spoke thus, you would signify another nature; for the flesh and the Word are not one essence, wretch, but two."
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C22.text = "In saying one incarnate nature of the Word, the teacher and chief of the Alexandrians propounded a human nature wholly without change and confusion, clearly teaching the two natures and wills to those who wish to think as orthodox."
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C23.text = "All we the faithful proclaim two na­tures of Christ unconfusedly, denouncing utterly all the impiety of Eftyches and the senseless Dioskoros, as we follow the definition of the Holy Fathers and the words of god­like Cyril."
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C2T.text = "You, Mother of God, are the Cheru­bim chariot; you the place and you the dwelling of the Father’s Word and God, who put on flesh from your immaculate womb; and so as we worship him who was incarnate from you in two essences, we glorify him."
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C11.text = "Christ declared you, God-bearing Fathers, to be lawgivers guiding the new Israel, like Moses, and like him drowning the hostile Pharao in the dread deep of destruction."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C12.text = "How excellent and radiant the Synod of the Fathers! For having learned that Jesus is one, yet composite, it proclaims to all the ends of the earth that as God and man his energies are double."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C13.text = "Reckoning the writings from Rome to be a gift from God, the wise Teachers established upon them the tower of true religion, proclaiming the energies and natures of Christ to be double."
+
+meMA.Ode5C14.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C14.text = "Paul and Peter have been refuted, together with Theodore, with Pyrrhus, Sergios and Honorius, who most shamefully maintain the confusion of Christ’s natures by the confusion of his energies."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
+meMA.Ode5C1T.text = "Maiden, you are all enlightenment and radiance, for you were declared to be the sacred enclosure of the unsetting enlightenment; therefore I beg, Mother of God, enlighten the eyes of my soul with your light."
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C21.text = "Lawless Severos, do not dreadfully confound the natures of Christ; for all the worshippers and all-blessed Teachers in their preaching have set forth Christ in two natures and one person."
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C22.text = "The Word of the Father without beginning, as he loves mankind and wished to take pity on us who had perished, clearly assumed human nature; therefore I proclaim him to have two essences and wills."
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C23.text = "The fourth Council condemned Severos and Dioskoros, who blasphemed Christ, by confirming the Tome of Leo, Bishop of Rome, who most excellently defined the two na­tures of the Saviour without division."
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C2T.text = "Having obtained a mother’s boldness towards your Son, O All-pure, do not disregard our natural intention, we beg; for we Christians put you alone forward to the Master as a kindly appeasement."
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C11.text = "The truly dread assembly uttered a strange and new confounding of the natures of Christ, confounding the double energies into an energy one and monstrous; which the fullness of the holy orthodox regions rejected."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C12.text = "That it might escape the dread Nestorios, who wickedly introduced a duality of sons, the assembly of error slid from the mire into the pit, vainly teaching a confusion of wills and natures; but it was refuted by the godlike Fathers."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C13.text = "The Son, whom the Fathers of old had proclaimed as consubstantial with the Father and the Spirit, the assembly of inspired Teachers taught all, with divine energies acknowledging one natural energy and will."
+
+meMA.Ode6C14.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C14.text = "The champions of error, thinking the will to be hypostatic, wickedly intro­duced along with the wills the persons of those who willed: the Fathers, excellently refuting them, teach that the energy which is appropriate to it is congenital with the nature."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C1T.text = "All-blameless Lady, you have become the door of the divine ray and source of the unsetting light; for all the full­ness of the Godhead dwelt ineffably in your womb; you reward with his natural energy and radiance those who crave."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C21.text = "The two letters of Cyril, once sent to Succensus, the leader of the East, refute all the error of Severos, as they devoutly proclaim Christ."
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C22.text = "Cyril proclaims Christ with two natures and double energies, routing the heresy of the senseless Severos; therefore we all abide by his teach­ings."
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C2T.text = "We orthodox proclaim you, Mary, to be in truth Virgin and pure Mother of God, thus shutting the ill-famed mouth of Nestorios and the wicked notion of Dioskoros."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+meMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+meMA.Kontakion1.text = "The preaching of the Apostles and the teachings of the Fathers con­firmed for the Church the faith as one; and wearing a tunic of the truth, woven from the theology on high, she rightly defines and glorifies the great Mystery of true religion."
+
+meMA.Oikos1.text = "Let us listen to the Church of God as she cries with exalted proclamation: Any who thirst, let them come to me and drink; the mixing bowl I bear is the mixing bowl of wisdom. This drink I have mixed with the word of truth; I do not pour out water of contradiction but of confession, which the present Israel drinks and sees God who declares: See, see that it is I, and I am not changed. I am God first, and after this, and but for me there is no other at all. Those who partake from here will be multiplied and will praise the great Mystery of true religion."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C11.text = "Acknowledging you the Son of God and Son of man, the choirs of theologians of old proclaimed you, Master who love mankind, as double in wills and energies, confident in the duality of your two natures."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C12.text = "You appeared as a bright adornment of the Church, for you received the ordinances of the Apostles and taught all the word of truth: one Lord in Trinity, creating, acting, willing, all-powerful."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C13.text = "Acknowledging God to be uncreated light and immortal life, beyond these you excellently proclaimed him to all, knowing the natural properties lower  than nature to at once co-natural and undivided."
+
+meMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C14.text = "Christ sent you out into the world as lightning flashes of divine light utterly burning up the creators of error, enlightening all the blessed Church, glorifying God, praised and all-powerful."
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeNoitin.name
+meMA.Ode7C1T.text = "Christ, the highly exalted, the light that knows no evening came forth from your womb and saved the world of old. Implore him, Mother of God, to enlighten the spiritual eyes of my darkened heart."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C21.text = "Confessing Christ to be in two natures and energies without confusion and without change, we reject the error of Severos. Therefore we cry to him who underwent suffering by the assumption of the flesh: Blessed is the God of our Fathers."
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C22.text = "We know that he on the Cross and he in the bosom of the Father is one, as God in the highest and in the grave as united to flesh. To whom with one accord we sing as we cry: Blessed is the God of our Fathers."
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C23.text = "Believers, hating the emptying and division of Areios, the diminisher of God, and again the fellow heresy of Sabellios, those enemies of the Trin­ity, we cry: Blessed is the God of our Fathers."
+
+meMA.Ode7C2Tr.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2Tr.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C2Tr.text = "We proclaim you Lord of all teaching with right belief that you are Father of one only Only-begotten Son and acknowledging one right Spirit, pro­ceeding from you, equal in nature and co-eternal."
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C11.text = "The Fathers, moving out, as from head-quarters, from  the inspired teaching of the Apostles and Prophets, proclaimed: Christ, the Lord of all, is one in person, double in natures, double in energies."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C12.text = "Wholly to banish every shameless error and blasphemy the Fathers of the Church proclaimed that the Lord possessed uncreated energy and will proper to his nature, and again created, as Man and as Creator."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C13.text = "Holding in their hands the word of God like a sword you wholly con­founded the enemies of true religion as you declared the energy and will of the Saviour and likewise all that was natural to him to be double, just as his natures."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnKaminoPaides.name
+meMA.Ode8C1T.text = "You are wholly Maiden, wholly fair, wholly formed of light, light-bearing and god-bearing, wholly unique and resplendent; therefore enlighten the eyes of my heart, Sovereign Lady, as I breathe forth your glory and am wounded with longing for you."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C21.text = "Let faces be ashamed and the mouths be muzzled of those who do not proclaim one Son in two natures without division, without change and without confusion; for we orthodox all agree in holding that Christ acts and wills not indeed by one and then another person, but in accordance with both natures."
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C22.text = "You that bear the name of Jacob the Patchwork, inscribing his name on your­selves, tell us plainly: Were you of old baptised in his appellation in the font? Therefore, having deserted Christ for that man’s sake, like him you rave, being clearly without shame."
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C23.text = "The fourth Council in Chalcedon overthrew the dread Dioskoros, Eftyches and Severos, finally thrusting out of the Church of Christ the Master their thorny error that con­founds the natures of the Saviour. Holding to right belief with it, let us then hate them."
+
+meMA.Ode8C2Tr.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2Tr.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C2Tr.text = "The Godhead of triple light, shining out with a single beam from one three-personned nature, Begetter without beginning, Word of the Fa­ther identical in nature and Spirit equal in kingship and consubstantial, you Youths bless, you Priests praise, you people highly exalt to all the ages."
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C11.text = "Having in yourselves, blessed Fathers, Christ who of old spoke the things of God, and being now united purely to the Pure, establish his Church, which you truly made firm by mighty sweat and toils."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C12.text = "You have become a type and rule for the whole Church of the thrice-blessed Trinity, teaching it to acknowledge as divine the incarnation of Christ, prophetically driving out the present blasphemy concerning the one uncreated Godhead."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C13.text = "You rightly abolished the whole bul­wark of impiety, holy Fathers, by teaching the difference of energy and fittingly declaring it to be natural, undivided, uncreated and all-effecting and all-powerful."
+
+meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C14.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C14.text = "You became the mouth God, O Saints, and proclaimed, as is right, that the One who is by nature unapproachable is communicated by en­ergies and radiances alone."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TyponTisAgnis.name
+meMA.Ode9C1T.text = "You are a golden flourish and godly conclusion to my song, O All-praised. Returning from flight, I have offered it to your Son, revered Lady, as a prayer of thanksgiving, uniting with it my hymn to you, All-pure, as you are cause of blessings."
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C21.text = "Crafty Severos passed through the unsullied Church and by the vote of the devout Fathers he justly received the penalty for his blasphemy and babble, and condemned he is thrown out of the company of the Teachers."
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C22.text = "Why do you confound the natures of Christ and introduce mixture and blending, attaching the passion of the Cross and the burial to the impassible Godhead of the Only-begotten Word of God, wretched Severos? Therefore we abominate your appalling blasphemy."
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C2T.text = "Creator born from a Virgin, hurl down the arrogance and insolence of the hostile and the counsels of the heretics; but as God establish the company of the faithful unshaken, exalting their horn and strengthening them by faith, that we may all magnify you."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.text = "As today we feast the memory of the godlike Fathers, we pray you, Most Compassionate, at their intercessions: Deliver your people, Lord, from all harm of heresies, and count us all worthy to glorify Father, Word and all-holy Spirit."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+meMA.ExapTheotokion.text = "With the two wills and natures, All-blameless, but with one person you gave birth ineffably to God, who for our sake willingly made himself poor, even to a Cross, and granted us the grace of the wealth of his Godhead by his Resurrection from the dead."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode6
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meMA.Lauds1.text = "Having welded together all spiritual knowledge, and examined together by the Divine Spirit the heavenly and revered Creed, the revered Fathers under God’s inspiration traced it out. In it, clearly following the teachings of the Apostles, they most distinctly teach that the Word is without beginning with his Begetter and most surely consubstantial. They are re­nowned, truly all-blessed and godly-minded."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode6
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meMA.Lauds2.text = "Having received the spiritual brilliance of the Holy Spirit, and divinely inspired, the good heralds proclaimed the supernatural oracle, brief in words, but rich in meaning; the blessed defenders of Gospel teachings and the godly traditions, whose revelation they clearly  received from on high, and, enlightened, they set forth the Faith taught them by God."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode6
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meMA.Lauds3.text = "Having collected together all their skill as shepherds, and stirred up their most just anger, the godly Shepherds, as Christ’s truest servants, the most sacred initiates of the inspired proc­lamation, most justly drove off the fierce and ravening wolves with the sling of the Spirit, having cast as from a sling from the body of the Church those fallen as though sick of a deadly and incurable sickness."
+
+meMA.Lauds345.text = "" // for media
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "The choir of holy Fathers, having hurried together from the ends of the whole world, proclaimed the doctrine of the one essence and nature of Fa­ther, Son and Holy Spirit, and clearly delivered to the Church the mystery of the divinity. Praising them with faith, let us call them blessed as we say: O godly host, inspired warriors of the Lord’s battle-line; brightly shining stars of the spiritual firma­ment; impregnable towers of the mystical Sion; sweet-scented flowers of Paradise; pure golden mouths of the Word; Nicea’s boast, the whole world’s ornament, intercede insis­tently on behalf of our souls."
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+meMegalynarion.text = ""

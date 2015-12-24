@@ -1,0 +1,292 @@
+A_Resource_Whose_Name = me.m09.d23_en_UK_lash
+
+meDate.text = ""
+meCommemoration.text = "The Conception of the honoured, glorious Prophet, Forerunner and Baptist John." // full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "" // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_UK_lash.Mode4
+meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera01.text = "As godlike Zachary was serving as priest and was within the most sacred temple and offering up the requests of the people to the Benefactor and All-compassionate, he saw a godlike Angel, who cried out to him: Your prayer and supplication have been heard. Courage, old man, and do not disbelieve me. For you will have a child, a divine Forerunner, greater than all those born of women, who will go before the Christ in the power of Elias."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode4
+meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera02.text = "Strange you appear to me in aspect and manner, strange too in words and tidings, answered Zachary. For I have come to ask salvation for the people, not to gain a child, as you announce. I find you quite the converse of my requests and I suspect that you may not speak the truth; for how will what you say be confirmed? The members of Elizabeth are deadened, and my own old age now counsels disbelief."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode4
+meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
+meVE.Stichera03.text = "Why do you not believe my words, Zachary, saying that I bring good tidings that are false? I am God’s Archangel. The things that I have been ordered to, these I now tell as I stand here with you. But since you have doubted and have not believed, you will be dumb and without speech, until you see the divine outcome of my words. But when Elizabeth bears you a child, the voice of the Word, the great Forerunner, your tongue will be clear and you will bless the God of Israel."
+
+meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = "Today from a barren womb the fruit of prayer has sprouted, John the Forerunner. Wilderness rejoice, humanity dance; the herald of repentance begins to take flesh in his mother’s womb. Come rejoicing in his glorious conception, lovers of feasts, let us dance as we cry out: You are the greatest of those born of women; do not cease to intercede for those who with faith honour your divine conception, that we may find atonement for sins and God’s great mercy."
+
+meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode6
+meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Aposticha1.text = "As the holy priest and Prophet, went in holiness to the Holy of Holies, a holy Angel stood by him, as it is written, and addressed him saying: Your prayer has been heard, and now Elizabeth’s barrenness is being abolished, and she will give birth for you, old man, to a son, John the Forerunner, lamp of Elias, Prophet of the Most High and voice of the Word who dawned from a Virgin, Child of God."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode6
+meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Aposticha2.text = "Tell me quite plainly, how shall I know this? the most blessed elder answered the Angel. For, as you see, I am full of years; Elizabeth is barren. How then do you utter words to me beyond nature? I am amazed. Now I suspect that you are not speaking the truth at all, my friend. Away with you, for I am beseeching the salvation of the people, not to obtain a child, a thing hard to admit."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode6
+meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
+meVE.Aposticha3.text = "I am a Archangel of God Almighty, my name is Gabriel, said the Bodiless One to the old man. Now be dumb and practise silence, for you have not believed my words. But when your wife bears you a the trumpet of the Word the Spirit will instruct your tongue and you will cry out most clearly: You, child, will be called Prophet of the Most High, by grace to prepare beforehand his paths, as he has been well pleased."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode6
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "An Angel you came forth from barren loins, O Baptist, from your swaddling bands you dwelt in the wilderness and were declared seal of all the Prophets, for you were counted worthy to baptize in Jordan the One whom they had contemplated in divers manners and proclaimed beforehand in riddles. And you heard the voice of the Father from heaven bearing witness to his sonship; and you saw the Spirit in the form of a dove drawing down the voice upon the One baptized. But, O higher than all the Prophets, do not cease to intercede for us who celebrate with faith your memorial."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.o_en_UK_lash.TheotokeSyEi.name
+meVE.AposTheotokion.text = he.o_en_UK_lash.TheotokeSyEiProdromou.text
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
+meVE.Apolytikion1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meVE.Apolytikion1.text = "Be glad, O barren one, who before did not bear child, for see, you have conceived for the sun a lamp that is about to enlighten the whole inhabited world, sick with blindness. Dance Zachary, cry aloud with boldness: The one to be born is Prophet of the Most High!"
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma11.text = "Elizabeth was freed from barrenness, while the Virgin remained still a virgin, when at Gabriel’s voice each of them conceived in the womb; but the Forerunner John leapt in the womb when he recognized beforehand his God and Master incarnate in a virgin womb for our salvation"
+
+meMA.Kathisma1T.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma1T.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
+meMA.Kathisma1T.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.text
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meMA.Kathisma21.text = "The desert-loving dove, the sacred Baptist, who preached repentance and revealed Christ become man, has been born, a patron for all who sin, unfailingly helping all who are storm-tossed. At his entreaties, O Christ, save your world."
+
+meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma2T.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
+meMA.Kathisma2T.text = "You alone bore the Maker of the universe, you alone adorned humanity by your child-bearing, O Immaculate. Deliver me from the snares of crafty Beliar, stand me on the rock of Christ’s wishes, as you insistently entreat him to whom you gave a body."
+
+meMA.C1Poet = poets_en_UK_lash.IoannouTouDamaskinou
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+meMA.Ode1C11.text = "Shoot of a barren woman, pluck from my barren soul my fruitless thoughts as I begin to praise your Conception in a barren womb."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+meMA.Ode1C12.text = "When he entered the temple sacred Zachary saw a divine Angel who clearly revealed to him: Priest, you will have a son in great old age, the Forerunner."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+meMA.Ode1C13.text = "The brilliant lamp of the glory of Elias, the great Forerunner, begins to shine in his mother’s womb. Through him the darkness of passions and the bonds of sterility have been loosed."
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
+meMA.Ode1C1T.text = "Seeing the Master being carried in your womb, all-pure Mother of God, John, as his Forerunner, clearly leapt for joy in his mother’s womb."
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C11.text = "The barren woman today conceives a sacred fruit, which afterwards is going by grace to cut out with the spiritual axe all fruitlessness of souls."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C12.text = "Struck dumb within the temple, great Zachary by a fearful message acquires the voice of the Word, and radiantly magnifies the compassionate Lord."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C13.text = "The glorious Forerunner, who showed to all the safe path of repentance, sprouts in his mother’s womb at the behest of the Angel by divine counsel and beyond hope."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
+meMA.Ode3C1T.text = "As he recognised Christ being carried in the womb of the Virgin, the issue of a barren woman leapt, foretelling the joy that had come to dwell on earth to ransom all from despair."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
+meMA.Ode3Kathisma1.text = "To Zachary the priest, as he offered incense in the temple, Gabriel appeared from heaven and said to him: In old age you will have a glorious fruit, and Elizabeth’s former barrenness and infertile lack of offspring will be at once unloosed, and she will conceive and bear the herald and Forerunner of Jesus. At their intercessions, Saviour of the world, save our souls."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
+meMA.Ode3KathismaT.melody = misc_en_UK_lash.Automelon
+meMA.Ode3KathismaT.text = he.a.m4_en_UK_lash.KateplagiIosif.text
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+meMA.Ode4C11.text = "The voice of an Angel sacredly announced beforehand to the priest that you would spring from a barren womb as truly the messenger of Christ’s coming, blest Forerunner."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+meMA.Ode4C12.text = "Before you were childless and did not give birth, now rejoice, O barren one, because full of all praise you will bear fruit, Christ’s Baptist and Forerunner, wondrous Elizabeth."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+meMA.Ode4C13.text = "With the axe of your supplication, O Forerunner, pluck out the thorns of my passions and the stumbling blocks of my thoughts, and make my mind fruitful with virtues, O all-blessed."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ChristosMouDynamis.name
+meMA.Ode4C1T.text = "The womb of the Virgin was carrying you who carry the universe, when the Baptist, being carried in the womb, worshipped you, O Christ, and leaped rejoicing."
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+meMA.Ode5C11.text = "To the Prophet, as he was entering the Sanctuary and offering the service according to the law to the Maker, a holy Angel appeared, announcing the divine conception of the Forerunner."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+meMA.Ode5C12.text = "How will this be to me more clearly? For I an old man, as you see, and I have a barren wife, said Zachary to the Archangel, the words you speak to me are contrary to nature."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+meMA.Ode5C13.text = "Look to Abraham’s Sara; see how she gave birth to Isaac in old age, my friend, and fittingly believe what is said, the great Angel answered the old man."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ToTheioFengeiSou.name
+meMA.Ode5C1T.text = "Blessed are you among women, O full of God’s grace, Elizabeth cried out to you, because I know that you bear in your womb without man and alone remain incorrupt after childbirth."
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C11.text = "My mind is full of doubt and I do not believe your words, the priest said to the Archangel; for I asked salvation for the people, not fruit from my loins."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C12.text = "The Fashioner of nature, King of the Angels, replied the minister, has been well-pleased for you to beget the Messenger of his coming; do not disbelieve my words, my friend."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C13.text = "Your form is of fire, your appearance terrifying and your word wondrous, said Zachary to the minister; but yet I do not believe you as you speak strange words beyond nature."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTinThalassan.name
+meMA.Ode6C1T.text = "The lamp, recognizing the Sun hidden in the cloud of his mother’s womb, himself in the sombre dwelling of the womb, rejoicing worshipped him and leapt for joy."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode1
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.ChorosAngelikos.name
+meMA.Kontakion1.text = "Great Zachary with far-famed Elizabeth his wife is radiantly glad, for worthily she conceives John the Forerunner, of whom an Archangel brought the good tidings rejoicing, and whom we humans fittingly honour as an initiate of grace."
+
+meMA.Oikos1.text = "Let us open the sacred Gospel, which holy and wondrous Luke wrote for us, and let us contemplate the radiant and notable conception of the Forerunner. For, he says, when the Elder and righteous Zachary entered the Holy of Holies to offer incense at the moment of the daily service, Gabriel appeared to him brining good tidings and saying: You have a son, Hierarch, in your old age, the Prophet and Forerunner, voice and herald, ever-lighted lamp and initiate of grace."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+meMA.Ode7C11.text = "As you have not believed my words receive dumbness for all to see; and when you see the voice of the Word being brought to birth, receive your voice again, crying out: Blessed are you, the God of Israel."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+meMA.Ode7C12.text = "United to the moon, Elizabeth, Zachary, shining brightly like the sun, begot the resplendent lamp of the light which shines for us who are dreadfully held fast in the darkness of the passions."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+meMA.Ode7C13.text = "Using his leapings as words, Christ’s great Prophet worshipped you in the Virgin’s womb, carried himself in Elizabeth’s womb, O Jesus, God of our Fathers."
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.name
+meMA.Ode7C1T.text = "The moon, Elizabeth, carrying within her a divine star, the Forerunner, worshipped Mary, the cloud of light, who bore the Sun, Christ, incarnate of you to save us."
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+meMA.Ode8C11.text = "The friend of the Bridegroom is being made ready, the voice of the Word begins to be, and is nourished by barren loins, he the great soldier of the universal King."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+meMA.Ode8C12.text = "A husbandman has flowered for barren hearts, the axe of the passions is already being forged, the august calf is being fattened by self-mastery, the great Forerunner. Peoples rejoice."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+meMA.Ode8C13.text = "As of old you loosed the bonds of sterility, O Baptist, so loose the stiffness of my mind and make me sprout with fruits of repentance and live to the ages."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.EkFlogosToisOsiois.name
+meMA.Ode8C1T.text = "As Elizabeth contemplated you, O Maiden, bearing child, inspired by God she rejoiced, while the unborn child within her leapt as he recognized his Master."
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+meMA.Ode9C11.text = "The great and godlike Forerunner of Christ, having now opened the sterile gates, dwells in his mother’s womb as in a palace. Like a soldier he will come forth ahead of the universal King to prepare his ways."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+meMA.Ode9C12.text = "Prophet of God, old man, dance, you will have a son, than whom no greater among mortals has arisen, John the Lord’s Forerunner. Elizabeth, leap for joy; all the earth be glad as you bring your praise to God the Maker of all things."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+meMA.Ode9C13.text = "As we sing your praise with faith, now remember us, Prophet and Forerunner of the Lord, rescuing us from passions of the soul, saving us from dangers and in a manner fitting God guiding us to heaven’s path, O ever-blessed."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode6
+meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TheonAnthropois.name
+meMA.Ode9C1T.text = "Elizabeth recognised you, pure Mother, when she perceived that she herself had been loosed from sterile bonds, and that she was carrying in her womb the Forerunner of the One who made his dwelling in your womb, O immaculate Virgin, Mary full of God’s grace."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.text = "The glorious conception of the Forerunner foretells the King who is to be born of a Virgin, as he from the fruitless and barren Elizabeth and the old man and priest, the famous Zachary. At their prayers and those of the Mother of God and John your Baptist, Lord, save and take pity on us all."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.ExapTheotokion.text = "With one accord, O all-pure, we who have been redeemed from the ancient curse through your divine child-bearing, cry out to you the ’Hail’ of the august Archangel: Hail, redemption of Adam, Virgin Mother of God. Hail, honoured one, through whom we have been delivered from death. Hail, through whom we have found the kingdom of heaven."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode1
+meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds1.text = "Creation rejoices at your conception, Forerunner and Prophet, Baptist John; for your divine birth is a sign for us of the Master’s nativity; and therefore we who are upon earth with one accord as is fitting sing your praise."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode1
+meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds2.text = "The Angel, having found as a wondrous testimony the conception by the barren woman, brings it to Mary, offering it as confirmation. And so let us also sing the praise of Elizabeth, once childless, and Zachary her spouse and John."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode1
+meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds3.text = "The lamp prepared by God of the eternal light, the friend of the Bridegroom, the great Morning Star of the Sun of glory, the living voice of God the Word, the Forerunner of the coming of the Lord is now conceived at the message of an Angel."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "Elizabeth conceived the Forerunner of grace, the Virgin the Lord of glory. The mothers greeted one another and the infant leapt for joy. For within the slave was praising the Master. Marvelling the mother of the Forerunner began to cry aloud: Whence is this to me, that the Mother of my Lord should come to me? That he, who alone has great mercy, may save a people in despair."
+
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
+meLI.SeasonalKontakion.melody = ""
+meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+
+meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+meMegalynarion.text = ""

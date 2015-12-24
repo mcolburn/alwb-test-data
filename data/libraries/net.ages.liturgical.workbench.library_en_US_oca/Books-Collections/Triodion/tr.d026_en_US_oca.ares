@@ -1,0 +1,34 @@
+A_Resource_Whose_Name = tr.d026_en_US_oca
+
+trCommemoration.text = "" //full title of day
+trShortCommemoration1.text = "Lent 1: Wednesday Evening"
+trInsert1 = "" //for use in petitions and dismissal
+trInsert2 = "" //for use in petitions and dismissal
+trNote.text = ""
+trHO.day = ""
+trHO.commemorations = ""
+trHO.description1 = ""
+trHO.description2 = ""
+trHO.note1 = ""
+trHO.note2 = ""
+
+trVE.AposIdiomelon1.mode = misc_en_US_oca.Mode8
+trVE.AposIdiomelon1.melody = misc_en_US_oca.Idiomelon
+trVE.AposIdiomelon1.text = "While fasting physically, brethren, let us also fast spiritually. Let us loose every knot of iniquity; let us tear up every unrighteous bond; let us distribute bread to the hungry, and welcome into our homes those who have no roof over their heads so that we may receive great mercy from Christ our God!"
+
+trVE.AposMartyric.mode = misc_en_US_oca.Mode8
+trVE.AposMartyric.melody = ""
+trVE.AposMartyric.text = oc.m8.d5_en_US_oca.ocVE.Aposticha3.text
+
+trVE.Stichera01.mode = misc_en_US_oca.Mode2
+trVE.Stichera01.melody = misc_en_US_oca.NotMetered
+trVE.Stichera01.text = "Jesus, the spiritually radiant sun has sent you into the world as shining flashes of lightning, apostles and eye-witnesses of God! By the rays of your divine doctrines, the error of darkness was swept away, enlightening those who were held in the gloom of ignorance. Entreat him to grant us enlightenment and great mercy."
+
+trVE.Stichera02.mode = misc_en_US_oca.Mode2
+trVE.Stichera02.melody = misc_en_US_oca.NotMetered
+trVE.Stichera02.text = "Elijah was enlightened through fasting; he mounted the chariot of good works and was taken up to the heights of heaven. Emulate him, humble soul! Abstain from every evil and jealousy, from every fleeting pleasure, [so that you might escape the everlasting torment of] the fires of gehenna, crying to Christ: O Lord, glory to you!" // so that you might be cleansed of corrupting disease;
+
+trVE.Stichera03.mode = misc_en_US_oca.Mode5
+trVE.Stichera03.melody = misc_en_US_oca.NotMetered
+trVE.Stichera03.text = "Divine Apostles, fervent intercessors for the world, defenders of the Orthodox. You have authority to entreat Christ our God with boldness. We entreat you to pray for us, honorable ones, that we might spend the good time of fasting in joyousness, and receive the grace of the consubstantial Trinity. Pray for our souls, great and glorious preachers!"
+

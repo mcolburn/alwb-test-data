@@ -1,0 +1,20 @@
+A_Resource_Whose_Name = he.o_en_UK_lash
+
+TheotokeSyEi.name = ""
+TheotokeSyEi.mode = misc_en_UK_lash.Mode6
+TheotokeSyEi.text = oc.m6.d5_en_UK_lash.ocVE.AposTheotokion.text
+TheotokeSyEi.text1 = "" // insert specific kind of saint, from ares file.
+TheotokeSyEiAnargyron.text = ""
+TheotokeSyEiApostolon.text = ""
+TheotokeSyEiApostolou.text = ""
+TheotokeSyEiAthliforou.text = ""
+TheotokeSyEiAthloforon.text = ""
+TheotokeSyEiAthloforou.text = ""
+TheotokeSyEiDidaskalon.text = ""
+TheotokeSyEiIerarchou.text = ""
+TheotokeSyEiOsiou.text = ""
+TheotokeSyEiOsion.text = ""
+TheotokeSyEiProdromou.text = ""
+TheotokeSyEiProfitou.text = ""
+TheotokeSyEi.text2 = ""
+
